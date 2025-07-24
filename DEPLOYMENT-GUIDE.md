@@ -8,6 +8,7 @@
 - **3D model** with HDRI skybox
 - **All styling and functionality**
 - **Vercel configuration** ready
+- **Public folder** for static serving
 
 ### 🎯 Deploy in 2 ways:
 
@@ -29,5 +30,11 @@ vercel
 ### 📁 File count:
 - **~1,500 total files** (well under Vercel's 250 MB limit)
 - **Optimized for fast deployment**
+
+### 🔧 If you get 404 errors:
+The repository now includes:
+- ✅ **Public folder** with all static files
+- ✅ **Updated vercel.json** with proper routing
+- ✅ **Static-only option** (`vercel-static.json`)
 
 Your site will be live in minutes! 🎉 
