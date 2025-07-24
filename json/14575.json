@@ -1,0 +1,32 @@
+{
+  "Sold as": "ALD-52",
+  "Expected to be": "ALD-52",
+  "Lab Comments": "No ALD-52 present.",
+  "Warning": "''Severe headache/awake and alert for 24 hrs, no hallucination or psychedelic experience [illegible word]''",
+  "Image": "14575.jpg",
+  "table data left": {
+    "ID": "14575",
+    "Name": "Orange Sunshine",
+    "Other Names": "Tablet",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "8ZK13",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "Ehrlich": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "LSD\n\n\n: 1 \n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 25, 2022",
+    "Pub. Date": "Oct 25, 2022",
+    "Src Location": "Miami, FL",
+    "Submitter Loc": "Tampa, FLUnited States",
+    "Color": "Orange / Tan",
+    "Size": "245 mg, 7.22 mm x 4.99 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100061"
+  }
+}

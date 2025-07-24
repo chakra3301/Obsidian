@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The North Louisiana Criminalistics Laboratory (West Monroe) recently received 200 tablets with various shapes/imprinted logos (see Photos 6-10), suspected Ecstasy. The eight different types of tablets were seized by the Lincoln Parish Narcotics Enforcement Team (no further details). The exhibit included 37 green and 19 pink Homer Simpson tablets, 31 green and 23 blue Transformers Decepticon tablets, 17 white and 20 blue Smurf tablets, 32 green Ninja Turtle tablets, and 21 white Transformers Autobot tablets. Analysis of the tablets by Marquis Reagent and GC/MS indicated that the tablets did not contain MDMA, but rather a mixture of BZP, TFMPP, dextromethorphan, and caffeine (green Ninja Turtle tablets, white Smurf tablets and the white Transformers Autobot tablets). The remaining tablets did not contain dextromethorphan. Although not quantitated, there was a moderate to high loading of BZP and TFMPP and a low loading of caffeine and dextromethorphan, based on the TIC. The BZP and TFMPP were approximately three times more abundant than the dextromethorphan and caffeine. The laboratory has received similar submissions of these types of tablets in recent months.",
+  "Image": "1801.jpg",
+  "table data left": {
+    "ID": "1801",
+    "Name": "Autobot",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "BZP\n\n\n  \n\nBZP aka Benzoyl Peroxide",
+      "Caffeine",
+      "DXM\n\n\n  \n\nDXM aka Robitussin, Drixoral",
+      "TFMPP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 01, 2009",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Lincoln Parish, LA",
+    "Submitter Loc": "Lincoln Parish, LAUnited States",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "090500_18"
+  }
+}

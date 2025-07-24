@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "13938.jpg",
+  "table data left": {
+    "ID": "13938",
+    "Name": "Ecstasy",
+    "Other Names": "Weihnachtsmann / Santa?",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 19, 2022",
+    "Pub. Date": "Sep 02, 2022",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Blue / Speckled",
+    "Size": "378 mg, 10.80 mm x 6.10 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202209-001"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. Break line is on face of tablet / blank back.",
+  "Image": "6219.jpg",
+  "table data left": {
+    "ID": "6219",
+    "Name": "Dominostein",
+    "Other Names": "1 | 6",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 142 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 15, 2018",
+    "Pub. Date": "May 15, 2018",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Purple",
+    "Size": "13.30 x 4.30",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201805-8"
+  }
+}

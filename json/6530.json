@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "MDA Basecamp issued an 'extreme high dose' caution because this tablet contains more than 200mg of MDMA. Break line and 'WARNING' 'PHARAOH 240MG' on reverse side.\n\n(The testing group's own warning notice calls the color of the tablet 'orange', whereas the tablet pictured on the same notice appears gray in color. EcstasyData is listing the color as gray.)",
+  "Image": "6530.jpg",
+  "table data left": {
+    "ID": "6530",
+    "Name": "Pharaoh",
+    "Other Names": "Pharao",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 289 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 24, 2018",
+    "Pub. Date": "Aug 24, 2018",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Gray",
+    "Size": "570.3 mg",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201808-02"
+  }
+}

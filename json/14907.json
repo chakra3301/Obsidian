@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in November 2022.",
+  "Image": "14907.jpg",
+  "table data left": {
+    "ID": "14907",
+    "Name": "MyBrand Skull",
+    "Other Names": "MB; Totenkopf",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Amphetamine\n\n\n: 10 mg\n\nAmphetamine aka dextro- and/or levo-amphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 01, 2022",
+    "Pub. Date": "Dec 05, 2022",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "488 mg, 14.20 mm x 4.80 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202212-3"
+  }
+}

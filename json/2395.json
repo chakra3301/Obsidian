@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Logo appears on both sides of tablet. Tablet information released by Streetwork with warning about high-dose MDMA.",
+  "Image": "2395.jpg",
+  "table data left": {
+    "ID": "2395",
+    "Name": "Cross",
+    "Other Names": "Kreuz",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 126.80 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 01, 2011",
+    "Pub. Date": "Jan 20, 2012",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "237 mg, 8.20 mm x 5.40 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": ""
+  }
+}

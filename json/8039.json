@@ -1,0 +1,28 @@
+{
+  "Sold as": "Methylone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Powder is 66.3% Piperonal and 12.4% Caffeine.",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains compounds/drugs other than the one it was represented as.",
+  "Image": "8039.jpg",
+  "table data left": {
+    "ID": "8039",
+    "Name": "Methylone",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine",
+      "Piperonal\n\n\n  \n\nPiperonal aka Heliotropin; Piperonyl aldehyde"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 27, 2019",
+    "Pub. Date": "Dec 09, 2019",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Gray",
+    "Size": "440.7 mg, 12.10 mm x 6.10 mm x 5.7 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201912-9"
+  }
+}

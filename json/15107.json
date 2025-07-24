@@ -1,0 +1,34 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Jan 25 2023: 3-Methylnordiazepam confirmed by comparison to certified reference standard.\n\nJan 4 2023: The previously unidentified substance has been identified by library match as  3-Methylnordazepam, a positional isomer of diazepam (thank you, Y.). A laboratory reference standard available for this chemical.",
+  "Image": "15107.jpg",
+  "table data left": {
+    "ID": "15107",
+    "Name": "Off-White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ORC13",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "3-Methylnordazepam\n\n\n: 4 \n\n3-Methylnordazepam aka positional isomer of Diazepam",
+      "Adinazolam\n\n\n: 4",
+      "Amantadine\n\n\n: 4",
+      "N-Methylphthalimide\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 20, 2022",
+    "Pub. Date": "Dec 20, 2022",
+    "Src Location": "Temecula, CA",
+    "Submitter Loc": "Temecula, CAUnited States",
+    "Color": "Off White / Yellow",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110205"
+  }
+}

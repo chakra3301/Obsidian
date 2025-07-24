@@ -1,0 +1,33 @@
+{
+  "Sold as": "Nootropic Mixtures",
+  "Expected to be": "Unknown",
+  "Lab Comments": "Relative amounts are rough estimates because two of the chemicals have multiple breakdown peaks, making estimating the amount of substance more complex",
+  "Warning": "Submitter: Sold as a mixture of nootropics, with name Nootropic Mix. Expected to be : I don't know :(\n\nEcstasyData: There appear to be four distinct chemicals in this sample, with the relative amounts somewhat hard to calculate easily. The lab was not able to identify any of them, though we will send these graphs out and see what we can find.",
+  "Image": "3494.jpg",
+  "table data left": {
+    "ID": "3494",
+    "Name": "Nootropic Mix",
+    "Other Names": "NOOT-1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Blue",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Unidentified\n\n\n: 2",
+      "Unidentified\n\n\n: 2",
+      "Unidentified\n\n\n: 1",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 28, 2015",
+    "Pub. Date": "Feb 28, 2015",
+    "Src Location": "Tampa, FL",
+    "Submitter Loc": "Tampa, FLUnited States",
+    "Color": "White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150200132"
+  }
+}

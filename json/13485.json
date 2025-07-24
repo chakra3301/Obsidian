@@ -1,0 +1,27 @@
+{
+  "Sold as": "Cialis",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "13485.jpg",
+  "table data left": {
+    "ID": "13485",
+    "Name": "C 100",
+    "Other Names": "Viagra",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Sildenafil\n\n\n  \n\nSildenafil aka Viagra"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 05, 2022",
+    "Pub. Date": "Jul 11, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Orange",
+    "Size": "508.8 mg, 14.10 mm x 9.00 mm x 5 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202207-18"
+  }
+}

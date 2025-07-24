@@ -1,0 +1,32 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Ketamine w/ unknown substance",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter note: ''Tiny shards, white powder, occasional orangeish speck ... When testing the residue stuck on the sides of the bag, I am getting unexpected colors on reagents. I don't get these colors when testing the actual shards/powder. ...  I have included some residue from the sides of the bag in this sample. As well as one of the old orangeish specks.''",
+  "Image": "17213.jpg",
+  "table data left": {
+    "ID": "17213",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "DPLWB",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Very Slight Change",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Ketamine\n\n\n: 13 \n\nKetamine aka Ketalar, Ketaset",
+      "Ketamine Precursor A\n\n\n: 1 \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 13, 2023",
+    "Pub. Date": "Sep 13, 2023",
+    "Src Location": "Online, \nFrance",
+    "Submitter Loc": "Waco, TXUnited States",
+    "Color": "White",
+    "Size": "500 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080157"
+  }
+}

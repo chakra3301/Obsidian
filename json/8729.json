@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued an 'extreme high dose' warning for it.\nTablet has a break line on reverse side.",
+  "Image": "8729.jpg",
+  "table data left": {
+    "ID": "8729",
+    "Name": "Mybrand Skull",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 211.30 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 14, 2020",
+    "Pub. Date": "Jul 17, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Gray",
+    "Size": "614.8 mg, 10.10 mm x 14.10 mm x 6.2 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202007-25"
+  }
+}

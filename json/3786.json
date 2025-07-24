@@ -1,0 +1,30 @@
+{
+  "Sold as": "2-FMA",
+  "Expected to be": "2-FMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as 2-FMA, expected to be 2-FMA.\n\nIn September 2015, we purchased standards for 2-, 3-, and 4- FA and FMA. The lab worked out a technique to reliably differentiate between 2- and 4-FA and 2- and 4-FMA. This sample is confirmed 2-Fluoro-meth-amphetamine (2-FMA).",
+  "Image": "3786.jpg",
+  "table data left": {
+    "ID": "3786",
+    "Name": "2-FMA",
+    "Other Names": "69688",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Gray",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "2-FMA\n\n\n: 1 \n\n2-FMA aka 2-Fluoromethamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 27, 2015",
+    "Pub. Date": "Aug 27, 2015",
+    "Src Location": "Online, CA",
+    "Submitter Loc": "Online, CAUnited States",
+    "Color": "Red / Pink / White",
+    "Size": "136 mg, 21.30 mm x 7.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150800116"
+  }
+}

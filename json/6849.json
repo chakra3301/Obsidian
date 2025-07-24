@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution because it contains more than 120mg of MDMA.\nTablet has a break line on reverse side.",
+  "Image": "6849.jpg",
+  "table data left": {
+    "ID": "6849",
+    "Name": "Philipp Plein",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 181 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 11, 2018",
+    "Pub. Date": "Dec 14, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Yellow",
+    "Size": "418.6 mg, 10.00 mm x 10.00 mm x 5.3 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201812-20"
+  }
+}

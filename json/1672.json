@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1672.jpg",
+  "table data left": {
+    "ID": "1672",
+    "Name": "Kangaroo",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Methamphetamine\n\n\n: 28 mg\n\nMethamphetamine aka Meth, Ice, Crank",
+      "MDMA\n\n\n: 21 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2003",
+    "Pub. Date": "May 21, 2008",
+    "Src Location": "Philadelphia, PA",
+    "Submitter Loc": "Philadelphia, PAUnited States",
+    "Color": "Off White / Brown",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "20030802"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Percocet",
+  "Expected to be": "Unknown",
+  "Lab Comments": "Diclofenac/Aceclofenac are anti-inflammatory compounds not currently differentiated by GC/MS.",
+  "Warning": "'Sample did not have an oxy high'.",
+  "Image": "16614.jpg",
+  "table data left": {
+    "ID": "16614",
+    "Name": "Yellow Tablet",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "TEXDB",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Purple",
+    "Liebermann": "Purple - Brown",
+    "Froehde": "Light Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Diclofenac\n\n\n: 1 \n\nDiclofenac aka Aclonac, Cataflam, Voltaren"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 27, 2023",
+    "Pub. Date": "Jun 27, 2023",
+    "Src Location": "Cozumel, \nMexico",
+    "Submitter Loc": "Houston, TXUnited States",
+    "Color": "Yellow",
+    "Size": "309 mg, 9.14 mm x 4.70 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060072"
+  }
+}

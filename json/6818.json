@@ -1,0 +1,27 @@
+{
+  "Sold as": "4-Methylmethcathinone, Mephedrone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "6818.jpg",
+  "table data left": {
+    "ID": "6818",
+    "Name": "Mephedrone",
+    "Other Names": "4-Methylethcathinone; 4-MeMC; 4-MMC",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "N-Ethylpentylone\n\n\n: 1 \n\nN-Ethylpentylone aka N-Ethylnorpentylone; bk-Ethyl-K; bk-EBDP; Ephylone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 20, 2018",
+    "Pub. Date": "Nov 29, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201811-20"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "MDE not quantified.",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as. Same design on back / no break line. [This is also a high dose of MDMA]\n\nAnalyzed by checkit! (Vienna, Austria) in Sep 2020.",
+  "Image": "9186.jpg",
+  "table data left": {
+    "ID": "9186",
+    "Name": "Maybach",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 222 mg\n\nMDMA aka Ecstasy, E, X",
+      "MDE\n\n\n  \n\nMDE aka MDEA"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 30, 2020",
+    "Pub. Date": "Sep 30, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Green",
+    "Size": "12.70 x 6.50",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202009-13"
+  }
+}

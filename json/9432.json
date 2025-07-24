@@ -1,0 +1,27 @@
+{
+  "Sold as": "DET",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "9432.jpg",
+  "table data left": {
+    "ID": "9432",
+    "Name": "Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-FA\n\n\n  \n\n4-FA aka 4-Fluoroamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 24, 2020",
+    "Pub. Date": "Dec 03, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White / Clear",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202011-25"
+  }
+}

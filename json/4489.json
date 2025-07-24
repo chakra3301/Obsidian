@@ -1,0 +1,30 @@
+{
+  "Sold as": "6-MAPB",
+  "Expected to be": "Unknown",
+  "Lab Comments": "Closest spectra match: 4'-chloro-alpha-pyrrolidinopropiophenone.",
+  "Warning": "We purchased a lab standard for 4'-chloro-α-Pyrrolidinopropiophenone and it is an exact match. Initially we weren't sure and tentatively identified it as the same chemical.",
+  "Image": "4489.jpg",
+  "table data left": {
+    "ID": "4489",
+    "Name": "6-MAPB",
+    "Other Names": "Mapb1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Purple Gray",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "4-chloro-alpha-PPP\n\n\n: 1 \n\n4-chloro-alpha-PPP aka 4-chloro-α-PPP, 4-chloro-α-Pyrrolidinopropiophenone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 21, 2016",
+    "Pub. Date": "Jun 22, 2016",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "----, OnlineChina",
+    "Color": "Red / Pink",
+    "Size": "200 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160500169"
+  }
+}

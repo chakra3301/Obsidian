@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "2481.jpg",
+  "table data left": {
+    "ID": "2481",
+    "Name": "Purple Lips",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 2",
+      "MDPV\n\n\n: 2 \n\nMDPV aka 3,4-methylenedioxypyrovalerone",
+      "5-MeO-DiPT\n\n\n: 1 \n\n5-MeO-DiPT aka Foxy Methoxy"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 13, 2012",
+    "Pub. Date": "May 13, 2012",
+    "Src Location": "Bridgeport, CT",
+    "Submitter Loc": "Bridgeport, CTUnited States",
+    "Color": "Purple",
+    "Size": "268 mg, 10.40 mm x 36.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120400123"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "-1",
+    "Name": "Poly Pocket",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "None Detected\n\n\n: 1 \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 01, 2001",
+    "Pub. Date": "Apr 01, 2001",
+    "Src Location": "Sacramento, CA",
+    "Submitter Loc": "Sacramento, CAUnited States",
+    "Color": "Unknown",
+    "Size": "20.00 x 10.00",
+    "Data Source": "DanceSafe",
+    "Tested by": "DDL",
+    "Lab's ID": ""
+  }
+}

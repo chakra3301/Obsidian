@@ -1,0 +1,34 @@
+{
+  "Sold as": "Molly",
+  "Expected to be": "MDMA",
+  "Lab Comments": "The Fluoromethcathinone isomer is not differentiated.",
+  "Warning": "This sample contains *-Fluoromethcathinone, a chemical that has multiple ring-positional isomers. That means that the hexagonal benzene ring that makes up part of the chemical can have 'arms' that form the rest of the chemical attached at various locations around the ring. Some drugs, such as this one, have multiple possible places along the ring that these parts can attach, and have nearly-identical or identical retention times in the Gas Chromatograph (GC) and identical mass spectra (MS). This sample contains *-Fluoromethcathinone, but we can't be certain which position on the ring the rest of the molecule is attached.\n\nThe  N-acetyl-4-fluoromethcathinone is probably a precursor or synthesis byproduct of the manufacture of 4-FMC.",
+  "Image": "13337.jpg",
+  "table data left": {
+    "ID": "13337",
+    "Name": "Molly",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "HF63P",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple (slow)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue to Dark Blue (slow)",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple (slow)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Methylsulfonylmethane\n\n\n: 50 \n\nMethylsulfonylmethane aka MSM, dimethylsulfone, DMSO2, leftover solvent, cutting agent",
+      "Fluoromethcathinone\n\n\n: 3 \n\nFluoromethcathinone aka para / 4 - , 3-, or 2-fluoromethcathinone",
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X",
+      "N-Acetyl-4-Fluoromethcathinone\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 05, 2022",
+    "Pub. Date": "Jul 05, 2022",
+    "Src Location": "HI",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "White / Off White",
+    "Size": "50 mg, 20.94 mm x 7.39 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22060034"
+  }
+}

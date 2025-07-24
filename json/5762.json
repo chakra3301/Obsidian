@@ -1,0 +1,32 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Unsure",
+  "Lab Comments": "Not Available",
+  "Warning": "Single unit of blotter with brown, black, and yellow design visible, submitted from Greenville, Mississippi. Sourced in Central Arkansas. Expected to be '-NBOMe? -NBOH?'",
+  "Image": "5762.jpg",
+  "table data left": {
+    "ID": "5762",
+    "Name": "LSD",
+    "Other Names": "Blotter",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ARLSD",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "Ehrlich": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "LSD\n\n\n: 1 \n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 27, 2017",
+    "Pub. Date": "Oct 27, 2017",
+    "Src Location": "AR",
+    "Submitter Loc": "Greenville, MSUnited States",
+    "Color": "Multicolor / White",
+    "Size": "10 mg, 6.50 mm x 6.90 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20171000104"
+  }
+}

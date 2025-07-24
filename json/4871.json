@@ -1,0 +1,26 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "LSD",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because this blotter contains more than 150mcg of LSD. Three samples of blotter bearing this imprint that were tested in mid-October 2016 by DIB+ in Basel contained varying doses of LSD.",
+  "Image": "4871.jpg",
+  "table data left": {
+    "ID": "4871",
+    "Name": "Maya 3",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 164 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 19, 2016",
+    "Pub. Date": "Oct 21, 2016",
+    "Src Location": "Basel, \nSwitzerland",
+    "Color": "Red / Pink / Yellow",
+    "Size": "- x 7.10 x 7.3",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201610-23"
+  }
+}

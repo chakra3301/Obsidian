@@ -1,0 +1,31 @@
+{
+  "Sold as": "6-APB",
+  "Expected to be": "6-APB",
+  "Lab Comments": "6-APB or 2-APB. Unable to differentiate between them with GCMS.",
+  "Warning": "The lab is unable to differentiate between 6-APB and 2-APB. Sample submitted from the United States west coast.\n\nJune 2017: We are working with the lab to determine whether they can develop a method for differentiating between 6-APB and 2-APB.",
+  "Image": "5412.jpg",
+  "table data left": {
+    "ID": "5412",
+    "Name": "6-APB",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ASAPB",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue-Gray",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "6-APB\n\n\n: 1 \n\n6-APB aka Benzo Fury; 6-(2-aminopropyl)benzofuran; 1-(1-benzofuran-6-yl)propan-2-amine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 09, 2017",
+    "Pub. Date": "Jun 13, 2017",
+    "Src Location": "Online, \nGermany",
+    "Submitter Loc": "----, CAUnited States",
+    "Color": "Tan",
+    "Size": "300 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170600008"
+  }
+}

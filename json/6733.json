@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued an 'extreme high dose' warning because it contains more than 200mg of MDMA.\nSame logo on both sides (no break line).",
+  "Image": "6733.jpg",
+  "table data left": {
+    "ID": "6733",
+    "Name": "Eule",
+    "Other Names": "owl",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 229.70 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 26, 2018",
+    "Pub. Date": "Nov 03, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Yellow",
+    "Size": "535.4 mg, 10.00 mm x 12.00 mm x 3.2 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201811-001"
+  }
+}

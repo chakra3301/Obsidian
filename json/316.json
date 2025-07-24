@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "This is a pharmaceutical Valium tablet containing 10 mg diazepam.",
+  "Image": "316.jpg",
+  "table data left": {
+    "ID": "316",
+    "Name": "Roche 10",
+    "Other Names": "Valium, Ten",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Diazepam\n\n\n: 1 \n\nDiazepam aka Valium"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2000",
+    "Pub. Date": "Aug 01, 2000",
+    "Src Location": "San Francisco, CA",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "Blue",
+    "Size": "8.50 x 3.00",
+    "Data Source": "DanceSafe",
+    "Tested by": "DDL",
+    "Lab's ID": ""
+  }
+}

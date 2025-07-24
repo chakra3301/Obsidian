@@ -1,0 +1,27 @@
+{
+  "Sold as": "4-Methylmethcathinone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued an information alert because this sample contains a drug other than Mephedrone: 4-CMC (970 mg/g).",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "5145",
+    "Name": "Mephedrone",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CMC\n\n\n  \n\n4-CMC aka 4-chloromethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 07, 2017",
+    "Pub. Date": "Feb 14, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201702-51"
+  }
+}

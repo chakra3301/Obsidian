@@ -1,0 +1,28 @@
+{
+  "Sold as": "Mephedrone / 4-MMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a drug other than the one it was represented as.\n\nOriginal alert published by SaferParty (Switzerland) in July 2024.",
+  "Image": "20305.jpg",
+  "table data left": {
+    "ID": "20305",
+    "Name": "White Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-Bromoamphetamine\n\n\n  \n\n4-Bromoamphetamine aka 4-Ba; 1-(4-bromophenyl)propan-2-amine; Para-Bromoamphetamine",
+      "4-Methylmethcathinone\n\n\n  \n\n4-Methylmethcathinone aka Mephedrone, 4-MMC, 4-MMC, Meow, M-Cat, 2-Methylamino-1-p-tolylpropan-1-one"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 25, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Lausanne, \nSwitzerland",
+    "Submitter Loc": "Lausanne, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Nightlife Vaud",
+    "Lab's ID": "SP:202408-14"
+  }
+}

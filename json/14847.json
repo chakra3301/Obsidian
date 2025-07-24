@@ -1,0 +1,31 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Ketamine",
+  "Lab Comments": "Ephedrine/pseudoephedrine are not differentiated.",
+  "Warning": "Not Available",
+  "Image": "14847.jpg",
+  "table data left": {
+    "ID": "14847",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "MY1SK",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Gray",
+    "Liebermann": "Orange / Yellow",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Ephedrine/Pseudoephedrine\n\n\n: 1 \n\nEphedrine/Pseudoephedrine aka Sudafed, Bronkaid"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 30, 2022",
+    "Pub. Date": "Nov 30, 2022",
+    "Src Location": "Brooklyn, NY",
+    "Submitter Loc": "Brooklyn, NYUnited States",
+    "Color": "White",
+    "Size": "200 mg, 15.53 mm x 4.99 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110013"
+  }
+}

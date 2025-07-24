@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Mecke reaction was brown-green.",
+  "Image": "2732.jpg",
+  "table data left": {
+    "ID": "2732",
+    "Name": "MDAI",
+    "Other Names": "5B8FP",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Methiopropamine\n\n\n: 1 \n\nMethiopropamine aka MPA, N-methyl-1-(thiophen-2-yl)propan-2-amine",
+      "Phenethylamine\n\n\n: 1 \n\nPhenethylamine aka phens"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 01, 2013",
+    "Pub. Date": "Mar 01, 2013",
+    "Src Location": "United Kingdom",
+    "Submitter Loc": "----, --United Kingdom",
+    "Color": "White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130200102"
+  }
+}

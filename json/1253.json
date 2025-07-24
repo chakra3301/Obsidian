@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "No money was received with this material, and the material was powder when it arrived at the lab.  Only whole tablets may be tested and a $20 co-pay is required so the material was not tested.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "1253",
+    "Name": "Exclamation Point",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Not Tested\n\n\n: ---"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 26, 2004",
+    "Pub. Date": "Mar 29, 2004",
+    "Src Location": "San Mateo, CA",
+    "Submitter Loc": "San Mateo, CAUnited States",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": ""
+  }
+}

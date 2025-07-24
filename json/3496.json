@@ -1,0 +1,31 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Unknown",
+  "Lab Comments": "Not Available",
+  "Warning": "Initial guess from Erowid Expert Network was Benocyclidine, though there were arguments against the match. Using a reference standard from Cayman, the identification was confirmed on Mach 9, 2015 when the lab compared the standard against the sample.",
+  "Image": "3496.jpg",
+  "table data left": {
+    "ID": "3496",
+    "Name": "Red Monkey",
+    "Other Names": "Paul Frank 5B6PI",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Blue to Dark Blue",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Purple",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue to Dark Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Caffeine\n\n\n: 3",
+      "Benocyclidine\n\n\n: 1 \n\nBenocyclidine aka benzothiophenylcyclohexylpiperidine BTCP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 28, 2015",
+    "Pub. Date": "Feb 28, 2015",
+    "Src Location": "Boynton Beach, FL",
+    "Submitter Loc": "Boynton Beach, FLUnited States",
+    "Color": "Red / Pink",
+    "Size": "283 mg, 8.30 mm x 5.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150200134"
+  }
+}

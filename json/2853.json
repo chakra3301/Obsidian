@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "This appears to be a pharmaceutical tablet based on the photo and there's nothing about the tablet that suggests its a 'G Lady' as the submitter called it. The contents were zolpidem only, a sleep medication.",
+  "Image": "2853.jpg",
+  "table data left": {
+    "ID": "2853",
+    "Name": "White Caplet",
+    "Other Names": "G Lady 14097",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Zolpidem\n\n\n: 1 \n\nZolpidem aka Ambien"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 09, 2013",
+    "Pub. Date": "Sep 09, 2013",
+    "Src Location": "Palmdale, CA",
+    "Submitter Loc": "Palmdale, CAUnited States",
+    "Color": "White",
+    "Size": "293 mg, 13.80 mm x 5.80 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130900016"
+  }
+}

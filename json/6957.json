@@ -1,0 +1,27 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as. Also, since it's on blotter, it could be mistaken for an ergoloid like LSD or 1P-LSD!",
+  "Image": "6957.jpg",
+  "table data left": {
+    "ID": "6957",
+    "Name": "Monopoly",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Etizolam\n\n\n: 1 mg\n\nEtizolam aka Etilaam, Etizest, Etizola, Sedekopan, Pasaden or Depas"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 16, 2019",
+    "Pub. Date": "Jan 19, 2019",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "White / Black",
+    "Size": "- x 7.20 x 7.2",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201901-15"
+  }
+}

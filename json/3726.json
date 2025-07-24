@@ -1,0 +1,30 @@
+{
+  "Sold as": "Oxandrolone",
+  "Expected to be": "Oxandrolone",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as Oxandrolone (Anavar), expected to be Oxandrolone (Anavar).\n\nThe field tests were inconclusive to no reaction because the color of the tablet interfered with determining whether a color change occurred or just the dye from the tablet dissolved.",
+  "Image": "3726.jpg",
+  "table data left": {
+    "ID": "3726",
+    "Name": "Anavar",
+    "Other Names": "VAR20",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Orange",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Orange",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Stanozolol\n\n\n: 1 \n\nStanozolol aka Winstrol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 05, 2015",
+    "Pub. Date": "Aug 05, 2015",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Red / Pink",
+    "Size": "91 mg, 6.20 mm x 2.10 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "201507000138"
+  }
+}

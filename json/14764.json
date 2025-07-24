@@ -1,0 +1,31 @@
+{
+  "Sold as": "Lexapro",
+  "Expected to be": "Lexapro",
+  "Lab Comments": "DrugsData's lab procedure is unable to differentiate chiral isomers (Citalopram or Escitalopram).",
+  "Warning": "Not Available",
+  "Image": "14764.jpg",
+  "table data left": {
+    "ID": "14764",
+    "Name": "White Tablet",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "CAT19",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Yellow",
+    "Liebermann": "Fizzing with Slight Color Change",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Citalopram or Escitalopram\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2022",
+    "Pub. Date": "Nov 25, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Minneapolis, MNUnited States",
+    "Color": "White",
+    "Size": "268 mg, 9.40 mm x 4.00 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100233"
+  }
+}

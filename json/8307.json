@@ -1,0 +1,32 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains drugs other than the one it was represented as.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "8307",
+    "Name": "Adulterated Heroin",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Acetaminophen",
+      "Acetylcodeine",
+      "Caffeine",
+      "Heroin\n\n\n  \n\nHeroin aka Diacetylmorphine",
+      "Noscapine",
+      "Papaverine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 26, 2020",
+    "Pub. Date": "Feb 28, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "201CH:202002-20"
+  }
+}

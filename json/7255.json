@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit of LSD, SaferParty, issued an 'extreme high dose' warning because it contains more than 150mcg of LSD. Indeterminate color scheme and design on front side, little Om symbol pictured on reverse side.\n\nSaferParty's warning states: 'In 2017, samples of LSD analyzed by us contained on average 65.2mcg LSD.'",
+  "Image": "7255.jpg",
+  "table data left": {
+    "ID": "7255",
+    "Name": "Psychedelic Elephant",
+    "Other Names": "LSD Filze; LSD Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 293.30 ug\n\nLSD aka Acid, Doses",
+      "Iso-LSD\n\n\n: 156.40 ug"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 09, 2019",
+    "Pub. Date": "Apr 15, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor / Gray",
+    "Size": "9.00 x 8.70",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201904-8"
+  }
+}

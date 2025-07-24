@@ -1,0 +1,33 @@
+{
+  "Sold as": "Dope",
+  "Expected to be": "Dope",
+  "Lab Comments": "Big GC/MS response for fentanyl.",
+  "Warning": "'Strong'.",
+  "Image": "16405.jpg",
+  "table data left": {
+    "ID": "16405",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2689A",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "Benzodiazepine Test Strip": "Negative",
+    "Xylazine Test Strip": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Fentanyl\n\n\n: 25",
+      "4-ANPP\n\n\n: 5 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 07, 2023",
+    "Pub. Date": "Jun 07, 2023",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "Brown",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050116"
+  }
+}

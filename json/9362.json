@@ -1,0 +1,27 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "9362.jpg",
+  "table data left": {
+    "ID": "9362",
+    "Name": "Fake Xanax",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Flubromazolam"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 06, 2020",
+    "Pub. Date": "Nov 13, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "192.9 mg, 15.20 mm x 3.20 mm x 2.7 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202011-7"
+  }
+}

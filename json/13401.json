@@ -1,0 +1,31 @@
+{
+  "Sold as": "Fentanyl",
+  "Expected to be": "Feels like pure fetty",
+  "Lab Comments": "Baggie rinsed for analysis. Small GC/MS responses.",
+  "Warning": "''Feels like pure fetty, 2-3 hours, keep off E for 12 hours''.",
+  "Image": "13401.jpg",
+  "table data left": {
+    "ID": "13401",
+    "Name": "Fentanyl",
+    "Other Names": "My Turn",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0628",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Xylazine\n\n\n: 20 \n\nXylazine aka Rompun",
+      "Fentanyl\n\n\n: 10",
+      "Cocaine\n\n\n: 1 \n\nCocaine aka Crack, Coca"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 06, 2022",
+    "Pub. Date": "Jul 06, 2022",
+    "Src Location": "West Brattleboro, VT",
+    "Submitter Loc": "West Brattleboro, VTUnited States",
+    "Color": "White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22060105"
+  }
+}

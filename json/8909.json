@@ -1,0 +1,30 @@
+{
+  "Sold as": "Cannabis",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains cannabinoids other than the ones naturally occurring in Cannabis.",
+  "Image": "8909.jpg",
+  "table data left": {
+    "ID": "8909",
+    "Name": "Adulterated Cannabis",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "5F-MDMB-PICA\n\n\n  \n\n5F-MDMB-PICA aka MDMB-2201; 5F-MDMB-2201",
+      "CBD\n\n\n  \n\nCBD aka Cannabidiol",
+      "MDMB-4en-PINACA\n\n\n  \n\nMDMB-4en-PINACA aka 5-CL-ADB-A; 5CI-ADB-A",
+      "THC\n\n\n: trace \n\nTHC aka delta-9-THC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 20, 2020",
+    "Pub. Date": "Aug 25, 2020",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Green / Brown",
+    "Size": "-",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202008-27"
+  }
+}

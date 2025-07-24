@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "contains 1.6% MDMA",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "13488.jpg",
+  "table data left": {
+    "ID": "13488",
+    "Name": "White Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CMC\n\n\n  \n\n4-CMC aka 4-chloromethcathinone",
+      "MDMA\n\n\n  \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 04, 2022",
+    "Pub. Date": "Jul 11, 2022",
+    "Src Location": "Lucerne, \nSwitzerland",
+    "Submitter Loc": "Lucerne, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DILU",
+    "Lab's ID": "SP:202207-21"
+  }
+}

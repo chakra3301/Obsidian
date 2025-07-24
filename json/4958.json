@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "rave it safe issued a 'high dose' caution because this tablet contains more than 120mg of MDMA.",
+  "Image": "4958.jpg",
+  "table data left": {
+    "ID": "4958",
+    "Name": "Heineken",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 169.60 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 30, 2016",
+    "Pub. Date": "Dec 02, 2016",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Green",
+    "Size": "354.1 mg, 12.10 mm x 7.90 mm x 4.1 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201612-3"
+  }
+}

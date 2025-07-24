@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Contains 536 mg/g 4-MMC + Levamisole (amount unspecified)",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in November 2022.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "14978",
+    "Name": "Mephedrone",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-Methylmethcathinone\n\n\n  \n\n4-Methylmethcathinone aka Mephedrone, 4-MMC, 4-MMC, Meow, M-Cat, 2-Methylamino-1-p-tolylpropan-1-one",
+      "Levamisole"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 01, 2022",
+    "Pub. Date": "Dec 05, 2022",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202212-12"
+  }
+}

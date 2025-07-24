@@ -1,0 +1,28 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as. No break line.\n\nAnalyzed by checkit! (Vienna, Austria) in Nov 2020.",
+  "Image": "9429.jpg",
+  "table data left": {
+    "ID": "9429",
+    "Name": "Hase",
+    "Other Names": "Rabbit",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 10 mg\n\n2C-B aka Bees",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 15, 2020",
+    "Pub. Date": "Dec 03, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "10.10 x 4.30",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202011-4"
+  }
+}

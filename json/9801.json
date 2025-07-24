@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it. No break line / same on both sides.",
+  "Image": "9801.jpg",
+  "table data left": {
+    "ID": "9801",
+    "Name": "AMG",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 199 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 05, 2021",
+    "Pub. Date": "Feb 17, 2021",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "384.8 mg, 13.30 mm x 6.20 mm x 4.5 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202102-12"
+  }
+}

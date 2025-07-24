@@ -1,0 +1,30 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nSee original Energy Control alert on fake alprazolam tablets and powder for more details.\n\n*Republished from the Energy Control alert:\n\n'Four [samples] from three different users have been received from 13/Nov/18 to 15/Jan/19 ( 3 from US, 1 from Hong Kong). These samples were submitted as alprazolam in powder and drug checking revealed the mentioned results with additional 3-6 unidentified molecules.\n\nTest result of another powder sample submitted as alprazolam and received from Portugal on 28/Jan/18 reveals the presence of this combination (promethazine. cyproheptadine and amantadine + 2 unidentified substances) with the addition of chlorpheniramine.'",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "6973",
+    "Name": "Alprazolam Powder",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Amantadine",
+      "Cyproheptadine",
+      "Promethazine\n\n\n  \n\nPromethazine aka Phenergan",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 15, 2019",
+    "Pub. Date": "Jan 31, 2019",
+    "Src Location": "Online",
+    "Submitter Loc": "----, --United States",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "Energy Control",
+    "Tested by": "Energy Control",
+    "Lab's ID": "2019-01-30-2"
+  }
+}

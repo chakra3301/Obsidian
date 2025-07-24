@@ -1,0 +1,28 @@
+{
+  "Sold as": "4-FA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as. No break line.",
+  "Image": "7578.jpg",
+  "table data left": {
+    "ID": "7578",
+    "Name": "Blue Tablet",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-FMA\n\n\n: 126.60 mg\n\n4-FMA aka 4-Fluoromethamphetamine",
+      "4-Fluorobenzoic Acid\n\n\n  \n\n4-Fluorobenzoic Acid aka 4-fluorbenzos�ure"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 06, 2019",
+    "Pub. Date": "Jul 26, 2019",
+    "Src Location": "Geneva, \nSwitzerland",
+    "Submitter Loc": "Geneva, --Switzerland",
+    "Color": "Blue",
+    "Size": "258.8 mg, 8.70 mm x 8.70 mm x 3.6 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:201907-27"
+  }
+}

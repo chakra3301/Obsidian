@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit of blotter issued a 'high dose' caution for it.\n\nOriginal alert published by SaferParty (Switzerland) in July 2024.",
+  "Image": "20241.jpg",
+  "table data left": {
+    "ID": "20241",
+    "Name": "Buddha",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 163 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 15, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Geneva, \nSwitzerland",
+    "Submitter Loc": "Geneva, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "5.00 x 5.00",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Nuit Blanche",
+    "Lab's ID": "SP:202407-51"
+  }
+}

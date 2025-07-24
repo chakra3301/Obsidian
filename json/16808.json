@@ -1,0 +1,31 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "A reminder that DrugsData is not allowed to provide quantitative results for samples it analyzes, because our lab is constrained by rules set by the US DEA. Inert cuts (diluents like sugars and starches) can not be reported even if they might be present. This means 'purity' can't be confirmed, either.",
+  "Image": "16808.jpg",
+  "table data left": {
+    "ID": "16808",
+    "Name": "MDMA",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "DDMD3",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Liebermann": "Red Brown",
+    "Froehde": "Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2023",
+    "Pub. Date": "Aug 01, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "----, --United States",
+    "Color": "Gray",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23070073"
+  }
+}

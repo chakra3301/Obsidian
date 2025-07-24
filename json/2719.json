@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Note that the two unusual substances in this sample are database hits only, matching the spectrums, but not 100% certain because the lab does not have chemical as a reference standard to verify this against.\n\nThe 2,2,3,4-tetramethyl-5-(3,4-methylenedioxy)phenyloxazolidine is something we have not seen before and the main web search results are from one of the main databases of analytical test results (SWDrug), so we know nothing about it. If someone knows something about this substance (such as dose, effects, or why it might be in this sample), please email us.",
+  "Image": "2719.jpg",
+  "table data left": {
+    "ID": "2719",
+    "Name": "Capsule",
+    "Other Names": "DRK6830",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Turquoise",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "MDMA\n\n\n: 9 \n\nMDMA aka Ecstasy, E, X",
+      "2,2,3,4-tetramethyl-5-(3,4-methylenedioxy)phenyloxazolidine\n\n\n: 6",
+      "3,4-methylenedioxy-N-methylbenzylamine\n\n\n: 2 \n\n3,4-methylenedioxy-N-methylbenzylamine aka MDB; N-Methyl-3,4-(methylenedioxy)benzylamine",
+      "Methylsulfonylmethane\n\n\n: 1 \n\nMethylsulfonylmethane aka MSM, dimethylsulfone, DMSO2, leftover solvent, cutting agent"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 18, 2013",
+    "Pub. Date": "Feb 21, 2013",
+    "Src Location": "Santa Rosa, CA",
+    "Submitter Loc": "Santa Rosa, CAUnited States",
+    "Color": "Off White / Brown",
+    "Size": "115 mg, 16.60 mm x 6.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130100137"
+  }
+}

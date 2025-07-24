@@ -1,0 +1,30 @@
+{
+  "Sold as": "Dope",
+  "Expected to be": "Dope",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "8634.jpg",
+  "table data left": {
+    "ID": "8634",
+    "Name": "Dope",
+    "Other Names": "Beige Powder",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020C009",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Heroin\n\n\n: 3 \n\nHeroin aka Diacetylmorphine",
+      "Fentanyl\n\n\n: 1",
+      "Acetylcodeine\n\n\n: trace"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 26, 2020",
+    "Pub. Date": "Jun 26, 2020",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Tan / Off White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20060065"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Sold as": "Fentanyl",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "This sample came in a non-standard format that required pre-approval before being tested.",
+  "Image": "8635.jpg",
+  "table data left": {
+    "ID": "8635",
+    "Name": "Tan Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020B030",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Lidocaine\n\n\n: 6",
+      "Fentanyl\n\n\n: 5",
+      "Tramadol\n\n\n: 4 \n\nTramadol aka Ultram",
+      "DXM\n\n\n: 1 \n\nDXM aka Robitussin, Drixoral",
+      "Niacinamide\n\n\n: 1 \n\nNiacinamide aka Nicotinamide; Niacin",
+      "Xylazine\n\n\n: 1 \n\nXylazine aka Rompun"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 26, 2020",
+    "Pub. Date": "Jun 26, 2020",
+    "Src Location": "Quincy, MA",
+    "Submitter Loc": "Quincy, MAUnited States",
+    "Color": "Tan",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20060066"
+  }
+}

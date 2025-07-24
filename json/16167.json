@@ -1,0 +1,27 @@
+{
+  "Sold as": "3-MMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "16167.jpg",
+  "table data left": {
+    "ID": "16167",
+    "Name": "Off-White Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2-Methylmethcathinone\n\n\n  \n\n2-Methylmethcathinone aka 2-MMC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 21, 2023",
+    "Pub. Date": "May 30, 2023",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Off White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202305-14"
+  }
+}

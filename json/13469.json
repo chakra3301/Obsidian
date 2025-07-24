@@ -1,0 +1,28 @@
+{
+  "Sold as": "2C-D",
+  "Expected to be": "2C-D",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "13469.jpg",
+  "table data left": {
+    "ID": "13469",
+    "Name": "2C-D",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "2CD22",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "2C-D\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 07, 2022",
+    "Pub. Date": "Jul 07, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Seattle, WAUnited States",
+    "Color": "White",
+    "Size": "20 mg, 13.81 mm x 5.12 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22060166"
+  }
+}

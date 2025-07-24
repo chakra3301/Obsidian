@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "315.jpg",
+  "table data left": {
+    "ID": "315",
+    "Name": "Banana",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Gas Bubbles Only",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "DXM\n\n\n: 4 \n\nDXM aka Robitussin, Drixoral",
+      "Ephedrine/Pseudoephedrine\n\n\n: 1 \n\nEphedrine/Pseudoephedrine aka Sudafed, Bronkaid"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2000",
+    "Pub. Date": "Aug 01, 2000",
+    "Src Location": "Long Beach, CA",
+    "Submitter Loc": "Long Beach, CAUnited States",
+    "Color": "Yellow",
+    "Size": "10.00 x 5.00",
+    "Data Source": "DanceSafe",
+    "Tested by": "DDL",
+    "Lab's ID": ""
+  }
+}

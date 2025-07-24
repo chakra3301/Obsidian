@@ -1,0 +1,27 @@
+{
+  "Sold as": "Methamphetamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "14037.jpg",
+  "table data left": {
+    "ID": "14037",
+    "Name": "Crystalline Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Isopropylbenzylamine\n\n\n  \n\nIsopropylbenzylamine aka N-Isopropylbenzylamine;"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 23, 2022",
+    "Pub. Date": "Sep 02, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Clear / White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202209-43"
+  }
+}

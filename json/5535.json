@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. This is one of four high-dose pink-red North Face tablets tested by DIZ in June 2017; doses ranged from 153.2 to 183.2 mg MDMA.",
+  "Image": "5535.jpg",
+  "table data left": {
+    "ID": "5535",
+    "Name": "The North Face",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 160 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 30, 2017",
+    "Pub. Date": "Jul 07, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "350.6 mg, 12.30 mm x 6.10 mm x 4.3 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201707-001"
+  }
+}

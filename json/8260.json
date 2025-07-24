@@ -1,0 +1,31 @@
+{
+  "Sold as": "IDRA-21",
+  "Expected to be": "IDRA-21",
+  "Lab Comments": "Not Available",
+  "Warning": "Feb 20, 2020: Substance was identified by library match. We're attempting to source a reference sample to confirm this identification, but we're not confident we will have anything new soon.  \n\nOur IDRA-21 identification matched what the substance was sold as, so it seems very likely to be correct.  \n\nThis substance is probably a sedative, though Erowid has no data (as of Feb 20, 2020) to share about its effects. If you have tried IDRA-21, please let us know.",
+  "Image": "8260.jpg",
+  "table data left": {
+    "ID": "8260",
+    "Name": "IDRA-21",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "IDR21",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Orange",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "IDRA-21\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 21, 2020",
+    "Pub. Date": "Feb 21, 2020",
+    "Src Location": "Online, \nEurope",
+    "Submitter Loc": "San Jose, CAUnited States",
+    "Color": "White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "2020-02-0003"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The Pennsylvania State Police Crime Laboratory in Lima, Pennsylvania, recently received a poly-drug submission including 42 round green tablets marked with the Batman logo on one face and half-scored on the reverse face, suspected MDMA. Analysis of the green tablets (total net mass 14.9 grams) by GC/MS, however, indicated not MDMA but rather a 1 : 1 mixture of caffeine and 3,4-methylenedioxymethylnitrostyrene (an intermediate in the synthesis of MDA or 3,4-methylenedioxyphenyl-2-propanone). When tested with the Marquis reagent, the samples from the green tablets turned black, but the color did not spread into the liquid.",
+  "Image": "1739.jpg",
+  "table data left": {
+    "ID": "1739",
+    "Name": "Batman",
+    "Other Names": "Scored",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "3,4-methylenedioxymethylnitrostyrene\n\n\n: 1",
+      "Caffeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 01, 2008",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Lima, PA",
+    "Submitter Loc": "Lima, PAUnited States",
+    "Color": "Green",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "080300_01"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Amphetamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "14482",
+    "Name": "Fake Amphetamine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "1-Phenylethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 05, 2022",
+    "Pub. Date": "Oct 19, 2022",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202210-19"
+  }
+}

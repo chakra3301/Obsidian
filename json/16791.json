@@ -1,0 +1,33 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Heroin",
+  "Lab Comments": "CBN is the major cannabinoid detected, then delta 9-THC. Other natural cannabinoids detected. No heroin compounds or fentanyl detected.",
+  "Warning": "Not Available",
+  "Image": "16791.jpg",
+  "table data left": {
+    "ID": "16791",
+    "Name": "Black Tar",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "LDJD8",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown",
+    "Liebermann": "Light Brown",
+    "Froehde": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Cannabinol \n\n\n  \n\nCannabinol  aka CBN",
+      "CBD\n\n\n  \n\nCBD aka Cannabidiol",
+      "THC\n\n\n  \n\nTHC aka delta-9-THC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 31, 2023",
+    "Pub. Date": "Jul 31, 2023",
+    "Src Location": "San Diego, CA",
+    "Submitter Loc": "San Diego, CAUnited States",
+    "Color": "Brown / Black",
+    "Size": "500 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23070056"
+  }
+}

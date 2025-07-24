@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an 'extreme high dose' warning because this tablet contains more than 200mg of MDMA. This is a bilayer style tablet (reverse side is yellow) and it has a score line on reverse.",
+  "Image": "5617.jpg",
+  "table data left": {
+    "ID": "5617",
+    "Name": "M&Ms",
+    "Other Names": "M&M's; (bi-layer tablet)",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 258.30 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 08, 2017",
+    "Pub. Date": "Aug 11, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "517.4 mg, 8.10 mm x 13.20 mm x 4.8 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201708-15"
+  }
+}

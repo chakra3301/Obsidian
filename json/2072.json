@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Detected via TLC, confirmed via GC/MS. MDAI with trace of caffeine.",
+  "Warning": "Not Available",
+  "Image": "2072.jpg",
+  "table data left": {
+    "ID": "2072",
+    "Name": "MDAI",
+    "Other Names": "Kiwi",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Orange",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "MDAI\n\n\n  \n\nMDAI aka 5,6-methylenedioxy-2-aminoindane",
+      "Caffeine\n\n\n: trace"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 21, 2011",
+    "Pub. Date": "Jan 21, 2011",
+    "Src Location": "Sweden",
+    "Submitter Loc": "----, --Sweden",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "Energy Control",
+    "Tested by": "Energy Control",
+    "Lab's ID": "EC32_11"
+  }
+}

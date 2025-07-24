@@ -1,0 +1,30 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains drugs other than the one it was represented as.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "14190",
+    "Name": "Pulver",
+    "Other Names": "Powder",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Etaqualone",
+      "Methaqualone\n\n\n  \n\nMethaqualone aka Quaaludes; Ludes; Mandrax; Sopor",
+      "Unidentified",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2022",
+    "Pub. Date": "Sep 21, 2022",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202209-34"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / XTC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "7850.jpg",
+  "table data left": {
+    "ID": "7850",
+    "Name": "Mickey Mouse",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 13.6 mg\n\n2C-B aka Bees",
+      "2C-H\n\n\n: 0.9 mg\n\n2C-H aka 2,5-dimethoxyphenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 27, 2019",
+    "Pub. Date": "Oct 09, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Purple",
+    "Size": "100.4 mg, 6.10 mm x 6.10 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201910-7"
+  }
+}

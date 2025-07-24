@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "We experienced some anomolous results with this tablet.  The presence of DXM is definitely in question and may have resulted from contamination of the exterior of the tablet or of the testing equipment.  The presence of Metandienone should be considered uncertain as well.",
+  "Warning": "From the helpful folks at Steroider.net : \n\nThis looks similar to tablets manufactured by Pharmacia AD in Bulgaria called 'Bionabol'.",
+  "Image": "1110.jpg",
+  "table data left": {
+    "ID": "1110",
+    "Name": "Plain Tablet",
+    "Other Names": "white widow, blank",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Orange",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Methandrostenolone\n\n\n: 20 \n\nMethandrostenolone aka Methandienone, Averbol, Dianabol, Danabol",
+      "DXM\n\n\n: 1 \n\nDXM aka Robitussin, Drixoral"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 24, 2003",
+    "Pub. Date": "Feb 12, 2003",
+    "Src Location": "Colorado Springs, CO",
+    "Submitter Loc": "Colorado Springs, COUnited States",
+    "Color": "White",
+    "Size": "116 mg, 7.00 mm x 3.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20030100307"
+  }
+}

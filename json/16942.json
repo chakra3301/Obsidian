@@ -1,0 +1,39 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Fentanyl",
+  "Lab Comments": "Aug 23 2023: The Tramadol, Phenethyl-4-ANPP, 4-Fluorofentanyl, Caffeine, and 4-ANPP presented very small GC/MS responses (very small amounts of those drugs).",
+  "Warning": "Not Available",
+  "Image": "16942.jpg",
+  "table data left": {
+    "ID": "16942",
+    "Name": "Tan Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2291",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "Fentanyl\n\n\n: 65",
+      "Ethyl-4-ANPP\n\n\n: 10 \n\nEthyl-4-ANPP aka Ethyl despropionyl Fentanyl",
+      "Xylazine\n\n\n: 5 \n\nXylazine aka Rompun",
+      "4-Fluorofentanyl\n\n\n: 3 \n\n4-Fluorofentanyl aka Para-fluorofentanyl",
+      "Phenethyl 4-ANPP\n\n\n: 3",
+      "Tramadol\n\n\n: 3 \n\nTramadol aka Ultram",
+      "4-ANPP\n\n\n: 1 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Caffeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 14, 2023",
+    "Pub. Date": "Aug 14, 2023",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Lynn, MAUnited States",
+    "Color": "Tan / Green",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23070191"
+  }
+}

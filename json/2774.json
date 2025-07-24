@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Probable match for 25I-NBOMe.\n\nWe've changed this from Unidentified to 25I-NBOMe (2C-I-NBOMe) based on spectra from our experts.\n\nThis is not 100% confirmed, but the spectrum matches another forensic's lab confirmed 25I spectrum very closely. It is also very close to 2C-C-NBOMe, but not quite the same. \n\n We'll be working with the erowid expert network to confirm this identification. If you can help us confirm the identity of this result, please let us know!",
+  "Warning": "Not Available",
+  "Image": "2774.jpg",
+  "table data left": {
+    "ID": "2774",
+    "Name": "White Tablet",
+    "Other Names": "8ATM8",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Brown-Green",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "25I-NBOMe\n\n\n: 1 \n\n25I-NBOMe aka 2C-I-NBOMe; 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 23, 2013",
+    "Pub. Date": "Apr 23, 2013",
+    "Src Location": "San Francisco, CA",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "White",
+    "Size": "191 mg, 9.70 mm x 2.90 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130400068"
+  }
+}

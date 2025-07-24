@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a substance other than the one it was represented as.\n\nOriginal alert published by SaferParty (Switzerland) in August 2024.",
+  "Image": "20385.jpg",
+  "table data left": {
+    "ID": "20385",
+    "Name": "Crystal",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Isopropylbenzylamine\n\n\n  \n\nIsopropylbenzylamine aka N-Isopropylbenzylamine;"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 15, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Geneva, \nSwitzerland",
+    "Submitter Loc": "Geneva, --Switzerland",
+    "Color": "Blue / Clear",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Nuit Blanche",
+    "Lab's ID": "SP:202408-82"
+  }
+}

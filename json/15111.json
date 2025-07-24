@@ -1,0 +1,31 @@
+{
+  "Sold as": "6-APB",
+  "Expected to be": "6-APB",
+  "Lab Comments": "Not Available",
+  "Warning": "Feb 14 2023: 4-APB and 7-APB are now ruled out in this sample, which contains two to three isomers (2-APB, 5-APB, and/or 6-APB) in unspecified ratios.  \n\nJan 17 2023: The lab believes this sample contains two isomers of *-APB, but is conducting additional tests to confirm. For reasons we do not understand, this sample has been more difficult than previous samples of 5/6-APB.",
+  "Image": "15111.jpg",
+  "table data left": {
+    "ID": "15111",
+    "Name": "Tan Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ZEN2215",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Liebermann": "Green to Purple",
+    "Froehde": "Blue-Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "2-, 5- or 6-APB\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 20, 2022",
+    "Pub. Date": "Dec 20, 2022",
+    "Src Location": "Online, \nNetherlands",
+    "Submitter Loc": "----, CAUnited States",
+    "Color": "Tan",
+    "Size": "100 mg, 23.21 mm x 8.19 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110209"
+  }
+}

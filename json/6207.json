@@ -1,0 +1,33 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Possibly substituted or adulterated",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "6207.jpg",
+  "table data left": {
+    "ID": "6207",
+    "Name": "MDMA",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ZLC15",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple - Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue to Dark Blue",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple - Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDA\n\n\n: 4",
+      "Phenacetin\n\n\n: 4 \n\nPhenacetin aka N-(4-Ethoxyphenyl)acetamide",
+      "MMDPPA\n\n\n: 1 \n\nMMDPPA aka MDA 2-amido analog; alpha-Methyl-3,4-methylenedioxyphenylpropionamide"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 27, 2018",
+    "Pub. Date": "Apr 30, 2018",
+    "Src Location": "Seattle, WA",
+    "Submitter Loc": "Port Townsend, WAUnited States",
+    "Color": "Tan / Brown",
+    "Size": "128 mg, 21.70 mm x 7.50 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180400110"
+  }
+}

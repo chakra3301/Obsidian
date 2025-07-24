@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a high dose caution for it, stipulating that 1.3 milligrams MDMA per kilogram of body weight in women and 1.5 milligrams of MDMA per kilogram of body weight in men should not be exceeded.\n\nOriginal alert published by SaferParty (Switzerland) in July 2024.",
+  "Image": "20292.jpg",
+  "table data left": {
+    "ID": "20292",
+    "Name": "Philipp Plein",
+    "Other Names": "Totenkopf; Skull",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 166.70 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 27, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "365.2 mg, 11.00 mm x 12.20 mm x 3.3 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202408-001"
+  }
+}

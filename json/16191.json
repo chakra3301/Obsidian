@@ -1,0 +1,31 @@
+{
+  "Sold as": "Pure Psilocin",
+  "Expected to be": "AMT / Assumed Fake",
+  "Lab Comments": "Not Available",
+  "Warning": "When submitting samples to DrugsData, please use a separate submission form for each sample.",
+  "Image": "16191.jpg",
+  "table data left": {
+    "ID": "16191",
+    "Name": "Psilocin",
+    "Other Names": "22",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ERL20",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Brown",
+    "Liebermann": "Blue - Brown",
+    "Froehde": "Yellow-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Psilocin\n\n\n: 1 \n\nPsilocin aka 4-HO-DMT, 4-OH-DMT, psilocine, psilocyn, or psilotsin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 23, 2023",
+    "Pub. Date": "May 23, 2023",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Denver, COUnited States",
+    "Color": "Purple / Brown",
+    "Size": "300 mg, 23.46 mm x 8.18 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23040203"
+  }
+}

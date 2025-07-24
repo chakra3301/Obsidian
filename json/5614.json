@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this tablet contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet. Tablet scored on reverse side.",
+  "Image": "5614.jpg",
+  "table data left": {
+    "ID": "5614",
+    "Name": "Rockstar",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 18.60 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 04, 2017",
+    "Pub. Date": "Aug 11, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "231.2 mg, 7.40 mm x 8.20 mm x 3.4 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201708-12"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "2C-B",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "9838.jpg",
+  "table data left": {
+    "ID": "9838",
+    "Name": "Neon Batman",
+    "Other Names": "2C-B",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AwFs7",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Green",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "2C-B\n\n\n: 1 \n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 19, 2021",
+    "Pub. Date": "Feb 19, 2021",
+    "Src Location": "Online, \nNetherlands",
+    "Submitter Loc": "Owensboro, KYUnited States",
+    "Color": "Green / Yellow",
+    "Size": "177 mg, 10.10 mm x 5.60 mm x 3.86 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "21020041"
+  }
+}

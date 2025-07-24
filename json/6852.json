@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit of blotter issued a 'high dose' caution because it contains more than 150 ug of LSD. Design that is visible is blue, black, white and yellow. Reverse side is black and white.",
+  "Image": "6852.jpg",
+  "table data left": {
+    "ID": "6852",
+    "Name": "Hofmann",
+    "Other Names": "LSD Filze; LSD Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 205 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 12, 2018",
+    "Pub. Date": "Dec 14, 2018",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "9.10 x 9.30",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201812-23"
+  }
+}

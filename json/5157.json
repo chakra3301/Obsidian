@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued an 'extreme high dose' warning because this tablet (pink Burger King analyzed at some point between Aug 12 2014 and Dec 2014) contains a very large dose of MDMA - it is the strongest pill recorded by EcstasyData to-date. (updated Feb 2017)",
+  "Image": "5157.jpg",
+  "table data left": {
+    "ID": "5157",
+    "Name": "Burger King",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 341 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2014",
+    "Pub. Date": "Feb 17, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201412-01"
+  }
+}

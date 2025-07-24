@@ -1,0 +1,31 @@
+{
+  "Sold as": "Xanax",
+  "Expected to be": "Research Chemical",
+  "Lab Comments": "Not Available",
+  "Warning": "EcstasyData Lab Note: The lab found the results so unusual and the tablet so cleanly and crisply pressed that they tested another part of the tablet a second time very carefully. The result was identical: TFMPP only.\n\nNote that TFMPP does not react strongly or obviously with Marquis, Mecke, or Mandelin reagents.",
+  "Image": "3632.jpg",
+  "table data left": {
+    "ID": "3632",
+    "Name": "Fake Xanax",
+    "Other Names": "G3722",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "JUUGM",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "TFMPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 21, 2015",
+    "Pub. Date": "May 21, 2015",
+    "Src Location": "Houston, TX",
+    "Submitter Loc": "Houston, TXUnited States",
+    "Color": "White",
+    "Size": "216 mg, 15.70 mm x 2.10 mm x 4.15 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150500092"
+  }
+}

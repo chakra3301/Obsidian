@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The composition of Charge+ can vary from sample to sample.",
+  "Image": "2220.jpg",
+  "table data left": {
+    "ID": "2220",
+    "Name": "Charge+",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 3",
+      "4-Methylmethcathinone\n\n\n: 1 \n\n4-Methylmethcathinone aka Mephedrone, 4-MMC, 4-MMC, Meow, M-Cat, 2-Methylamino-1-p-tolylpropan-1-one"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 05, 2011",
+    "Pub. Date": "Jul 27, 2011",
+    "Src Location": "Spain",
+    "Submitter Loc": "----, --Spain",
+    "Color": "White",
+    "Size": "200 mg",
+    "Data Source": "Energy Control",
+    "Tested by": "Energy Control",
+    "Lab's ID": "2011793"
+  }
+}

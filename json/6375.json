@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty and raveitsafe issued a 'high dose' caution because this tablet contains more than 120mg of MDMA.",
+  "Image": "6375.jpg",
+  "table data left": {
+    "ID": "6375",
+    "Name": "Rolls Royce",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 139.90 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 27, 2018",
+    "Pub. Date": "Jun 29, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Yellow",
+    "Size": "350.1 mg, 12.10 mm x 8.10 mm x 3.5 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201806-24"
+  }
+}

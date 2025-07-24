@@ -1,0 +1,29 @@
+{
+  "Sold as": "25I-NBOMe",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "MDA Basecamp (Austrian drugchecking group) issued a warning because this 25I-NBOMe blotter is very strongly dosed, and contains drugs other than 25I-NBOMe.",
+  "Image": "6303.jpg",
+  "table data left": {
+    "ID": "6303",
+    "Name": "25I-NBOMe",
+    "Other Names": "Trip; Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "25I-NBOMe\n\n\n: 866 ug\n\n25I-NBOMe aka 2C-I-NBOMe; 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+      "25H-NBOMe\n\n\n: 18 ug",
+      "25C-NBOMe\n\n\n: 11 ug\n\n25C-NBOMe aka 2C-C-NBOMe; 2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 08, 2018",
+    "Pub. Date": "Jun 08, 2018",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Yellow",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201806-02"
+  }
+}

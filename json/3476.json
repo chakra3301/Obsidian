@@ -1,0 +1,30 @@
+{
+  "Sold as": "MDMA/Molly",
+  "Expected to be": "Unknown",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: See https://www.reddit.com/r/DarkNetMarkets/comments/2x72ze/dbaggins_ecstasydataorg/ Sold as oxycodone.\n\nErowid: The submitter is correct that this appears to be a knock off Oxycodone tablet containing fentanyl instead. Such products are sometimes sold as Molly/Ecstasy/MDMA in order to make more money from poorly made products.",
+  "Image": "3476.jpg",
+  "table data left": {
+    "ID": "3476",
+    "Name": "ETH Tablet",
+    "Other Names": "ETH446",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 21, 2015",
+    "Pub. Date": "Feb 21, 2015",
+    "Src Location": "San Jose, CA",
+    "Submitter Loc": "San Jose, CAUnited States",
+    "Color": "White",
+    "Size": "127 mg, 6.20 mm x 3.10 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150200096"
+  }
+}

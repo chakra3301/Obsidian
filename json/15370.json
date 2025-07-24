@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in early January 2023.",
+  "Image": "15370.jpg",
+  "table data left": {
+    "ID": "15370",
+    "Name": "Punisher",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 6 mg\n\nMDMA aka Ecstasy, E, X",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 10, 2023",
+    "Pub. Date": "Jan 30, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Blue",
+    "Size": "401 mg, 14.80 mm x 4.30 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202301-9"
+  }
+}

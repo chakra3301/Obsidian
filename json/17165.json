@@ -1,0 +1,31 @@
+{
+  "Sold as": "Adderall",
+  "Expected to be": "Adderall",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "17165.jpg",
+  "table data left": {
+    "ID": "17165",
+    "Name": "M 10",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "GAGOA",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Red",
+    "Liebermann": "Very Slight Change",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Amphetamine\n\n\n: 1 \n\nAmphetamine aka dextro- and/or levo-amphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 31, 2023",
+    "Pub. Date": "Aug 31, 2023",
+    "Src Location": "PR",
+    "Submitter Loc": "----, PRUnited States",
+    "Color": "White / Off White",
+    "Size": "96 mg, 6.43 mm x 6.44 mm x 2.59 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080106"
+  }
+}

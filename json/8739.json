@@ -1,0 +1,39 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Heroin",
+  "Lab Comments": "Isotonitazene / Protonitazene. The spectrum is not rich. Mass spectrum closest to protonitazene. Retention time matches Isotonitazene. [See Sep 3 note below for update]",
+  "Warning": "Sep 3 2020: The reference standard was received and sample was retested; isotonitazene confirmed.\n\nJul 20 2020: A reference standard for protonitazene has been ordered; this sample will be re-analyzed once the lab receives it. Check back here for an update in a few weeks.",
+  "Image": "8739.jpg",
+  "table data left": {
+    "ID": "8739",
+    "Name": "Heroin",
+    "Other Names": "Tan Powder",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020C028",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Quinine\n\n\n: 14",
+      "Diphenhydramine\n\n\n: 4 \n\nDiphenhydramine aka Benadryl",
+      "Heroin\n\n\n: 2 \n\nHeroin aka Diacetylmorphine",
+      "Isotonitazene\n\n\n: 1",
+      "U-47700\n\n\n: 1 \n\nU-47700 aka opioid",
+      "6-Acetylcodeine\n\n\n: trace \n\n6-Acetylcodeine aka 6-Monoacetylcodeine",
+      "6-Acetylmorphine\n\n\n: trace \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM",
+      "Caffeine\n\n\n: trace",
+      "Cocaine\n\n\n: trace \n\nCocaine aka Crack, Coca"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 21, 2020",
+    "Pub. Date": "Jul 21, 2020",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Tan / Brown",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20070023"
+  }
+}

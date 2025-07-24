@@ -1,0 +1,35 @@
+{
+  "Sold as": "5-MeO-DMT Freebase",
+  "Expected to be": "5-MeO-DMT",
+  "Lab Comments": "The 5-MeO-aET (syn: 5-MeO-AET) was identified by library match.",
+  "Warning": "Our lab's analytical process does not determine the salt anion. Whether this is a salt or freebase isn't something we can confirm or reject.",
+  "Image": "17202.jpg",
+  "table data left": {
+    "ID": "17202",
+    "Name": "5-MeO-DMT",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Cob81",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Brown",
+    "Liebermann": "Red Brown",
+    "Froehde": "Yellow-Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "5-MeO-DMT\n\n\n: 50",
+      "5-MeO-AET\n\n\n: 3 \n\n5-MeO-AET aka 5-MeO-alpha-ethyltryptamine, 5-Methoxy-α-ethyltryptamine, 5-MeO-a-ET",
+      "5-MeO-MET\n\n\n: 3 \n\n5-MeO-MET aka 5-methoxy-MET; 5-methoxy-N-methyl-N-ethyl Tryptamine",
+      "5-MeO-MiPT\n\n\n: 3 \n\n5-MeO-MiPT aka 5-Methoxy-N,N-Methylisopropyltryptamine",
+      "Tentative Identification - See Note\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 13, 2023",
+    "Pub. Date": "Sep 13, 2023",
+    "Src Location": "Vancouver, BC, \nCanada",
+    "Submitter Loc": "Vancouver, BCCanada",
+    "Color": "Tan",
+    "Size": "100 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080146"
+  }
+}

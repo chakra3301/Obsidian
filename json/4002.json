@@ -1,0 +1,30 @@
+{
+  "Sold as": "2-Fluoroamphetamine",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "4002.jpg",
+  "table data left": {
+    "ID": "4002",
+    "Name": "2FA White Crystals",
+    "Other Names": "PPPY2",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "alpha-PVP\n\n\n: 1 \n\nalpha-PVP aka alpha-Pyrrolidinopentiophenone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 26, 2015",
+    "Pub. Date": "Nov 27, 2015",
+    "Src Location": "Portland, OR",
+    "Submitter Loc": "Portland, ORUnited States",
+    "Color": "White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20151100089"
+  }
+}

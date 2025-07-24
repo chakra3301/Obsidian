@@ -1,0 +1,32 @@
+{
+  "Sold as": "Adderall 30mg",
+  "Expected to be": "Amphetamine",
+  "Lab Comments": "Sample analyzed three times.",
+  "Warning": "Not Available",
+  "Image": "17082.jpg",
+  "table data left": {
+    "ID": "17082",
+    "Name": "b974 / 30",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ADG20",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Yellow",
+    "Liebermann": "Light Purple/Brown",
+    "Froehde": "Light Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 4",
+      "Caffeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 22, 2023",
+    "Pub. Date": "Aug 22, 2023",
+    "Src Location": "Unknown",
+    "Submitter Loc": "Miami, FLUnited States",
+    "Color": "Salmon Pink",
+    "Size": "268 mg, 12.18 mm x 8.14 mm x 3.97 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080014"
+  }
+}

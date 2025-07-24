@@ -1,0 +1,31 @@
+{
+  "Sold as": "Xanax",
+  "Expected to be": "Xanax",
+  "Lab Comments": "Not Available",
+  "Warning": "A reminder that DrugsData is not allowed to provide quantitative results for samples it analyzes, because our lab is constrained by rules set by the US DEA. Inert cuts (diluents like sugars and starches) can not be reported even if they might be present. This means 'purity' can't be confirmed, either.",
+  "Image": "16902.jpg",
+  "table data left": {
+    "ID": "16902",
+    "Name": "Fake Xanax",
+    "Other Names": "Bar; 2",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "XP1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Bromazolam\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 11, 2023",
+    "Pub. Date": "Aug 11, 2023",
+    "Src Location": "Queens, NY",
+    "Submitter Loc": "New Hyde Park, NYUnited States",
+    "Color": "White",
+    "Size": "231 mg, 15.07 mm x 5.08 mm x 3.11 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23070149"
+  }
+}

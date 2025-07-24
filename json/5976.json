@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued a 'high dose' caution for this tablet. Diagonal break line with letters S and R on reverse side.",
+  "Image": "5976.jpg",
+  "table data left": {
+    "ID": "5976",
+    "Name": "Silk Road",
+    "Other Names": "Kamel; Camel; S | R",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 208 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 31, 2018",
+    "Pub. Date": "Feb 02, 2018",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Yellow / Tan",
+    "Size": "11.60 x 5.20",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201802-17"
+  }
+}

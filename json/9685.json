@@ -1,0 +1,29 @@
+{
+  "Sold as": "Cannabis",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a cannabinoid other than the ones naturally occurring in Cannabis.",
+  "Image": "9685.jpg",
+  "table data left": {
+    "ID": "9685",
+    "Name": "Adulterated Cannabis",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4F-MDMB-BINACA\n\n\n  \n\n4F-MDMB-BINACA aka cannabinoid; 4F-MDMB-BUTINACA; 4-fluoro MDMB-BINACA",
+      "CBD\n\n\n  \n\nCBD aka Cannabidiol",
+      "THC\n\n\n: trace \n\nTHC aka delta-9-THC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 14, 2021",
+    "Pub. Date": "Jan 25, 2021",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202101-14"
+  }
+}

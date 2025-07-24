@@ -1,0 +1,27 @@
+{
+  "Sold as": "Xanax",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a drug other than the one it was represented as.",
+  "Image": "16997.jpg",
+  "table data left": {
+    "ID": "16997",
+    "Name": "Fake Xanax",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Flualprazolam"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 04, 2023",
+    "Pub. Date": "Aug 23, 2023",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "308.8 mg, 15.20 mm x 5.10 mm x 3.2 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202308-74"
+  }
+}

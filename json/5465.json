@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because several tablets bearing this logo contained more than 120mg of MDMA.",
+  "Image": "5465.jpg",
+  "table data left": {
+    "ID": "5465",
+    "Name": "The North Face",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 153.20 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 16, 2017",
+    "Pub. Date": "Jun 26, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "342.8 mg, 12.20 mm x 6.10 mm x 4.1 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201706-10"
+  }
+}

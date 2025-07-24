@@ -1,0 +1,32 @@
+{
+  "Sold as": "Vicodin 7.5",
+  "Expected to be": "Vicodin/Acetaminophen",
+  "Lab Comments": "Acetaminophen ratio is at least 100.",
+  "Warning": "'Sometimes seems stronger than I would expect.'",
+  "Image": "16744.jpg",
+  "table data left": {
+    "ID": "16744",
+    "Name": "White Tablet",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Red Brown",
+    "Froehde": "Light Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Acetaminophen\n\n\n: 100",
+      "Fentanyl\n\n\n: 2",
+      "4-ANPP\n\n\n: 1 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 28, 2023",
+    "Pub. Date": "Jul 28, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "San Rafael, CAUnited States",
+    "Color": "White",
+    "Size": "436 mg, 13.16 mm x 7.17 mm x 5.77 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23070009"
+  }
+}

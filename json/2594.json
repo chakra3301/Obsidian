@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Tablet information released by Streetwork with warning about high-dose MDMA.",
+  "Image": "2594.jpg",
+  "table data left": {
+    "ID": "2594",
+    "Name": "Lacoste",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 148.70 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2012",
+    "Pub. Date": "Aug 21, 2012",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "290.3 mg, 8.10 mm x 4.60 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": ""
+  }
+}

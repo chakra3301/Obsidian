@@ -1,0 +1,31 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14423.jpg",
+  "table data left": {
+    "ID": "14423",
+    "Name": "MDMA",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "L6RA2",
+    "Froehde": "Blue Green",
+    "Liebermann": "Brown",
+    "Morris": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 11, 2022",
+    "Pub. Date": "Oct 11, 2022",
+    "Src Location": "San Francisco, CA",
+    "Submitter Loc": "San Jose, CAUnited States",
+    "Color": "Off White",
+    "Size": "20 mg, 22.54 mm x 7.28 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22090160"
+  }
+}

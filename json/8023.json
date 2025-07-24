@@ -1,0 +1,31 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Alprazolam",
+  "Lab Comments": "Regarding Metamizole / 4-Methylaminoantipyrine:\nOur current GC/MS protocol can not distinguish between metamizole and 4-methylaminoantipyrine. 4-Methylaminoantipyrine is a metabolite of metamizole. Their mass spectra are indistinguishable because metamizole undergoes thermal decomposition to 4-methylaminoantipyrine and aminopyrine during GC-MS analysis. The chemical identified in this sample could be either Metamizole or 4-Methylaminoantipyrine, or a combination of the two.",
+  "Warning": "Jul 7, 2021: Identification of Metamizole changed to Metamizole OR 4-Methylaminoantipyrine.\n\nDec 11 2019: We're ordering the standard for 4-methylaminoantipyrine so we can be more certain about the identification.\n\nDec 9, 2019: Now with the metamizole standard in-hand at the lab, the spectrum and compound originally identified in this sample as 4-methylaminoantipyrine has been revised to metamizole.4-methylaminoantipyrine is a metabolite of metamizole and has a very similar mass spectrum. Although it is theoretically possible the chemical in this sample could be the compound 4-methylaminoantipyrine, it's less likely to be that since it's the metabolite and our main analytical toxicologist believes the new identification is correct.\n\nDec 4, 2019: A reference standard is available for metamizole, and has been ordered for the lab to test it and see how it behaves in their GC, and whether it shows up like this sample did.",
+  "Image": "8023.jpg",
+  "table data left": {
+    "ID": "8023",
+    "Name": "Alprazolam",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "S3CHI",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Metamizole OR 4-Methylaminoantipyrine\n\n\n: 1 \n\nMetamizole OR 4-Methylaminoantipyrine aka Noramidopyrine; Dipyrone; Novalgin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 04, 2019",
+    "Pub. Date": "Dec 04, 2019",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "Seattle, WAUnited States",
+    "Color": "White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20191100090"
+  }
+}

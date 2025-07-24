@@ -1,0 +1,34 @@
+{
+  "Sold as": "Percocet (Acetaminophen / Oxycodone)",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "6316.jpg",
+  "table data left": {
+    "ID": "6316",
+    "Name": "Percocet",
+    "Other Names": "Pink Tablet",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "JAW86",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 50",
+      "Caffeine\n\n\n: 5",
+      "Chlorpheniramine\n\n\n: 1 \n\nChlorpheniramine aka Chlorpheniramine Maleate, CPM",
+      "Oxycodone\n\n\n: trace \n\nOxycodone aka Oxycontin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 13, 2018",
+    "Pub. Date": "Jun 14, 2018",
+    "Src Location": "Denver, CO",
+    "Submitter Loc": "Denver, COUnited States",
+    "Color": "Red / Pink",
+    "Size": "765 mg, 9.00 mm x 17.50 mm x 5.75 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180600013"
+  }
+}

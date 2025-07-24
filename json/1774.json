@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Seizure of 236 tablets. The DEA Mid-Atlantic Laboratory (Largo, Maryland)  received one plastic bag containing a total of 236 round blue tablets imprinted with a fly logo on one face and an indiscernible logo on the opposite face (possibly a bear or a buffalo), and 262 round blue tablets imprinted on one face only with the indiscernible (bear/buffalo) logo, both approximately 8.5 millimeters in diameter, suspected Ecstasy. The exhibits were acquired in Stafford, Virginia by personnel from the Bureau of Alcohol, Tobacco, Firearms, and Explosives. Analysis of the double imprint tablets (total net mass 77.8 grams) by GC/FID, GC/MS, and LC indicated 49.7 milligrams/tablet MDMA, 14.1 milligrams/tablet methamphetamine, and caffeine (not quantitated). Analysis of the single imprint tablets (total net mass 84.7 grams) by the same techniques indicated 46.9 milligrams/tablet MDMA, 12.6 milligrams/tablet methamphetamine, and caffeine (again not quantitated). These were the first submissions of Ecstasy combination tablets with these logos, and also the first submission of Ecstasy combination tablets with logos on both faces, to the Mid-Atlantic Laboratory.",
+  "Image": "1774.jpg",
+  "table data left": {
+    "ID": "1774",
+    "Name": "Fly",
+    "Other Names": "bear",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 50 mg\n\nMDMA aka Ecstasy, E, X",
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank",
+      "Caffeine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 01, 2009",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Stafford, VA",
+    "Submitter Loc": "Stafford, VAUnited States",
+    "Color": "Blue",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "090300_05"
+  }
+}

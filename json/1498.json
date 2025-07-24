@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "This tablet was not accompanied by the required $30 co-pay and so was not tested.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "1498",
+    "Name": "No Name",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Not Tested"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 01, 2005",
+    "Pub. Date": "Jul 03, 2005",
+    "Src Location": "St. Augustine, FL",
+    "Submitter Loc": "St. Augustine, FLUnited States",
+    "Color": "Green",
+    "Size": "-",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20050600xxx"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "4F-EPH",
+  "Expected to be": "4-Fluoroethylphenidate",
+  "Lab Comments": "4-Fluoroethylphenidate identified by library match, with no ambiguity in the identification. No certified standard currently available for this chemical.",
+  "Warning": "Not Available",
+  "Image": "6702.jpg",
+  "table data left": {
+    "ID": "6702",
+    "Name": "4F-EPH",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PGN31",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Very Slight Change (red)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Very Slight Change (yello)",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Fizzing",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-Fluoroethylphenidate\n\n\n: 1 \n\n4-Fluoroethylphenidate aka 4F-EPH"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 25, 2018",
+    "Pub. Date": "Oct 26, 2018",
+    "Src Location": "Baltimore, MD",
+    "Submitter Loc": "Bowie, MDUnited States",
+    "Color": "White / Off White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20181000006"
+  }
+}

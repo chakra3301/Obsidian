@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "4688.jpg",
+  "table data left": {
+    "ID": "4688",
+    "Name": "Smiley",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 6.50 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 13, 2016",
+    "Pub. Date": "Aug 31, 2016",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "209.2 mg, 8.10 mm x 4.20 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201608-14"
+  }
+}

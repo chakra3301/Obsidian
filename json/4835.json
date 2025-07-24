@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "CheckIt! detected 6 mg of 2C-B in this partial tablet.",
+  "Image": "4835.jpg",
+  "table data left": {
+    "ID": "4835",
+    "Name": "Rolex 1",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 6 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 12, 2016",
+    "Pub. Date": "Oct 12, 2016",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Purple",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201610-20"
+  }
+}

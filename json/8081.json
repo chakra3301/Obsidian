@@ -1,0 +1,28 @@
+{
+  "Sold as": "Mephedrone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "4-MMC quantified at 111 mg/g, unidentified substance not quantified.",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "8081.jpg",
+  "table data left": {
+    "ID": "8081",
+    "Name": "MCat",
+    "Other Names": "Katzenkopf; Cat",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-Methylmethcathinone\n\n\n  \n\n4-Methylmethcathinone aka Mephedrone, 4-MMC, 4-MMC, Meow, M-Cat, 2-Methylamino-1-p-tolylpropan-1-one",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 12, 2019",
+    "Pub. Date": "Dec 12, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Blue",
+    "Size": "9.10 x 5.00",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201912-26"
+  }
+}

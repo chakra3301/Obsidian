@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. A second blue Super Mario tested the same day contained 150.1 mg MDMA.",
+  "Image": "5350.jpg",
+  "table data left": {
+    "ID": "5350",
+    "Name": "Super Mario",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 150.30 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 11, 2017",
+    "Pub. Date": "Apr 28, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue",
+    "Size": "385.7 mg, 10.80 mm x 9.70 mm x 4.9 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201704-5"
+  }
+}

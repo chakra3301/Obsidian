@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a drug other than MDMA.\n\nPer Checkit's alert, the logo is difficult to discern and probably the Versace logo.\n\nAnalyzed by checkit! (Vienna, Austria) in Nov 2020.",
+  "Image": "9360.jpg",
+  "table data left": {
+    "ID": "9360",
+    "Name": "Versace",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 81 mg\n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 54 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 01, 2020",
+    "Pub. Date": "Nov 13, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Blue",
+    "Size": "11.10 x 4.30",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202011-001"
+  }
+}

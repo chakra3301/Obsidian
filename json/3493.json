@@ -1,0 +1,30 @@
+{
+  "Sold as": "Unknown",
+  "Expected to be": "Ectasy or Meth",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as Unknown, in Magnolia Texas. Unknown name. Suspected to be ecstasy or meth.",
+  "Image": "3493.jpg",
+  "table data left": {
+    "ID": "3493",
+    "Name": "Unknown Tivo",
+    "Other Names": "ZLHRBW",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "None Detected\n\n\n: 1 \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 28, 2015",
+    "Pub. Date": "Feb 28, 2015",
+    "Src Location": "Magnolia, TX",
+    "Submitter Loc": "Magnolia, TXUnited States",
+    "Color": "White",
+    "Size": "1150 mg, 19.80 mm x 7.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150200131"
+  }
+}

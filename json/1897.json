@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1897.jpg",
+  "table data left": {
+    "ID": "1897",
+    "Name": "Purple Playboy",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "TFMPP\n\n\n: 5",
+      "Caffeine\n\n\n: 4",
+      "BZP\n\n\n: 1 \n\nBZP aka Benzoyl Peroxide"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 15, 2010",
+    "Pub. Date": "May 05, 2010",
+    "Src Location": "Madison, WI",
+    "Submitter Loc": "Madison, WIUnited States",
+    "Color": "Red / Pink",
+    "Size": "350 mg, 8.10 mm x 5.40 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20100400068"
+  }
+}

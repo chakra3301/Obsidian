@@ -1,0 +1,29 @@
+{
+  "Sold as": "Fentanyl",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The B0395 code is duplicated, see sample 13257.",
+  "Image": "14518.jpg",
+  "table data left": {
+    "ID": "14518",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0395",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Acetaminophen\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 21, 2022",
+    "Pub. Date": "Oct 21, 2022",
+    "Src Location": "North Adams, MA",
+    "Submitter Loc": "North Adams, MAUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100013"
+  }
+}

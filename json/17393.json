@@ -1,0 +1,32 @@
+{
+  "Sold as": "Xanax 4.5mg Benzo Mix",
+  "Expected to be": "65% Bromazolam 35% Flubromazepam",
+  "Lab Comments": "Not Available",
+  "Warning": "A reminder that because DrugsData is not allowed to provide quantitative results for samples it analyzes, the claim of 4.5mg can not be confirmed or refuted.",
+  "Image": "17393.jpg",
+  "table data left": {
+    "ID": "17393",
+    "Name": "R039",
+    "Other Names": "School Buses",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "DNM05",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Bromazolam\n\n\n: 3",
+      "Flubromazepam\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 21, 2023",
+    "Pub. Date": "Sep 21, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Yellow",
+    "Size": "257 mg, 15.07 mm x 5.01 mm x 2.92 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080164"
+  }
+}

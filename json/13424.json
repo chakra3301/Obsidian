@@ -1,0 +1,32 @@
+{
+  "Sold as": "Crack",
+  "Expected to be": "Crack",
+  "Lab Comments": "Not Available",
+  "Warning": "''Seems like fake crack''",
+  "Image": "13424.jpg",
+  "table data left": {
+    "ID": "13424",
+    "Name": "Crack",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0103B",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Cocaine\n\n\n: 50 \n\nCocaine aka Crack, Coca",
+      "Tetramisole / Levamisole\n\n\n: 10",
+      "Methylecgonidine\n\n\n: 5 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME",
+      "Tropacocaine\n\n\n: 1 \n\nTropacocaine aka tropacaine, benzoylpseudotropine, pseudotropine benzoate"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 06, 2022",
+    "Pub. Date": "Jul 06, 2022",
+    "Src Location": "Brockton, MA",
+    "Submitter Loc": "Brockton, MAUnited States",
+    "Color": "Brown",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22060128"
+  }
+}

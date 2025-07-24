@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Paper was washed with solvent and analyzed three times. Detected fentanyl produced a small GC/MS response.",
+  "Warning": "This sample came in a non-standard format that required pre-approval before being tested.",
+  "Image": "8707.jpg",
+  "table data left": {
+    "ID": "8707",
+    "Name": "Paper/Residue",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020B100",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 13, 2020",
+    "Pub. Date": "Jul 13, 2020",
+    "Src Location": "Fall River, MA",
+    "Submitter Loc": "Fall River, MAUnited States",
+    "Color": "Blue",
+    "Size": "-",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20060117"
+  }
+}

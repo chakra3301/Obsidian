@@ -1,0 +1,29 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Contains 64.1% 2C-B, 12.0% Amphetamine Sulfate, and 4.8% Caffeine",
+  "Warning": "Testing organization reports this was sold over Telegram Messenger",
+  "Image": "14038.jpg",
+  "table data left": {
+    "ID": "14038",
+    "Name": "Brown Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n  \n\n2C-B aka Bees",
+      "Amphetamine\n\n\n  \n\nAmphetamine aka dextro- and/or levo-amphetamine",
+      "Caffeine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 23, 2022",
+    "Pub. Date": "Sep 02, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Brown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202209-44"
+  }
+}

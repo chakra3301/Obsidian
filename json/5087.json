@@ -1,0 +1,31 @@
+{
+  "Sold as": "alpha-PHP",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "alpha-PHP ruled out. Confirmed to be 4-fluoro-Pyrrolidinohexanophenone, based on Cayman standard.",
+  "Warning": "Feb 15 2017: Received lab standard for 4-fluoro-PHP and confirmed this sample to be that chemical.",
+  "Image": "5087.jpg",
+  "table data left": {
+    "ID": "5087",
+    "Name": "a-PHP",
+    "Other Names": "alpha-PHP",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AK501",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Fizzing",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Fizzing with Slight Color Change (yellow)",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Fizzing",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-fluoro-alpha-PHP\n\n\n: 1 \n\n4-fluoro-alpha-PHP aka 4-fluoro-α-PHP, 4-fluoro-α-Pyrrolidinohexanophenone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 05, 2017",
+    "Pub. Date": "Feb 05, 2017",
+    "Src Location": "Netherlands",
+    "Submitter Loc": "Myrtle Beach, SCUnited States",
+    "Color": "Yellow / Off White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170200009"
+  }
+}

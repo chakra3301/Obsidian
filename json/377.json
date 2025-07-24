@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "377.jpg",
+  "table data left": {
+    "ID": "377",
+    "Name": "Purple Tear Drops",
+    "Other Names": "Rain Drop",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple (slow)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "PCP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 01, 2000",
+    "Pub. Date": "Oct 01, 2000",
+    "Src Location": "Chicago, Il",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Purple",
+    "Size": "8.00 x 4.00",
+    "Data Source": "DanceSafe",
+    "Tested by": "DDL",
+    "Lab's ID": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains drugs other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in October 2019.",
+  "Image": "7945.jpg",
+  "table data left": {
+    "ID": "7945",
+    "Name": "Alprazolam Bar",
+    "Other Names": "2",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Etizolam\n\n\n  \n\nEtizolam aka Etilaam, Etizest, Etizola, Sedekopan, Pasaden or Depas",
+      "Flualprazolam",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 06, 2019",
+    "Pub. Date": "Nov 06, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201911-23"
+  }
+}

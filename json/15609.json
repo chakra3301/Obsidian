@@ -1,0 +1,31 @@
+{
+  "Sold as": "Bromazolam",
+  "Expected to be": "Bromazolam",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15609.jpg",
+  "table data left": {
+    "ID": "15609",
+    "Name": "S903",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "bromstv",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Bromazolam\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 06, 2023",
+    "Pub. Date": "Mar 06, 2023",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Green",
+    "Size": "252 mg, 15.12 mm x 5.01 mm x 2.92 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23020042"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "Modafinil",
+  "Expected to be": "Nothing?",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as modafinil 200mg. Might contain nothing? no marks or imprints on tablet. \n\nEcstasyData: Tablet contains only modafinil as a drug. The tablet had no unique imprint, but does have one deep split line.",
+  "Image": "3767.jpg",
+  "table data left": {
+    "ID": "3767",
+    "Name": "Modafinil",
+    "Other Names": "MDD08",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Modafinil\n\n\n: 1 \n\nModafinil aka Provigil, Modalert, Alertec"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 20, 2015",
+    "Pub. Date": "Aug 20, 2015",
+    "Src Location": "Online, MS",
+    "Submitter Loc": "Online, MSUnited States",
+    "Color": "White",
+    "Size": "351 mg, 10.40 mm x 5.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150800052"
+  }
+}

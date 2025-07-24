@@ -1,0 +1,29 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Contains:\nMDMA 53.6 %\n4-CMC 39.2 %\nMDA: ca. 0.05 %",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "17216.jpg",
+  "table data left": {
+    "ID": "17216",
+    "Name": "Off-White Crystal",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CMC\n\n\n  \n\n4-CMC aka 4-chloromethcathinone",
+      "MDA",
+      "MDMA\n\n\n  \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 29, 2023",
+    "Pub. Date": "Sep 21, 2023",
+    "Src Location": "Basel, \nSwitzerland",
+    "Submitter Loc": "Basel, --Switzerland",
+    "Color": "Off White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:202309-001"
+  }
+}

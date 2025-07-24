@@ -1,0 +1,31 @@
+{
+  "Sold as": "Escitalopram generic substituted for Lepraxo",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Lab procedure is unable to differentiate Citalopram isomers (Citalopram or Escitalopram) from each other.",
+  "Warning": "(Escitalopram is the generic name for Lexapro.)\n\nSender notes: 'Over a year ago I noticed my Escitalopram tablets appeared different and cheaper. I had severe headaches for a week. In my opinion it seems like a switch had occurred in the manufactory company and they left out an important substance in the generic drug.'\n\nEcstasyData comment:\n\nThe chance of a generic being something other than the medication written on a prescription that was filled at a standard US pharmacy is vanishingly small. Consider speaking with your doctor about submitting an adverse reaction case report (FAERS Public Dashboard), and/or filling out the MedWatch Voluntary Reporting Form to report your reaction.",
+  "Image": "6633.jpg",
+  "table data left": {
+    "ID": "6633",
+    "Name": "Escitalopram",
+    "Other Names": "20 / 11 | 37",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "HEN57",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Citalopram or Escitalopram\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 28, 2018",
+    "Pub. Date": "Sep 30, 2018",
+    "Src Location": "Harrisburg, NC",
+    "Submitter Loc": "Concord, NCUnited States",
+    "Color": "White",
+    "Size": "9.70 x 9.70 x 4.02",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180900035"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Ketamine",
+  "Lab Comments": "Not Available",
+  "Warning": "Unique Code is maybe J22SK, fourth character could be an S or a 5.",
+  "Image": "13865.jpg",
+  "table data left": {
+    "ID": "13865",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "J225K",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Brown",
+    "Froehde": "Yellow",
+    "Liebermann": "Yellow",
+    "Morris": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_11": [
+      "Ketamine\n\n\n: 7 \n\nKetamine aka Ketalar, Ketaset",
+      "Ketamine Precursor A\n\n\n: 1 \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 31, 2022",
+    "Pub. Date": "Aug 31, 2022",
+    "Src Location": "Seattle, WA",
+    "Submitter Loc": "Seattle, WAUnited States",
+    "Color": "Off White",
+    "Size": "50 mg, 21.52 mm x 7.28 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22070271"
+  }
+}

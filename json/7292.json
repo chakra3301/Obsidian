@@ -1,0 +1,28 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Ketamine (210 mg/g) + Paracetamol/Acetaminophen (not quantified)",
+  "Warning": "This sample was analyzed by CheckIt! in Vienna, Austria.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "7292",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Acetaminophen",
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 19, 2019",
+    "Pub. Date": "Apr 23, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201904-20"
+  }
+}

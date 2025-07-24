@@ -1,0 +1,31 @@
+{
+  "Sold as": "HEX-EN-N1",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "This compound and N-Methylpentedrone (α-Dimethylaminopentiophenone) give very similar GC-MS mass spectra and elute close to one another, but can be distinguished.",
+  "Warning": "3/27/2019: Confirmed as N-Ethylpentedrone.\n\n2/28/2019: Reference standards for N-Ethylnorpentedrone and N-Methylpentedrone are available, and are being ordered so this sample can be re-analyzed to confirm library match. Please check back in 7-10 days.",
+  "Image": "7081.jpg",
+  "table data left": {
+    "ID": "7081",
+    "Name": "HEX-EN-N1",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PGZ44",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "NEP\n\n\n: 1 \n\nNEP aka N-Ethylpentedrone; α-ethylaminopentiophenone; N-Ethyl-nor-pentedrone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 27, 2019",
+    "Pub. Date": "Feb 28, 2019",
+    "Src Location": "Baltimore, MD",
+    "Submitter Loc": "McLean, VAUnited States",
+    "Color": "White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20190200069"
+  }
+}

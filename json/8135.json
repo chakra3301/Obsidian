@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Etizolam not quantified.",
+  "Warning": "The European drug checking group that analyzed this sample of blotter issued a warning because it contains a drug other than LSD.",
+  "Image": "8135.jpg",
+  "table data left": {
+    "ID": "8135",
+    "Name": "Willy Wonka Golden Ticket",
+    "Other Names": "Filz; Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Etizolam\n\n\n  \n\nEtizolam aka Etilaam, Etizest, Etizola, Sedekopan, Pasaden or Depas"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 07, 2020",
+    "Pub. Date": "Jan 11, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Yellow / Black",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202001-001"
+  }
+}

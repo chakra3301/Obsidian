@@ -1,0 +1,31 @@
+{
+  "Sold as": "Methamphetamine",
+  "Expected to be": "Meth + fentanyl",
+  "Lab Comments": "No fentanyl detected.",
+  "Warning": "Not Available",
+  "Image": "15895.jpg",
+  "table data left": {
+    "ID": "15895",
+    "Name": "Methamphetamine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2743",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Methamphetamine\n\n\n: 10 \n\nMethamphetamine aka Meth, Ice, Crank",
+      "N,N-Dimethylamphetamine\n\n\n: 3 \n\nN,N-Dimethylamphetamine aka N,N-DMA; Dimetamfetamine; Metrotonin",
+      "Amphetamine\n\n\n: 1 \n\nAmphetamine aka dextro- and/or levo-amphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 11, 2023",
+    "Pub. Date": "Apr 11, 2023",
+    "Src Location": "MA",
+    "Submitter Loc": "----, MAUnited States",
+    "Color": "Off White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23030173"
+  }
+}

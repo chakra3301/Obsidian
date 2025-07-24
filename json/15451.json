@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15451.jpg",
+  "table data left": {
+    "ID": "15451",
+    "Name": "Yellow Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "N6A3C8",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown",
+    "Liebermann": "Dark Yellow",
+    "Froehde": "Light Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "ADB-BUTINACA\n\n\n: 1 \n\nADB-BUTINACA aka (S)-N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-1H-indazole-3-carboxamide"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 06, 2023",
+    "Pub. Date": "Feb 06, 2023",
+    "Src Location": "Queens, NY",
+    "Submitter Loc": "Brooklyn, NYUnited States",
+    "Color": "Yellow",
+    "Size": "500 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010099"
+  }
+}

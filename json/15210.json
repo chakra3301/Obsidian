@@ -1,0 +1,31 @@
+{
+  "Sold as": "Clonazolam",
+  "Expected to be": "RC",
+  "Lab Comments": "Not Available",
+  "Warning": "May 23 2023: 4-Me-TMP (4-Methylmethylphenidate) confirmed after certified reference standard became available and was ordered and run. Originally identified by library match. \n\nJan 6 2022: The peak previously described as a degradation product is identified by library match as methyl-p-tolylacetate, a leftover synthesis reagent that would be expected for the synthesis of 4-Methylmethylphenidate (pictured bottom, left, with corrected caption).\n\nJan 5 2023: 4-Methylmethylphenidate (CAS 191790-79-1) has been suggested as the unidentified chemical in this sample (thank you, Y.) and can be considered an unconfirmed library match. There isn't a commercially available reference standard for 4-Methylmethylphenidate as of Jan 2023.\n\nJan 3 2023: Appears related to methylphenidate, degradation peak is similar.\n\nMajor ion similar to unidentified chemical in DrugsData.org/8458.",
+  "Image": "15210.jpg",
+  "table data left": {
+    "ID": "15210",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Pump2",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Red with Yellow",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-Methylmethylphenidate\n\n\n: 1 \n\n4-Methylmethylphenidate aka threo-4-Methylmethylphenidate; 4-MeTMP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 03, 2023",
+    "Pub. Date": "Jan 03, 2023",
+    "Src Location": "Seattle, WA",
+    "Submitter Loc": "Seattle, WAUnited States",
+    "Color": "White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22120118"
+  }
+}

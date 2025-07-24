@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "n-formylamphetamine is considered an impurity from the synthesis of amphetamine",
+  "Image": "2949.jpg",
+  "table data left": {
+    "ID": "2949",
+    "Name": "YCP Speed",
+    "Other Names": "0913",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Purple (slow)",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Amphetamine\n\n\n: 1 \n\nAmphetamine aka dextro- and/or levo-amphetamine",
+      "di-(-Phenylisopropyl)amine\n\n\n: trace \n\ndi-(-Phenylisopropyl)amine aka Amphetamine synthesis byproduct",
+      "N-Formylamphetamine\n\n\n: trace \n\nN-Formylamphetamine aka Amphetamine synthesis byproduct"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 13, 2013",
+    "Pub. Date": "Oct 13, 2013",
+    "Src Location": "Online, \nCanada",
+    "Submitter Loc": "Online, --Canada",
+    "Color": "White",
+    "Size": "400 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20131000009"
+  }
+}

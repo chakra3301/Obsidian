@@ -1,0 +1,27 @@
+{
+  "Sold as": "4-Fluoroamphetamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this sample contains a drug other than 4-FA.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "5657",
+    "Name": "4-FA",
+    "Other Names": "4-Fluoroamphetamine",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "N-Ethylhexedrone\n\n\n  \n\nN-Ethylhexedrone aka Hexen; Hex-en"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 22, 2017",
+    "Pub. Date": "Sep 01, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201709-001"
+  }
+}

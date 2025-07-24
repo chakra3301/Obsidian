@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as MDMA, expected to be MDMA.",
+  "Image": "3134.jpg",
+  "table data left": {
+    "ID": "3134",
+    "Name": "White Skull Candy",
+    "Other Names": "E2",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Turquoise",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue to Dark Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "MDMA\n\n\n: 12 \n\nMDMA aka Ecstasy, E, X",
+      "MDP2P\n\n\n: 1 \n\nMDP2P aka 3,4-Methylenedioxyphenylpropan-2-one; piperonyl methyl ketone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 15, 2014",
+    "Pub. Date": "Apr 15, 2014",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "White",
+    "Size": "257 mg, 8.20 mm x 4.90 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140400027"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "CBD-Haschisch",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a cannabinoid other than the ones naturally occurring in Cannabis.",
+  "Image": "9879.jpg",
+  "table data left": {
+    "ID": "9879",
+    "Name": "Adulterated Hash",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "CBD\n\n\n  \n\nCBD aka Cannabidiol",
+      "MDMB-4en-PINACA\n\n\n  \n\nMDMB-4en-PINACA aka 5-CL-ADB-A; 5CI-ADB-A",
+      "THC\n\n\n: trace \n\nTHC aka delta-9-THC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 02, 2021",
+    "Pub. Date": "Mar 06, 2021",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Brown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202103-6"
+  }
+}

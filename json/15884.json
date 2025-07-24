@@ -1,0 +1,32 @@
+{
+  "Sold as": "Molly",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "The cocaine detected in this sample (in a ratio of 100:1 MDMA to cocaine) may be a result of cross-contamination of the sample prior to reaching the lab. It's unlikely that this powder contained psychoactive amounts of cocaine.",
+  "Image": "15884.jpg",
+  "table data left": {
+    "ID": "15884",
+    "Name": "Molly",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "2001P",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Liebermann": "Red Brown",
+    "Froehde": "Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 100 \n\nMDMA aka Ecstasy, E, X",
+      "Cocaine\n\n\n: 1 \n\nCocaine aka Crack, Coca"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 11, 2023",
+    "Pub. Date": "Apr 11, 2023",
+    "Src Location": "Seattle, WA",
+    "Submitter Loc": "Seattle, WAUnited States",
+    "Color": "Brown / Gray",
+    "Size": "400 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23030162"
+  }
+}

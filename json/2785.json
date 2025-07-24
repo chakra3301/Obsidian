@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Note that the marquis and mecke results (Black/Purple and Turquoise) are somewhat different than the photo of the field test reactions because several minutes have passed since the test was started. The Turquoise color of the Mecke reaction is the term we're using to describe a dark color change with strong blue-green (turquoise) color. In many photos, the blue-green color is masked by the generally dark tone.",
+  "Image": "2785.jpg",
+  "table data left": {
+    "ID": "2785",
+    "Name": "Molly Capsule",
+    "Other Names": "10912",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Turquoise",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "MDA\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 06, 2013",
+    "Pub. Date": "May 06, 2013",
+    "Src Location": "Philadelphia, PA",
+    "Submitter Loc": "Philadelphia, PAUnited States",
+    "Color": "Off White / White",
+    "Size": "213 mg, 5.50 mm x 15.60 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130400160"
+  }
+}

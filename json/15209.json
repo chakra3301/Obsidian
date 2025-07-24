@@ -1,0 +1,31 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "RC",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15209.jpg",
+  "table data left": {
+    "ID": "15209",
+    "Name": "Yellow Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Pump1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Magenta - Reddish Purple",
+    "Froehde": "Light Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Metonitazene\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 03, 2023",
+    "Pub. Date": "Jan 03, 2023",
+    "Src Location": "Seattle, WA",
+    "Submitter Loc": "Seattle, WAUnited States",
+    "Color": "Yellow",
+    "Size": "200 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22120117"
+  }
+}

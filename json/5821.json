@@ -1,0 +1,31 @@
+{
+  "Sold as": "Methamphetamine",
+  "Expected to be": "Methamphetamine and contaminants",
+  "Lab Comments": "Not Available",
+  "Warning": "Technical detail, responding to submitter's request to look for some specific compounds other than methamphetamine: Only methamphetamine - no other compounds detected. alpha-PVP and pentedrone ruled out. 3-methylcholanthrene and 7,12-dimethylbenz(a)anthrace have gc/ms data and thus are detectable by GC/MS. But the sample only had a methamphetamine GC peak.",
+  "Image": "5821.jpg",
+  "table data left": {
+    "ID": "5821",
+    "Name": "Crystal",
+    "Other Names": "Methamphetamine",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "SEC33",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Fizzing",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Fizzing",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 26, 2017",
+    "Pub. Date": "Nov 28, 2017",
+    "Src Location": "Arlington, TX",
+    "Submitter Loc": "Arlington, TXUnited States",
+    "Color": "White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20171100048"
+  }
+}

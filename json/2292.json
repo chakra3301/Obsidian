@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Library match only. Note this was originally published (for 24 hours) as 5-MeO-DIPT, which was an error.",
+  "Warning": "Submitter comment: Sold as ecstasy, suspected to be 5-MeO-DIPT",
+  "Image": "2292.jpg",
+  "table data left": {
+    "ID": "2292",
+    "Name": "Mushroom",
+    "Other Names": "White Tablet",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "5-MeO-MiPT\n\n\n: 1 \n\n5-MeO-MiPT aka 5-Methoxy-N,N-Methylisopropyltryptamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 14, 2011",
+    "Pub. Date": "Oct 26, 2011",
+    "Src Location": "Vancouver, BC, \nCanada",
+    "Submitter Loc": "Vancouver, BCCanada",
+    "Color": "White / Off White",
+    "Size": "267 mg, 8.10 mm x 4.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20110900157"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "N-Ethylhexedrone + Lidocaine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "7370",
+    "Name": "N-Ethylhexedrone & Lidocaine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Lidocaine",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 16, 2019",
+    "Pub. Date": "May 21, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201905-16"
+  }
+}

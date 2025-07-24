@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "647",
+    "Name": "Scored Tablet",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Ephedrine/Pseudoephedrine\n\n\n: --- mg\n\nEphedrine/Pseudoephedrine aka Sudafed, Bronkaid",
+      "Guaifenesin\n\n\n: --- mg\n\nGuaifenesin aka Glyceryl Guaiacolate",
+      "Phenylpropanolamine\n\n\n: --- mg\n\nPhenylpropanolamine aka PPA"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 01, 1996",
+    "Pub. Date": "May 01, 1996",
+    "Src Location": "Minneapolis, MN",
+    "Submitter Loc": "Minneapolis, MNUnited States",
+    "Color": "White",
+    "Size": "9.00 x -",
+    "Data Source": "MAPS",
+    "Tested by": "DDL",
+    "Lab's ID": ""
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy/MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an 'extreme high dose' warning because this tablet contains more than 200mg of MDMA. Light green color, break line on reverse.",
+  "Image": "5931.jpg",
+  "table data left": {
+    "ID": "5931",
+    "Name": "Warner Brothers",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 213.90 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 16, 2018",
+    "Pub. Date": "Jan 19, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green / Yellow",
+    "Size": "384.6 mg, 10.00 mm x 9.60 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201801-8"
+  }
+}

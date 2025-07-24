@@ -1,0 +1,30 @@
+{
+  "Sold as": "Anastrozole",
+  "Expected to be": "Anastrozole",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as Anastrozole online, with name A Labs. Expected to be Anastrozole.",
+  "Image": "3690.jpg",
+  "table data left": {
+    "ID": "3690",
+    "Name": "A Labs Anastrozole",
+    "Other Names": "JJ008",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Anastrozole\n\n\n: 1 \n\nAnastrozole aka Arimidex"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 17, 2015",
+    "Pub. Date": "Jul 17, 2015",
+    "Src Location": "Online, CA",
+    "Submitter Loc": "Online, CAUnited States",
+    "Color": "Off White",
+    "Size": "320 mg, 9.40 mm x 4.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150700027"
+  }
+}

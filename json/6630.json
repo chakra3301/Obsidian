@@ -1,0 +1,32 @@
+{
+  "Sold as": "Xanax",
+  "Expected to be": "Alprazolam / Xanax?",
+  "Lab Comments": "Sample analyzed twice. The 4-chloro-alpha-PVP was identified by library match.",
+  "Warning": "10/25/18: The lab only received the reference standard this week, delaying the re-test.\n\n9/29/18: A reference standard for 4-chloro-alpha-PVP is available, and has been ordered so the sample can be re-analyzed to confirm library match. Please check back in 7-10 days.",
+  "Image": "6630.jpg",
+  "table data left": {
+    "ID": "6630",
+    "Name": "Xanax",
+    "Other Names": "R | 0 | 3 | 9",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "XYYZ1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-chloro-alpha-PVP\n\n\n: 3 \n\n4-chloro-alpha-PVP aka 4-chloro-α-Pyrrolidinovalerophenone",
+      "N-Ethylpentylone\n\n\n: 1 \n\nN-Ethylpentylone aka N-Ethylnorpentylone; bk-Ethyl-K; bk-EBDP; Ephylone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 28, 2018",
+    "Pub. Date": "Sep 30, 2018",
+    "Src Location": "Houston, TX",
+    "Submitter Loc": "Houston, TXUnited States",
+    "Color": "Yellow",
+    "Size": "229 mg, 4.70 mm x 15.70 mm x 3.09 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180900032"
+  }
+}

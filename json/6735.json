@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution because it contains more than 120mg of MDMA.\nTablet has a break line on reverse side.",
+  "Image": "6735.jpg",
+  "table data left": {
+    "ID": "6735",
+    "Name": "Ecstasy",
+    "Other Names": "No Logo",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 131.20 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 30, 2018",
+    "Pub. Date": "Nov 03, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue",
+    "Size": "254.9 mg, 8.10 mm x 8.10 mm x 3.9 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201811-3"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it. Dual crossing break lines on one side.\n\nAnalyzed in November 2019.",
+  "Image": "8018.jpg",
+  "table data left": {
+    "ID": "8018",
+    "Name": "WIndows",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 185 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 29, 2019",
+    "Pub. Date": "Dec 02, 2019",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Green",
+    "Size": "457.2 mg",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201912-001"
+  }
+}

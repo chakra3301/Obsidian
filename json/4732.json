@@ -1,0 +1,30 @@
+{
+  "Sold as": "4-HO-MIPT",
+  "Expected to be": "4-HO-MIPT",
+  "Lab Comments": "Not Available",
+  "Warning": "Sample sent from San Francisco Bay Area, CA, USA.",
+  "Image": "4732.jpg",
+  "table data left": {
+    "ID": "4732",
+    "Name": "4-HO-MIPT",
+    "Other Names": "77MIPT",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow-Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Yellow-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "4-HO-MIPT\n\n\n: 1 \n\n4-HO-MIPT aka 4-hydroxy-N,N-methyl-isopropyltryptamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 07, 2016",
+    "Pub. Date": "Sep 07, 2016",
+    "Src Location": "Bay Area, Online",
+    "Submitter Loc": "Bay Area, OnlineUnited States",
+    "Color": "Brown",
+    "Size": "121 mg, 18.80 mm x 6.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160800135"
+  }
+}

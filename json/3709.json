@@ -1,0 +1,30 @@
+{
+  "Sold as": "2C-C",
+  "Expected to be": "2C-C",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as 2C-C from an online research chemical vendor as 98% purity 2C-C. Expected to be 2C-C.",
+  "Image": "3709.jpg",
+  "table data left": {
+    "ID": "3709",
+    "Name": "2C-C",
+    "Other Names": "Eppendorf ABC12",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Green",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow-Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Very Slight Change",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "2C-C\n\n\n: 1 \n\n2C-C aka 2,5-Dimethoxy-4-chlorophenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 26, 2015",
+    "Pub. Date": "Jul 26, 2015",
+    "Src Location": "Online, CA",
+    "Submitter Loc": "Online, CAUnited States",
+    "Color": "White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150700069"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution because it contains more than 120mg of MDMA.\nTablet has a break line on reverse side flanked by the numbers '1' and '2'.",
+  "Image": "7277.jpg",
+  "table data left": {
+    "ID": "7277",
+    "Name": "Double Trouble",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 144 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 19, 2019",
+    "Pub. Date": "Apr 23, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Green",
+    "Size": "12.20 x 4.40",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201904-6"
+  }
+}

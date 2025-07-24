@@ -1,0 +1,32 @@
+{
+  "Sold as": "Rilmazafone",
+  "Expected to be": "Rilmazafone",
+  "Lab Comments": "One unidentified substance is likely the parent compound and the other is likely a GC/MS analytical artifact / breakdown product of the primary substance.\n\nUnidentified Substance #1: 1 part\n\nUnidentified Substance #2: 2 parts",
+  "Warning": "Sep 20 2023: The previously unidentified substances in this sample have been tentatively identified as Rilmazafone and a GC/MS analytical artifact / breakdown product of Rilmazafone.\n\nThis substance was identified through the Erowid Expert Network.\n\nAug 31 2023: A certified reference standard for Rilmazafone (CAS # 99593-25-6) does not seem to be available.",
+  "Image": "17154.jpg",
+  "table data left": {
+    "ID": "17154",
+    "Name": "Off-White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "RILSS",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Very Slight Change",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Tentative Identification - See Note\n\n\n: 2",
+      "Tentative Identification - See Note\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 31, 2023",
+    "Pub. Date": "Aug 31, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "Henderson, NVUnited States",
+    "Color": "Off White",
+    "Size": "20 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080090"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "688.jpg",
+  "table data left": {
+    "ID": "688",
+    "Name": "Crown ('Triple Stacked')",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "BZP\n\n\n: --- \n\nBZP aka Benzoyl Peroxide",
+      "TFMPP\n\n\n: ---"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 02, 2001",
+    "Pub. Date": "Sep 02, 2001",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Off White",
+    "Size": "326 mg, 8.00 mm x 6.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20010800310"
+  }
+}

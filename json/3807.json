@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty.ch/RaveItSafe.ch/SaferClubbing issued a warning about this tablet because it contains 2C-B instead of MDMA in a tablet that looks like an ecstasy tablet.",
+  "Image": "3807.jpg",
+  "table data left": {
+    "ID": "3807",
+    "Name": "Smiley",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 16.20 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2015",
+    "Pub. Date": "Sep 08, 2015",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue",
+    "Size": "285.6 mg, 8.10 mm x 4.70 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201509-07"
+  }
+}

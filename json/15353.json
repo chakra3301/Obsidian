@@ -1,0 +1,32 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15353.jpg",
+  "table data left": {
+    "ID": "15353",
+    "Name": "Pink Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0965",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 11",
+      "Xylazine\n\n\n: 7 \n\nXylazine aka Rompun",
+      "4-ANPP\n\n\n: 2 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 27, 2023",
+    "Pub. Date": "Jan 27, 2023",
+    "Src Location": "Pittsfield, MA",
+    "Submitter Loc": "Pittsfield, MAUnited States",
+    "Color": "White / Red / Pink",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010044"
+  }
+}

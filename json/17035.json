@@ -1,0 +1,28 @@
+{
+  "Sold as": "Mephedrone / 4-MMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "3-CMC 98.3 %",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "17035.jpg",
+  "table data left": {
+    "ID": "17035",
+    "Name": "White Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-CMC\n\n\n  \n\n3-CMC aka 3-chloromethcathinone",
+      "iso-3-CMC\n\n\n  \n\niso-3-CMC aka iso-3-chloromethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 14, 2023",
+    "Pub. Date": "Aug 24, 2023",
+    "Src Location": "Lucerne, \nSwitzerland",
+    "Submitter Loc": "Lucerne, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:202308-112"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Sold as": "4-AcO-DMT fumarate",
+  "Expected to be": "4-AcO-DMT and possible impurities from synthesis",
+  "Lab Comments": "4-Hydroxy-DMT [psilocin] present in sample was detected by library match. Ratio like 4-OH-DMT and not 5-OH-DMT.",
+  "Warning": "Our lab's analytical process can never determine the salt anion. The sender noted the fumarate salt of the chemical, but this is not something we can confirm or reject. Submitter indicated potential synthesis impurities, but none were detected. Not all synthesis impurities might be detected using GC/MS.",
+  "Image": "5824.jpg",
+  "table data left": {
+    "ID": "5824",
+    "Name": "4-AcO-DMT",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "4A002",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown (yellow)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green Black",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Green Black",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-Acetoxy-DMT\n\n\n: 11 \n\n4-Acetoxy-DMT aka 4-AcO-DMT, O-Acetylpsilocin; Psilacetin, 4-acetoxy-N,N-dimethyltryptamine",
+      "Psilocin\n\n\n: 1 \n\nPsilocin aka 4-HO-DMT, 4-OH-DMT, psilocine, psilocyn, or psilotsin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 26, 2017",
+    "Pub. Date": "Nov 28, 2017",
+    "Src Location": "Online, \nEurope",
+    "Submitter Loc": "Toronto, ONCanada",
+    "Color": "Tan",
+    "Size": "200 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20171100051"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "MDA",
+  "Expected to be": "MDA",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15016.jpg",
+  "table data left": {
+    "ID": "15016",
+    "Name": "MDA",
+    "Other Names": "Sass",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "30326",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "MDA\n\n\n: 80",
+      "MDMA\n\n\n: 20 \n\nMDMA aka Ecstasy, E, X",
+      "Cocaine\n\n\n: 1 \n\nCocaine aka Crack, Coca"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 16, 2022",
+    "Pub. Date": "Dec 16, 2022",
+    "Src Location": "Denver, CO",
+    "Submitter Loc": "Denver, COUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110145"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! included this sample on a 'high dose' caution warning sheet.",
+  "Image": "4926.jpg",
+  "table data left": {
+    "ID": "4926",
+    "Name": "Flasche SPA",
+    "Other Names": "Bottle",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 103 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 17, 2016",
+    "Pub. Date": "Nov 17, 2016",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Blue",
+    "Size": "- x 17.20 x 4.4",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201611-9"
+  }
+}

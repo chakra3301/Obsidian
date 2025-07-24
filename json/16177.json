@@ -1,0 +1,28 @@
+{
+  "Sold as": "THC Hash",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a cannabinoid other than the ones naturally occurring in Cannabis.\n\nAnalyzed by SaferParty (Switzerland) in March 2023.",
+  "Image": "16177.jpg",
+  "table data left": {
+    "ID": "16177",
+    "Name": "Hash",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Hexahydrocannabinol\n\n\n  \n\nHexahydrocannabinol aka HHC",
+      "THC\n\n\n  \n\nTHC aka delta-9-THC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 16, 2023",
+    "Pub. Date": "May 30, 2023",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Brown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202305-24"
+  }
+}

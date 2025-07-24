@@ -1,0 +1,37 @@
+{
+  "Sold as": "Fentanyl",
+  "Expected to be": "Fentanyl",
+  "Lab Comments": "Not Available",
+  "Warning": "July 19 2022: The 1-boc-4-(4-fluorophenylamino)piperidine was initially unidentified, but has been established by library match. The bottom PDF, left, shows the mass spec image for 1-boc-4-(4-fluorophenylamino)piperidine.\n\nThere is no laboratory reference standard available as of July 19, 2022 to confirm this identification.\n\nJuly 18 2022: Mass spec image for the unidentified substance will be uploaded later.",
+  "Image": "13550.jpg",
+  "table data left": {
+    "ID": "13550",
+    "Name": "Fetty",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0278",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 12",
+      "4-Fluorofentanyl\n\n\n: 8 \n\n4-Fluorofentanyl aka Para-fluorofentanyl",
+      "Caffeine\n\n\n: 6",
+      "1-boc-4-(4-fluorophenylamino)piperidine\n\n\n: 4 \n\n1-boc-4-(4-fluorophenylamino)piperidine aka tert-butyl 4-(4-fluoroanilino)piperidine-1-carboxylate",
+      "4-ANPP\n\n\n: 4 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Despropionyl-4-fluorofentanyl\n\n\n: 4 \n\nDespropionyl-4-fluorofentanyl aka Despropionyl para-fluorofentanyl; para-Fluoro 4-ANPP",
+      "Lidocaine\n\n\n: 4",
+      "Phenethyl 4-ANPP\n\n\n: 2",
+      "4F-Phenethyl-4-ANPP\n\n\n: 1 \n\n4F-Phenethyl-4-ANPP aka Phenethyl-4F-4-ANPP; Phenethyl-4-Fluoro-4-ANPP; para-fluoro Phenethyl 4-ANPP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 18, 2022",
+    "Pub. Date": "Jul 18, 2022",
+    "Src Location": "Revere, MA",
+    "Submitter Loc": "Revere, MAUnited States",
+    "Color": "Red / Pink / Purple",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22070011"
+  }
+}

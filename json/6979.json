@@ -1,0 +1,27 @@
+{
+  "Sold as": "Cannabis",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a synthetic cannabinoid that has been associated with 24 deaths in Europe. It does not contain naturally occurring cannabinoids like THC or CBD.",
+  "Image": "6979.jpg",
+  "table data left": {
+    "ID": "6979",
+    "Name": "Cannabis",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "5-fluoro-ADB \n\n\n  \n\n5-fluoro-ADB  aka cannabinoid; 5-F-ADB; 5FADB"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 25, 2019",
+    "Pub. Date": "Feb 02, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green / Brown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201902-5"
+  }
+}

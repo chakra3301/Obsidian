@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "raveitsafe and SaferParty issued an alert because this sample of blotter contains DOC. From the alert:\n\n'There is very little information about risks, side effects and long-term consequences. However, DOC is suspected of being linked to some deaths. The very long duration of action of up to 20 hours should be taken into account.'",
+  "Image": "5871.jpg",
+  "table data left": {
+    "ID": "5871",
+    "Name": "Einstein",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "DOC\n\n\n: 1.70 mg\n\nDOC aka 2,5-dimethoxy-4-chloroamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 13, 2017",
+    "Pub. Date": "Dec 15, 2017",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Black / White",
+    "Size": "9.50 x 8.80",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201712-7"
+  }
+}

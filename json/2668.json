@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Sold as Adderall, November 1 2012.",
+  "Image": "2668.jpg",
+  "table data left": {
+    "ID": "2668",
+    "Name": "AD30",
+    "Other Names": "363666",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Caffeine\n\n\n: 7",
+      "Phentermine\n\n\n: 5 \n\nPhentermine aka Adipex-P, Obenix, Oby-Trim",
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 29, 2012",
+    "Pub. Date": "Nov 29, 2012",
+    "Src Location": "Orlando, FL",
+    "Submitter Loc": "Orlando, FLUnited States",
+    "Color": "White / Off White",
+    "Size": "370 mg, 10.40 mm x 4.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20121100060"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Sold as": "Xanax / Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Methyl-2-phenylacetate by library match [subsequently confirmed by comparing to reference standard]. \n\nPhenylactone (P2P) may or may not be present.  Methyl-2-phenylacetate produces a secondary GC/MS peak of P2P. The ratio detected of P2P to Methyl-2-phenylacetate is similar to a certified standard analysis.",
+  "Warning": "Sep 3 2020: The reference standard was received and sample was retested; Methyl-2-phenylacetate confirmed. \n\nAug 27 2020: A reference standard is available for Methyl-2-phenylacetate. To confirm its presence, this sample will be re-analyzed once a reference standard has been ordered and the lab receives it.",
+  "Image": "8956.jpg",
+  "table data left": {
+    "ID": "8956",
+    "Name": "Sleep Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "BB415",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Methyl-2-phenylacetate\n\n\n: 3 \n\nMethyl-2-phenylacetate aka Methyl 2-phenylacetoacetate; Methyl α-acetylphenylacetate",
+      "Phenylacetone\n\n\n: 1 \n\nPhenylacetone aka P2P; Phenyl-2-propanone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 28, 2020",
+    "Pub. Date": "Aug 28, 2020",
+    "Src Location": "Online",
+    "Submitter Loc": "Reno, NVUnited States",
+    "Color": "White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20080056"
+  }
+}

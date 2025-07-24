@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution because it contains more than 120mg of MDMA.",
+  "Image": "6968.jpg",
+  "table data left": {
+    "ID": "6968",
+    "Name": "Diamant",
+    "Other Names": "Diamond",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 160.80 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 18, 2019",
+    "Pub. Date": "Jan 25, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue",
+    "Size": "344.3 mg, 10.00 mm x 9.10 mm x 6.4 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201901-19"
+  }
+}

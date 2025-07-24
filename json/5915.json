@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued an alert for this tablet because it contains more than 120mg of MDMA. Another Green Pacman sample like this one was analyzed and contained 148 mg MDMA. No break line.\n\nThis tablet is part of a group of samples that were analyzed by checkit! between Dec 1 2017 and Jan 9 2018.",
+  "Image": "5915.jpg",
+  "table data left": {
+    "ID": "5915",
+    "Name": "Pacman",
+    "Other Names": "g",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 126 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 09, 2018",
+    "Pub. Date": "Jan 10, 2018",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Green",
+    "Size": "9.20 x 5.10",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201801-28"
+  }
+}

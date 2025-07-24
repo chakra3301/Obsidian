@@ -1,0 +1,35 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Cocaine",
+  "Lab Comments": "Not Available",
+  "Warning": "'Smooth.'",
+  "Image": "14960.jpg",
+  "table data left": {
+    "ID": "14960",
+    "Name": "Cocaine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "04237",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange",
+    "Liebermann": "Orange / Yellow",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Cocaine\n\n\n: 170 \n\nCocaine aka Crack, Coca",
+      "Benzoylecgonine\n\n\n: 40",
+      "Tetramisole / Levamisole\n\n\n: 40",
+      "Methylecgonidine\n\n\n: 10 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME",
+      "Tropacocaine\n\n\n: 1 \n\nTropacocaine aka tropacaine, benzoylpseudotropine, pseudotropine benzoate"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 05, 2022",
+    "Pub. Date": "Dec 05, 2022",
+    "Src Location": "New York, NY",
+    "Submitter Loc": "New York, NYUnited States",
+    "Color": "White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110101"
+  }
+}

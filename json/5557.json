@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this tablet contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.",
+  "Image": "5557.jpg",
+  "table data left": {
+    "ID": "5557",
+    "Name": "Sonne",
+    "Other Names": "Sun",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Amphetamine\n\n\n: 21.10 mg\n\nAmphetamine aka dextro- and/or levo-amphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 14, 2017",
+    "Pub. Date": "Jul 21, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue",
+    "Size": "231.7 mg, 6.50 mm x 5.00 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201707-8"
+  }
+}

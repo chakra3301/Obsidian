@@ -1,0 +1,33 @@
+{
+  "Sold as": "Norco",
+  "Expected to be": "Benzo",
+  "Lab Comments": "Aspirin ratio is at least 100.",
+  "Warning": "Not Available",
+  "Image": "16420.jpg",
+  "table data left": {
+    "ID": "16420",
+    "Name": "Watson 853",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Trac1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple - Brown",
+    "Liebermann": "Yellow-Brown",
+    "Froehde": "Blue-Gray",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Aspirin\n\n\n: 100 \n\nAspirin aka Acetyl Salicylic Acid",
+      "Tramadol\n\n\n: 9 \n\nTramadol aka Ultram",
+      "Clonazepam\n\n\n: 1 \n\nClonazepam aka Klonopin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 07, 2023",
+    "Pub. Date": "Jun 07, 2023",
+    "Src Location": "San Felipe, \nMexico",
+    "Submitter Loc": "Bay Area, CAUnited States",
+    "Color": "White",
+    "Size": "529 mg, 14.13 mm x 6.52 mm x 5.97 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050131"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "MDMA",
+  "Lab Comments": "MDMA & threo-4-Fluoromethylphenidate, sample analyzed twice.",
+  "Warning": "Not Available",
+  "Image": "4792.jpg",
+  "table data left": {
+    "ID": "4792",
+    "Name": "Anonymous",
+    "Other Names": "UGLYE",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Blue",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple, Gray, Brown in Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "MDMA\n\n\n: 7 \n\nMDMA aka Ecstasy, E, X",
+      "4-Fluoromethylphenidate\n\n\n: 1 \n\n4-Fluoromethylphenidate aka 4F-MPH; (�)-threo-4-Fluoromethylphenidate (hydrochloride)"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 29, 2016",
+    "Pub. Date": "Sep 29, 2016",
+    "Src Location": "New York, NY",
+    "Submitter Loc": "New York, NYUnited States",
+    "Color": "Purple",
+    "Size": "474 mg, 8.10 mm x 11.10 mm x 5.99 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160900090"
+  }
+}

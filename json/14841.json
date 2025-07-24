@@ -1,0 +1,33 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Heroin",
+  "Lab Comments": "Not Available",
+  "Warning": "'Very nice high, euphoric'.",
+  "Image": "14841.jpg",
+  "table data left": {
+    "ID": "14841",
+    "Name": "Heroin",
+    "Other Names": "Dog Food",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "838KC",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Magenta - Reddish Purple",
+    "Liebermann": "Brown",
+    "Froehde": "Purple - Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Heroin\n\n\n: 10 \n\nHeroin aka Diacetylmorphine",
+      "6-Acetylcodeine\n\n\n: 1 \n\n6-Acetylcodeine aka 6-Monoacetylcodeine",
+      "6-Acetylmorphine\n\n\n: 1 \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 30, 2022",
+    "Pub. Date": "Nov 30, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "La Mesa, CAUnited States",
+    "Color": "Tan",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110007"
+  }
+}

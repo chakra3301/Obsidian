@@ -1,0 +1,29 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Contains 748 mg/g 2C-B, 19 mg/g Amphetamine, and 26 mg/g Caffeine",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "15337",
+    "Name": "2C-B",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n  \n\n2C-B aka Bees",
+      "Amphetamine\n\n\n  \n\nAmphetamine aka dextro- and/or levo-amphetamine",
+      "Caffeine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 18, 2023",
+    "Pub. Date": "Jan 27, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202301-8"
+  }
+}

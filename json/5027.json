@@ -1,0 +1,27 @@
+{
+  "Sold as": "4-Methylpentedrone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this powder contains a drug other than the one it was sold as.",
+  "Image": "5027.jpg",
+  "table data left": {
+    "ID": "5027",
+    "Name": "4-Methylpentedrone",
+    "Other Names": "4-MPD",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CEC\n\n\n  \n\n4-CEC aka 4-Chloroethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 09, 2016",
+    "Pub. Date": "Dec 27, 2016",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201612-13"
+  }
+}

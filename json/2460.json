@@ -1,0 +1,33 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "This sample (like several others from this set) had two different chemicals the lab could not identify.",
+  "Image": "2460.jpg",
+  "table data left": {
+    "ID": "2460",
+    "Name": "White Tablet",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Dibenzylpiperazine\n\n\n: 12 \n\nDibenzylpiperazine aka 1,4-dibenzylpiperazine, DBZP",
+      "TFMPP\n\n\n: 10",
+      "Caffeine\n\n\n: 4",
+      "Unidentified\n\n\n: 2",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 18, 2012",
+    "Pub. Date": "Apr 18, 2012",
+    "Src Location": "Baton Rouge, LA",
+    "Submitter Loc": "Baton Rouge, LAUnited States",
+    "Color": "White / Off White",
+    "Size": "453 mg, 9.40 mm x 7.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120300119"
+  }
+}

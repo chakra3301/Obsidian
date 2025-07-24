@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The color and design in the photo is reminiscent of The Scream, if anyone knows the whole-sheet design of this blotter, let us know, info (at) drugsdata (dot) org .",
+  "Image": "15373.jpg",
+  "table data left": {
+    "ID": "15373",
+    "Name": "Blotter",
+    "Other Names": "Filz",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 25 ug\n\nLSD aka Acid, Doses",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 10, 2023",
+    "Pub. Date": "Jan 30, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Multicolor",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202301-12"
+  }
+}

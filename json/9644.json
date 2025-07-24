@@ -1,0 +1,30 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "The main component of the sample is N-ethylhexedrone; the amount of this substance cannot be precisely determined. Material is 12.4% lidocaine, 4.6% cocaine, and 0.8% levamisole.",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "9644.jpg",
+  "table data left": {
+    "ID": "9644",
+    "Name": "White Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Cocaine\n\n\n  \n\nCocaine aka Crack, Coca",
+      "Lidocaine",
+      "N-Ethylhexedrone\n\n\n  \n\nN-Ethylhexedrone aka Hexen; Hex-en",
+      "Tetramisole / Levamisole"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 05, 2021",
+    "Pub. Date": "Jan 11, 2021",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202101-7"
+  }
+}

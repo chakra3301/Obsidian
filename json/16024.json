@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Heroin",
+  "Lab Comments": "No drugs detected, entire sample used up in analysis.",
+  "Warning": "'Stronger'.",
+  "Image": "16024.jpg",
+  "table data left": {
+    "ID": "16024",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2951",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "None Detected\n\n\n: 1 \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 28, 2023",
+    "Pub. Date": "Apr 28, 2023",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23040049"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SafterParty issued a warning because this blotter contains a drug other than  LSD.",
+  "Image": "6412.jpg",
+  "table data left": {
+    "ID": "6412",
+    "Name": "LSD",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "DOC\n\n\n: 1.81 mg\n\nDOC aka 2,5-dimethoxy-4-chloroamphetamine",
+      "Synthesis Byproduct(s)\n\n\n  \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 17, 2018",
+    "Pub. Date": "Jul 21, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor / White",
+    "Size": "8.10 x 7.40",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201807-15"
+  }
+}

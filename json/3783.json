@@ -1,0 +1,31 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "LSD",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as MDMA in South Miami in June, 2015. Name Blue Dolphin, expected to be LSD",
+  "Image": "3783.jpg",
+  "table data left": {
+    "ID": "3783",
+    "Name": "Blue Dolphin",
+    "Other Names": "PPJJ5",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Very Slight Change",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Very Slight Change",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Very Slight Change",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Caffeine\n\n\n: 2",
+      "5-MeO-DiPT\n\n\n: 1 \n\n5-MeO-DiPT aka Foxy Methoxy"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 27, 2015",
+    "Pub. Date": "Aug 27, 2015",
+    "Src Location": "Miami, FL",
+    "Submitter Loc": "Miami, FLUnited States",
+    "Color": "Blue",
+    "Size": "276 mg, 8.10 mm x 5.10 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150800106"
+  }
+}

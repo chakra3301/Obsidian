@@ -1,0 +1,28 @@
+{
+  "Sold as": "Mescaline plus Amphetamine",
+  "Expected to be": "Mescaline plus Amphetamine",
+  "Lab Comments": "Not Available",
+  "Warning": "On 30th July 2016 a client of the drug-checking service near Turin submitted a sample for examination, initially thinking it  was a Mescaline + Amphetamine pill.\n\nThe pill was small and was blue coloured with the Superman logo. The sample was analysed using RAMAN Spectrometry and the result was Inconclusive. A GC/MS analysis reported 5-Meo-MiPT by library match.",
+  "Image": "5449.jpg",
+  "table data left": {
+    "ID": "5449",
+    "Name": "Superman",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Very Slight Change (slow)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "5-MeO-MiPT\n\n\n: 1 \n\n5-MeO-MiPT aka 5-Methoxy-N,N-Methylisopropyltryptamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 30, 2016",
+    "Pub. Date": "Jun 06, 2017",
+    "Src Location": "Turin, \nItaly",
+    "Submitter Loc": "Turin, --Italy",
+    "Color": "Blue",
+    "Size": "-",
+    "Data Source": "BAONPS",
+    "Tested by": "CAD",
+    "Lab's ID": "BI-2016-A16023"
+  }
+}

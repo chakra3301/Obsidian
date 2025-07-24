@@ -1,0 +1,34 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Don't Know / Not Specified",
+  "Lab Comments": "Unidentified substance appears to be a phenidate analogue (not methyl-, ethyl-, isopropyl- or propylphenidate, however). Best spectral match is methylphenidate but retention time is not a match.",
+  "Warning": "Sep 9 2022: The unidentified substance has been alternately identified as an artifact of ethylphenidate (thank you, Y.).\n\nMay 2020: There are four previously analyzed tablets that share similarities with this one... Sample 4132 (2016), \nSample 3652 (2015), \nSample 3337 (2014), and \nSample 2540 (2012).",
+  "Image": "8458.jpg",
+  "table data left": {
+    "ID": "8458",
+    "Name": "Purple",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PP514",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Red",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Tentative Identification - See Note\n\n\n: 4",
+      "5-MeO-DALT\n\n\n: 3 \n\n5-MeO-DALT aka 5-Methoxy-DALT, N,N-diallyl-5-methoxytryptamine",
+      "Methiopropamine\n\n\n: 2 \n\nMethiopropamine aka MPA, N-methyl-1-(thiophen-2-yl)propan-2-amine",
+      "Ethylphenylacetate\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 12, 2020",
+    "Pub. Date": "May 12, 2020",
+    "Src Location": "Brooklyn, NY",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Purple",
+    "Size": "322 mg, 8.20 mm x 4.90 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20050012"
+  }
+}

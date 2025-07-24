@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Square tablet with sign language hand sign for 'love'. SaferParty issued an 'extreme high dose' warning because this tablet contains more than 200mg of MDMA.",
+  "Image": "4899.jpg",
+  "table data left": {
+    "ID": "4899",
+    "Name": "Love",
+    "Other Names": "Hand",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 213.30 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 29, 2016",
+    "Pub. Date": "Nov 04, 2016",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Green",
+    "Size": "447.6 mg, 9.20 mm x 4.80 mm x 9.2 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201611-6"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it.\nTablet has a break line on reverse side.",
+  "Image": "9505.jpg",
+  "table data left": {
+    "ID": "9505",
+    "Name": "Rolls Royce",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 180.40 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 08, 2020",
+    "Pub. Date": "Dec 15, 2020",
+    "Src Location": "Lucerne, \nSwitzerland",
+    "Submitter Loc": "Lucerne, --Switzerland",
+    "Color": "Blue",
+    "Size": "456.4 mg, 8.20 mm x 12.30 mm x 4.4 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DILU",
+    "Lab's ID": "SP:202012-20"
+  }
+}

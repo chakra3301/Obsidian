@@ -1,0 +1,36 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Definitely not ketamine",
+  "Lab Comments": "Not Available",
+  "Warning": "Regarding isomers -- Our lab's techniques cannot distinguish stereoisomer composition of any substance we analyze. The ketamine portion could be racemic, 100% R-enantiomer and 0% S-enantiomer, 0% R-enantiomer and 100% S-enantiomer, or any ratio combination thereof.",
+  "Image": "14533.jpg",
+  "table data left": {
+    "ID": "14533",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "MYSTGFT",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue-Purple",
+    "Ehrlich": "Blue-Purple",
+    "Froehde": "Blue",
+    "Liebermann": "Red Brown",
+    "Morris": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_11": [
+      "MDA\n\n\n: 150",
+      "Ketamine\n\n\n: 25 \n\nKetamine aka Ketalar, Ketaset",
+      "Ketamine Precursor A\n\n\n: 1 \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 21, 2022",
+    "Pub. Date": "Oct 21, 2022",
+    "Src Location": "San Francisco, CA",
+    "Submitter Loc": "Oakland, CAUnited States",
+    "Color": "White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100028"
+  }
+}

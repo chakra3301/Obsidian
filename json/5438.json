@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Checkit! issued a High Dose Alert for this sample. Scored on reverse.",
+  "Image": "5438.jpg",
+  "table data left": {
+    "ID": "5438",
+    "Name": "Rolex",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 135 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 08, 2017",
+    "Pub. Date": "Jun 13, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink / Speckled",
+    "Size": "8.10 x 5.80",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201706-10"
+  }
+}

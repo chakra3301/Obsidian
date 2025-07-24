@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution because it contains more than 120mg of MDMA.\nTablet has a break line on reverse side.",
+  "Image": "6729.jpg",
+  "table data left": {
+    "ID": "6729",
+    "Name": "Kim Jong-Un",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 168 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 30, 2018",
+    "Pub. Date": "Nov 10, 2018",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Orange",
+    "Size": "452.4 mg",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201811-2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "Estradiol Enanthate",
+  "Expected to be": "Estradiol",
+  "Lab Comments": "Not Available",
+  "Warning": "Mar 28 2023: We ordered multiple versions of estradiol as physical lab standards that we compared against this sample as well as comparing against all known estradiol database library entries, and we found no indication of the presence of estradiol. The unidentified substance that was detected might be a glycerol related to the formulation.",
+  "Image": "14806.jpg",
+  "table data left": {
+    "ID": "14806",
+    "Name": "Clear Liquid",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022C056",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2022",
+    "Pub. Date": "Nov 25, 2022",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Clear",
+    "Size": "-",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100202"
+  }
+}

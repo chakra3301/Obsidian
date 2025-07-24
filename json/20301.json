@@ -1,0 +1,29 @@
+{
+  "Sold as": "Haschisch / Hash",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "CBD: 12.8 % \nTHC: 7.1 %\nDelta-8-THC not quantified",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a cannabinoid other than the ones naturally occurring in Cannabis.\n\nOriginal alert published by SaferParty (Switzerland) in July 2024.",
+  "Image": "20301.jpg",
+  "table data left": {
+    "ID": "20301",
+    "Name": "Adulterated Hash",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "CBD\n\n\n  \n\nCBD aka Cannabidiol",
+      "delta-8-THC",
+      "THC\n\n\n  \n\nTHC aka delta-9-THC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 25, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202408-10"
+  }
+}

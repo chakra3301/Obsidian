@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.\nTablet has a break line on reverse side.",
+  "Image": "7816.jpg",
+  "table data left": {
+    "ID": "7816",
+    "Name": "Champagner",
+    "Other Names": "Mo�t & Chandon",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 11.40 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 20, 2019",
+    "Pub. Date": "Sep 30, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Off White",
+    "Size": "201.6 mg, 13.10 mm x 4.10 mm x 3.9 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201909-12"
+  }
+}

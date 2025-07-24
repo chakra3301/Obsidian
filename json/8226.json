@@ -1,0 +1,32 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "8226.jpg",
+  "table data left": {
+    "ID": "8226",
+    "Name": "Pink Crystals",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ZZ999",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple - Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue Black",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 6 \n\nMDMA aka Ecstasy, E, X",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 07, 2020",
+    "Pub. Date": "Feb 07, 2020",
+    "Src Location": "Portland, OR",
+    "Submitter Loc": "Portland, ORUnited States",
+    "Color": "Red / Pink / Tan",
+    "Size": "224 mg, 8.00 mm x 23.20 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "2020-01-0085"
+  }
+}

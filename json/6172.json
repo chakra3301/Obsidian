@@ -1,0 +1,32 @@
+{
+  "Sold as": "Psilocybin (Liquid)",
+  "Expected to be": "Psilocybin or 4-AcO-DMT",
+  "Lab Comments": "Not Available",
+  "Warning": "Sender states that they acquired this material from a vendor (TWS) known for selling a 'liquid psilocybin' product. The EcstasyData crew is aware of the vendor, this product, and reports by users claiming that it is a mushroom extract. However, our lab found this sample to contain only 4-AcO-DMT, which is very similar in effects to psilocybin/psilocin, but no psilocybin or psilocin was detected. Our lab does not speculate whether there is any evidence of natural product extracts in this sample. \n\n4-AcO-DMT is a chemical produced in a synthetic lab and not currently known to be naturally occurring in any fungus.",
+  "Image": "6172.jpg",
+  "table data left": {
+    "ID": "6172",
+    "Name": "Psilocybin Liquid",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "SHRM7",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "Ehrlich": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "4-Acetoxy-DMT\n\n\n: 1 \n\n4-Acetoxy-DMT aka 4-AcO-DMT, O-Acetylpsilocin; Psilacetin, 4-acetoxy-N,N-dimethyltryptamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 22, 2018",
+    "Pub. Date": "Apr 24, 2018",
+    "Src Location": "Online, \nOnline",
+    "Submitter Loc": "Draper, UTUnited States",
+    "Color": "Clear",
+    "Size": "-",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180400055"
+  }
+}

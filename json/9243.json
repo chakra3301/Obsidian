@@ -1,0 +1,29 @@
+{
+  "Sold as": "Bath Salts",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Testing lab quantified caffeine (304 mg/g) + Lidocaine (282 mg/g) + MDPV (195 mg/g)",
+  "Warning": "Analyzed by checkit! (Vienna, Austria) in October 2020.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "9243",
+    "Name": "Bath Salts",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine",
+      "Lidocaine",
+      "MDPV\n\n\n  \n\nMDPV aka 3,4-methylenedioxypyrovalerone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 15, 2020",
+    "Pub. Date": "Oct 15, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202010-11"
+  }
+}

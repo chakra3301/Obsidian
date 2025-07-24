@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Solid white capsule with brown powder inside. Submitter writes: sold as unknown, name unknown, expected to be unknown. \n\nLab found no detectable active substances.",
+  "Image": "3156.jpg",
+  "table data left": {
+    "ID": "3156",
+    "Name": "White Capsule",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange to Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Red Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Red Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "None Detected\n\n\n: 1 \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 05, 2014",
+    "Pub. Date": "May 05, 2014",
+    "Src Location": "AB, \nCanada",
+    "Submitter Loc": "----, ABCanada",
+    "Color": "White",
+    "Size": "283 mg, 19.20 mm x 6.60 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140500006"
+  }
+}

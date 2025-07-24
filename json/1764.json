@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "25 tablets from related seizures. The Idaho State Police Forensics Laboratory in Meridian recently received four submissions of six types of tablets, suspected Ecstasy. The tablets were acquired or seized in Boise by the Boise Area Narcotics Drug Interdiction Taskforce. The first two submissions (totalling 25 yellow Bart Simpsons and 25 blue 'Autobot' Transformers) were acquired during undercover purchases. The third submission (25 each of green tablets with an Infiniti logo, orange tablets with a Batman bat logo, purple tablets with the JL Audio logo, and blue tablets with a dolphin logo); were also acquired during another undercover purchase from the same suspect. The fourth submission consisted of 300 more of the same type tablets acquired in the third undercover purchase (43 green Infinitis, 52 orange Batman bats, 90 purple JL Audios, and 115 blue dolphins), that were seized pursuant to a consent search of the suspect's room in a local motel. Analysis of the Bart Simpson and 'Autobot' Transformer tablets by color testing (Marquis, secondary amine, and cobalt thiocyanate) and GC/MS, however, indicated not MDMA but rather a 1 : 3 : 1 mixture of N-benzylpiperazine (BZP), 1,3-trifluoromethylphenylpiperazine (TFMPP), and 1,4-dibenzylpiperazine, adulterated with caffeine. Analysis of the Infiniti, bat, JL Audio, and dolphin tablets (same techniques) indicated a 3 : 2 mixture of BZP and TFMPP (no 1,4-dibenzylpiperazine), again adulterated with caffeine. The various components were not formally quantitated, but were present at a fairly high loading based on the TICs. The Idaho State Police Forensic laboratories have received several similar submissions over the past few months. [Editor's Notes: 'Autobots' are characters in the fictional 'Transformers' universe. The Portland Metro Forensic Laboratory of the Oregon State Police recently reported a similar seizure including different color Bart Simpson and 'Autobot' tablets, that were both found to contain a mixture of BZP and TFMPP; see: Microgram Bulletin 2008;41(12):105. Similar 'Decepticon' Transformer tablets (also a different color) were also reported by the Ohio Bureau of Criminal Identification and Investigation Laboratory in Bowling Green, and were found to contain a mixture of BZP, TFMPP, and caffeine; see: Microgram Bulletin 2009;42(1):3. In contrast to most Ecstasy and Ecstasy mimic tablets, these Bart Simpson and 'Transformers'-type tablets have been very detailed and well-pressed, and more resembled small candies or children's chewable vitamins; based on reports to date to  Microgram, however, none appear to actually contain any MDMA, but rather only mixtures of piperazines.]",
+  "Image": "1764.jpg",
+  "table data left": {
+    "ID": "1764",
+    "Name": "Bart Simpson",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "TFMPP\n\n\n: 3",
+      "BZP\n\n\n: 1 \n\nBZP aka Benzoyl Peroxide",
+      "Dibenzylpiperazine\n\n\n: 1 \n\nDibenzylpiperazine aka 1,4-dibenzylpiperazine, DBZP",
+      "Caffeine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2009",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Boise, ID",
+    "Submitter Loc": "Boise, IDUnited States",
+    "Color": "Yellow",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "090200_01"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Norco 10mg",
+  "Expected to be": "Hydrocodone / Acetaminophen",
+  "Lab Comments": "Not Available",
+  "Warning": "'Has been tried, gives an effect but not of an opioid. Tested 3 times (urine) all negative. Tested 2 times Fentanyl also negative'.",
+  "Image": "16313.jpg",
+  "table data left": {
+    "ID": "16313",
+    "Name": "M367",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Car57",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Tianeptine\n\n\n: 1 \n\nTianeptine aka Stablon, Coaxil"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 30, 2023",
+    "Pub. Date": "May 30, 2023",
+    "Src Location": "Long Beach, CA",
+    "Submitter Loc": "Long Beach, CAUnited States",
+    "Color": "White",
+    "Size": "432 mg, 15.24 mm x 7.09 mm x 5.19 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050108"
+  }
+}

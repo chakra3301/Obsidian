@@ -1,0 +1,31 @@
+{
+  "Sold as": "Xanax",
+  "Expected to be": "Alprazolam",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14765.jpg",
+  "table data left": {
+    "ID": "14765",
+    "Name": "GG 249",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "2WXF3",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Flualprazolam\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2022",
+    "Pub. Date": "Nov 25, 2022",
+    "Src Location": "Mesa, AZ",
+    "Submitter Loc": "Mesa, AZUnited States",
+    "Color": "White",
+    "Size": "274 mg, 15.13 mm x 5.09 mm x 2.83 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100234"
+  }
+}

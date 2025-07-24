@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this tablet contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.",
+  "Image": "6272.jpg",
+  "table data left": {
+    "ID": "6272",
+    "Name": "Smiley",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 11.40 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 29, 2018",
+    "Pub. Date": "Jun 02, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "141.2 mg, 7.10 mm x 7.10 mm x 3.3 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201806-3"
+  }
+}

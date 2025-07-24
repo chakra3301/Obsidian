@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Analyzed in May, June and August 2009.",
+  "Image": "1842.jpg",
+  "table data left": {
+    "ID": "1842",
+    "Name": "Mitsubishi",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "mCPP\n\n\n: 28 mg\n\nmCPP aka 1-(m-chlorophenyl)piperazine; m-Chlorophenylpiperazine, m-CPP; 1-(3-chlorophenyl)piperazine",
+      "Domperidone \n\n\n: 5 mg\n\nDomperidone  aka (Motilium, Motillium, Motinorm and Costi)",
+      "Metoclopramide\n\n\n: 1 mg\n\nMetoclopramide aka Maxolon, Reglan, Degan, Maxeran, Primperan, Pylomid"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2009",
+    "Pub. Date": "Dec 01, 2009",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "294.7 mg, 9.20 mm x 3.60 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": "sw0909_006"
+  }
+}

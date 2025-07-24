@@ -1,0 +1,31 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "'Works great for me but no effect for a friend who complained it was laced with amphetamine. Just wanted to get it tested to be sure.'",
+  "Image": "15139.jpg",
+  "table data left": {
+    "ID": "15139",
+    "Name": "Purple MDMA",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "MZM22",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Liebermann": "Red Brown",
+    "Froehde": "Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 23, 2022",
+    "Pub. Date": "Dec 23, 2022",
+    "Src Location": "Atlanta, GA",
+    "Submitter Loc": "Atlanta, GAUnited States",
+    "Color": "Purple / Clear",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22120023"
+  }
+}

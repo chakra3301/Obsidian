@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued an 'extreme high dose' warning because it contains more than 200mg of MDMA.\nTablet has a break line on reverse side.",
+  "Image": "6605.jpg",
+  "table data left": {
+    "ID": "6605",
+    "Name": "Panzer",
+    "Other Names": "Tank",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 253.80 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 14, 2018",
+    "Pub. Date": "Sep 21, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Tan / Brown",
+    "Size": "562.3 mg, 10.30 mm x 10.30 mm x 5.2 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201809-12"
+  }
+}

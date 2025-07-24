@@ -1,0 +1,43 @@
+{
+  "Sold as": "Fentanyl / Cocaine",
+  "Expected to be": "Fentanyl / Cocaine",
+  "Lab Comments": "Samples #13889, #13891, #13895, and a sample from July 2022 (#13614) contain the same unidentified substance. It appears to be some sort of impurity or analog of fentanyl.  [now Tentatively Identified, see below]",
+  "Warning": "Feb 14 2024: The tentative identification of the unspecified fentanyl synthesis byproduct in this sample is 1-(4-(phenethyl(phenyl)amino)piperidin-1-yl)propan-1-one. (Thank you, Y.)\n\nSep 21 2022: The previously unidentified substance in this sample is likely an inactive fentanyl synthesis byproduct.",
+  "Image": "13891.jpg",
+  "table data left": {
+    "ID": "13891",
+    "Name": "White Residue",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PT2022B0003",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Brown",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "Froehde": "No Reaction",
+    "Liebermann": "Light Yellow",
+    "Morris": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_12": [
+      "Phenethyl 4-ANPP\n\n\n: 26",
+      "Fentanyl\n\n\n: 10",
+      "4-ANPP\n\n\n: 2 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "4F-Phenethyl-4-ANPP\n\n\n: 2 \n\n4F-Phenethyl-4-ANPP aka Phenethyl-4F-4-ANPP; Phenethyl-4-Fluoro-4-ANPP; para-fluoro Phenethyl 4-ANPP",
+      "N-Propionylnorfentanyl\n\n\n: 2 \n\nN-Propionylnorfentanyl aka N-[1-(1-oxopropyl)-4-piperidinyl]-N-phenyl-propanamide",
+      "Synthesis Byproduct(s)\n\n\n: 2 \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis",
+      "4-Fluorofentanyl\n\n\n: 1 \n\n4-Fluorofentanyl aka Para-fluorofentanyl",
+      "Caffeine\n\n\n: 1",
+      "Ethyl-4-ANPP\n\n\n: 1 \n\nEthyl-4-ANPP aka Ethyl despropionyl Fentanyl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2022",
+    "Pub. Date": "Sep 01, 2022",
+    "Src Location": "Lawrence, MA",
+    "Submitter Loc": "Lawrence, MAUnited States",
+    "Color": "White / Tan",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22080045"
+  }
+}

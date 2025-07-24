@@ -1,0 +1,30 @@
+{
+  "Sold as": "Deschloroketamine",
+  "Expected to be": "2-Oxo-PCE",
+  "Lab Comments": "deschloro-N-ethyl-Ketamine",
+  "Warning": "Not Available",
+  "Image": "4765.jpg",
+  "table data left": {
+    "ID": "4765",
+    "Name": "Chlo",
+    "Other Names": "GGQQ1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Fizzing with Slight Color Change",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "2-Oxo-PCE\n\n\n: 1 \n\n2-Oxo-PCE aka deschloro-n-ethyl-ketamine; 2-DCNEK; Eticyclidone; O-PCE;"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 22, 2016",
+    "Pub. Date": "Sep 22, 2016",
+    "Src Location": "Newburg, NY",
+    "Submitter Loc": "Newburg, NYUnited States",
+    "Color": "White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160900047"
+  }
+}

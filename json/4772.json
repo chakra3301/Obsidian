@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an 'extreme high dose' warning because each tablet contains more than 200mg of MDMA.",
+  "Image": "4772.jpg",
+  "table data left": {
+    "ID": "4772",
+    "Name": "Tesla 1",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 231.40 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 21, 2016",
+    "Pub. Date": "Sep 28, 2016",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Orange / Red / Pink",
+    "Size": "509.5 mg, 10.70 mm x 11.30 mm x 5.8 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201609-13"
+  }
+}

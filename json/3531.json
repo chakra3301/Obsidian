@@ -1,0 +1,32 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Heroin",
+  "Lab Comments": "Not Available",
+  "Warning": "OpioPhobe comments on the contents of the results: \n\n6-monoacetylmorphine is quite potent opiate agonist that, like heroin, quickly gets metabolized to morphine.  I believe the metabolism of heroin generates either 3-mono or 6-monoacetlymorphine as an intermediary before it is metabolized to morphine.  6MAM is considered 'good stuff' by geeky users, though. Some folks attribute the fact that IV heroin generates the most euphoric opiate high due to the creation of 6MAM.  Heroin itself only has a half-life of something like 14 minutes.\n\nAcetylcodeine (aka 6-monoacetylcodeine) is a quite weak opiate, but it does show some binding affinity for the mu receptor, hence analgesia.  It has a potency of approximately 1/3 that of codeine.  I had to look that one up, see Ansonoff M, Grace R. 'Codeine and 6-acetylcodeine analgesia in mice.' Cellular and Molecular Neurobiology. 11/2006; 26(4-6):1011-9. \n\nThe actylcodeine (i.e. 6-monoacetylcodeine) gets rapidly metabolized to codeine, which, in turn, is metabolized into morphine.  The reason the acetylcodeine is a problem is due to the fact that you want to avoid IVing the drug. I assume that is due to the same reason you want to avoid IVing codeine (pulmonary edema that can be fatal).  I have heard stories about people IVing codeine and being OK, but the medical community sees a huge risk with it.  At a minimum though, it causes wicked histamine release and one would probably just get pins and needles.",
+  "Image": "3531.jpg",
+  "table data left": {
+    "ID": "3531",
+    "Name": "Heroin Powder",
+    "Other Names": "Realdope 31679",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Magenta - Reddish Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Heroin\n\n\n: 3 \n\nHeroin aka Diacetylmorphine",
+      "6-Acetylmorphine\n\n\n: 2 \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM",
+      "Acetylcodeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 24, 2015",
+    "Pub. Date": "Mar 24, 2015",
+    "Src Location": "Online",
+    "Submitter Loc": "Online, --United States",
+    "Color": "Off White / Brown",
+    "Size": "400 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150300106"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Notes from the lab: \n\n1) 4-ACO-DMT has been ruled out.  \n\n2) bk-MDDMA is the best library match; however, other similar compounds are not ruled out as the library matches are also good.  For instance, it is also a good match for MDCATH and one of the analogs of methcathinone (good match to mass spectra 2B provided by the US DEA article  (http://www.justice.gov/dea/pr/microgram-journals/2010/mj7-2_42-49.pdf).",
+  "Image": "3077.jpg",
+  "table data left": {
+    "ID": "3077",
+    "Name": "Capsule with White Powder",
+    "Other Names": "PTJER",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Orange",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "bk-MDDMA\n\n\n: 1 \n\nbk-MDDMA aka Dimethylone; beta-keto Methylenedioxy Dimethylamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 17, 2014",
+    "Pub. Date": "Feb 17, 2014",
+    "Src Location": "Petaluma, CA",
+    "Submitter Loc": "Petaluma, CAUnited States",
+    "Color": "White",
+    "Size": "114 mg, 23.40 mm x 7.40 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140200062"
+  }
+}

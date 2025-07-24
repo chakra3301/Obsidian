@@ -1,0 +1,30 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "8839.jpg",
+  "table data left": {
+    "ID": "8839",
+    "Name": "Cocaine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020B084",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Cocaine\n\n\n: 1 \n\nCocaine aka Crack, Coca",
+      "Methylecgonidine\n\n\n: trace \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME",
+      "Tropacocaine\n\n\n: trace \n\nTropacocaine aka tropacaine, benzoylpseudotropine, pseudotropine benzoate"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 04, 2020",
+    "Pub. Date": "Aug 04, 2020",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Lynn, MAUnited States",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20070111"
+  }
+}

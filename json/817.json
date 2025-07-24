@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Information was submitted with this tablet saying that a Marquis test had turned \"bright yellow fairly quickly\", and Mecke test had turned \"slow to pale yellow\".  The lab found different results with both the Marquis and Mecke tests showing no reaction.  We don't have a good explanation for this at this time.  One possible explanation is that the outside of the tablet may have been contaminated with another substance.",
+  "Image": "817.jpg",
+  "table data left": {
+    "ID": "817",
+    "Name": "Plain Tablet",
+    "Other Names": "Blank",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Simon's": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 20, 2002",
+    "Pub. Date": "Feb 20, 2002",
+    "Src Location": "Fort Worth, TX",
+    "Submitter Loc": "Fort Worth, TXUnited States",
+    "Color": "Purple",
+    "Size": "686 mg, 11.00 mm x 7.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20020200126"
+  }
+}

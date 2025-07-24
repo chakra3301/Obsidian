@@ -1,0 +1,28 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Checkit! issued a warning about this sample of powder containing 341 mg/g of ketamine and 4-CEC.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "5441",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CEC\n\n\n  \n\n4-CEC aka 4-Chloroethcathinone",
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 08, 2017",
+    "Pub. Date": "Jun 13, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201706-13"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Ketamine",
+  "Lab Comments": "Apr 27 2023: This sample was originally reported as containing Fluorexetamine (3-Fluoro-2-oxo PCE). A certified reference standard became available for 2-Fluoro-2-oxo PCE in early 2023.\n\nAll samples analyzed by the DrugsData lab prior to early 2023 that were reported as containing Fluorexetamine have been reexamined in comparison to this new standard. They have all been retroactively revised; they all contain 2-Fluoro-2-oxo PCE, including this sample. To date, no samples tested by DrugsData have contained 3-Fluoro-2-oxo PCE.",
+  "Warning": "'Really fast onset, tripping for 6 hours (def not ketamine)'.",
+  "Image": "15292.jpg",
+  "table data left": {
+    "ID": "15292",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B1425A",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "2-Fluoro-2-oxo-PCE\n\n\n: 1 \n\n2-Fluoro-2-oxo-PCE aka 2-FDCNEK; 2-fluoro NENDCK; 2-fluoro NENDCK; 2-fluorodeschloro-N-ethyl-ketamine; CanKet"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 04, 2023",
+    "Pub. Date": "Jan 04, 2023",
+    "Src Location": "New York, NY",
+    "Submitter Loc": "New York, NYUnited States",
+    "Color": "White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22120172"
+  }
+}

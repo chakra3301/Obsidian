@@ -1,0 +1,29 @@
+{
+  "Sold as": "5-APB",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "APB + APDB isomers not differentiated, closest matches are 5-APB and 5-APDB.",
+  "Warning": "Not Available",
+  "Image": "13471.jpg",
+  "table data left": {
+    "ID": "13471",
+    "Name": "5-APB",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "5APB2",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "APB (isomer not specified)\n\n\n: 50",
+      "APDB (isomer not specified)\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 07, 2022",
+    "Pub. Date": "Jul 07, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Seattle, WAUnited States",
+    "Color": "Tan",
+    "Size": "20 mg, 13.93 mm x 5.10 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22060167"
+  }
+}

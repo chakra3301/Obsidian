@@ -1,0 +1,27 @@
+{
+  "Sold as": "Mephedrone / 4-MMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a drug other than the one it was represented as.\n\nOriginal alert published by SaferParty (Switzerland) in July 2024.",
+  "Image": "20253.jpg",
+  "table data left": {
+    "ID": "20253",
+    "Name": "Gray/White Crystals",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2-Methylmethcathinone\n\n\n  \n\n2-Methylmethcathinone aka 2-MMC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 11, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Lausanne, \nSwitzerland",
+    "Submitter Loc": "Lausanne, --Switzerland",
+    "Color": "Gray / White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Nightlife Vaud",
+    "Lab's ID": "SP:202407-63"
+  }
+}

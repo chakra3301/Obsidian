@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "LSD",
+  "Lab Comments": "Not Available",
+  "Warning": "On 25th June 2016 a client of the drug-checking service in Perugia submitted a sample for examination, initially thinking it  was a LSD blotter dosed with 125�g. The blotter was red and black coloured.\n\nThe sample was analysed using RAMAN Spectrometry and the result was Inconclusive. The sample was submitted to a colorimetric test (Ehrlich) by Infoshock. When it was analysed with GC-MS the result was 25I-NBOMe.",
+  "Image": "5447.jpg",
+  "table data left": {
+    "ID": "5447",
+    "Name": "LSD",
+    "Other Names": "Blotter",
+    "Ehrlich": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "25I-NBOMe\n\n\n: 1 \n\n25I-NBOMe aka 2C-I-NBOMe; 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 25, 2016",
+    "Pub. Date": "Jun 06, 2017",
+    "Src Location": "Perugia, \nItaly",
+    "Submitter Loc": "Perugia, --Italy",
+    "Color": "Multicolor",
+    "Size": "-",
+    "Data Source": "BAONPS",
+    "Tested by": "CAD",
+    "Lab's ID": "BI-2016-A16020"
+  }
+}

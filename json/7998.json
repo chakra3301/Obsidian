@@ -1,0 +1,32 @@
+{
+  "Sold as": "Vicodin",
+  "Expected to be": "Hydrocodone 10/325",
+  "Lab Comments": "Ratio of Acetaminophen >25.",
+  "Warning": "Not Available",
+  "Image": "7998.jpg",
+  "table data left": {
+    "ID": "7998",
+    "Name": "M367",
+    "Other Names": "Hydrocodone",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "MG114",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 25",
+      "Hydrocodone\n\n\n: 1 \n\nHydrocodone aka Vicodin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2019",
+    "Pub. Date": "Nov 25, 2019",
+    "Src Location": "Worcester, MA",
+    "Submitter Loc": "Worcester, MAUnited States",
+    "Color": "White",
+    "Size": "421 mg, 15.00 mm x 7.20 mm x 4.95 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20191100053"
+  }
+}

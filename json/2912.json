@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "2912",
+    "Name": "Los Vengadores",
+    "Other Names": "",
+    "Sold As / Expected": "LSD",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "25C-NBOMe\n\n\n: --- \n\n25C-NBOMe aka 2C-C-NBOMe; 2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+      "Synthesis Byproduct(s)\n\n\n: --- \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 01, 2013",
+    "Pub. Date": "Sep 10, 2013",
+    "Src Location": "Spain",
+    "Submitter Loc": "----, --Spain",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "Energy Control",
+    "Tested by": "Energy Control",
+    "Lab's ID": "2013_1830"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "Cannabis",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains cannabinoids other than the ones naturally occurring in Cannabis.",
+  "Image": "8462.jpg",
+  "table data left": {
+    "ID": "8462",
+    "Name": "Adulterated Cannabis",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "CBD\n\n\n  \n\nCBD aka Cannabidiol",
+      "MDMB-4en-PINACA\n\n\n  \n\nMDMB-4en-PINACA aka 5-CL-ADB-A; 5CI-ADB-A",
+      "THJ-018\n\n\n  \n\nTHJ-018 aka 1-naphthalenyl(1-pentyl-1H-indazol-3-yl)-methanone;  JWH-018 indazole analog"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 12, 2020",
+    "Pub. Date": "May 18, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green / Brown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202005-14"
+  }
+}

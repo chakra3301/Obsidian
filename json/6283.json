@@ -1,0 +1,32 @@
+{
+  "Sold as": "Watson 853",
+  "Expected to be": "Hydrocodone",
+  "Lab Comments": "UPDATE 8/29/2019: Ratio of 12:1 N-Benzylfuranylfentanyl with alprazolam. Hydrocodone ruled out.",
+  "Warning": "Aug 29, 2019: N-Benzylfuranylfentanyl suggested as identification of the major part of this sample, and lab confirms the spectra match. Changed from 'Unidentified' to N-Benzylfuranylfentanyl.",
+  "Image": "6283.jpg",
+  "table data left": {
+    "ID": "6283",
+    "Name": "Watson 853",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AWWST",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "N-Benzylfuranylfentanyl\n\n\n: 12 \n\nN-Benzylfuranylfentanyl aka N-benzyl Furanyl norfentanyl",
+      "Alprazolam\n\n\n: 1 \n\nAlprazolam aka Xanax"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 02, 2018",
+    "Pub. Date": "Jun 04, 2018",
+    "Src Location": "Online",
+    "Submitter Loc": "Bay City, TXUnited States",
+    "Color": "White",
+    "Size": "446 mg, 6.10 mm x 14.10 mm x 5.88 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180500086"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "20248.jpg",
+  "table data left": {
+    "ID": "20248",
+    "Name": "UPS",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 13 mg\n\n2C-B aka Bees",
+      "2-Br-4,5-DMPEA\n\n\n: 5 mg\n\n2-Br-4,5-DMPEA aka 2-Bromo-4,5-Dimethoxyphenethylamine",
+      "2C-H\n\n\n: 0 mg\n\n2C-H aka 2,5-dimethoxyphenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 17, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Yellow",
+    "Size": "450.7 mg, 13.70 mm x 11.50 mm x 3.9 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202407-58"
+  }
+}

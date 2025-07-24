@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "'4.0 x 4/4 mm (1/8 dose unit blotter) [...] 14.2 mg DOC calculated from 1/8'",
+  "Warning": "Feb 28 2020: DrugsData crew reaching out to SaferParty for details about the dose unit / dose calculation.",
+  "Image": "8326.jpg",
+  "table data left": {
+    "ID": "8326",
+    "Name": "Blotter",
+    "Other Names": "Filz",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "DOC\n\n\n: 14.20 mg\n\nDOC aka 2,5-dimethoxy-4-chloroamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 15, 2020",
+    "Pub. Date": "Feb 28, 2020",
+    "Src Location": "Geneva, \nSwitzerland",
+    "Submitter Loc": "Geneva, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "4.00 x 4.40",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "201SP:202002-28"
+  }
+}

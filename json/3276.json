@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "In July, 2015, we received word from a visitor that they had a confirmed sample of 6-APDB and their marquis reagent color was very different from this sample. The marquis spot color they saw was a dark purple.",
+  "Image": "3276.jpg",
+  "table data left": {
+    "ID": "3276",
+    "Name": "6-MAPB Powder",
+    "Other Names": "ASK14",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Red Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "5-APDB\n\n\n: 1 \n\n5-APDB aka 5-(2-Aminopropyl)-2,3-dihydrobenzofuran, 3-Desoxy-MDA, EMA-4"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 10, 2014",
+    "Pub. Date": "Sep 10, 2014",
+    "Src Location": "Unknown, Unknown, \nUnknown",
+    "Submitter Loc": "Unknown, UnknownUnknown",
+    "Color": "Off White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140900034"
+  }
+}

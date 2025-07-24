@@ -1,0 +1,31 @@
+{
+  "Sold as": "5-MAPB + 5-MeO-MiPT + 2-FMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert for it.\n\nAnalyzed by checkit! (Vienna, Austria) in June 2022.",
+  "Image": "13477.jpg",
+  "table data left": {
+    "ID": "13477",
+    "Name": "Pink Star",
+    "Other Names": "Boom!",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2-FMA\n\n\n  \n\n2-FMA aka 2-Fluoromethamphetamine",
+      "5-MAPB\n\n\n  \n\n5-MAPB aka 1-(benzofuran-5-yl)-N-methylpropan-2-amine",
+      "5-MeO-MiPT\n\n\n  \n\n5-MeO-MiPT aka 5-Methoxy-N,N-Methylisopropyltryptamine",
+      "Unidentified",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 30, 2022",
+    "Pub. Date": "Jul 07, 2022",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "230 mg, 8.90 mm x 4.00 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202207-10"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1976.jpg",
+  "table data left": {
+    "ID": "1976",
+    "Name": "Batman",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 12.60 mg",
+      "MDMA\n\n\n: 8.60 mg\n\nMDMA aka Ecstasy, E, X",
+      "Amphetamine\n\n\n: 7.20 mg\n\nAmphetamine aka dextro- and/or levo-amphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2009",
+    "Pub. Date": "Aug 31, 2010",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue / Speckled",
+    "Size": "219.8 mg, 9.10 mm x 3.10 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": ""
+  }
+}

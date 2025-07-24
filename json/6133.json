@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "raveitsafe and SaferParty issued a 'high dose' caution because this tablet contains more than 120mg of MDMA.",
+  "Image": "6133.jpg",
+  "table data left": {
+    "ID": "6133",
+    "Name": "EA7",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 158.90 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 28, 2018",
+    "Pub. Date": "Apr 06, 2018",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Yellow",
+    "Size": "339 mg, 12.00 mm x 10.60 mm x 3.9 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201804-3"
+  }
+}

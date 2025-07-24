@@ -1,0 +1,32 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Heroin",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "8992.jpg",
+  "table data left": {
+    "ID": "8992",
+    "Name": "Heroin",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020C052",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Heroin\n\n\n: 8 \n\nHeroin aka Diacetylmorphine",
+      "Diphenhydramine\n\n\n: 6 \n\nDiphenhydramine aka Benadryl",
+      "6-Acetylmorphine\n\n\n: 2 \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM",
+      "Acetylcodeine\n\n\n: 2",
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 03, 2020",
+    "Pub. Date": "Sep 03, 2020",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20080095"
+  }
+}

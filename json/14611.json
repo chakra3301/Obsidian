@@ -1,0 +1,33 @@
+{
+  "Sold as": "Xanax",
+  "Expected to be": "Xanax",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14611.jpg",
+  "table data left": {
+    "ID": "14611",
+    "Name": "Green Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0837A",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "Benzodiazepine Test Strip": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_10": [
+      "Clonazolam\n\n\n: 1 \n\nClonazolam aka Clonitrazolam"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 02, 2022",
+    "Pub. Date": "Nov 02, 2022",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "Green",
+    "Size": "200 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100106"
+  }
+}

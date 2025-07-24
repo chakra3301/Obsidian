@@ -1,0 +1,35 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Possible degradation of one compound producing 4 peaks.\n\nUnidentified Substance #1: 6 parts\n\nUnidentified Substance #2: 6 parts\n\nUnidentified Substance #3: 1 part\n\nUnidentified Substance #4: 1 part",
+  "Warning": "Not Available",
+  "Image": "14731.jpg",
+  "table data left": {
+    "ID": "14731",
+    "Name": "Tan Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B1137",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "Unidentified\n\n\n: 6",
+      "Unidentified\n\n\n: 6",
+      "Unidentified\n\n\n: 1",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 29, 2022",
+    "Pub. Date": "Nov 29, 2022",
+    "Src Location": "Gloucester, MA",
+    "Submitter Loc": "Gloucester, MAUnited States",
+    "Color": "Tan / Yellow",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100163"
+  }
+}

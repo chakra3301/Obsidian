@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as MDA.",
+  "Image": "3205.jpg",
+  "table data left": {
+    "ID": "3205",
+    "Name": "Tan Capsule",
+    "Other Names": "5ABZ2",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Turquoise",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue to Dark Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "5-MAPB\n\n\n: 1 \n\n5-MAPB aka 1-(benzofuran-5-yl)-N-methylpropan-2-amine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 25, 2014",
+    "Pub. Date": "Jul 10, 2014",
+    "Src Location": "Columbus, OH",
+    "Submitter Loc": "Columbus, OHUnited States",
+    "Color": "Off White",
+    "Size": "274 mg, 22.90 mm x 7.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140600117"
+  }
+}

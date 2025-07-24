@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! included this tablet in its Dec 2014 alert sheet. Tablet imprint is a Bitcoin currency symbol; same imprint on reverse side.",
+  "Image": "5167.jpg",
+  "table data left": {
+    "ID": "5167",
+    "Name": "Bitcoin",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "1,1-diphenylprolinol\n\n\n: 116 mg\n\n1,1-diphenylprolinol aka  D2PM; Diphenylprolinol; Diphenyl-2-pyrrolidinemethanol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2014",
+    "Pub. Date": "Feb 17, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Orange",
+    "Size": "12.70 x 4.50",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201412-07"
+  }
+}

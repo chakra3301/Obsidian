@@ -1,0 +1,27 @@
+{
+  "Sold as": "1P-LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! analyzed this sample of blotter.",
+  "Image": "6228.jpg",
+  "table data left": {
+    "ID": "6228",
+    "Name": "1P-LSD",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "1P-LSD"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 15, 2018",
+    "Pub. Date": "May 15, 2018",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "White / Black",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201805-17"
+  }
+}

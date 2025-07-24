@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "bk-MBDB is a library match only and cannot be confirmed 100% by the lab, though it is very likely correct.",
+  "Warning": "Not Available",
+  "Image": "2464.jpg",
+  "table data left": {
+    "ID": "2464",
+    "Name": "Molly",
+    "Other Names": "Yellow Capsule",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Unidentified\n\n\n: 1.30",
+      "bk-MBDB\n\n\n: 1.00 \n\nbk-MBDB aka Butylone, 2-methylamino-1-(3,4-methylenedioxyphenyl)butan-1-one"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 18, 2012",
+    "Pub. Date": "Apr 18, 2012",
+    "Src Location": "Fort Myers, FL",
+    "Submitter Loc": "Fort Myers, FLUnited States",
+    "Color": "Yellow",
+    "Size": "161 mg, 11.60 mm x 5.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120300158"
+  }
+}

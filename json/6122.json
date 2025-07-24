@@ -1,0 +1,31 @@
+{
+  "Sold as": "4-Methylmethcathinone / 4-MMC / Mephedrone",
+  "Expected to be": "4-MMC",
+  "Lab Comments": "Not Available",
+  "Warning": "Crystalline white powder sample submitted from the United Kingdom.\n\nEcstasyData is not allowed to provide quantitative results for samples it analyzes (non-active diluents/cuts can not be reported even if they might be present). Our lab is constrained by rules determined by the US DEA.\n\nThe lab's techniques cannot distinguish between stereo isomers composition of any substance we analyze. A result saying '4-Methylmethcathinone : 1' could be 50/50 R-enantiomer & S-enantiomer or 0% R-enantiomer and 100% S-enantiomer or any combination thereof.",
+  "Image": "6122.jpg",
+  "table data left": {
+    "ID": "6122",
+    "Name": "4-Methylmethcathinone",
+    "Other Names": "4MMC; Mephedrone",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "0418UKM",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-Methylmethcathinone\n\n\n: 1 \n\n4-Methylmethcathinone aka Mephedrone, 4-MMC, 4-MMC, Meow, M-Cat, 2-Methylamino-1-p-tolylpropan-1-one"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 06, 2018",
+    "Pub. Date": "Apr 06, 2018",
+    "Src Location": "Online, \nOnline",
+    "Submitter Loc": "----, --United Kingdom",
+    "Color": "White",
+    "Size": "2000 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180400010"
+  }
+}

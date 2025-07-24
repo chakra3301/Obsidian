@@ -1,0 +1,30 @@
+{
+  "Sold as": "Cannabis",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "In their alert, the testing organization refers to '5CI-ADB-A', a cannabinoid more commonly known as MDMB-4en-PINACA. It's listed on DrugsData as MDMB-4en-PINACA.",
+  "Image": "8429.jpg",
+  "table data left": {
+    "ID": "8429",
+    "Name": "Adulterated Cannabis",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4F-MDMB-BINACA\n\n\n  \n\n4F-MDMB-BINACA aka cannabinoid; 4F-MDMB-BUTINACA; 4-fluoro MDMB-BINACA",
+      "5F-MDMB-PICA\n\n\n  \n\n5F-MDMB-PICA aka MDMB-2201; 5F-MDMB-2201",
+      "CBD\n\n\n  \n\nCBD aka Cannabidiol",
+      "MDMB-4en-PINACA\n\n\n  \n\nMDMB-4en-PINACA aka 5-CL-ADB-A; 5CI-ADB-A"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 28, 2020",
+    "Pub. Date": "May 04, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green / Brown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202005-5"
+  }
+}

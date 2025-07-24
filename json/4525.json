@@ -1,0 +1,27 @@
+{
+  "Sold as": "Mephedrone",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "4525.jpg",
+  "table data left": {
+    "ID": "4525",
+    "Name": "Mephedrone",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-Methylmethcathinone\n\n\n: 1 \n\n3-Methylmethcathinone aka 3-MMC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 30, 2016",
+    "Pub. Date": "Jun 30, 2016",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201606-12"
+  }
+}

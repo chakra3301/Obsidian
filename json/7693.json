@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it.\n\nTested in Innsbruck, Austria in August 2019.",
+  "Image": "7693.jpg",
+  "table data left": {
+    "ID": "7693",
+    "Name": "Affe",
+    "Other Names": "No Hear; Monkey",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 170 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 19, 2019",
+    "Pub. Date": "Aug 19, 2019",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Green",
+    "Size": "388 mg",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201908-12"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "3.5mg Alprazolam",
+  "Expected to be": "Alprazolam",
+  "Lab Comments": "Not Available",
+  "Warning": "The submitter asked for the 'exact amount in milligrams'. Please note that EcstasyData does not provide quantitative results for any of the testing through our program.\n\nSee Frequently Asked Questions.",
+  "Image": "4005.jpg",
+  "table data left": {
+    "ID": "4005",
+    "Name": "Xanax Bar",
+    "Other Names": "04676",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Alprazolam\n\n\n: 1 \n\nAlprazolam aka Xanax"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 26, 2015",
+    "Pub. Date": "Nov 27, 2015",
+    "Src Location": "Santa Barbara, CA",
+    "Submitter Loc": "Santa Barbara, CAUnited States",
+    "Color": "White",
+    "Size": "265 mg, 15.10 mm x 5.10 mm x 3.32 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20151100100"
+  }
+}

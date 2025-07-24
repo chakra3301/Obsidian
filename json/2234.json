@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Composition of Ivory Wave can vary from sample to sample.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "2234",
+    "Name": "Ivory Wave",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "1,1-diphenylprolinol\n\n\n: 8 \n\n1,1-diphenylprolinol aka  D2PM; Diphenylprolinol; Diphenyl-2-pyrrolidinemethanol",
+      "MDPV\n\n\n: 1 \n\nMDPV aka 3,4-methylenedioxypyrovalerone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 31, 2010",
+    "Pub. Date": "Jul 27, 2011",
+    "Src Location": "Spain",
+    "Submitter Loc": "----, --Spain",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "Energy Control",
+    "Tested by": "Energy Control",
+    "Lab's ID": "20101203"
+  }
+}

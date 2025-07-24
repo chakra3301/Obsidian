@@ -1,0 +1,27 @@
+{
+  "Sold as": "4-Methylmethcathinone, Mephedrone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this powder is a drug other than Mephedrone.",
+  "Image": "6135.jpg",
+  "table data left": {
+    "ID": "6135",
+    "Name": "Mephedrone",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Mexedrone\n\n\n  \n\nMexedrone aka 3-methoxy-2-(methylamino)-1-(p-tolyl)propan-1-one"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 10, 2018",
+    "Pub. Date": "Apr 17, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201804-5"
+  }
+}

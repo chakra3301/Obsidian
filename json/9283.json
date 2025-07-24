@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued an 'extreme high dose' warning for it.",
+  "Image": "9283.jpg",
+  "table data left": {
+    "ID": "9283",
+    "Name": "Eule Panama",
+    "Other Names": "Owl",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 200.80 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 21, 2020",
+    "Pub. Date": "Oct 26, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue",
+    "Size": "504.1 mg, 12.20 mm x 11.20 mm x 4.6 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202010-29"
+  }
+}

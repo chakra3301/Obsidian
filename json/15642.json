@@ -1,0 +1,31 @@
+{
+  "Sold as": "5-MeO-DMT",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Mar 8 2023: *-MeO-DMT identified, presumably 5-MeO-DMT. Certified reference standards are newly available for 4-MeO-DMT and 6-MeO-DMT, and the lab has ordered some. They are going to run this sample again to see whether there are any surprises. It might be months before we see the results of any analysis with the new standards. Check back for updates.",
+  "Image": "15642.jpg",
+  "table data left": {
+    "ID": "15642",
+    "Name": "5-MeO-DMT",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "sg5me",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Green with Orange",
+    "Liebermann": "Red Brown",
+    "Froehde": "Yellow-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "5-MeO-DMT\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 08, 2023",
+    "Pub. Date": "Mar 08, 2023",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "Brown",
+    "Size": "50 mg, 13.63 mm x 5.01 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23020079"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Methamphetamine",
+  "Expected to be": "Isopropylbenzylamine (and/or fentanyl)",
+  "Lab Comments": "Not Available",
+  "Warning": "''It closely resembles methamphetamine in appearance but does not have any of the effects of meth. It is softer than meth and is easily crushed. It smokes like meth but takes longer to melt and longer to cool down... The effects are lethargy, confusion, difficulty making decisions, headaches, etc.''",
+  "Image": "15103.jpg",
+  "table data left": {
+    "ID": "15103",
+    "Name": "Methamphetamine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "A1492",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Red",
+    "Liebermann": "Orange",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 20, 2022",
+    "Pub. Date": "Dec 20, 2022",
+    "Src Location": "Placerville, CA",
+    "Submitter Loc": "Sacramento, CAUnited States",
+    "Color": "White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110201"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. Tablet does not have a break line.",
+  "Image": "6211.jpg",
+  "table data left": {
+    "ID": "6211",
+    "Name": "Herz",
+    "Other Names": "Heart",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 139.20 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 04, 2018",
+    "Pub. Date": "May 09, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Gray",
+    "Size": "342.2 mg, 9.50 mm x 8.40 mm x 5.9 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201805-3"
+  }
+}

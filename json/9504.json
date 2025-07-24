@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit of blotter issued a 'high dose' caution for it because it contains over 150 micrograms of LSD.",
+  "Image": "9504.jpg",
+  "table data left": {
+    "ID": "9504",
+    "Name": "LSD-Filz",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 155 ug\n\nLSD aka Acid, Doses",
+      "Iso-LSD\n\n\n: 5 ug"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 08, 2020",
+    "Pub. Date": "Dec 15, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "24.40 x 17.20",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202012-19"
+  }
+}

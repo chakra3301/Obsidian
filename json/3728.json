@@ -1,0 +1,30 @@
+{
+  "Sold as": "Molly",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as Molly expected to be MDMA.\n\nEcstasyData: Sample contained only the synthetic cannabinoid receptor agonist AB-FUBINACA. This type of chemical is normally sold as a cannabis replacement. It is unusual to find it sold as a euphoric stimulant / ecstasy / molly replacement.",
+  "Image": "3728.jpg",
+  "table data left": {
+    "ID": "3728",
+    "Name": "Molly Powder",
+    "Other Names": "XZ226",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Very Slight Change",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "AB-FUBINACA\n\n\n: 1 \n\nAB-FUBINACA aka Cannabinoid; N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 05, 2015",
+    "Pub. Date": "Aug 05, 2015",
+    "Src Location": "San Jose, CA",
+    "Submitter Loc": "San Jose, CAUnited States",
+    "Color": "Off White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150700136"
+  }
+}

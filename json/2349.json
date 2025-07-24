@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as Ecstasy, suspect to be 2C-I. Acquired August 2011.",
+  "Image": "2349.jpg",
+  "table data left": {
+    "ID": "2349",
+    "Name": "Transformer",
+    "Other Names": "Blue Starscream",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "5-MeO-DiPT\n\n\n: 1 \n\n5-MeO-DiPT aka Foxy Methoxy",
+      "Caffeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 17, 2011",
+    "Pub. Date": "Dec 17, 2011",
+    "Src Location": "Attleboro, MA",
+    "Submitter Loc": "Attleboro, MAUnited States",
+    "Color": "Blue",
+    "Size": "276 mg, 8.30 mm x 10.40 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20111200005"
+  }
+}

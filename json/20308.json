@@ -1,0 +1,27 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it and an information alert because it contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.\n\nOriginal alert published by SaferParty (Switzerland) in July 2024.",
+  "Image": "20308.jpg",
+  "table data left": {
+    "ID": "20308",
+    "Name": "Goomba / 1-Up",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 16 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 26, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue",
+    "Size": "200.1 mg, 9.20 mm x 8.70 mm x 3.5 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202408-17"
+  }
+}

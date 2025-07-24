@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as. Their warning includes the language: '4F-MDMB-BINACA has a chemical structure similar to 5F-MDMB-PINACA. 5F-MDMB-PINACA has been associated with 24 deaths in Europe!'\n\n[Analyzed in Bern, Switzerland in February 2020.]",
+  "Image": "8255.jpg",
+  "table data left": {
+    "ID": "8255",
+    "Name": "Fake Hash",
+    "Other Names": "Haschish",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4F-MDMB-BINACA\n\n\n  \n\n4F-MDMB-BINACA aka cannabinoid; 4F-MDMB-BUTINACA; 4-fluoro MDMB-BINACA",
+      "5F-MDMB-PINACA\n\n\n  \n\n5F-MDMB-PINACA aka 5f-ADB; 5-Fluoro-ADB"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 05, 2020",
+    "Pub. Date": "Feb 07, 2020",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Black",
+    "Size": "-",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "201SP:202002-4"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty and raveitsafe issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. Another sample analyzed the same night (same appearance, color described on the alert as light pink) contained 140.3 mg MDMA.\n\nTablets have break line.",
+  "Image": "5796.jpg",
+  "table data left": {
+    "ID": "5796",
+    "Name": "Pablo Escobar",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 131.80 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 04, 2017",
+    "Pub. Date": "Nov 10, 2017",
+    "Src Location": "Basel, \nSwitzerland",
+    "Submitter Loc": "Basel, --Switzerland",
+    "Color": "Purple / Red / Pink",
+    "Size": "368.5 mg, 9.10 mm x 4.90 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201711-12"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "3-MMC / 3-Methylmethcathinone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a drug other than the one it was represented as.\n\nOriginal alert published by SaferParty (Switzerland) in August 2024.",
+  "Image": "20425.jpg",
+  "table data left": {
+    "ID": "20425",
+    "Name": "White Crystals",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2-Methylmethcathinone\n\n\n  \n\n2-Methylmethcathinone aka 2-MMC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 15, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Nightlife Vaud",
+    "Lab's ID": "SP:202408-95"
+  }
+}

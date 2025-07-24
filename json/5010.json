@@ -1,0 +1,31 @@
+{
+  "Sold as": "4MMC",
+  "Expected to be": "4-Methylmethcathinone",
+  "Lab Comments": "Not Available",
+  "Warning": "Sample sent in from the United Kingdom.",
+  "Image": "5010.jpg",
+  "table data left": {
+    "ID": "5010",
+    "Name": "Mephedrone",
+    "Other Names": "4MMC",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "UKMEPH",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Fizzing",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Fizzing",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Very Slight Change (orange)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-Methylmethcathinone\n\n\n: 1 \n\n4-Methylmethcathinone aka Mephedrone, 4-MMC, 4-MMC, Meow, M-Cat, 2-Methylamino-1-p-tolylpropan-1-one"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 22, 2016",
+    "Pub. Date": "Dec 24, 2016",
+    "Src Location": "United Kingdom",
+    "Submitter Loc": "----, --United Kingdom",
+    "Color": "White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20161200052"
+  }
+}

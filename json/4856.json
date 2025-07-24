@@ -1,0 +1,32 @@
+{
+  "Sold as": "Unknown",
+  "Expected to be": "Unknown",
+  "Lab Comments": "No drugs detected.",
+  "Warning": "White oval tablet with no markings. Submitter indicates: Sold as: ?, Name: ?, Expected to be: Unknown - possible diet / energy pill (?)\n\nSample may be a commercial nutritional supplement, but has no psychoactive or pharmaceutical drugs in it that we can detect.",
+  "Image": "4856.jpg",
+  "table data left": {
+    "ID": "4856",
+    "Name": "Name Unknown",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "EEE920",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Palmitic Acid\n\n\n: 2 \n\nPalmitic Acid aka hexadecanoic acid",
+      "Stearic Acid\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 20, 2016",
+    "Pub. Date": "Oct 20, 2016",
+    "Src Location": "Pacific Grove, CA",
+    "Submitter Loc": "Pacific Grove, CAUnited States",
+    "Color": "Off White",
+    "Size": "524 mg, 15.40 mm x 8.40 mm x 5.09 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20161000023"
+  }
+}

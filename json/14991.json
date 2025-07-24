@@ -1,0 +1,31 @@
+{
+  "Sold as": "Percocet",
+  "Expected to be": "Percocet",
+  "Lab Comments": "Tested twice.",
+  "Warning": "Unique code field left blank on submission form.",
+  "Image": "14991.jpg",
+  "table data left": {
+    "ID": "14991",
+    "Name": "M523 10/325",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Purple",
+    "Froehde": "Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Acetaminophen\n\n\n: 30",
+      "Oxycodone\n\n\n: 1 \n\nOxycodone aka Oxycontin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 07, 2022",
+    "Pub. Date": "Dec 07, 2022",
+    "Src Location": "Boynton Beach, FL",
+    "Submitter Loc": "Boynton Beach, FLUnited States",
+    "Color": "White",
+    "Size": "526 mg, 16.27 mm x 7.46 mm x 5.01 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110120"
+  }
+}

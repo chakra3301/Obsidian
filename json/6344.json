@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "This sample, published courtesy of The Loop's testing program, was analyzed by The Loop at the Parklife Festival in Manchester, UK. [Alert tweets]\n\nFourier-transform infrared (ATR-FTIR) spectroscopy is The Loop's primary analysis method.",
+  "Image": "6344.jpg",
+  "table data left": {
+    "ID": "6344",
+    "Name": "Grey Duracell",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 250 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 09, 2018",
+    "Pub. Date": "Jun 24, 2018",
+    "Src Location": "Manchester, \nUnited Kingdom",
+    "Submitter Loc": "Manchester, --United Kingdom",
+    "Color": "Gray",
+    "Size": "-",
+    "Data Source": "The Loop",
+    "Tested by": "The Loop",
+    "Lab's ID": "A0395-PARK18"
+  }
+}

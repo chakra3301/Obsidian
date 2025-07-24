@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a caution for it because it contains a dose of MDMA that could be considered high for a small-statured person. \nTablet has a break line on reverse side.\n\nAnalyzed by checkit! (Vienna, Austria) in July 2019.",
+  "Image": "7555.jpg",
+  "table data left": {
+    "ID": "7555",
+    "Name": "Warner Brothers",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 115 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 23, 2019",
+    "Pub. Date": "Jul 24, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Yellow",
+    "Size": "10.10 x 5.90",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201907-4"
+  }
+}

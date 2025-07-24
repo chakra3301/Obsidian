@@ -1,0 +1,31 @@
+{
+  "Sold as": "Soma",
+  "Expected to be": "Soma",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "17105.jpg",
+  "table data left": {
+    "ID": "17105",
+    "Name": "White Tablet",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "FTXYZ",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Fizzing",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Carisoprodol\n\n\n: 1 \n\nCarisoprodol aka Soma"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 23, 2023",
+    "Pub. Date": "Aug 23, 2023",
+    "Src Location": "Online, \nCanada",
+    "Submitter Loc": "El Paso, TXUnited States",
+    "Color": "White",
+    "Size": "562 mg, 12.78 mm x 4.10 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080041"
+  }
+}

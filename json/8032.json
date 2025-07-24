@@ -1,0 +1,33 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Ketamine",
+  "Lab Comments": "Sep 29 2020: Ketamine Precursor A -- chemical name 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol -- was initially identified by library match, and has been confirmed with reference standard.",
+  "Warning": "Not Available",
+  "Image": "8032.jpg",
+  "table data left": {
+    "ID": "8032",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "KTKQ1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Fizzing",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Fizzing",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Fizzing",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Ketamine\n\n\n: 12 \n\nKetamine aka Ketalar, Ketaset",
+      "Ketamine Precursor A\n\n\n: 2 \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol",
+      "Tetracaine\n\n\n: 1 \n\nTetracaine aka Amethocaine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 04, 2019",
+    "Pub. Date": "Dec 04, 2019",
+    "Src Location": "Online",
+    "Submitter Loc": "Dallas, TXUnited States",
+    "Color": "White",
+    "Size": "151 mg, 20.90 mm x 7.30 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20191100099"
+  }
+}

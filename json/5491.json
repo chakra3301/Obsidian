@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued a 'high dose' caution for this tablet. Has break line on reverse. Six samples were tested, containing the following amounts of MDMA: 210 mg, 227 mg, 245 mg, 262 mg, 278 mg, 331 mg.",
+  "Image": "5491.jpg",
+  "table data left": {
+    "ID": "5491",
+    "Name": "Eule",
+    "Other Names": "Owl",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 210 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 06, 2017",
+    "Pub. Date": "Jul 07, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Orange",
+    "Size": "11.00 x 5.00",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201707-5"
+  }
+}

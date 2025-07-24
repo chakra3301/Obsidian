@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because the tablet contains 2C-B and users could expect it to be an MDMA tablet.",
+  "Image": "4796.jpg",
+  "table data left": {
+    "ID": "4796",
+    "Name": "Loewenwappen",
+    "Other Names": "Lion",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 16.70 \n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 29, 2016",
+    "Pub. Date": "Oct 01, 2016",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Yellow",
+    "Size": "247.5 mg, 10.50 mm x 8.10 mm x 3.5 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201610-2"
+  }
+}

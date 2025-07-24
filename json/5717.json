@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy/MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. Tablet scored on reverse side.",
+  "Image": "5717.jpg",
+  "table data left": {
+    "ID": "5717",
+    "Name": "FC Barcelona",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 147 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 04, 2017",
+    "Pub. Date": "Oct 07, 2017",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Purple",
+    "Size": "334.1 mg, 10.70 mm x 10.50 mm x 3.5 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201710-3"
+  }
+}

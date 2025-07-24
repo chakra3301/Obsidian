@@ -1,0 +1,31 @@
+{
+  "Sold as": "Clonazepam powder",
+  "Expected to be": "benzo or benzo analogue research chemical",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "17053.jpg",
+  "table data left": {
+    "ID": "17053",
+    "Name": "White Powder",
+    "Other Names": "Kpin Powder",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "1HT1K",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Clonazepam\n\n\n: 1 \n\nClonazepam aka Klonopin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 18, 2023",
+    "Pub. Date": "Aug 18, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "Bluefield, WVUnited States",
+    "Color": "White",
+    "Size": "200 mg, 14.10 mm x 5.08 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23070201"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) between Aug 1 and Aug 27, 2019.",
+  "Image": "7746.jpg",
+  "table data left": {
+    "ID": "7746",
+    "Name": "LSD Blotter",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 13 ug\n\nLSD aka Acid, Doses",
+      "DMT\n\n\n: 7 ug\n\nDMT aka N,N-DMT"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 28, 2019",
+    "Pub. Date": "Aug 28, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Black / White",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201908-24"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "8773.jpg",
+  "table data left": {
+    "ID": "8773",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020C017",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Diphenhydramine\n\n\n: 1 \n\nDiphenhydramine aka Benadryl",
+      "AMB-FUBINACA\n\n\n: trace \n\nAMB-FUBINACA aka FUB-AMB; MMB-FUBINACA",
+      "Deschloroketamine\n\n\n: trace \n\nDeschloroketamine aka 2-Oxo-PCM"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 28, 2020",
+    "Pub. Date": "Jul 28, 2020",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20070061"
+  }
+}

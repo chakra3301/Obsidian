@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in August 2022.",
+  "Image": "13991.jpg",
+  "table data left": {
+    "ID": "13991",
+    "Name": "Eule",
+    "Other Names": "Panama; Owl",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 47 mg\n\nMDMA aka Ecstasy, E, X",
+      "4-CMC\n\n\n  \n\n4-CMC aka 4-chloromethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2022",
+    "Pub. Date": "Sep 02, 2022",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Green",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202209-22"
+  }
+}

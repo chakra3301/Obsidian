@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution because it contains more than 120mg of MDMA. Dual break line on reverse side.\n\nSample was analyzed by checkit! in Austria between Dec 1 and Dec 18, 2018.",
+  "Image": "6882.jpg",
+  "table data left": {
+    "ID": "6882",
+    "Name": "Cola-Flasche",
+    "Other Names": "Coca-Cola; Coke Bottle",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 162 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 15, 2018",
+    "Pub. Date": "Dec 18, 2018",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "12.30 x 4.30",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201812-4"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit of blotter issued a 'high dose' caution because it contains more than 150 micrograms of LSD.",
+  "Image": "9878.jpg",
+  "table data left": {
+    "ID": "9878",
+    "Name": "Maya",
+    "Other Names": "LSD-Filz; Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 153 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 02, 2021",
+    "Pub. Date": "Mar 06, 2021",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "6.70 x 6.80",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202103-5"
+  }
+}

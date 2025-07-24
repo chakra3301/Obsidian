@@ -1,0 +1,32 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains drugs other than MDMA and could be mistaken for an ecstasy/molly tablet. It also contains unidentified substances.",
+  "Image": "14460.jpg",
+  "table data left": {
+    "ID": "14460",
+    "Name": "Teal Tablet",
+    "Other Names": "Partial Tablet",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-CMC\n\n\n  \n\n3-CMC aka 3-chloromethcathinone",
+      "iso-3-CMC\n\n\n  \n\niso-3-CMC aka iso-3-chloromethcathinone",
+      "Unidentified",
+      "Unidentified",
+      "Unidentified",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 13, 2022",
+    "Pub. Date": "Oct 19, 2022",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Teal Blue",
+    "Size": "417 mg",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202210-001"
+  }
+}

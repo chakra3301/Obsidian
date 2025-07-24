@@ -1,0 +1,28 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains synthesis byproducts and it contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.\n\nOriginal alert published by SaferParty (Switzerland) in July 2024.",
+  "Image": "20286.jpg",
+  "table data left": {
+    "ID": "20286",
+    "Name": "NASA / 2cb",
+    "Other Names": "Rocket; Rakete",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 17 mg\n\n2C-B aka Bees",
+      "Synthesis Byproduct(s)\n\n\n: 0 mg\n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 19, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Lucerne, \nSwitzerland",
+    "Submitter Loc": "Lucerne, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "195.1 mg, 11.30 mm x 6.40 mm x 4 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:202407-78"
+  }
+}

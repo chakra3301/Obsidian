@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit of blotter issued a 'high dose' caution for it.\n\nOriginal alert published by SaferParty (Switzerland) in August 2024.",
+  "Image": "20423.jpg",
+  "table data left": {
+    "ID": "20423",
+    "Name": "Alice in Wonderland",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 234.30 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 17, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Basel, \nSwitzerland",
+    "Submitter Loc": "Basel, --Switzerland",
+    "Color": "Gray / Yellow",
+    "Size": "8.60 x 9.20",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:202408-93"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. Two tablet with this appearance were tested on Feb 10; the other one contained 147mg MDMA.",
+  "Image": "5161.jpg",
+  "table data left": {
+    "ID": "5161",
+    "Name": "Hanfblatt",
+    "Other Names": "Hemp Leaf",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 141.90 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 17, 2017",
+    "Pub. Date": "Feb 17, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "257.3 mg, 9.40 mm x 10.10 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201702-10"
+  }
+}

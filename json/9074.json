@@ -1,0 +1,42 @@
+{
+  "Sold as": "Oxy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Acetaminophen portion of ratio is at least 50\n\nRegarding Metamizole / 4-Methylaminoantipyrine:\nOur current GC/MS protocol can not distinguish between metamizole and 4-methylaminoantipyrine. 4-Methylaminoantipyrine is a metabolite of metamizole. Their mass spectra are indistinguishable because metamizole undergoes thermal decomposition to 4-methylaminoantipyrine and aminopyrine during GC-MS analysis. The chemical identified in this sample could be either Metamizole or 4-Methylaminoantipyrine, or a combination of the two.",
+  "Warning": "There's a very high likelihood that this sample came in contact with other samples prior to being sent to DrugsData, so some components are likely the result of cross contamination.",
+  "Image": "9074.jpg",
+  "table data left": {
+    "ID": "9074",
+    "Name": "Blue Tablet",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020C059",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple Gray",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 50",
+      "Fentanyl\n\n\n: 21",
+      "Tramadol\n\n\n: 21 \n\nTramadol aka Ultram",
+      "DXM\n\n\n: 12 \n\nDXM aka Robitussin, Drixoral",
+      "4-ANPP\n\n\n: 7 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Lidocaine\n\n\n: 7",
+      "Xylazine\n\n\n: 3 \n\nXylazine aka Rompun",
+      "Metamizole OR 4-Methylaminoantipyrine\n\n\n: 2 \n\nMetamizole OR 4-Methylaminoantipyrine aka Noramidopyrine; Dipyrone; Novalgin",
+      "Heroin\n\n\n: 1 \n\nHeroin aka Diacetylmorphine",
+      "Ketamine\n\n\n: 1 \n\nKetamine aka Ketalar, Ketaset",
+      "6-Acetylcodeine\n\n\n: trace \n\n6-Acetylcodeine aka 6-Monoacetylcodeine",
+      "6-Acetylmorphine\n\n\n: trace \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 11, 2020",
+    "Pub. Date": "Sep 11, 2020",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Blue",
+    "Size": "100 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20080181"
+  }
+}

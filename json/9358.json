@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Crystalline white/clear powder. The European drug checking group that analyzed this sample issued an information alert because it was represented as MDMA yet contains a drug other than MDMA.",
+  "Image": "9358.jpg",
+  "table data left": {
+    "ID": "9358",
+    "Name": "Pulver",
+    "Other Names": "White Powder",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Methamphetamine\n\n\n  \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 30, 2020",
+    "Pub. Date": "Nov 06, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White / Clear",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202011-5"
+  }
+}

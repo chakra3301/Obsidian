@@ -1,0 +1,32 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The trace cocaine is likely a result of sample contamination before arriving at the lab. It's unlikely that this powder contains psychoactive amounts of cocaine.",
+  "Image": "14268.jpg",
+  "table data left": {
+    "ID": "14268",
+    "Name": "Molly",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "92PDC",
+    "Froehde": "Purple",
+    "Liebermann": "Blue",
+    "Morris": "Blue-Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 100 \n\nMDMA aka Ecstasy, E, X",
+      "Cocaine\n\n\n: 1 \n\nCocaine aka Crack, Coca"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 26, 2022",
+    "Pub. Date": "Sep 26, 2022",
+    "Src Location": "Online, \nUnited Kingdom",
+    "Submitter Loc": "Midvale, UTUnited States",
+    "Color": "Brown / Gray",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22080291"
+  }
+}

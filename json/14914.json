@@ -1,0 +1,27 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14914.jpg",
+  "table data left": {
+    "ID": "14914",
+    "Name": "Goomba",
+    "Other Names": "1up",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 14.10 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 23, 2022",
+    "Pub. Date": "Dec 05, 2022",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "301.7 mg, 9.70 mm x 8.90 mm x 4.5 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202212-001"
+  }
+}

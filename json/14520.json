@@ -1,0 +1,36 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The B0382 code is duplicated, see sample 12912.",
+  "Image": "14520.jpg",
+  "table data left": {
+    "ID": "14520",
+    "Name": "White Powder",
+    "Other Names": "Lebron James",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0382x",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Xylazine\n\n\n: 60 \n\nXylazine aka Rompun",
+      "4-ANPP\n\n\n: 20 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Fentanyl\n\n\n: 20",
+      "Procaine\n\n\n: 20 \n\nProcaine aka Novocaine",
+      "THC\n\n\n: 10 \n\nTHC aka delta-9-THC",
+      "Cocaine\n\n\n: 2 \n\nCocaine aka Crack, Coca",
+      "Phenethyl 4-ANPP\n\n\n: 2",
+      "4-Fluorofentanyl\n\n\n: 1 \n\n4-Fluorofentanyl aka Para-fluorofentanyl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 21, 2022",
+    "Pub. Date": "Oct 21, 2022",
+    "Src Location": "Pittsfield, MA",
+    "Submitter Loc": "Pittsfield, MAUnited States",
+    "Color": "White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100015"
+  }
+}

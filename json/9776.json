@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "9776.jpg",
+  "table data left": {
+    "ID": "9776",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2021B256",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Phenacetin\n\n\n: 3 \n\nPhenacetin aka N-(4-Ethoxyphenyl)acetamide",
+      "Cocaine\n\n\n: 1 \n\nCocaine aka Crack, Coca",
+      "Methylecgonidine\n\n\n: trace \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME",
+      "Tetramisole / Levamisole\n\n\n: trace",
+      "Tropacocaine\n\n\n: trace \n\nTropacocaine aka tropacaine, benzoylpseudotropine, pseudotropine benzoate"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 08, 2021",
+    "Pub. Date": "Feb 08, 2021",
+    "Src Location": "New Bedford, MA",
+    "Submitter Loc": "New Bedford, MAUnited States",
+    "Color": "White",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "21010141"
+  }
+}

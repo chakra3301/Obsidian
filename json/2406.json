@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as ecstasy, suspected to contain a different stimulant.",
+  "Image": "2406.jpg",
+  "table data left": {
+    "ID": "2406",
+    "Name": "Purple Nike",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "TFMPP\n\n\n: 4.50",
+      "BZP\n\n\n: 1.00 \n\nBZP aka Benzoyl Peroxide",
+      "Caffeine\n\n\n: trace"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 02, 2012",
+    "Pub. Date": "Feb 02, 2012",
+    "Src Location": "Victoria, BC, \nCanada",
+    "Submitter Loc": "Victoria, BCCanada",
+    "Color": "Purple",
+    "Size": "313 mg, 8.30 mm x 6.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120100065"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty, the European drug checking group that analyzed this dose unit of LSD, issued a 'high dose' caution for it. Their warning states: 'In 2017, samples of LSD analyzed by us contained on average 65.2mcg LSD.'\n\nTHC and CBGA (unquantified) were identified in the sample.",
+  "Image": "7270.jpg",
+  "table data left": {
+    "ID": "7270",
+    "Name": "Sunshine",
+    "Other Names": "LSD Filze; LSD Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 162.90 ug\n\nLSD aka Acid, Doses",
+      "Natural Cannabinoids\n\n\n  \n\nNatural Cannabinoids aka THC; CBD; CBGA; other cannabinoids"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 12, 2019",
+    "Pub. Date": "Apr 23, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "7.80 x 7.60",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201904-15"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "3-MMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "2-MMC ~90%",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "17037.jpg",
+  "table data left": {
+    "ID": "17037",
+    "Name": "Tan Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2-Methylmethcathinone\n\n\n  \n\n2-Methylmethcathinone aka 2-MMC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 14, 2023",
+    "Pub. Date": "Aug 24, 2023",
+    "Src Location": "Lucerne, \nSwitzerland",
+    "Submitter Loc": "Lucerne, --Switzerland",
+    "Color": "Tan / Beige",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:202308-114"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued an 'extreme high dose' warning because it contains more than 200mg of MDMA. No break line.\n\nSample was analyzed between Sep 1 and Sep 24 2018.",
+  "Image": "6616.jpg",
+  "table data left": {
+    "ID": "6616",
+    "Name": "Philipp Plein",
+    "Other Names": "Totenkopf; Skull",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 214 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 24, 2018",
+    "Pub. Date": "Sep 29, 2018",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Gray",
+    "Size": "- x 11.50 x 3.6",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201809-2"
+  }
+}

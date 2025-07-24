@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued an 'extreme high dose' warning because it contains more than 200mg of MDMA.\nTablet has a break line on reverse side.",
+  "Image": "9364.jpg",
+  "table data left": {
+    "ID": "9364",
+    "Name": "Tesla",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 263.60 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 10, 2020",
+    "Pub. Date": "Nov 13, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Orange",
+    "Size": "490.8 mg, 10.10 mm x 10.70 mm x 5.5 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202011-9"
+  }
+}

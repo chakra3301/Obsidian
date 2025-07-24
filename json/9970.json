@@ -1,0 +1,31 @@
+{
+  "Sold as": "Perc",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "9970.jpg",
+  "table data left": {
+    "ID": "9970",
+    "Name": "M 05 52",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2021B144A",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Oxycodone\n\n\n: 1 \n\nOxycodone aka Oxycontin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 17, 2021",
+    "Pub. Date": "Mar 17, 2021",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "21030004"
+  }
+}

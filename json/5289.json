@@ -1,0 +1,31 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Aspirin? Amphetamines? Caffeine?",
+  "Lab Comments": "Not Available",
+  "Warning": "Sample of white powder submitted from San Francisco, California. Submitter note included with sample indicates it was sold as 'Cocaine 94%'.\n\nReminder that EcstasyData is permitted to test for the presence of a drug ('Cocaine') but not permitted to test for the concentration of drug in a sample ('94%' or any other percent). No drugs other than cocaine were detected in this sample.",
+  "Image": "5289.jpg",
+  "table data left": {
+    "ID": "5289",
+    "Name": "Cocaine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ABMAJ",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Very Slight Change (Red)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Very Slight Change (Yellow)",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Cocaine\n\n\n: 1 \n\nCocaine aka Crack, Coca"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 07, 2017",
+    "Pub. Date": "Apr 08, 2017",
+    "Src Location": "Online",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170300141"
+  }
+}

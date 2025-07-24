@@ -1,0 +1,28 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Material is 49.3% Ketamine and 25.8% MDMA.",
+  "Warning": "Not Available",
+  "Image": "8859.jpg",
+  "table data left": {
+    "ID": "8859",
+    "Name": "Chunky Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset",
+      "MDMA\n\n\n  \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 07, 2020",
+    "Pub. Date": "Aug 14, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Off White / Red / Pink",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202008-16"
+  }
+}

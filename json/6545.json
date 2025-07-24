@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. Crossing dual break line on reverse side.\n\n[Sample analyzed by the group checkit! in July or August 2018]",
+  "Image": "6545.jpg",
+  "table data left": {
+    "ID": "6545",
+    "Name": "Davidstern",
+    "Other Names": "Star of David",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 188 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 28, 2018",
+    "Pub. Date": "Aug 28, 2018",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Blue",
+    "Size": "9.00 x 9.00 x 4.3",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201808-10"
+  }
+}

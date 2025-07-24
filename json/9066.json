@@ -1,0 +1,29 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "besides the LSD tartrate and iso-LSD tartrate present, the testing lab detected at least 7 synthesis byproducts.",
+  "Warning": "SaferParty issued an alert for this sample because it contains a high dose of LSD (over 150 micrograms).",
+  "Image": "9066.jpg",
+  "table data left": {
+    "ID": "9066",
+    "Name": "Filz",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 197.30 ug\n\nLSD aka Acid, Doses",
+      "Iso-LSD\n\n\n: 75.00 ug",
+      "Synthesis Byproduct(s)\n\n\n  \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 08, 2020",
+    "Pub. Date": "Sep 11, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Brown / Multicolor",
+    "Size": "5.80 x 6.10",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202009-16"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Questionable Heroin",
+  "Lab Comments": "Not Available",
+  "Warning": "Sender states 'user said they 'didn't like it''.",
+  "Image": "4426.jpg",
+  "table data left": {
+    "ID": "4426",
+    "Name": "Heroin",
+    "Other Names": "DSNYH",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple - Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Heroin\n\n\n: 1 \n\nHeroin aka Diacetylmorphine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 24, 2016",
+    "Pub. Date": "May 25, 2016",
+    "Src Location": "New York, NY",
+    "Submitter Loc": "New York, NYUnited States",
+    "Color": "Off White",
+    "Size": "22.60 x 10.70",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160500085"
+  }
+}

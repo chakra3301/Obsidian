@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Library match only.",
+  "Warning": "Curiously, the lab result is for 4-phosphoryl-DET, which is more difficult to synthesize than 4-HO-DET. Two analytical chemists from the Erowid Expert Network have determined they think it is, instead, 4-HO-DET and we have changed the result to reflect those opinions.",
+  "Image": "2750.jpg",
+  "table data left": {
+    "ID": "2750",
+    "Name": "Powder",
+    "Other Names": "Unknown",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown to Black",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "4-HO-DET\n\n\n: 1 \n\n4-HO-DET aka 4-hydroxy-diethyltryptamine, 3-(2-diethylaminoethyl)-1H-indol-4-ol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 06, 2013",
+    "Pub. Date": "Apr 06, 2013",
+    "Src Location": "",
+    "Submitter Loc": "----, --United States",
+    "Color": "Off White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130300132"
+  }
+}

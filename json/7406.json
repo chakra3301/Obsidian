@@ -1,0 +1,27 @@
+{
+  "Sold as": "Mephedrone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an alert for it.\n\nMephedrone content is 750 mg/g.\n\nAnalyzed by checkit! (Vienna, Austria) in May 2019.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "7406",
+    "Name": "Mephedrone",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-Methylmethcathinone\n\n\n  \n\n4-Methylmethcathinone aka Mephedrone, 4-MMC, 4-MMC, Meow, M-Cat, 2-Methylamino-1-p-tolylpropan-1-one"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 06, 2019",
+    "Pub. Date": "Jun 06, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201906-4"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "716.jpg",
+  "table data left": {
+    "ID": "716",
+    "Name": "Red Zip",
+    "Other Names": "P",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Caffeine\n\n\n: 3",
+      "Ketamine\n\n\n: 1 \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 18, 2001",
+    "Pub. Date": "Sep 18, 2001",
+    "Src Location": "Salt Lake City, UT",
+    "Submitter Loc": "Salt Lake City, UTUnited States",
+    "Color": "Red / Pink / Orange",
+    "Size": "338 mg, 8.00 mm x 5.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20010900186"
+  }
+}

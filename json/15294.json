@@ -1,0 +1,33 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Ketamine",
+  "Lab Comments": "Not Available",
+  "Warning": "'The journey was more intense and psychedelic than I expected.'",
+  "Image": "15294.jpg",
+  "table data left": {
+    "ID": "15294",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Kk49L",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Yellow (slow)",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Ketamine\n\n\n: 20.0 \n\nKetamine aka Ketalar, Ketaset",
+      "Ketamine Precursor A\n\n\n: 2.5 \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol",
+      "Methylsulfonylmethane\n\n\n: 1.0 \n\nMethylsulfonylmethane aka MSM, dimethylsulfone, DMSO2, leftover solvent, cutting agent"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 09, 2023",
+    "Pub. Date": "Jan 09, 2023",
+    "Src Location": "Santa Cruz, CA",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22120174"
+  }
+}

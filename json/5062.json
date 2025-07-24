@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ethylone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this powder, analyzed as 6-methoxymethylone, was sold as a different drug (ethylone). The alert warns that information on the risks, effects and duration of 6-methoxymethylone are not available.",
+  "Image": "5062.jpg",
+  "table data left": {
+    "ID": "5062",
+    "Name": "Ethylone",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "6-Methoxymethylone\n\n\n: 1 \n\n6-Methoxymethylone aka 6-MeO-bk-MDMA; N-Me-βk-MMDA-2"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 20, 2017",
+    "Pub. Date": "Jan 20, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201701-5"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Methamphetamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "15419.jpg",
+  "table data left": {
+    "ID": "15419",
+    "Name": "White Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "NEP\n\n\n  \n\nNEP aka N-Ethylpentedrone; α-ethylaminopentiophenone; N-Ethyl-nor-pentedrone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 11, 2023",
+    "Pub. Date": "Feb 06, 2023",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202302-001"
+  }
+}

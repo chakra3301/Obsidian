@@ -1,0 +1,31 @@
+{
+  "Sold as": "E / Ecstasy",
+  "Expected to be": "Meth",
+  "Lab Comments": "Not Available",
+  "Warning": "''Caused some weird side effects.''",
+  "Image": "15529.jpg",
+  "table data left": {
+    "ID": "15529",
+    "Name": "MyBrand Skull",
+    "Other Names": "MB",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "LOVE8U",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Liebermann": "Yellow",
+    "Froehde": "Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 21, 2023",
+    "Pub. Date": "Feb 21, 2023",
+    "Src Location": "Charlotte, NC",
+    "Submitter Loc": "Charlotte, NCUnited States",
+    "Color": "Green",
+    "Size": "348 mg, 14.14 mm x 10.16 mm x 4.88 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010159"
+  }
+}

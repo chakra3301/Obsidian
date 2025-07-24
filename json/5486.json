@@ -1,0 +1,31 @@
+{
+  "Sold as": "Kratom Plain Leaf",
+  "Expected to be": "Extract",
+  "Lab Comments": "Not Available",
+  "Warning": "Mytragynine is one of the most abundant indoles in kratom leaf. It is not possible to tell by this lab's process whether the mitragynine present in this sample of dried powdered plant material was extracted and then added during processing, or if is naturally occurring. \n\nThe submitter notes that this sample was sold as '100% plain leaf Mitragyna speciosa', 'sparkles are present in the powder', and they suspect the sample may contain extract or other chemicals. Sent in from Colorado, USA.",
+  "Image": "5486.jpg",
+  "table data left": {
+    "ID": "5486",
+    "Name": "Kratom",
+    "Other Names": "Mitragyna speciosa",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "728CO",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Mitragynine\n\n\n: 1 \n\nMitragynine aka Kratom Extract"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 01, 2017",
+    "Pub. Date": "Jul 03, 2017",
+    "Src Location": "Borneo",
+    "Submitter Loc": "Durango, COUnited States",
+    "Color": "Green / Brown",
+    "Size": "436 mg, 8.20 mm x 23.10 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170600176"
+  }
+}

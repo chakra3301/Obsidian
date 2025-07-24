@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued a caution because this tablet contains more than 120mg of MDMA, and contains a substance other than MDMA.",
+  "Image": "5163.jpg",
+  "table data left": {
+    "ID": "5163",
+    "Name": "Herz",
+    "Other Names": "Heart",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 160 mg\n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 4 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2014",
+    "Pub. Date": "Feb 17, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201412-03"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Xanax / Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nAnalyzed in Innsbruck, Austria in February 2020.",
+  "Image": "8284.jpg",
+  "table data left": {
+    "ID": "8284",
+    "Name": "Fake Xanax",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Flualprazolam"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 21, 2020",
+    "Pub. Date": "Feb 21, 2020",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "201MB:202002-6"
+  }
+}

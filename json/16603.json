@@ -1,0 +1,31 @@
+{
+  "Sold as": "Flubromazepam",
+  "Expected to be": "Flubromazepam",
+  "Lab Comments": "Not Available",
+  "Warning": "'Extremely overdosed. Active at less than 100 micrograms. Potency beyond that of alprazolam. Long duration of effects. Sedation, loss of cordination, loss of consciousness.'",
+  "Image": "16603.jpg",
+  "table data left": {
+    "ID": "16603",
+    "Name": "Purple Tablet",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "22523",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Yellow",
+    "Liebermann": "No Reaction",
+    "Froehde": "Light Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "N-Desalkylflurazepam\n\n\n: 1 \n\nN-Desalkylflurazepam aka Norflurazepam"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 27, 2023",
+    "Pub. Date": "Jun 27, 2023",
+    "Src Location": "Online, \nNetherlands",
+    "Submitter Loc": "The Hague, --Netherlands",
+    "Color": "Purple",
+    "Size": "237 mg, 8.06 mm x 3.74 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060057"
+  }
+}

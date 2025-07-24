@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "220.jpg",
+  "table data left": {
+    "ID": "220",
+    "Name": "Red Bull",
+    "Other Names": "Plain, Blank",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Cocaine\n\n\n: 10 \n\nCocaine aka Crack, Coca",
+      "Ketamine\n\n\n: 1 \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 01, 2000",
+    "Pub. Date": "Jul 01, 2000",
+    "Src Location": "Fremont, CA",
+    "Submitter Loc": "Fremont, CAUnited States",
+    "Color": "Orange",
+    "Size": "9.50 x 4.50",
+    "Data Source": "DanceSafe",
+    "Tested by": "DDL",
+    "Lab's ID": ""
+  }
+}

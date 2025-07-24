@@ -1,0 +1,29 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "13380.jpg",
+  "table data left": {
+    "ID": "13380",
+    "Name": "Skull",
+    "Other Names": "Philipp Plein",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 97 mg\n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 4 mg",
+      "Amphetamine\n\n\n: 3 mg\n\nAmphetamine aka dextro- and/or levo-amphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 25, 2022",
+    "Pub. Date": "Jul 05, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green / Speckled",
+    "Size": "615.7 mg, 10.10 mm x 15.80 mm x 5 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:202207-14"
+  }
+}

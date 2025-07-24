@@ -1,0 +1,30 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Piperazines or other adulterants",
+  "Lab Comments": "Not Available",
+  "Warning": "Sender indicated they 'suspect piperazines or perhaps other adulterant'.",
+  "Image": "4542.jpg",
+  "table data left": {
+    "ID": "4542",
+    "Name": "Hello Kitty",
+    "Other Names": "9KD7J",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue to Dark Blue",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple-Blue-Black",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 09, 2016",
+    "Pub. Date": "Jul 10, 2016",
+    "Src Location": "New York, NY",
+    "Submitter Loc": "New York, NYUnited States",
+    "Color": "Green",
+    "Size": "509 mg, 11.40 mm x 9.70 mm x 5.96 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160600132"
+  }
+}

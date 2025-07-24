@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "contains approximately 48.5 mg M-alpha-HMCA",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains M-alpha-HMCA, a synthesis byproduct, in addition to MDMA.",
+  "Image": "14029.jpg",
+  "table data left": {
+    "ID": "14029",
+    "Name": "Bitcoin",
+    "Other Names": "BTC",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 97.00 mg\n\nMDMA aka Ecstasy, E, X",
+      "Synthesis Byproduct(s)\n\n\n: 48.50 \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 22, 2022",
+    "Pub. Date": "Sep 02, 2022",
+    "Src Location": "Basel, \nSwitzerland",
+    "Submitter Loc": "Basel, --Switzerland",
+    "Color": "Green",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIBS",
+    "Lab's ID": "SP:202209-35"
+  }
+}

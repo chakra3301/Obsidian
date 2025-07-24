@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "[minimum of four synthesis byproducts detected]",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning for it because it contains synthesis byproducts. Break line on back.",
+  "Image": "8732.jpg",
+  "table data left": {
+    "ID": "8732",
+    "Name": "Uber Eats",
+    "Other Names": "(bi-layer tablet)",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 83.20 mg\n\nMDMA aka Ecstasy, E, X",
+      "Synthesis Byproduct(s)\n\n\n  \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 14, 2020",
+    "Pub. Date": "Jul 17, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green / Blue",
+    "Size": "500 mg, 12.20 mm x 7.20 mm x 5.2 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202007-28"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Sold as": "Dope / Fentanyl",
+  "Expected to be": "Fentanyl",
+  "Lab Comments": "Not Available",
+  "Warning": "'Really strong'.",
+  "Image": "14054.jpg",
+  "table data left": {
+    "ID": "14054",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0803A",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 70",
+      "Xylazine\n\n\n: 30 \n\nXylazine aka Rompun",
+      "4-ANPP\n\n\n: 10 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Ethyl-4-ANPP\n\n\n: 5 \n\nEthyl-4-ANPP aka Ethyl despropionyl Fentanyl",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 07, 2022",
+    "Pub. Date": "Sep 07, 2022",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "Brown",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22080117"
+  }
+}

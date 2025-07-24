@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued an information alert because the tablet contains a drug other than MDMA. This sample was broken in half. checkit! estimates there was 328 mg MDMA/gram and 19 mg Amphetamines/gram in the whole sample. The piece itself contained 69 mg MDMA and 4 mg Amphetamines.",
+  "Image": "5570.jpg",
+  "table data left": {
+    "ID": "5570",
+    "Name": "Domino",
+    "Other Names": "Fragment",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 69 mg\n\nMDMA aka Ecstasy, E, X",
+      "Amphetamine\n\n\n: 4 mg\n\nAmphetamine aka dextro- and/or levo-amphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 27, 2017",
+    "Pub. Date": "Jul 27, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Orange",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201707-53"
+  }
+}

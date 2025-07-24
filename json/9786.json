@@ -1,0 +1,31 @@
+{
+  "Sold as": "Modafinil",
+  "Expected to be": "Inactive? Contaminants suspected",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "9786.jpg",
+  "table data left": {
+    "ID": "9786",
+    "Name": "Modalert 200",
+    "Other Names": "Mode Alert",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "B90D5",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red with Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Orange / Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Red Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Modafinil\n\n\n: 1 \n\nModafinil aka Provigil, Modalert, Alertec"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 08, 2021",
+    "Pub. Date": "Feb 08, 2021",
+    "Src Location": "Online, \nIndia",
+    "Submitter Loc": "Richmond, VAUnited States",
+    "Color": "White",
+    "Size": "312 mg, 10.10 mm x 3.60 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "21010157"
+  }
+}

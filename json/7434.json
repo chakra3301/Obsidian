@@ -1,0 +1,27 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nMDA Basecamp analysed this sample in June 2019.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "7434",
+    "Name": "Cocaine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "alpha-PVP\n\n\n  \n\nalpha-PVP aka alpha-Pyrrolidinopentiophenone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 21, 2019",
+    "Pub. Date": "Jun 21, 2019",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201906-2"
+  }
+}

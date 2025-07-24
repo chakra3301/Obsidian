@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued a 'high dose' caution for this tablet. Two samples tested, with 196 mg and 266 mg MDMA respectively. No break mark.",
+  "Image": "5519.jpg",
+  "table data left": {
+    "ID": "5519",
+    "Name": "Flugel",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 196 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 06, 2017",
+    "Pub. Date": "Jul 07, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Tan / Glitter",
+    "Size": "12.80 x 4.50",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201707-33"
+  }
+}

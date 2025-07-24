@@ -1,0 +1,29 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Contains Ketamine: 36.5 %; MDMA: 23.1 %; Caffeine: 25.5 %",
+  "Warning": "Shares some similarities with other pink powders tested by DrugsData and other drug checking groups that were sold as ''Tusi'' or 2C-B.",
+  "Image": "16876.jpg",
+  "table data left": {
+    "ID": "16876",
+    "Name": "Pink Powder",
+    "Other Names": "Tusi",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine",
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset",
+      "MDMA\n\n\n  \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 06, 2023",
+    "Pub. Date": "Aug 18, 2023",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202308-16"
+  }
+}

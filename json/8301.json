@@ -1,0 +1,34 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample of blotter issued a warning because it contains drugs other than LSD.\n\nAnalyzed by checkit! (Vienna, Austria) in February 2020.",
+  "Image": "8301.jpg",
+  "table data left": {
+    "ID": "8301",
+    "Name": "Blotter",
+    "Other Names": "Rolling Stone; Filz",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Benzoylecgonine",
+      "Cocaine\n\n\n  \n\nCocaine aka Crack, Coca",
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset",
+      "MDMA\n\n\n  \n\nMDMA aka Ecstasy, E, X",
+      "PMMA\n\n\n  \n\nPMMA aka Paramethoxymethamphetamine; 4-Methoxymethamphetamine",
+      "Unidentified",
+      "Unidentified",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 25, 2020",
+    "Pub. Date": "Feb 28, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Multicolor / Red / Pink",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "201CH:202002-14"
+  }
+}

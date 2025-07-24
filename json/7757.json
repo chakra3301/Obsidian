@@ -1,0 +1,30 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Contains 'at least 6 different synthesis impurities'.",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a high dose of LSD as well as synthesis byproducts.",
+  "Image": "7757.jpg",
+  "table data left": {
+    "ID": "7757",
+    "Name": "LSD Filz",
+    "Other Names": "LSD Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 155.30 ug\n\nLSD aka Acid, Doses",
+      "Iso-LSD\n\n\n: 85.90 ug",
+      "MDMA\n\n\n: 61.10 ug\n\nMDMA aka Ecstasy, E, X",
+      "Synthesis Byproduct(s)\n\n\n  \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 27, 2019",
+    "Pub. Date": "Sep 03, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Tan / Multicolor",
+    "Size": "6.60 x 7.10",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201908-59"
+  }
+}

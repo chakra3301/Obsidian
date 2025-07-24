@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The Tulsa (Oklahoma) Police Department Forensic Laboratory recently received 47 tablets of four different colors and logos, suspected Ecstasy (no photos). The exhibits were seized in Tulsa by the Tulsa Police Department, pursuant to a search warrant (no further details). The tablets were mixed together; there were 10 blue round tablets with a Coach logo imprint, 10 purple round tablets with a butterfly imprint, 10 pink round tablets with a New York Yankees logo imprint, and 17 light blue round tablets with a '1' imprint. Analysis of the pink, blue, and purple tablets by color testing (Marquis - positive) and GC/MS indicated a 6 : 3 : 1 mixture of caffeine, MDMA, and methamphetamine (not formally quantitated; however, a moderate concentration based on the TIC). Analysis of the light blue tablets by color testing (Marquis - negative) and GC/MS, however, detected neither MDMA or methamphetamine, but rather only trifluoromethylphenylpiperazine (TFMPP, not formally quantitated; however, a moderate concentration based on the TIC). The laboratory has previously received Ecstasy mimic tablets containing mixtures of TFMPP and benzylpiperazine (BZP), but this was the first known submission of Ecstasy mimic tablets containing only TFMPP.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "1760",
+    "Name": "Butterfly",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Caffeine\n\n\n: 6",
+      "MDMA\n\n\n: 3 \n\nMDMA aka Ecstasy, E, X",
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 01, 2008",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Tulsa, OK",
+    "Submitter Loc": "Tulsa, OKUnited States",
+    "Color": "Purple",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "081200_07"
+  }
+}

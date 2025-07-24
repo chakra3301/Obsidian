@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty published this as an Info Caution because of the combination of caffeine with MDMA in the tablet.",
+  "Image": "4647.jpg",
+  "table data left": {
+    "ID": "4647",
+    "Name": "Facebook",
+    "Other Names": "F",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 128.70",
+      "MDMA\n\n\n: 100.60 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 10, 2016",
+    "Pub. Date": "Aug 18, 2016",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Blue / Speckled",
+    "Size": "256.1 mg, 8.00 mm x 4.30 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201608-9"
+  }
+}

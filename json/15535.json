@@ -1,0 +1,33 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Fentanyl",
+  "Lab Comments": "Not Available",
+  "Warning": "Sample is associated with an adverse health event.",
+  "Image": "15535.jpg",
+  "table data left": {
+    "ID": "15535",
+    "Name": "Purple Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "GRY20",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Red",
+    "Liebermann": "Orange / Yellow",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Fentanyl\n\n\n: 80",
+      "4-ANPP\n\n\n: 20 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 22, 2023",
+    "Pub. Date": "Feb 22, 2023",
+    "Src Location": "Atlanta, GA",
+    "Submitter Loc": "Oakland, CAUnited States",
+    "Color": "Purple / Off White",
+    "Size": "20 mg, 22.29 mm x 7.40 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010168"
+  }
+}

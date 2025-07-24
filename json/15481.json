@@ -1,0 +1,31 @@
+{
+  "Sold as": "Chinese Molly",
+  "Expected to be": "Substituted cathinone",
+  "Lab Comments": "Not Available",
+  "Warning": "'Good stimulant'.",
+  "Image": "15481.jpg",
+  "table data left": {
+    "ID": "15481",
+    "Name": "Chinese Molly",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "CD200",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Liebermann": "Yellow-Brown",
+    "Froehde": "Yellow-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "bk-EBDB\n\n\n: 1 \n\nbk-EBDB aka Eutylone; β-keto-Ethylbenzodioxolylbutanamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 13, 2023",
+    "Pub. Date": "Feb 13, 2023",
+    "Src Location": "FL",
+    "Submitter Loc": "Des Moines, IAUnited States",
+    "Color": "Beige",
+    "Size": "100 mg, 27.36 mm x 9.31 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010119"
+  }
+}

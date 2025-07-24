@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "668",
+    "Name": "Capsule",
+    "Other Names": "Warm Speed",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 131 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 01, 1996",
+    "Pub. Date": "May 01, 1996",
+    "Src Location": "United Kingdom",
+    "Submitter Loc": "----, --United Kingdom",
+    "Color": "Clear / White",
+    "Size": "9.00 x -",
+    "Data Source": "MAPS",
+    "Tested by": "DDL",
+    "Lab's ID": ""
+  }
+}

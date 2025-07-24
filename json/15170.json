@@ -1,0 +1,28 @@
+{
+  "Sold as": "3-MMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "85.1% 3-CMC",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "15170.jpg",
+  "table data left": {
+    "ID": "15170",
+    "Name": "Crystalline Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-CMC\n\n\n  \n\n3-CMC aka 3-chloromethcathinone",
+      "iso-3-CMC\n\n\n  \n\niso-3-CMC aka iso-3-chloromethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 17, 2022",
+    "Pub. Date": "Dec 28, 2022",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Clear / White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:202212-48"
+  }
+}

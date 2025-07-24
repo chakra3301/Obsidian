@@ -1,0 +1,31 @@
+{
+  "Sold as": "2C-B HCl",
+  "Expected to be": "2C-B HCl",
+  "Lab Comments": "trace 2C-C",
+  "Warning": "Our lab's analytical process does not determine the salt anion. Whether this is a hydrochloride isn't something we can confirm or reject.",
+  "Image": "16851.jpg",
+  "table data left": {
+    "ID": "16851",
+    "Name": "2C-B",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Green",
+    "Liebermann": "Yellow-Brown",
+    "Froehde": "Yellow-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "2C-B\n\n\n: 50 \n\n2C-B aka Bees",
+      "2C-C\n\n\n: 1 \n\n2C-C aka 2,5-Dimethoxy-4-chlorophenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 03, 2023",
+    "Pub. Date": "Aug 03, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "----, AZUnited States",
+    "Color": "Off White / Beige",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23070112"
+  }
+}

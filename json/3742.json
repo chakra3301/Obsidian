@@ -1,0 +1,30 @@
+{
+  "Sold as": "Molly",
+  "Expected to be": "Molly/MDMA/Contaminants",
+  "Lab Comments": "Not Available",
+  "Warning": "EcstasyData: Sample contained only MDA. Some people experience MDA as less pleasant or more 'dirty' in effects than MDMA, though others prefer the effects of MDA to MDMA.\n\nEcstasyData Note: When sending two samples at the same time, submitters should make sure to add identifying marks to each sample container if they look similar. This will ensure that the samples can be differentiated by the submitter later.\n\nPlease completely fill out the requested information on the Send page:\n\nhttps://ecstasydata.org/send",
+  "Image": "3742.jpg",
+  "table data left": {
+    "ID": "3742",
+    "Name": "Molly",
+    "Other Names": "CHI67",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Black / Purple",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple - Brown (purple / brown / Black)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "MDA\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 09, 2015",
+    "Pub. Date": "Aug 09, 2015",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150700175"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Acetaminophen ratio is at least 100.",
+  "Warning": "Not Available",
+  "Image": "16640.jpg",
+  "table data left": {
+    "ID": "16640",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B3058B",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Acetaminophen\n\n\n: 100",
+      "DXM\n\n\n: 2 \n\nDXM aka Robitussin, Drixoral",
+      "Ephedrine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 30, 2023",
+    "Pub. Date": "Jun 30, 2023",
+    "Src Location": "Brockton, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060091"
+  }
+}

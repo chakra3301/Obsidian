@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The lab received this capsule packed poorly enough that that capsule was crushed and the tiny amount of contents spilled out into the envelope in such a way they were unable to recover any powder for testing. Sender should contact us if interested.",
+  "Image": "2805.jpg",
+  "table data left": {
+    "ID": "2805",
+    "Name": "Broken Capsule",
+    "Other Names": "Unknown AB707",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Not Tested"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 22, 2013",
+    "Pub. Date": "Jun 22, 2013",
+    "Src Location": "San Francisco, CA",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130600063"
+  }
+}

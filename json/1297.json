@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1297.jpg",
+  "table data left": {
+    "ID": "1297",
+    "Name": "XO",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Ephedrine/Pseudoephedrine\n\n\n: 1 \n\nEphedrine/Pseudoephedrine aka Sudafed, Bronkaid",
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X",
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 25, 2004",
+    "Pub. Date": "Jul 06, 2004",
+    "Src Location": "Fremont, CA",
+    "Submitter Loc": "Fremont, CAUnited States",
+    "Color": "Red / Pink",
+    "Size": "207 mg, 7.00 mm x 4.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20040600257"
+  }
+}

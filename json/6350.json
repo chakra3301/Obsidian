@@ -1,0 +1,28 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "raveitsafe and SaferParty issued an 'extreme high dose' warning because this tablet contains more than 200mg of MDMA. No break line, same image on reverse side.",
+  "Image": "6350.jpg",
+  "table data left": {
+    "ID": "6350",
+    "Name": "Anonymous",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 212 mg\n\nMDMA aka Ecstasy, E, X",
+      "Synthesis Byproduct(s)\n\n\n: 2 mg\n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 20, 2018",
+    "Pub. Date": "Jun 22, 2018",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Blue",
+    "Size": "353.1 mg, 10.40 mm x 7.60 mm x 5.8 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201806-20"
+  }
+}

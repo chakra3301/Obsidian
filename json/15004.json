@@ -1,0 +1,32 @@
+{
+  "Sold as": "Pure MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Tested twice.",
+  "Warning": "Not Available",
+  "Image": "15004.jpg",
+  "table data left": {
+    "ID": "15004",
+    "Name": "Yellow Mushroom",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "MXY17",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Liebermann": "Red Brown",
+    "Froehde": "Green to Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 11 \n\nMDMA aka Ecstasy, E, X",
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 07, 2022",
+    "Pub. Date": "Dec 07, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "----, CAUnited States",
+    "Color": "Yellow",
+    "Size": "447 mg, 11.59 mm x 11.90 mm x 4.71 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110133"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1650.jpg",
+  "table data left": {
+    "ID": "1650",
+    "Name": "Butterfly",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Methamphetamine\n\n\n: 1.20 \n\nMethamphetamine aka Meth, Ice, Crank",
+      "MDMA\n\n\n: 1.00 \n\nMDMA aka Ecstasy, E, X",
+      "Diphenhydramine\n\n\n  \n\nDiphenhydramine aka Benadryl",
+      "Lidocaine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 01, 2006",
+    "Pub. Date": "Jun 25, 2008",
+    "Src Location": "KY",
+    "Submitter Loc": "----, KYUnited States",
+    "Color": "Green",
+    "Size": "9.00 x -",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "20060401"
+  }
+}

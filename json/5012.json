@@ -1,0 +1,33 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Adulaterated Cocaine",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter indicates they expect sample to be 'cocaine, definitely some other cuts'. Sent in from San Francisco, CA, USA.",
+  "Image": "5012.jpg",
+  "table data left": {
+    "ID": "5012",
+    "Name": "Honest Cocaine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ABDNM2",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Very Slight Change (orange)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Very Slight Change (orange)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Cocaine\n\n\n: 8 \n\nCocaine aka Crack, Coca",
+      "Methylecgonidine\n\n\n: 1 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME",
+      "Tetramisole / Levamisole\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 22, 2016",
+    "Pub. Date": "Dec 24, 2016",
+    "Src Location": "Online",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "White",
+    "Size": "250 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20161200065"
+  }
+}

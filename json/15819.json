@@ -1,0 +1,32 @@
+{
+  "Sold as": "Norgestimate + Estradiol",
+  "Expected to be": "Norgestimate + Estradiol",
+  "Lab Comments": "Not Available",
+  "Warning": "This pharmaceutical tablet purchased inside the United States should contain norgestimate 0.215mg + ethinyl estradiol 0.025mg. It is a common 'low dose' birth control/hormone replacement therapy product. Analyzed to verify DrugsData's ability to identify ethinyl estradiol because of samples sold as estradiol submitted in Nov 2022.\n\nNorgestimate present in the tablet was not detected by the lab. The lab does not have a norgestimate reference standard. These substances are outside DrugsData's primary mission and we will not be following up on this matter.",
+  "Image": "15819.jpg",
+  "table data left": {
+    "ID": "15819",
+    "Name": "C7 Tri-Lo-Sprintec",
+    "Other Names": "Generic",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ESTRA23",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Ethinylestradiol\n\n\n: 1",
+      "Vitamin E\n\n\n: 1 \n\nVitamin E aka Tocopherol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 31, 2023",
+    "Pub. Date": "Mar 31, 2023",
+    "Src Location": "CA",
+    "Submitter Loc": "----, CAUnited States",
+    "Color": "Blue",
+    "Size": "66 mg, 5.08 mm x 2.75 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23030091"
+  }
+}

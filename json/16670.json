@@ -1,0 +1,31 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Unknown research chemical",
+  "Lab Comments": "Not Available",
+  "Warning": "''Tastes 'salty,' no bitterness at all''",
+  "Image": "16670.jpg",
+  "table data left": {
+    "ID": "16670",
+    "Name": "Molly",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "CVBLD1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Liebermann": "Red Brown",
+    "Froehde": "Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 01, 2023",
+    "Pub. Date": "Jul 01, 2023",
+    "Src Location": "Boulder, CO",
+    "Submitter Loc": "Boulder, COUnited States",
+    "Color": "Purple / Clear",
+    "Size": "100 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060121"
+  }
+}

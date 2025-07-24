@@ -1,0 +1,29 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Contains 73.6% MDMA, 1.0% MDA, and at least two synthesis byproducts",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "14690.jpg",
+  "table data left": {
+    "ID": "14690",
+    "Name": "Beige Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDA",
+      "MDMA\n\n\n  \n\nMDMA aka Ecstasy, E, X",
+      "Synthesis Byproduct(s)\n\n\n  \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 28, 2022",
+    "Pub. Date": "Nov 22, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Beige",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202211-5"
+  }
+}

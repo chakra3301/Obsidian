@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "The Mass Spectrum (MS) for 1-2-fluorophenyl-piperazine is nearly identical to other ring-substituted variants of it, such as 1-(4-fluorophenyl)piperazine or 1-(3-fluorophenyl)piperazine. This was initiall Unidentified by the lab but a visitor suggested this match, which the lab agrees with based on the public, free database SWDRUG. The lab does NOT have an analytical standard for this chemical and cannot confirm the identity further.",
+  "Warning": "This is the first time this substance has been detected in an Ecstasy tablet by EcstasyData.",
+  "Image": "2112.jpg",
+  "table data left": {
+    "ID": "2112",
+    "Name": "Star",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "1-(2-fluorophenyl)piperazine\n\n\n: 1.11 \n\n1-(2-fluorophenyl)piperazine aka 2-fluorophenyl-piperazine, 1-(p-fluorophenyl)piperazine",
+      "Caffeine\n\n\n: 1.00"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 01, 2011",
+    "Pub. Date": "Mar 09, 2011",
+    "Src Location": "Greenville, SC",
+    "Submitter Loc": "Greenville, SCUnited States",
+    "Color": "Peach / Orange",
+    "Size": "263 mg, 5.40 mm x 8.10 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20110200151"
+  }
+}

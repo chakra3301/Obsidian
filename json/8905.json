@@ -1,0 +1,29 @@
+{
+  "Sold as": "25C-NBOMe",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "'Minimum 5 synthesis byproducts' detected in this sample by the Swiss testing lab.",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nTaste noted as bitter.",
+  "Image": "8905.jpg",
+  "table data left": {
+    "ID": "8905",
+    "Name": "Filz",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "25I-NBOMe\n\n\n: 821.20 ug\n\n25I-NBOMe aka 2C-I-NBOMe; 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+      "Amphetamine\n\n\n: 128.90 ug\n\nAmphetamine aka dextro- and/or levo-amphetamine",
+      "Synthesis Byproduct(s)\n\n\n  \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 14, 2020",
+    "Pub. Date": "Aug 25, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "10.30 x 10.00",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202008-23"
+  }
+}

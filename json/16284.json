@@ -1,0 +1,30 @@
+{
+  "Sold as": "Crack",
+  "Expected to be": "Crack",
+  "Lab Comments": "Not Available",
+  "Warning": "'As expected'.",
+  "Image": "16284.jpg",
+  "table data left": {
+    "ID": "16284",
+    "Name": "Crack",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2786B",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Cocaine\n\n\n: 25 \n\nCocaine aka Crack, Coca",
+      "Methylecgonidine\n\n\n: 1 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 30, 2023",
+    "Pub. Date": "May 30, 2023",
+    "Src Location": "Brockton, MA",
+    "Submitter Loc": "Brockton, MAUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050072"
+  }
+}

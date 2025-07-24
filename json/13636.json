@@ -1,0 +1,31 @@
+{
+  "Sold as": "Fluorexetamine",
+  "Expected to be": "Fluorexetamine",
+  "Lab Comments": "Apr 27 2023: This sample was originally reported as containing Fluorexetamine (3-Fluoro-2-oxo PCE). A certified reference standard became available for 2-Fluoro-2-oxo PCE in early 2023.\n\nAll samples analyzed by the DrugsData lab prior to early 2023 that were reported as containing Fluorexetamine have been reexamined in comparison to this new standard. They have all been retroactively revised; they all contain 2-Fluoro-2-oxo PCE, including this sample. To date, no samples tested by DrugsData have contained 3-Fluoro-2-oxo PCE.",
+  "Warning": "Not Available",
+  "Image": "13636.jpg",
+  "table data left": {
+    "ID": "13636",
+    "Name": "White Powder",
+    "Other Names": "FXE",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "eG9mQ",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "2-Fluoro-2-oxo-PCE\n\n\n: 1 \n\n2-Fluoro-2-oxo-PCE aka 2-FDCNEK; 2-fluoro NENDCK; 2-fluoro NENDCK; 2-fluorodeschloro-N-ethyl-ketamine; CanKet"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 25, 2022",
+    "Pub. Date": "Jul 25, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Portland, ORUnited States",
+    "Color": "White",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22070097"
+  }
+}

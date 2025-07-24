@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "No GC/MS was performed on this tablet as it is a known pharmaceutical tablet (Anacin) containing Aspirin & Caffeine",
+  "Image": "897.jpg",
+  "table data left": {
+    "ID": "897",
+    "Name": "Arrow",
+    "Other Names": "Anacin, Christmas Tree",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Simon's": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Not Tested"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 25, 2002",
+    "Pub. Date": "May 25, 2002",
+    "Src Location": "Columbus, OH",
+    "Submitter Loc": "Columbus, OHUnited States",
+    "Color": "White",
+    "Size": "11.00 x 5.00",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20020500227"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Sold as": "Oxycodone",
+  "Expected to be": "Oxycodone",
+  "Lab Comments": "No oxycodone detected.",
+  "Warning": "Not Available",
+  "Image": "8576.jpg",
+  "table data left": {
+    "ID": "8576",
+    "Name": "M30",
+    "Other Names": "Roxie",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "DZ001",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Pink",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown to Black",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 30",
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 19, 2020",
+    "Pub. Date": "Jun 19, 2020",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Orange County, CAUnited States",
+    "Color": "Blue",
+    "Size": "113 mg, 6.50 mm x 3.40 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20060026"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Lab was not able to identify a substance in this tablet initially, but 2 of 3 Erowid Expert Network chemists agree it is most likely Benocyclidine, a dopamine reuptake inhibitor that probably has stimulant effects. The third chemist believes it could be something else and suggests continuing to search for the correct identification.",
+  "Warning": "GCMS we used as reference: Mass Spec of Benocyclidine.",
+  "Image": "2314.jpg",
+  "table data left": {
+    "ID": "2314",
+    "Name": "White Garfield",
+    "Other Names": "Cat",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Benocyclidine\n\n\n: 1 \n\nBenocyclidine aka benzothiophenylcyclohexylpiperidine BTCP",
+      "Caffeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 27, 2011",
+    "Pub. Date": "Oct 27, 2011",
+    "Src Location": "Salt Lake City, UT",
+    "Submitter Loc": "Salt Lake City, UTUnited States",
+    "Color": "White / Off White",
+    "Size": "259 mg, 8.80 mm x 8.40 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20111000128"
+  }
+}

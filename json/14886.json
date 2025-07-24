@@ -1,0 +1,36 @@
+{
+  "Sold as": "Tusi",
+  "Expected to be": "2C-B or Ket + MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Shares some similarities with other pink powders tested by DrugsData and other drug checking groups that were sold as ''Tusi'' or 2C-B.",
+  "Image": "14886.jpg",
+  "table data left": {
+    "ID": "14886",
+    "Name": "Tusi",
+    "Other Names": "Pink Powder",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022C064",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Liebermann": "Brown",
+    "Froehde": "Blue",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "Ketamine\n\n\n: 90 \n\nKetamine aka Ketalar, Ketaset",
+      "MDMA\n\n\n: 30 \n\nMDMA aka Ecstasy, E, X",
+      "Ketamine Precursor A\n\n\n: 5 \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol",
+      "Oxycodone\n\n\n: 1 \n\nOxycodone aka Oxycontin",
+      "Tramadol\n\n\n: 1 \n\nTramadol aka Ultram"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 01, 2022",
+    "Pub. Date": "Dec 01, 2022",
+    "Src Location": "Gainesville, FL",
+    "Submitter Loc": "Gainesville, FLUnited States",
+    "Color": "Red / Pink",
+    "Size": "20 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110055"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it.",
+  "Image": "15324.jpg",
+  "table data left": {
+    "ID": "15324",
+    "Name": "Monkey with Headphones",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 17 mg\n\n2C-B aka Bees",
+      "2C-H\n\n\n: 1 mg\n\n2C-H aka 2,5-dimethoxyphenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 06, 2023",
+    "Pub. Date": "Jan 27, 2023",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "138 mg, 7.10 mm x 7.10 mm x 2.8 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202301-001"
+  }
+}

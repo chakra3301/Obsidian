@@ -1,0 +1,31 @@
+{
+  "Sold as": "IDRA-21",
+  "Expected to be": "IDRA-21",
+  "Lab Comments": "Not Available",
+  "Warning": "Dec 2 2022: IDRA-21 identified by library match.",
+  "Image": "14757.jpg",
+  "table data left": {
+    "ID": "14757",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "IDRA",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Yellow",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "IDRA-21\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 22, 2022",
+    "Pub. Date": "Nov 22, 2022",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "Cologne, NRWGermany",
+    "Color": "White / Off White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100189"
+  }
+}

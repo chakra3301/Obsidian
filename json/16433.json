@@ -1,0 +1,32 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "16433.jpg",
+  "table data left": {
+    "ID": "16433",
+    "Name": "Ket",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "TFK01",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Brown",
+    "Liebermann": "Orange / Yellow",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Phenibut\n\n\n: 1",
+      "Ketamine\n\n\n: trace \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 09, 2023",
+    "Pub. Date": "Jun 09, 2023",
+    "Src Location": "Live Oak, FL",
+    "Submitter Loc": "Oakland, CAUnited States",
+    "Color": "White",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050149"
+  }
+}

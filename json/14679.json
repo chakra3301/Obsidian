@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "''Sedative''",
+  "Image": "14679.jpg",
+  "table data left": {
+    "ID": "14679",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B1002",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 20",
+      "4-ANPP\n\n\n: 5 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Xylazine\n\n\n: 5 \n\nXylazine aka Rompun",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 03, 2022",
+    "Pub. Date": "Nov 03, 2022",
+    "Src Location": "Gloucester, MA",
+    "Submitter Loc": "Gloucester, MAUnited States",
+    "Color": "White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100151"
+  }
+}

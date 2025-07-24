@@ -1,0 +1,42 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15495.jpg",
+  "table data left": {
+    "ID": "15495",
+    "Name": "Black/Gray Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023C007",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "Benzodiazepine Test Strip": "Negative",
+    "Xylazine Test Strip": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Diphenhydramine\n\n\n: 16 \n\nDiphenhydramine aka Benadryl",
+      "Fentanyl\n\n\n: 10",
+      "Heroin\n\n\n: 8 \n\nHeroin aka Diacetylmorphine",
+      "6-Acetylmorphine\n\n\n: 4 \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM",
+      "Caffeine\n\n\n: 4",
+      "Quinine\n\n\n: 4",
+      "4-ANPP\n\n\n: 2 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "4-Fluorofentanyl\n\n\n: 2 \n\n4-Fluorofentanyl aka Para-fluorofentanyl",
+      "6-Acetylcodeine\n\n\n: 2 \n\n6-Acetylcodeine aka 6-Monoacetylcodeine",
+      "Cocaine\n\n\n: 2 \n\nCocaine aka Crack, Coca",
+      "Phenethyl 4-ANPP\n\n\n: 2",
+      "Lidocaine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 13, 2023",
+    "Pub. Date": "Feb 13, 2023",
+    "Src Location": "Madison, WI",
+    "Submitter Loc": "Madison, WIUnited States",
+    "Color": "Gray / Black",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010133"
+  }
+}

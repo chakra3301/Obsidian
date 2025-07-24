@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter wrote 'Discovered January 2014'. No information about what this was sold as or expected to be.",
+  "Image": "3088.jpg",
+  "table data left": {
+    "ID": "3088",
+    "Name": "Red Cross Tablet",
+    "Other Names": "M1953",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Tramadol\n\n\n: 1 \n\nTramadol aka Ultram"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 23, 2014",
+    "Pub. Date": "Feb 23, 2014",
+    "Src Location": "IL",
+    "Submitter Loc": "----, ILUnited States",
+    "Color": "Red / Pink",
+    "Size": "397 mg, 12.30 mm x 4.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140200106"
+  }
+}

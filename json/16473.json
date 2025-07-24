@@ -1,0 +1,27 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in the middle or end of April 2023.",
+  "Image": "16473.jpg",
+  "table data left": {
+    "ID": "16473",
+    "Name": "Fake Xanax",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Flubromazolam"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 15, 2023",
+    "Pub. Date": "Jun 15, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "White",
+    "Size": "46 mg",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202306-45"
+  }
+}

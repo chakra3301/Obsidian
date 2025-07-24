@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this tablet contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet. Color described as 'gold'. Tablet has break line on reverse.",
+  "Image": "5954.jpg",
+  "table data left": {
+    "ID": "5954",
+    "Name": "Champagner",
+    "Other Names": "Mo�t & Chandon; Bottle",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 11.20 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 30, 2018",
+    "Pub. Date": "Feb 02, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Tan",
+    "Size": "451.1 mg, 3.90 mm x 13.10 mm x 4.2 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201802-2"
+  }
+}

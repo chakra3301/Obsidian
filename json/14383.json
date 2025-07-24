@@ -1,0 +1,34 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Oct 11 2022: Lab is working on differentiating the isomer, but this may not be possible.\n\nRegarding positional isomers: This is a chemical that has multiple 'ring-positional isomers'. That means that the hexagonal benzene ring that makes up part of the chemical can have 'arms' that form the rest of the chemical attached at various locations around the ring. Some drugs, such as this one, have multiple possible places along the ring that these parts can attach, and have nearly-identical or identical retention times in the Gas Chromatograph (GC) and identical mass spectra (MS). We can say with certainty that the substance is what we've identified, but can't be certain which position on the ring the rest of the molecule is attached.",
+  "Image": "14383.jpg",
+  "table data left": {
+    "ID": "14383",
+    "Name": "White Salts",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ADV18",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple",
+    "Froehde": "Blue-Purple",
+    "Liebermann": "Brown",
+    "Morris": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_11": [
+      "APB (isomer not specified)\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 07, 2022",
+    "Pub. Date": "Oct 07, 2022",
+    "Src Location": "CA",
+    "Submitter Loc": "----, CAUnited States",
+    "Color": "Tan",
+    "Size": "200 mg, 15.12 mm x 5.07 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22090121"
+  }
+}

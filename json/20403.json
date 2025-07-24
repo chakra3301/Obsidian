@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a substance other than the one it was represented as.\n\nOriginal alert published by Z6 Drogenarbeit (Austria) in June 2024.",
+  "Image": "20403.jpg",
+  "table data left": {
+    "ID": "20403",
+    "Name": "Om",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 60 ug\n\nLSD aka Acid, Doses",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 15, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "White / Brown",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:202408-11"
+  }
+}

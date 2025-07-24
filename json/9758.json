@@ -1,0 +1,28 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as. No break line.\n\nAnalyzed by checkit! (Vienna, Austria) in Jan 2021.",
+  "Image": "9758.jpg",
+  "table data left": {
+    "ID": "9758",
+    "Name": "Oreo",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 13 mg\n\n2C-B aka Bees",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 31, 2021",
+    "Pub. Date": "Feb 03, 2021",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Green",
+    "Size": "12.10 x 3.90",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202102-6"
+  }
+}

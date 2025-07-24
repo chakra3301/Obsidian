@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a drug other than the one it was represented as.",
+  "Image": "16335.jpg",
+  "table data left": {
+    "ID": "16335",
+    "Name": "White Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2-Fluorodeschloroketamine\n\n\n  \n\n2-Fluorodeschloroketamine aka 2-fluoro Deschloroketamine; 2-FDCK; 2-FL-2-OXO-PCM; Fluoroketamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 09, 2023",
+    "Pub. Date": "Jun 15, 2023",
+    "Src Location": "Biel, \nSwitzerland",
+    "Submitter Loc": "Biel, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202306-7"
+  }
+}

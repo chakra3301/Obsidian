@@ -1,0 +1,34 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "All plastic pieces in baggie tested together.",
+  "Warning": "Not Available",
+  "Image": "15040.jpg",
+  "table data left": {
+    "ID": "15040",
+    "Name": "Residue",
+    "Other Names": "Mixed",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PT2022B0048",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 130",
+      "4-ANPP\n\n\n: 40 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Caffeine\n\n\n: 20",
+      "Phenethyl 4-ANPP\n\n\n: 10",
+      "N-Propionylnorfentanyl\n\n\n: 1 \n\nN-Propionylnorfentanyl aka N-[1-(1-oxopropyl)-4-piperidinyl]-N-phenyl-propanamide",
+      "THC\n\n\n: 1 \n\nTHC aka delta-9-THC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 16, 2022",
+    "Pub. Date": "Dec 16, 2022",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Lynn, MAUnited States",
+    "Color": "White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110169"
+  }
+}

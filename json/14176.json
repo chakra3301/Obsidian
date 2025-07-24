@@ -1,0 +1,27 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Powder contains 94.8% ketamine, per the lab that analyzed it",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "14176.jpg",
+  "table data left": {
+    "ID": "14176",
+    "Name": "White Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 13, 2022",
+    "Pub. Date": "Sep 21, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White / Clear",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202209-61"
+  }
+}

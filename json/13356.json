@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "13356.jpg",
+  "table data left": {
+    "ID": "13356",
+    "Name": "Tingle",
+    "Other Names": "Zelda Triforce",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 7.80 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 25, 2022",
+    "Pub. Date": "Jul 05, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Beige",
+    "Size": "331.2 mg, 14.20 mm x 10.20 mm x 4.9 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:202207-11"
+  }
+}

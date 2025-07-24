@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution because it contains more than 120mg of MDMA.\n\nAnalyzed by checkit! (Vienna, Austria) in July 2019.",
+  "Image": "7556.jpg",
+  "table data left": {
+    "ID": "7556",
+    "Name": "Goldbarren",
+    "Other Names": "Gold Bar",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 132 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 23, 2019",
+    "Pub. Date": "Jul 24, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Tan",
+    "Size": "10.40 x 4.30",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201907-5"
+  }
+}

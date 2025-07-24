@@ -1,0 +1,34 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Palmitic acid (2), Linoleic acid (2), Oleic acid (2), Steric acid (1), Unidentified (2), Physcion (1).\n\nIt appears to be a Chinese medicine product. A visitor wrote to us saying: 'Physcion, an anthraquinone, is isolated from the roots of Chinese Rhubarb. This compound has not been thoroughly studied in humans but is thought to have anti-tumor and anti-fungal properties. This may be helpful in the future, as I understand it to be a commonly found compound in many Chinese herbal blends.'",
+  "Image": "2670.jpg",
+  "table data left": {
+    "ID": "2670",
+    "Name": "Jiuwuruntong",
+    "Other Names": "Herb62182",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Linoleic acid\n\n\n: 2 \n\nLinoleic acid aka cis, cis-9,12-Octadecadienoic acid",
+      "Oleic Acid\n\n\n: 2 \n\nOleic Acid aka (9Z)-Octadec-9-enoic acid",
+      "Palmitic Acid\n\n\n: 2 \n\nPalmitic Acid aka hexadecanoic acid",
+      "Unidentified\n\n\n: 2",
+      "Physcion\n\n\n: 1 \n\nPhyscion aka 1,8-Dihydroxy-3-methoxy-6-methylanthraquinone; Emodin-3-methyl ether",
+      "Stearic Acid\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 29, 2012",
+    "Pub. Date": "Nov 29, 2012",
+    "Src Location": "China",
+    "Submitter Loc": "----, --China",
+    "Color": "Brown",
+    "Size": "4103 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20121100066"
+  }
+}

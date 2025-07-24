@@ -1,0 +1,30 @@
+{
+  "Sold as": "Xanax / Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nSee original Energy Control alert on fake alprazolam tablets and powder for more details.\n\n*Republished from the Energy Control alert:\n\n'This pill was received in our headquarters on 3/Dic/2018, delivered from United States. Another identical sample like this one was received in our National Drug Checking Service from Valencia (Spain) on 14/Jan/19.'\n\n(This fake Xanax resembles two other fake Xanax tablets analyzed in Nov 2018 and Jan 2019 by SaferParty's drug checking program in Switzerland.)",
+  "Image": "6974.jpg",
+  "table data left": {
+    "ID": "6974",
+    "Name": "XANAX",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Amantadine",
+      "Cyproheptadine",
+      "Promethazine\n\n\n  \n\nPromethazine aka Phenergan",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 03, 2018",
+    "Pub. Date": "Jan 31, 2019",
+    "Src Location": "Online",
+    "Submitter Loc": "----, --United States",
+    "Color": "White",
+    "Size": "223 mg, 16.00 mm x - mm",
+    "Data Source": "Energy Control",
+    "Tested by": "Energy Control",
+    "Lab's ID": "2019-01-30-3"
+  }
+}

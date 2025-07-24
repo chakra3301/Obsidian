@@ -1,0 +1,34 @@
+{
+  "Sold as": "Molly",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter notes that they 'self tested with Marquis reagent. Results were purple to black.'",
+  "Image": "4988.jpg",
+  "table data left": {
+    "ID": "4988",
+    "Name": "Maserati",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PLZ884",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Lavender - Light Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue-Purple",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 22 \n\nMDMA aka Ecstasy, E, X",
+      "Ethylone\n\n\n: 2 \n\nEthylone aka MDEC, bk-MDEA, 3,4-methylenedioxy-N-ethylcathinone",
+      "MDA\n\n\n: 2",
+      "Phenacetin\n\n\n: 1 \n\nPhenacetin aka N-(4-Ethoxyphenyl)acetamide"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 14, 2016",
+    "Pub. Date": "Dec 14, 2016",
+    "Src Location": "Pasadena, CA",
+    "Submitter Loc": "Pasadena, CAUnited States",
+    "Color": "Gray / Purple",
+    "Size": "549 mg, 12.10 mm x 8.10 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20161200032"
+  }
+}

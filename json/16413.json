@@ -1,0 +1,32 @@
+{
+  "Sold as": "Percocet",
+  "Expected to be": "Percocet",
+  "Lab Comments": "Acetaminophen ratio is at least 30.",
+  "Warning": "Not Available",
+  "Image": "16413.jpg",
+  "table data left": {
+    "ID": "16413",
+    "Name": "RP 10 325",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "0523C",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Purple - Brown",
+    "Froehde": "Green to Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 30",
+      "Oxycodone\n\n\n: 1 \n\nOxycodone aka Oxycontin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 07, 2023",
+    "Pub. Date": "Jun 07, 2023",
+    "Src Location": "Boynton Beach, FL",
+    "Submitter Loc": "Boynton Beach, FLUnited States",
+    "Color": "White",
+    "Size": "379 mg, 9.64 mm x 5.53 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050124"
+  }
+}

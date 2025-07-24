@@ -1,0 +1,34 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as ecstasy. Expected to be: don't know? fake?",
+  "Image": "3278.jpg",
+  "table data left": {
+    "ID": "3278",
+    "Name": "Green Clamshell",
+    "Other Names": "02657",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "TFMPP\n\n\n: 6",
+      "BZP\n\n\n: 2 \n\nBZP aka Benzoyl Peroxide",
+      "4-FA\n\n\n: 1 \n\n4-FA aka 4-Fluoroamphetamine",
+      "Benocyclidine\n\n\n: 1 \n\nBenocyclidine aka benzothiophenylcyclohexylpiperidine BTCP",
+      "Caffeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 10, 2014",
+    "Pub. Date": "Sep 10, 2014",
+    "Src Location": "Dallas, TX",
+    "Submitter Loc": "Dallas, TXUnited States",
+    "Color": "Green",
+    "Size": "307 mg, 11.40 mm x 8.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140900036"
+  }
+}

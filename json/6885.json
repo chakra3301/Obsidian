@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nSample was analyzed by checkit! in Austria between Dec 1 and Dec 18, 2018.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "6885",
+    "Name": "LSD",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "1P-LSD"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 15, 2018",
+    "Pub. Date": "Dec 18, 2018",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201812-7"
+  }
+}

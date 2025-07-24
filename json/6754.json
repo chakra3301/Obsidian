@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "6754.jpg",
+  "table data left": {
+    "ID": "6754",
+    "Name": "LSD",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "1P-LSD\n\n\n: 39 ug",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 31, 2018",
+    "Pub. Date": "Nov 10, 2018",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201811-17"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Cannabis",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a cannabinoid other than the ones naturally occurring in Cannabis.",
+  "Image": "9253.jpg",
+  "table data left": {
+    "ID": "9253",
+    "Name": "Adulterated Cannabis",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "5F-AB-PINACA\n\n\n  \n\n5F-AB-PINACA aka 5-Fluoro-AB-PINACA"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 14, 2020",
+    "Pub. Date": "Oct 19, 2020",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Green / Brown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202010-23"
+  }
+}

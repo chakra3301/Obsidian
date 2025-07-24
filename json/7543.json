@@ -1,0 +1,31 @@
+{
+  "Sold as": "3,4-CFPP",
+  "Expected to be": "3,4-CFPP  (3-Chloro-4-fluorophenylpiperazine)",
+  "Lab Comments": "No standard or mass spectrum for 3,4-CFPP currently available.",
+  "Warning": "Not Available",
+  "Image": "7543.jpg",
+  "table data left": {
+    "ID": "7543",
+    "Name": "3,4-CFPP",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "34CFP",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Fizzing",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Fizzing",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Orange",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 20, 2019",
+    "Pub. Date": "Jul 20, 2019",
+    "Src Location": "Online, \nGermany",
+    "Submitter Loc": "Cologne, NRWGermany",
+    "Color": "Off White",
+    "Size": "130 mg, 17.10 mm x 6.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20190700061"
+  }
+}

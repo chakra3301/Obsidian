@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "On first testing, the lab found only MDMA. The submitter contacted us and informed us that they had taken a pressed tablet that had been sold around the world and crushed it up, spiked the baggie with a little 2C-B, and submitted it to EcstasyData.\n\nThe lab initially failed to find the 2C-B. It is possible that's because the lab did not homogenize (mix) the contents before taking a small scoop of the material for testing and it's also possible that the 2C-B that was added was diluted and thus there was very little.\n\nAfter homogenizing the contents and taking two different new scoops/samples from the baggie, the lab found small traces of 2C-B in both new tests, but it was NOT present in the original GC analysis.\n\nAfter a long discussion with the submitter, we will be writing up the description of this sample testing in more detail to describe the techniques the lab uses and the choices that are made about testing by different labs and testing services. Thanks for all the work by the submitter following through on this.",
+  "Warning": "Not Available",
+  "Image": "2535.jpg",
+  "table data left": {
+    "ID": "2535",
+    "Name": "Molly Flip",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green to Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X",
+      "2C-B\n\n\n: trace \n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 05, 2012",
+    "Pub. Date": "Jul 05, 2012",
+    "Src Location": "South Jordan, UT",
+    "Submitter Loc": "South Jordan, UTUnited States",
+    "Color": "Red / Pink",
+    "Size": "334 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120600100"
+  }
+}

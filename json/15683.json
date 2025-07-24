@@ -1,0 +1,32 @@
+{
+  "Sold as": "6-APB",
+  "Expected to be": "6-APB / Unsure",
+  "Lab Comments": "The unidentified substance is present in very small amount and has some general similarities to ADB-FUBIATA. It is most likely a synthesis byproduct or an analytical artifact, but it could be an unknown similar drug.",
+  "Warning": "Not Available",
+  "Image": "15683.jpg",
+  "table data left": {
+    "ID": "15683",
+    "Name": "Brown Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "KM9V6",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple - Brown",
+    "Liebermann": "Brown",
+    "Froehde": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "ADB-FUBIATA\n\n\n: 1 \n\nADB-FUBIATA aka AL-18; FUB-ACADB​",
+      "Unidentified\n\n\n: trace"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 16, 2023",
+    "Pub. Date": "Mar 16, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "Bethesda, MDUnited States",
+    "Color": "Brown",
+    "Size": "20 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23020124"
+  }
+}

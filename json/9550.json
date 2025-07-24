@@ -1,0 +1,30 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Sample is mostly N-Ethylhexedrone, and 18% lidocaine, 12% cocaine, and 1% levamisole.",
+  "Warning": "White crystalline powder.",
+  "Image": "9550.jpg",
+  "table data left": {
+    "ID": "9550",
+    "Name": "White Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Cocaine\n\n\n  \n\nCocaine aka Crack, Coca",
+      "Lidocaine",
+      "N-Ethylhexedrone\n\n\n  \n\nN-Ethylhexedrone aka Hexen; Hex-en",
+      "Tetramisole / Levamisole"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 15, 2020",
+    "Pub. Date": "Dec 18, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White / Clear",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202012-33"
+  }
+}

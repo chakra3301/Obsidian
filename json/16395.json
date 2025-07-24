@@ -1,0 +1,29 @@
+{
+  "Sold as": "Mephedrone / 4-MMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Contains 227 mg/g 4-methylmethcathinone, 35 mg/g Methamphetamine, and an unidentified substance.",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains substances other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in April 2023.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "16395",
+    "Name": "Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-Methylmethcathinone\n\n\n  \n\n4-Methylmethcathinone aka Mephedrone, 4-MMC, 4-MMC, Meow, M-Cat, 2-Methylamino-1-p-tolylpropan-1-one",
+      "Methamphetamine\n\n\n  \n\nMethamphetamine aka Meth, Ice, Crank",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 01, 2023",
+    "Pub. Date": "Jun 15, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202306-26"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Benzodiazepine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in early February 2023.",
+  "Image": "15571.jpg",
+  "table data left": {
+    "ID": "15571",
+    "Name": "Blue Tablet",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Rilmazafone\n\n\n  \n\nRilmazafone aka Rhythmy"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2023",
+    "Pub. Date": "Feb 28, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Blue",
+    "Size": "105 mg, 6.10 mm x - mm x 2.5 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202302-19"
+  }
+}

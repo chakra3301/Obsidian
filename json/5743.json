@@ -1,0 +1,28 @@
+{
+  "Sold as": "4-HO-MET",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued an information alert because this sample contains a fentanyl analog.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "5743",
+    "Name": "4-HO-MET",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-HO-MET\n\n\n  \n\n4-HO-MET aka 4-hydroxy-N-methyl-N-ethyltryptamine, or metocin, methylcybin, Colour)",
+      "Methoxyacetylfentanyl\n\n\n  \n\nMethoxyacetylfentanyl aka Methoxyacetyl-fentanyl; Methoxyacetyl fentanyl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 01, 2017",
+    "Pub. Date": "Oct 21, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201710-2"
+  }
+}

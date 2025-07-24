@@ -1,0 +1,29 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in October 2022.",
+  "Image": "14639.jpg",
+  "table data left": {
+    "ID": "14639",
+    "Name": "Armand de Brignac",
+    "Other Names": "Pik Ass; Ace of Spades",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 49 mg\n\nMDMA aka Ecstasy, E, X",
+      "4-CMC\n\n\n: 1 mg\n\n4-CMC aka 4-chloromethcathinone",
+      "Caffeine\n\n\n: 1 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 01, 2022",
+    "Pub. Date": "Nov 02, 2022",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Purple",
+    "Size": "406 mg, 12.00 mm x 4.00 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202211-001"
+  }
+}

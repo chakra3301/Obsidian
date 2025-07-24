@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Small GC/MS response.",
+  "Warning": "Not Available",
+  "Image": "16263.jpg",
+  "table data left": {
+    "ID": "16263",
+    "Name": "Tan Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2503",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 26, 2023",
+    "Pub. Date": "May 26, 2023",
+    "Src Location": "Beverly, MA",
+    "Submitter Loc": "Beverly, MAUnited States",
+    "Color": "Tan",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050049"
+  }
+}

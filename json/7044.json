@@ -1,0 +1,32 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The Austrian drug checking group checkit! analyzed this sample between Jan 1 and Jan 31, 2019.",
+  "Image": "7044.jpg",
+  "table data left": {
+    "ID": "7044",
+    "Name": "Cornetto",
+    "Other Names": "2C-B",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 30 mg\n\n2C-B aka Bees",
+      "2C-H\n\n\n  \n\n2C-H aka 2,5-dimethoxyphenethylamine",
+      "Unidentified",
+      "Unidentified",
+      "Unidentified",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 31, 2019",
+    "Pub. Date": "Feb 08, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Orange",
+    "Size": "12.00 x 3.10",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201902-36"
+  }
+}

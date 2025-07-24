@@ -1,0 +1,33 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Unknown",
+  "Lab Comments": "Not Available",
+  "Warning": "Sample of pink powder in a blue baggie.",
+  "Image": "4787.jpg",
+  "table data left": {
+    "ID": "4787",
+    "Name": "Pink Powder",
+    "Other Names": "Tusi",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PS09B",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Lavender - Light Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Very Slight Change",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Very Slight Change",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Ketamine\n\n\n: 3 \n\nKetamine aka Ketalar, Ketaset",
+      "Phenacetin\n\n\n: 2 \n\nPhenacetin aka N-(4-Ethoxyphenyl)acetamide",
+      "Caffeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 29, 2016",
+    "Pub. Date": "Sep 29, 2016",
+    "Src Location": "Miami, FL",
+    "Submitter Loc": "Miami, FLUnited States",
+    "Color": "Red / Pink",
+    "Size": "200 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160900081"
+  }
+}

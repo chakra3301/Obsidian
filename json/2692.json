@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "2692.jpg",
+  "table data left": {
+    "ID": "2692",
+    "Name": "Y",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 177.60 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 01, 2012",
+    "Pub. Date": "Dec 11, 2012",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Purple",
+    "Size": "252.5 mg, 7.10 mm x 5.80 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": ""
+  }
+}

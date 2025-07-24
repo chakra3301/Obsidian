@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "9200.jpg",
+  "table data left": {
+    "ID": "9200",
+    "Name": "LSD-Filz",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 186 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 01, 2020",
+    "Pub. Date": "Oct 05, 2020",
+    "Src Location": "Basel, \nSwitzerland",
+    "Submitter Loc": "Basel, --Switzerland",
+    "Color": "White",
+    "Size": "8.40 x 8.40",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIBS",
+    "Lab's ID": "SP:202010-4"
+  }
+}

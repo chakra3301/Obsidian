@@ -1,0 +1,32 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15033.jpg",
+  "table data left": {
+    "ID": "15033",
+    "Name": "Tan Residue",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PT2022B0031",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 20",
+      "Cocaine\n\n\n: 6 \n\nCocaine aka Crack, Coca",
+      "4-ANPP\n\n\n: 2 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 16, 2022",
+    "Pub. Date": "Dec 16, 2022",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Lynn, MAUnited States",
+    "Color": "Tan",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110162"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "3-MMC",
+  "Expected to be": "3-MMC",
+  "Lab Comments": "Closest match is 3-MMC.",
+  "Warning": "Regarding positional isomers: This is a chemical that has multiple 'ring-positional isomers'. That means that the hexagonal benzene ring that makes up part of the chemical can have 'arms' that form the rest of the chemical attached at various locations around the ring. Some drugs, such as this one, have multiple possible places along the ring that these parts can attach, and have nearly-identical or identical retention times in the Gas Chromatograph (GC) and identical mass spectra (MS). We can say with certainty that the substance is what we've identified, but can't be certain which position on the ring the rest of the molecule is attached. The best match is 3-MMC.",
+  "Image": "13346.jpg",
+  "table data left": {
+    "ID": "13346",
+    "Name": "3-MMC",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "GUS02",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Methylmethcathinone\n\n\n: 1 \n\nMethylmethcathinone aka Mephedrone, 2,3, or 4-MMC, Meow, M-Cat, 2-Methylamino-1-p-tolylpropan-1-one"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 05, 2022",
+    "Pub. Date": "Jul 05, 2022",
+    "Src Location": "Juneau, AK",
+    "Submitter Loc": "Juneau, AKUnited States",
+    "Color": "White",
+    "Size": "10 mg, 15.49 mm x 5.55 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22060038"
+  }
+}

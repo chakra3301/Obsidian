@@ -1,0 +1,30 @@
+{
+  "Sold as": "Spanish M-Care",
+  "Expected to be": "Contaminants",
+  "Lab Comments": "Not Available",
+  "Warning": "Sold from Malaysia as 'Spanish M-Care', expected to contain contaminants such as Propoxihidroxihomosildenafil. \n\nLab Note: The lab identified only Oleic Acid or Elaidic acid and is not able to reliably differentiate between these two inert (non-psychoactive) ingredients. The lab found no active ingredients such as sildenail or the suspected contaminant.",
+  "Image": "3417.jpg",
+  "table data left": {
+    "ID": "3417",
+    "Name": "Spanish M-Care",
+    "Other Names": "SJ0313",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Oleic Acid\n\n\n: 1 \n\nOleic Acid aka (9Z)-Octadec-9-enoic acid"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 08, 2015",
+    "Pub. Date": "Jan 08, 2015",
+    "Src Location": "Malaysia",
+    "Submitter Loc": "----, --Malaysia",
+    "Color": "Blue",
+    "Size": "422 mg, 19.80 mm x 6.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150100004"
+  }
+}

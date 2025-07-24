@@ -1,0 +1,35 @@
+{
+  "Sold as": "5-Methyl-MDA",
+  "Expected to be": "5-Methyl-MDA",
+  "Lab Comments": "Not Available",
+  "Warning": "After results for this sample were first published, the submitter contacted EcstasyData (see Description below) and asked to have it re-tested for an NBOMe or other high-potency psychedelic. The first pass analysis detected bk-MDMA with a small amount of 4-FA only.\n\nThe sample, which appeared to the naked eye to be fairly even and slightly damp or sticky, was initially misidentified because the lab did not notice that the material was not homogenous.\n\nUnder later examination with a magnifying glass, there were clearly different types and colors of crystals and powders mashed together that were not thoroughly mixed. \n\nWhen the lab scooped a small amount of the material and homogenized it to complete the first pass analysis, they found two drugs. After preparing the sample for a second analysis, six drugs were found.",
+  "Image": "3935.jpg",
+  "table data left": {
+    "ID": "3935",
+    "Name": "5-MMA",
+    "Other Names": "5MMA1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Orange to Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Orange to Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "alpha-PVP\n\n\n: 18 \n\nalpha-PVP aka alpha-Pyrrolidinopentiophenone",
+      "MDPV\n\n\n: 12 \n\nMDPV aka 3,4-methylenedioxypyrovalerone",
+      "Methylone\n\n\n: 6 \n\nMethylone aka Explosion; bk-MDMA, Ease, M1",
+      "4-FA\n\n\n: 4 \n\n4-FA aka 4-Fluoroamphetamine",
+      "25C-NBOMe\n\n\n: 1 \n\n25C-NBOMe aka 2C-C-NBOMe; 2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+      "Methoxetamine\n\n\n: 1 \n\nMethoxetamine aka NAME 2-(3-methoxyphenyl)-2-(ethylamino)cyclohexanone; 3-MeO-2-Oxo-PCE"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 04, 2015",
+    "Pub. Date": "Nov 05, 2015",
+    "Src Location": "",
+    "Submitter Loc": "----, --United States",
+    "Color": "Brown",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20151000149"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "2C-B",
+  "Lab Comments": "Not Available",
+  "Warning": "A reminder that DrugsData is not allowed to provide quantitative results for samples it analyzes, because our lab is constrained by rules set by the US DEA.",
+  "Image": "14627.jpg",
+  "table data left": {
+    "ID": "14627",
+    "Name": "Heart",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "FDP03",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Green",
+    "Liebermann": "Yellow",
+    "Froehde": "Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "2C-B\n\n\n: 1 \n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 02, 2022",
+    "Pub. Date": "Nov 02, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Boulder, COUnited States",
+    "Color": "Green / Glitter",
+    "Size": "186 mg, 6.99 mm x 7.63 mm x 4.49 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100122"
+  }
+}

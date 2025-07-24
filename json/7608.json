@@ -1,0 +1,27 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued an information alert because it contains 2C-B.\n\nAnalyzed by MDA Basecamp (Innsbruck, Austria) in August 2019.",
+  "Image": "7608.jpg",
+  "table data left": {
+    "ID": "7608",
+    "Name": "Yoshi",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 15.80 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 02, 2019",
+    "Pub. Date": "Aug 02, 2019",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Purple",
+    "Size": "200.6 mg",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201908-6"
+  }
+}

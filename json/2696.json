@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "2696.jpg",
+  "table data left": {
+    "ID": "2696",
+    "Name": "Schufle",
+    "Other Names": "Herz",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 55.00 mg\n\nMDMA aka Ecstasy, E, X",
+      "Methamphetamine\n\n\n: 12.40 mg\n\nMethamphetamine aka Meth, Ice, Crank",
+      "Caffeine\n\n\n: 9.00 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 01, 2012",
+    "Pub. Date": "Dec 11, 2012",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Green",
+    "Size": "228.9 mg, 8.60 mm x 4.00 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": ""
+  }
+}

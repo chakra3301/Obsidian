@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this powder/crystal is a drug other than MDMA and could be mistaken for MDMA. It was identified at 4-CEC.",
+  "Image": "5093.jpg",
+  "table data left": {
+    "ID": "5093",
+    "Name": "MDMA",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CEC\n\n\n: 1 \n\n4-CEC aka 4-Chloroethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 10, 2017",
+    "Pub. Date": "Feb 10, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201702-5"
+  }
+}

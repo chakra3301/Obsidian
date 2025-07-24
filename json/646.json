@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "646",
+    "Name": "Scored Tablet",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "DXM\n\n\n: --- mg\n\nDXM aka Robitussin, Drixoral",
+      "Phenylpropanolamine\n\n\n: --- mg\n\nPhenylpropanolamine aka PPA"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 01, 1996",
+    "Pub. Date": "May 01, 1996",
+    "Src Location": "Eunice, LA",
+    "Submitter Loc": "Eunice, LAUnited States",
+    "Color": "White",
+    "Size": "10.00 x -",
+    "Data Source": "MAPS",
+    "Tested by": "DDL",
+    "Lab's ID": ""
+  }
+}

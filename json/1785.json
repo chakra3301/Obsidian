@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The DEA Northeast Laboratory (New York, New York) recently received 1,000 off-white, yellowish colored tablets with a light 'G' imprint on one side, suspected 3,4-methylenedioxymethamphetamine (see Photos 14 and 15). The tablets were seized by the Federal Bureau of Investigation, New Jersey Field Office (no further details). Analysis of the tablets (total net mass 829 grams) by color test, GC/FID, GC/MS, FTIR/ATR, and capillary electrophoresis indicated 20.6 milligrams/tablet of methamphetamine, adulterated with dimethylsulfone, caffeine, and procaine hydrochloride (not quantitated). The laboratory routinely analyzes tablets and powders containing methamphetamine. This was an unusual submission due to the high concentration of dimethylsulfone (not quantitated) compared to that of methamphetamine (2.7 %).",
+  "Image": "1785.jpg",
+  "table data left": {
+    "ID": "1785",
+    "Name": "G",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Methamphetamine\n\n\n: 20.60 mg\n\nMethamphetamine aka Meth, Ice, Crank",
+      "Caffeine",
+      "Methylsulfonylmethane\n\n\n  \n\nMethylsulfonylmethane aka MSM, dimethylsulfone, DMSO2, leftover solvent, cutting agent",
+      "Procaine\n\n\n  \n\nProcaine aka Novocaine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 01, 2009",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "NJ",
+    "Submitter Loc": "----, NJUnited States",
+    "Color": "White",
+    "Size": "829 mg",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "090400_10"
+  }
+}

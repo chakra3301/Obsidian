@@ -1,0 +1,30 @@
+{
+  "Sold as": "Dope",
+  "Expected to be": "Heroin/fentanyl",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "9141.jpg",
+  "table data left": {
+    "ID": "9141",
+    "Name": "Dope",
+    "Other Names": "Brown Powder",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020A004",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Fentanyl\n\n\n: 5",
+      "Ibuprofen\n\n\n: 2 \n\nIbuprofen aka Advil; 2-[4-(2-methylpropyl)phenyl]propanoic acid",
+      "Methadone\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 24, 2020",
+    "Pub. Date": "Sep 24, 2020",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "Tan / Brown",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20090066"
+  }
+}

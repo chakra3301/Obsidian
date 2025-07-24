@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Because this pill has unusual contents, it's important to point out that the pill looks poorly pressed and may have been made specifically to send in to the ecstasydata testing project.",
+  "Image": "1139.jpg",
+  "table data left": {
+    "ID": "1139",
+    "Name": "Motorola",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Aspirin\n\n\n: 10 \n\nAspirin aka Acetyl Salicylic Acid",
+      "Heroin\n\n\n: 3 \n\nHeroin aka Diacetylmorphine",
+      "Fluoxetine\n\n\n: 1 \n\nFluoxetine aka Prozac"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 07, 2003",
+    "Pub. Date": "Apr 14, 2003",
+    "Src Location": "New York, NY",
+    "Submitter Loc": "New York, NYUnited States",
+    "Color": "Off White",
+    "Size": "270 mg, 8.00 mm x 4.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20030300041"
+  }
+}

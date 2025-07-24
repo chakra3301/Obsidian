@@ -1,0 +1,30 @@
+{
+  "Sold as": "Oxycodone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Library match only. Lab does not have exact standard to match against.",
+  "Warning": "Sold as Oxycodone, in Santa Rosa, California. \n\nErowid comment: This is an extremely unexpected result, especially since a very similar pharmaceutical tablet sent by the same submitter with this set was acetaminophen only. UR-144F / XLR-11 is a  cannabinoid receptor agonist (a THC-like drug).",
+  "Image": "3394.jpg",
+  "table data left": {
+    "ID": "3394",
+    "Name": "4 Blue",
+    "Other Names": "PJ220",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Purple (slow)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Dark Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "XLR-11\n\n\n: 1 \n\nXLR-11 aka cannabinoid; TMCP-2201; MN-001F; 5F-UR144; UR-144F; XLR11; (1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 16, 2014",
+    "Pub. Date": "Dec 16, 2014",
+    "Src Location": "Santa Rosa, CA",
+    "Submitter Loc": "Santa Rosa, CAUnited States",
+    "Color": "Blue",
+    "Size": "243 mg, 6.20 mm x 3.10 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20141200065"
+  }
+}

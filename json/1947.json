@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "GHB in tablet form is unlikely to have much effect since the maximum dose that a tablet can contain is around half the tablet mass, in this case around .1gram, a tenth of a minimum recreational dose.",
+  "Image": "1947.jpg",
+  "table data left": {
+    "ID": "1947",
+    "Name": "Music Note",
+    "Other Names": "Noten Schluess",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Amphetamine\n\n\n  \n\nAmphetamine aka dextro- and/or levo-amphetamine",
+      "Caffeine",
+      "GHB\n\n\n  \n\nGHB aka Gamma hydroxybutyrate",
+      "MECOPROP\n\n\n  \n\nMECOPROP aka MCPP,  2-(4-chloro-2-methyl phenoxy) propionic acid, herbicide"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 10, 2010",
+    "Pub. Date": "Aug 07, 2010",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White / Off White",
+    "Size": "213 mg, 8.10 mm x 3.30 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": "Streetwork"
+  }
+}

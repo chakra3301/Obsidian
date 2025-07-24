@@ -1,0 +1,34 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Heroin",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "9375.jpg",
+  "table data left": {
+    "ID": "9375",
+    "Name": "Heroin",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020B171",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Heroin\n\n\n: 10 \n\nHeroin aka Diacetylmorphine",
+      "Fentanyl\n\n\n: 3",
+      "4-ANPP\n\n\n: 2 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Cocaine\n\n\n: 1 \n\nCocaine aka Crack, Coca",
+      "Tramadol\n\n\n: 1 \n\nTramadol aka Ultram",
+      "6-Acetylcodeine\n\n\n: trace \n\n6-Acetylcodeine aka 6-Monoacetylcodeine",
+      "6-Acetylmorphine\n\n\n: trace \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 16, 2020",
+    "Pub. Date": "Nov 16, 2020",
+    "Src Location": "Pittsfield, MA",
+    "Submitter Loc": "Pittsfield, MAUnited States",
+    "Color": "Tan / Off White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20110008"
+  }
+}

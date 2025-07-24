@@ -1,0 +1,33 @@
+{
+  "Sold as": "4-FA",
+  "Expected to be": "Unknown",
+  "Lab Comments": "2-, 3-, or 4-Fluoroamphetamine not distinguished.",
+  "Warning": "Sender notes that 'Reagent tests were inconclusive'.\n\nLocation: Southeastern Oklahoma.",
+  "Image": "6419.jpg",
+  "table data left": {
+    "ID": "6419",
+    "Name": "4-FA",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Epi90",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Orange to Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Orange to Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-fluoro-alpha-PHP\n\n\n: 6 \n\n4-fluoro-alpha-PHP aka 4-fluoro-α-PHP, 4-fluoro-α-Pyrrolidinohexanophenone",
+      "Fluoroamphetamine (2-, 3-, or 4-)\n\n\n: 4",
+      "Ethylone\n\n\n: 1 \n\nEthylone aka MDEC, bk-MDEA, 3,4-methylenedioxy-N-ethylcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 22, 2018",
+    "Pub. Date": "Jul 24, 2018",
+    "Src Location": "Online",
+    "Submitter Loc": "----, OKUnited States",
+    "Color": "Tan / Brown",
+    "Size": "144 mg, 8.10 mm x 23.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180700013"
+  }
+}

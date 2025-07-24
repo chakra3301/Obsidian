@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "473.jpg",
+  "table data left": {
+    "ID": "473",
+    "Name": "Green CU",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "PCP\n\n\n: 3",
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 01, 2001",
+    "Pub. Date": "Jan 01, 2001",
+    "Src Location": "Baton Rouge, LA",
+    "Submitter Loc": "Baton Rouge, LAUnited States",
+    "Color": "Green",
+    "Size": "9.00 x 5.00",
+    "Data Source": "DanceSafe",
+    "Tested by": "DDL",
+    "Lab's ID": ""
+  }
+}

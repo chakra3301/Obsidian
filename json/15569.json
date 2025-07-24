@@ -1,0 +1,27 @@
+{
+  "Sold as": "Cannabis",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Cannabis + Unidentified substance",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a cannabinoid other than the ones naturally occurring in Cannabis.\n\nAnalyzed by checkit! (Vienna, Austria) in early February 2023.",
+  "Image": "15569.jpg",
+  "table data left": {
+    "ID": "15569",
+    "Name": "Adulterated Cannabis",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2023",
+    "Pub. Date": "Feb 28, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Green / White",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202302-17"
+  }
+}

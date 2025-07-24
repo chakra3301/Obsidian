@@ -1,0 +1,33 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Maybe Methylone or Mephedrone",
+  "Lab Comments": "Not Available",
+  "Warning": "Predominantly white 'Hello Kitty face' tablet with some very light blue and yellow bits, submitted from Meridian, Mississippi, USA. \n\nSender note says tablet 'doesn't react to Marquis or Mandelin tests'.",
+  "Image": "5831.jpg",
+  "table data left": {
+    "ID": "5831",
+    "Name": "Hello Kitty",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PWB76",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Yellow (faint)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Yellow-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Caffeine\n\n\n: 4",
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank",
+      "N-Ethylpentylone\n\n\n: 1 \n\nN-Ethylpentylone aka N-Ethylnorpentylone; bk-Ethyl-K; bk-EBDP; Ephylone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 26, 2017",
+    "Pub. Date": "Nov 28, 2017",
+    "Src Location": "GA",
+    "Submitter Loc": "Meridian, MSUnited States",
+    "Color": "White / Speckled",
+    "Size": "272 mg, 10.60 mm x 9.20 mm x 3.74 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20171100084"
+  }
+}

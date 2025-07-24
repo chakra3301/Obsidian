@@ -1,0 +1,30 @@
+{
+  "Sold as": "Fentanyl",
+  "Expected to be": "Fentanyl",
+  "Lab Comments": "Not Available",
+  "Warning": "The lab spent time today on the question of the different salts of fentanyl variants. The lab is not able to tell the difference between fentanyl citrate versus fentanyl HCl. \n\nThey can conclusively differentiate between fentanyl and acetyl fentanyl, which are considered to be different drugs. The salt anions are not easy to identify with normal techniques and there's no practical method that we know of to do the differentiation.\n\nearth",
+  "Image": "3586.jpg",
+  "table data left": {
+    "ID": "3586",
+    "Name": "Fentanyl Powder",
+    "Other Names": "Fent1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Very Slight Change",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 29, 2015",
+    "Pub. Date": "Apr 29, 2015",
+    "Src Location": "Online",
+    "Submitter Loc": "Online, --United States",
+    "Color": "White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150400113"
+  }
+}

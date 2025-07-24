@@ -1,0 +1,31 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitted from Hermosa Beach, CA, USA.",
+  "Image": "4665.jpg",
+  "table data left": {
+    "ID": "4665",
+    "Name": "MDMA",
+    "Other Names": "Raj17",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple - Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue to Dark Blue",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple - Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "MDMA\n\n\n: 2 \n\nMDMA aka Ecstasy, E, X",
+      "TFMPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 16, 2016",
+    "Pub. Date": "Aug 19, 2016",
+    "Src Location": "Culver City, CA",
+    "Submitter Loc": "Culver City, CAUnited States",
+    "Color": "Tan",
+    "Size": "397 mg, 26.20 mm x 7.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160800016"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose-unit of LSD blotter issued a 'high dose' caution because it contains more than 150 �g of LSD.",
+  "Image": "7376.jpg",
+  "table data left": {
+    "ID": "7376",
+    "Name": "Alien",
+    "Other Names": "H. R. Giger; LSD Filz; LSD Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 174.90 ug\n\nLSD aka Acid, Doses",
+      "Iso-LSD\n\n\n: 73.80 ug",
+      "MDMA\n\n\n: 56.90 ug\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 20, 2019",
+    "Pub. Date": "May 28, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue / Brown",
+    "Size": "6.70 x 7.10",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201905-20"
+  }
+}

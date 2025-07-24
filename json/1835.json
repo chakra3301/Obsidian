@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Analyzed in May, June, July and September 2009.",
+  "Image": "1835.jpg",
+  "table data left": {
+    "ID": "1835",
+    "Name": "Radioactive",
+    "Other Names": "Radioactif, Split, Scored",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "mCPP\n\n\n: 36.80 mg\n\nmCPP aka 1-(m-chlorophenyl)piperazine; m-Chlorophenylpiperazine, m-CPP; 1-(3-chlorophenyl)piperazine",
+      "Domperidone \n\n\n: 10.60 mg\n\nDomperidone  aka (Motilium, Motillium, Motinorm and Costi)"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2009",
+    "Pub. Date": "Oct 27, 2009",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Orange / Speckled",
+    "Size": "263.3 mg, 8.10 mm x 5.30 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": "sw0909_002"
+  }
+}

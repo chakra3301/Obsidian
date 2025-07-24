@@ -1,0 +1,32 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "2C-B",
+  "Lab Comments": "INITIAL FINDINGS INCORRECT. This lab report has changed as of Sep 29, 2018. Initial result from lab in June 2018 stated no 2C-B present. Lab retested and found 2C-B in a one-to-one ratio with AMB-FUBINACA.",
+  "Warning": "9/29/18: Regarding field test reaction photos: We're including the field test reaction photos from both the June and September 2018 analyses. There are obvious color differences in Marquis reactions between the different photos that include (top, Photo 1, June 2018) a light green with a spot of dark green, (middle, Photo 2, Sep 2018) a very dark green, and (bottom, Photo 3, Sep 2018) a medium dark green with very dark green.\n\nThe second and third photos are of the same re-test. Photo 3 was taken after what we call 'spreading' the reaction spots to make it easier to see the color. The only difference between photo 2 and photo 3 is that the lab technician used a non-reactive tool to swirl and spread the reaction spot. Photo 2 and Photo 3 were taken within a minute of each other.",
+  "Image": "6304.jpg",
+  "table data left": {
+    "ID": "6304",
+    "Name": "2C-B",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "QQ771",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Green",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "2C-B\n\n\n: 1 \n\n2C-B aka Bees",
+      "AMB-FUBINACA\n\n\n: 1 \n\nAMB-FUBINACA aka FUB-AMB; MMB-FUBINACA"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 13, 2018",
+    "Pub. Date": "Jun 14, 2018",
+    "Src Location": "Online",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "White",
+    "Size": "50 mg, 6.10 mm x 17.40 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180600001"
+  }
+}

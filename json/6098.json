@@ -1,0 +1,40 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Traces of MAPB and EAPB detected, isomers not differentiated. Any of the isomers (5-MAPB, 6-MAPB, 5-EAPB, 6-EAPB, etc.) could be options. These were traces and insignificant compared to the other drugs detected. Sample analyzed twice.",
+  "Warning": "Dec 3 2018: The lab originally identified the 4-position isomer of Chloroethcathinone in this sample, but has since decided that any Chloroethcathinone that they identify could include one or more of several positional isomers.\n\nApr 2018: This is an insane number and variety of chemicals. The variety and trace results could be from contamination, intentional addition to the sample, or... who knows. (The name 'Horror Show' was attributed to the sample by the submitter, not by DrugsData.)\n\nThe suspicious number of chemicals and weird mix suggest this could be an anomalous retail-level, one-off batch of capsules sold as Ecstasy.",
+  "Image": "6098.jpg",
+  "table data left": {
+    "ID": "6098",
+    "Name": "White Powder",
+    "Other Names": "Horror Show",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "HS030518",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Gray / Grey",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Grey - Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "3-MeO-PCP\n\n\n: 6 \n\n3-MeO-PCP aka 3-Methoxy-PCP",
+      "4-CEC\n\n\n: 5 \n\n4-CEC aka 4-Chloroethcathinone",
+      "Caffeine\n\n\n: 4",
+      "2-Oxo-PCE\n\n\n: 2 \n\n2-Oxo-PCE aka deschloro-n-ethyl-ketamine; 2-DCNEK; Eticyclidone; O-PCE;",
+      "N-Ethylpentylone\n\n\n: 2 \n\nN-Ethylpentylone aka N-Ethylnorpentylone; bk-Ethyl-K; bk-EBDP; Ephylone",
+      "Deschloroketamine\n\n\n: 1 \n\nDeschloroketamine aka 2-Oxo-PCM",
+      "Methoxetamine\n\n\n: 1 \n\nMethoxetamine aka NAME 2-(3-methoxyphenyl)-2-(ethylamino)cyclohexanone; 3-MeO-2-Oxo-PCE",
+      "3-Fluorophenmetrazine\n\n\n: trace \n\n3-Fluorophenmetrazine aka 3-FPM, 3F-Phenmetrazine",
+      "Other\n\n\n: trace",
+      "Other\n\n\n: trace"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 01, 2018",
+    "Pub. Date": "Apr 03, 2018",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "White",
+    "Size": "95 mg, 5.90 mm x 17.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180300116"
+  }
+}

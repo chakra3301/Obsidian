@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Note submitted with sample:\n\nAcquired Jan 5, 2011. Sold as MDMA (ecstasy) tablet. Suspected DXM/PCP, Some MDXX, Meth? \n\nEffects: Extreme body temp. fluctuations, inability to stand still, some MDMA effectgs, not as euphoric, sometimes heavy leg feeling, weird psychedelic feeling, chest pain.\n\nName: Pressed pill, white elephant pokeball, this is only one half of pill, very powdery.",
+  "Image": "2074.jpg",
+  "table data left": {
+    "ID": "2074",
+    "Name": "White Tablet",
+    "Other Names": "White Elephant Pokeball",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green to Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "MDMA\n\n\n: 2 \n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 21, 2011",
+    "Pub. Date": "Jan 26, 2011",
+    "Src Location": "Hemet, CA",
+    "Submitter Loc": "Hemet, CAUnited States",
+    "Color": "White / Off White",
+    "Size": "174 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20110100107"
+  }
+}

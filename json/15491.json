@@ -1,0 +1,32 @@
+{
+  "Sold as": "S+ (S plus) Ketamine",
+  "Expected to be": "Ketamine",
+  "Lab Comments": "Not Available",
+  "Warning": "Regarding isomers -- Our lab's techniques cannot distinguish stereoisomer composition of any substance we analyze. The ketamine portion could be racemic, 100% R-enantiomer and 0% S-enantiomer, 0% R-enantiomer and 100% S-enantiomer, or any ratio combination thereof.",
+  "Image": "15491.jpg",
+  "table data left": {
+    "ID": "15491",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "EST06",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Very Slight Change",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Ketamine\n\n\n: 9 \n\nKetamine aka Ketalar, Ketaset",
+      "Ketamine Precursor A\n\n\n: 1 \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 13, 2023",
+    "Pub. Date": "Feb 13, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "San Jose, CAUnited States",
+    "Color": "White / Clear",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010129"
+  }
+}

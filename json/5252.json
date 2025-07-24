@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Sep 13 2021: Logo on this tablet not specified on original alert, added 'Monkey with Headphones' in Sep 2021.",
+  "Image": "5252.jpg",
+  "table data left": {
+    "ID": "5252",
+    "Name": "Monkey with Headphones",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 10.10 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 18, 2017",
+    "Pub. Date": "Mar 28, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Purple",
+    "Size": "126.9 mg, 7.10 mm x 2.70 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201703-19"
+  }
+}

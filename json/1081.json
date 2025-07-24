@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1081.jpg",
+  "table data left": {
+    "ID": "1081",
+    "Name": "Cartier",
+    "Other Names": "Chanel, CC, Crab, Cancer, Hourglass, Sparky",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "None Detected\n\n\n: --- \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 27, 2002",
+    "Pub. Date": "Dec 27, 2002",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Red / Pink",
+    "Size": "470 mg, 10.00 mm x 5.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20021200258"
+  }
+}

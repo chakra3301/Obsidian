@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Benzos",
+  "Lab Comments": "Tested twice, limited sample size.",
+  "Warning": "Not Available",
+  "Image": "8632.jpg",
+  "table data left": {
+    "ID": "8632",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020C011",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "None Detected\n\n\n: 1 \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 26, 2020",
+    "Pub. Date": "Jun 26, 2020",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Black / White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20060063"
+  }
+}

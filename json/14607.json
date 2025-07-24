@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "contains 95.4% ketamine",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a drug other than MDMA.",
+  "Image": "14607.jpg",
+  "table data left": {
+    "ID": "14607",
+    "Name": "White Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 25, 2022",
+    "Pub. Date": "Nov 02, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202210-29"
+  }
+}

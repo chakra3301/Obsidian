@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Information on this sample comes from from the Scottish Crime and Drug Enforcement Agency, as part of the Home Office Forensic Early Warning System Team. Sample purchased from a head shop in Edinburgh Mar 4 2011.",
+  "Image": "2250.jpg",
+  "table data left": {
+    "ID": "2250",
+    "Name": "E=XTC",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "MDPBP\n\n\n  \n\nMDPBP aka 3,4-Methylenedioxy-alpha-pyrrolidinobutyrophenone",
+      "PMMA\n\n\n  \n\nPMMA aka Paramethoxymethamphetamine; 4-Methoxymethamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 04, 2011",
+    "Pub. Date": "Jul 30, 2011",
+    "Src Location": "Edinburgh, \nScotland",
+    "Submitter Loc": "Edinburgh, --Scotland",
+    "Color": "Off White / Peach",
+    "Size": "-",
+    "Data Source": "Scottish DEA",
+    "Tested by": "Scottish DEA",
+    "Lab's ID": ""
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "Methoxetamine",
+  "Expected to be": "Methoxetamine",
+  "Lab Comments": "Not Available",
+  "Warning": "Preliminary identification is MXP, a relative of MXE.\n\nMXP confirmed with new analytical standard from Cayman, May 29, 2015.",
+  "Image": "3585.jpg",
+  "table data left": {
+    "ID": "3585",
+    "Name": "Supposed MXE",
+    "Other Names": "B4C5D",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Very Slight Change",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Methoxphenidine\n\n\n: 1 \n\nMethoxphenidine aka MXP, 1-[1-(2-methoxyphenyl)-2-phenylethyl]piperidine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 29, 2015",
+    "Pub. Date": "Apr 29, 2015",
+    "Src Location": "Alexandria, VA",
+    "Submitter Loc": "Alexandria, VAUnited States",
+    "Color": "Off White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150400112"
+  }
+}

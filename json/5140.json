@@ -1,0 +1,29 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this powder or capsule contains drugs other than MDMA. (MDMA (310 mg/g) + Cocaine (217 mg/g) + 4-CEC)",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "5140",
+    "Name": "MDMA Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CEC\n\n\n  \n\n4-CEC aka 4-Chloroethcathinone",
+      "Cocaine\n\n\n  \n\nCocaine aka Crack, Coca",
+      "MDMA\n\n\n  \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 07, 2017",
+    "Pub. Date": "Feb 14, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201702-46"
+  }
+}

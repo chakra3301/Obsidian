@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an 'extreme high dose' warning because this tablet contains more than 200mg of MDMA. Break line on reverse side.",
+  "Image": "6481.jpg",
+  "table data left": {
+    "ID": "6481",
+    "Name": "Bugatti",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 257.70 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 31, 2018",
+    "Pub. Date": "Aug 03, 2018",
+    "Src Location": "Basel, \nSwitzerland",
+    "Submitter Loc": "Basel, --Switzerland",
+    "Color": "Gray",
+    "Size": "455.7 mg, 7.10 mm x 12.10 mm x 5.5 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:201808-7"
+  }
+}

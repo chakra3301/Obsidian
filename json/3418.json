@@ -1,0 +1,32 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Although we are unable to positively confirm the identification, two of our expert analytical chemists agree that the best current guess is \n6,8-dimethylfuro[3,2-g]isoquinoline . This substance is likely not an intentional inclusion. It is either a precursor or manufacturing error / synthesis byproduct Effects in humans and non-human mammals unknown.\n\nTook a couple months, but thanks to goldnyak for his amazing work sleuthing and figuring this one based on fragment calculations. Thanks to NVC for confirming his work.",
+  "Image": "3418.jpg",
+  "table data left": {
+    "ID": "3418",
+    "Name": "Blue Pacman Ghost",
+    "Other Names": "MIA50",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue to Dark Blue",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue to Dark Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "5- or 6-MAPB\n\n\n: 15 \n\n5- or 6-MAPB aka Either 5- or 6-MAPB",
+      "Unidentified\n\n\n: 4",
+      "5-EAPB\n\n\n: 1 \n\n5-EAPB aka 1-(benzofuran-5-yl)-N-ethylpropan-2-amine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 08, 2015",
+    "Pub. Date": "Jan 08, 2015",
+    "Src Location": "Miami, FL",
+    "Submitter Loc": "Miami, FLUnited States",
+    "Color": "Blue",
+    "Size": "240 mg, 9.40 mm x 4.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150100005"
+  }
+}
