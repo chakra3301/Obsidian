@@ -65,75 +65,58 @@ class ImageGallery {
 
         try {
             // Load images from the server API
-            progressInfo.textContent = 'Getting image list...';
+            progressInfo.textContent = 'Loading images and metadata...';
             const response = await fetch('/api/images');
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
             
-            const availableImages = await response.json();
-            progressInfo.textContent = `Found ${availableImages.length} images. Loading metadata...`;
+            const imageData = await response.json();
+            progressInfo.textContent = `Loaded ${imageData.length} images with metadata.`;
             
-            // Load metadata for each image (all of them)
-            const metadataPromises = availableImages.map(async (image, index) => {
-                try {
-                    const metadataResponse = await fetch(`/api/metadata/${image.id}`);
-                    if (metadataResponse.ok) {
-                        const metadata = await metadataResponse.json();
-                        
-                        // Update progress every 10 images
-                        if (index % 10 === 0) {
-                            progressInfo.textContent = `Loading metadata... ${index + 1}/${availableImages.length}`;
-                        }
-                        
-                        return {
-                            id: image.id,
-                            imagePath: image.imagePath,
-                            metadata: metadata
-                        };
-                    }
-                } catch (error) {
-                    console.log(`Error loading metadata for image ${image.id}: ${error.message}`);
-                    return null;
-                }
-            });
+            // Transform the data to match our expected format
+            this.images = imageData.map(item => ({
+                id: item.id,
+                imagePath: item.image,
+                metadata: item.metadata
+            }));
             
-            // Wait for all metadata to load
-            const results = await Promise.all(metadataPromises);
-            this.images = results.filter(result => result !== null);
-            
-            // Initialize filtered images
             this.filteredImages = [...this.images];
             
-            progressInfo.textContent = `Loaded ${this.images.length} images successfully!`;
-            console.log(`Loaded ${this.images.length} images with metadata`);
+            // Update image count
+            const imageCount = document.getElementById('imageCount');
+            if (imageCount) {
+                imageCount.textContent = `${this.images.length} images`;
+            }
+            
         } catch (error) {
             console.error('Error loading images:', error);
-            progressInfo.textContent = 'Error loading images. Please refresh the page.';
+            progressInfo.textContent = 'Error loading images. Please try again.';
         } finally {
-            setTimeout(() => {
-                loading.style.display = 'none';
-            }, 1000); // Show success message for 1 second
+            loading.style.display = 'none';
         }
     }
 
     filterImages() {
         this.filteredImages = this.images.filter(image => {
-            const metadata = image.metadata;
-            if (!metadata) return false;
+            let matchesSearch = true;
+            let matchesFilter = true;
 
-            const searchMatch = !this.currentSearch || 
-                (metadata['table data left']?.Name?.toLowerCase().includes(this.currentSearch) ||
-                 metadata['table data right']?.Color?.toLowerCase().includes(this.currentSearch) ||
-                 metadata['table data right']?.Src?.toLowerCase().includes(this.currentSearch));
+            // Search functionality
+            if (this.currentSearch) {
+                const searchableText = JSON.stringify(image.metadata).toLowerCase();
+                matchesSearch = searchableText.includes(this.currentSearch);
+            }
 
-            const filterMatch = !this.currentFilter || 
-                (metadata['table data left']?.Name?.includes(this.currentFilter) ||
-                 metadata['table data right']?.Color?.includes(this.currentFilter) ||
-                 (metadata['table data left']?.list_5 && 
-                  metadata['table data left'].list_5.some(item => item.includes(this.currentFilter))));
+            // Filter functionality
+            if (this.currentFilter) {
+                const metadata = image.metadata;
+                const name = metadata['table data left']?.Name || '';
+                const color = metadata['table data right']?.Color || '';
+                matchesFilter = name.includes(this.currentFilter) || color.includes(this.currentFilter);
+            }
 
-            return searchMatch && filterMatch;
+            return matchesSearch && matchesFilter;
         });
 
         this.currentIndex = 0;
@@ -142,55 +125,46 @@ class ImageGallery {
 
     displayImages() {
         const gallery = document.getElementById('gallery');
-        gallery.innerHTML = ''; // Clear gallery
+        gallery.innerHTML = '';
 
-        // Display all filtered images at once
+        // Display all filtered images (no pagination)
         this.filteredImages.forEach(image => {
-            const item = this.createGalleryItem(image);
-            gallery.appendChild(item);
+            const galleryItem = this.createGalleryItem(image);
+            gallery.appendChild(galleryItem);
         });
 
-        // Hide load more button since we're showing all images
-        const loadMoreBtn = document.getElementById('loadMoreBtn');
-        if (loadMoreBtn) {
-            loadMoreBtn.style.display = 'none';
-        }
-        
-        // Update image count
+        // Update image count for filtered results
         const imageCount = document.getElementById('imageCount');
         if (imageCount) {
             imageCount.textContent = `${this.filteredImages.length} images`;
         }
-        
-        console.log(`Displayed ${this.filteredImages.length} images`);
     }
 
     createGalleryItem(image) {
         const item = document.createElement('div');
         item.className = 'gallery-item';
-        item.addEventListener('click', () => this.openModal(image));
-
+        
         const metadata = image.metadata;
         const name = metadata['table data left']?.Name || 'Unknown';
         const color = metadata['table data right']?.Color || 'Unknown';
-        const location = metadata['table data right']?.Src || 'Unknown';
-        const testDate = metadata['table data right']?.['Test Date'] || 'Unknown';
-
+        
         item.innerHTML = `
-            <img src="${image.imagePath}" alt="${name}" loading="lazy">
-            <div class="item-info">
-                <h3>${name}</h3>
-                <p class="image-number">#${image.id}</p>
-                <p><strong>Color:</strong> ${color}</p>
-                <p><strong>Location:</strong> ${location}</p>
-                <p><strong>Test Date:</strong> ${testDate}</p>
-                <div class="tags">
-                    <span class="tag">${name}</span>
-                    <span class="tag">${color.split(' ')[0]}</span>
+            <div class="image-container">
+                <img src="${image.imagePath}" alt="${name}" loading="lazy">
+                <div class="image-overlay">
+                    <div class="image-info">
+                        <h3>${name}</h3>
+                        <p>Color: ${color}</p>
+                        <p>ID: ${image.id}</p>
+                    </div>
                 </div>
             </div>
         `;
-
+        
+        item.addEventListener('click', () => {
+            this.openModal(image);
+        });
+        
         return item;
     }
 
@@ -198,85 +172,102 @@ class ImageGallery {
         const modal = document.getElementById('modal');
         const modalImage = document.getElementById('modalImage');
         const metadataContent = document.getElementById('metadataContent');
-
+        
         modalImage.src = image.imagePath;
-        modalImage.alt = image.metadata['table data left']?.Name || 'Image';
-
-        // Display metadata
+        modalImage.alt = `Image ${image.id}`;
+        
         metadataContent.innerHTML = this.formatMetadata(image.metadata);
-
+        
         modal.style.display = 'block';
-        document.body.style.overflow = 'hidden';
     }
 
     closeModal() {
         const modal = document.getElementById('modal');
         modal.style.display = 'none';
-        document.body.style.overflow = 'auto';
     }
 
     formatMetadata(metadata) {
         let html = '';
-
-        // Left table data
+        
+        // Helper function to safely get nested object values
+        const getValue = (obj, path) => {
+            return path.split('.').reduce((current, key) => current?.[key], obj);
+        };
+        
+        // Format table data left
         if (metadata['table data left']) {
             html += '<div class="metadata-section">';
-            html += '<h4>Substance Information</h4>';
-            const leftData = metadata['table data left'];
+            html += '<h4>Product Information</h4>';
+            html += '<table>';
             
+            const leftData = metadata['table data left'];
             for (const [key, value] of Object.entries(leftData)) {
-                if (key !== 'list_5') {
+                if (value && typeof value === 'string' && value.trim() !== '') {
                     html += `
-                        <div class="metadata-item">
-                            <span class="metadata-label">${this.formatLabel(key)}</span>
-                            <span class="metadata-value">${value || 'Not Available'}</span>
-                        </div>
+                        <tr>
+                            <td><strong>${this.formatLabel(key)}</strong></td>
+                            <td>${value}</td>
+                        </tr>
                     `;
                 }
             }
+            html += '</table>';
             html += '</div>';
         }
-
-        // Right table data
+        
+        // Format table data right
         if (metadata['table data right']) {
             html += '<div class="metadata-section">';
-            html += '<h4>Test Information</h4>';
-            const rightData = metadata['table data right'];
+            html += '<h4>Additional Details</h4>';
+            html += '<table>';
             
+            const rightData = metadata['table data right'];
             for (const [key, value] of Object.entries(rightData)) {
-                html += `
-                    <div class="metadata-item">
-                        <span class="metadata-label">${this.formatLabel(key)}</span>
-                        <span class="metadata-value">${value || 'Not Available'}</span>
-                    </div>
-                `;
+                if (value && typeof value === 'string' && value.trim() !== '') {
+                    html += `
+                        <tr>
+                            <td><strong>${this.formatLabel(key)}</strong></td>
+                            <td>${value}</td>
+                        </tr>
+                    `;
+                }
             }
+            html += '</table>';
             html += '</div>';
         }
-
-        // List data (if exists)
-        if (metadata['table data left']?.list_5) {
+        
+        // Format any other metadata
+        const otherKeys = Object.keys(metadata).filter(key => 
+            key !== 'table data left' && key !== 'table data right'
+        );
+        
+        if (otherKeys.length > 0) {
             html += '<div class="metadata-section">';
-            html += '<h4>Test Results</h4>';
-            metadata['table data left'].list_5.forEach((item, index) => {
-                html += `
-                    <div class="metadata-item">
-                        <span class="metadata-label">Result ${index + 1}</span>
-                        <span class="metadata-value">${item}</span>
-                    </div>
-                `;
-            });
+            html += '<h4>Other Information</h4>';
+            html += '<table>';
+            
+            for (const key of otherKeys) {
+                const value = metadata[key];
+                if (value && typeof value === 'string' && value.trim() !== '') {
+                    html += `
+                        <tr>
+                            <td><strong>${this.formatLabel(key)}</strong></td>
+                            <td>${value}</td>
+                        </tr>
+                    `;
+                }
+            }
+            html += '</table>';
             html += '</div>';
         }
-
-        return html;
+        
+        return html || '<p>No metadata available</p>';
     }
 
     formatLabel(key) {
-        return key
-            .replace(/([A-Z])/g, ' $1')
-            .replace(/^./, str => str.toUpperCase())
-            .replace(/:/g, '');
+        return key.replace(/([A-Z])/g, ' $1')
+                 .replace(/^./, str => str.toUpperCase())
+                 .trim();
     }
 
     loadMoreImages() {

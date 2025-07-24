@@ -8,8 +8,24 @@
   ],
   "routes": [
     {
-      "src": "/(.*)",
+      "src": "/",
+      "dest": "/home.html"
+    },
+    {
+      "src": "/home",
+      "dest": "/home.html"
+    },
+    {
+      "src": "/gallery",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/api/(.*)",
       "dest": "/server.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
     }
   ]
 } 

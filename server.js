@@ -1,148 +1,145 @@
 const express = require('express');
+const fs = require('fs');
 const path = require('path');
-const fs = require('fs').promises;
+
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // Serve static files
 app.use(express.static('.'));
 
-// API endpoint to get available images and metadata
+// API endpoint to get images
 app.get('/api/images', async (req, res) => {
     try {
         const imagesDir = path.join(__dirname, 'images');
         const jsonDir = path.join(__dirname, 'json');
         
-        // Get all image files
-        const imageFiles = await fs.readdir(imagesDir);
-        const jsonFiles = await fs.readdir(jsonDir);
-        
-        // Create sets for faster lookup
-        const imageSet = new Set(imageFiles);
-        const jsonSet = new Set(jsonFiles);
-        
-        const availableImages = [];
-        
-        // Find matching pairs of images and JSON files
+        if (!fs.existsSync(imagesDir) || !fs.existsSync(jsonDir)) {
+            console.log('Directories not found:', { imagesDir, jsonDir });
+            return res.json([]);
+        }
+
+        const imageFiles = fs.readdirSync(imagesDir).filter(file => file.endsWith('.jpg'));
+        const jsonFiles = fs.readdirSync(jsonDir).filter(file => file.endsWith('.json'));
+
+        console.log(`Found ${imageFiles.length} images and ${jsonFiles.length} JSON files`);
+
+        const imageMetadataPairs = [];
+
         for (const imageFile of imageFiles) {
-            if (imageFile.endsWith('.jpg')) {
-                const imageNumber = imageFile.replace('.jpg', '');
-                const imageId = parseInt(imageNumber);
-                
-                // Only include images from 923 and beyond
-                if (imageId >= 923) {
-                    const jsonFile = `${imageNumber}.json`;
+            const imageId = path.parse(imageFile).name;
+            const jsonFile = `${imageId}.json`;
+            
+            if (jsonFiles.includes(jsonFile)) {
+                try {
+                    const jsonPath = path.join(jsonDir, jsonFile);
+                    const jsonContent = fs.readFileSync(jsonPath, 'utf8');
+                    const metadata = JSON.parse(jsonContent);
                     
-                    // Only include if both image and JSON exist
-                    if (jsonSet.has(jsonFile)) {
-                        availableImages.push({
-                            id: imageId,
-                            imagePath: `/images/${imageFile}`,
-                            metadataPath: `/json/${jsonFile}`
-                        });
-                    }
+                    imageMetadataPairs.push({
+                        id: imageId,
+                        image: `/images/${imageFile}`,
+                        metadata: metadata
+                    });
+                } catch (error) {
+                    console.error(`Error reading JSON for ${imageId}:`, error.message);
                 }
             }
         }
+
+        console.log(`Successfully paired ${imageMetadataPairs.length} images with metadata`);
         
-        // Sort by ID
-        availableImages.sort((a, b) => a.id - b.id);
+        // Sort by ID numerically
+        imageMetadataPairs.sort((a, b) => parseInt(a.id) - parseInt(b.id));
         
-        console.log(`Found ${availableImages.length} image-metadata pairs from 923+ out of ${imageFiles.length} total images and ${jsonFiles.length} JSON files`);
-        console.log(`Image range: ${Math.min(...availableImages.map(img => img.id))} to ${Math.max(...availableImages.map(img => img.id))}`);
-        res.json(availableImages);
+        res.json(imageMetadataPairs);
     } catch (error) {
-        console.error('Error getting images:', error);
-        res.status(500).json({ error: 'Failed to get images' });
+        console.error('Error in /api/images:', error);
+        res.status(500).json({ error: 'Internal server error' });
     }
 });
 
 // API endpoint to get metadata for a specific image
-app.get('/api/metadata/:id', async (req, res) => {
+app.get('/api/metadata/:id', (req, res) => {
     try {
-        const id = req.params.id;
-        const metadataPath = path.join(__dirname, 'json', `${id}.json`);
+        const imageId = req.params.id;
+        const jsonPath = path.join(__dirname, 'json', `${imageId}.json`);
         
-        const metadata = await fs.readFile(metadataPath, 'utf8');
-        res.json(JSON.parse(metadata));
+        if (fs.existsSync(jsonPath)) {
+            const jsonContent = fs.readFileSync(jsonPath, 'utf8');
+            const metadata = JSON.parse(jsonContent);
+            res.json(metadata);
+        } else {
+            res.status(404).json({ error: 'Metadata not found' });
+        }
     } catch (error) {
-        console.error('Error getting metadata:', error);
-        res.status(404).json({ error: 'Metadata not found' });
+        console.error('Error in /api/metadata:', error);
+        res.status(500).json({ error: 'Internal server error' });
     }
 });
 
-// API endpoint to search/filter images
-app.get('/api/search', async (req, res) => {
+// API endpoint for search
+app.get('/api/search', (req, res) => {
     try {
-        const { query, filter } = req.query;
+        const query = req.query.q?.toLowerCase();
+        if (!query) {
+            return res.json([]);
+        }
+
         const imagesDir = path.join(__dirname, 'images');
         const jsonDir = path.join(__dirname, 'json');
         
-        const imageFiles = await fs.readdir(imagesDir);
-        const jsonFiles = await fs.readdir(jsonDir);
-        
-        // Create sets for faster lookup
-        const jsonSet = new Set(jsonFiles);
-        
+        if (!fs.existsSync(imagesDir) || !fs.existsSync(jsonDir)) {
+            return res.json([]);
+        }
+
+        const imageFiles = fs.readdirSync(imagesDir).filter(file => file.endsWith('.jpg'));
+        const jsonFiles = fs.readdirSync(jsonDir).filter(file => file.endsWith('.json'));
         const results = [];
-        
+
         for (const imageFile of imageFiles) {
-            if (imageFile.endsWith('.jpg')) {
-                const imageNumber = imageFile.replace('.jpg', '');
-                const imageId = parseInt(imageNumber);
-                
-                // Only include images from 923 and beyond
-                if (imageId >= 923) {
-                    const jsonFile = `${imageNumber}.json`;
+            const imageId = path.parse(imageFile).name;
+            const jsonFile = `${imageId}.json`;
+            
+            if (jsonFiles.includes(jsonFile)) {
+                try {
+                    const jsonPath = path.join(jsonDir, jsonFile);
+                    const jsonContent = fs.readFileSync(jsonPath, 'utf8');
+                    const metadata = JSON.parse(jsonContent);
                     
-                    if (jsonSet.has(jsonFile)) {
-                        try {
-                            const metadataPath = path.join(__dirname, 'json', jsonFile);
-                            const metadataContent = await fs.readFile(metadataPath, 'utf8');
-                            const metadata = JSON.parse(metadataContent);
-                            
-                            // Apply search filter
-                            let matches = true;
-                            
-                            if (query) {
-                                const searchTerm = query.toLowerCase();
-                                const name = metadata['table data left']?.Name?.toLowerCase() || '';
-                                const color = metadata['table data right']?.Color?.toLowerCase() || '';
-                                const location = metadata['table data right']?.Src?.toLowerCase() || '';
-                                
-                                matches = name.includes(searchTerm) || 
-                                         color.includes(searchTerm) || 
-                                         location.includes(searchTerm);
-                            }
-                            
-                            if (filter && matches) {
-                                const filterTerm = filter.toLowerCase();
-                                const name = metadata['table data left']?.Name?.toLowerCase() || '';
-                                const color = metadata['table data right']?.Color?.toLowerCase() || '';
-                                
-                                matches = name.includes(filterTerm) || color.includes(filterTerm);
-                            }
-                            
-                            if (matches) {
-                                results.push({
-                                    id: imageId,
-                                    imagePath: `/images/${imageFile}`,
-                                    metadata: metadata
-                                });
-                            }
-                        } catch (error) {
-                            console.log(`Error processing ${jsonFile}:`, error.message);
-                        }
+                    // Search in metadata
+                    const searchableText = JSON.stringify(metadata).toLowerCase();
+                    if (searchableText.includes(query)) {
+                        results.push({
+                            id: imageId,
+                            image: `/images/${imageFile}`,
+                            metadata: metadata
+                        });
                     }
+                } catch (error) {
+                    console.error(`Error searching JSON for ${imageId}:`, error.message);
                 }
             }
         }
-        
+
         res.json(results);
     } catch (error) {
-        console.error('Error searching images:', error);
-        res.status(500).json({ error: 'Failed to search images' });
+        console.error('Error in /api/search:', error);
+        res.status(500).json({ error: 'Internal server error' });
     }
+});
+
+// Serve the main pages
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'home.html'));
+});
+
+app.get('/home', (req, res) => {
+    res.sendFile(path.join(__dirname, 'home.html'));
+});
+
+app.get('/gallery', (req, res) => {
+    res.sendFile(path.join(__dirname, 'index.html'));
 });
 
 app.listen(PORT, () => {

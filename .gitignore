@@ -64,3 +64,9 @@ logs
 # Temporary files
 tmp/
 temp/
+
+# Remove old deployment folders
+vercel-1000/
+vercel-deploy/
+black-market-deploy/
+deploy-version/
