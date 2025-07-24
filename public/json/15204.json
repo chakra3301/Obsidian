@@ -1,0 +1,37 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15204.jpg",
+  "table data left": {
+    "ID": "15204",
+    "Name": "Heroin",
+    "Other Names": "Capn Crunch",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0961",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Liebermann": "Brown",
+    "Froehde": "Purple",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "Heroin\n\n\n: 50 \n\nHeroin aka Diacetylmorphine",
+      "Fentanyl\n\n\n: 20",
+      "6-Acetylmorphine\n\n\n: 10 \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM",
+      "4-ANPP\n\n\n: 3 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "6-Acetylcodeine\n\n\n: 3 \n\n6-Acetylcodeine aka 6-Monoacetylcodeine",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 28, 2022",
+    "Pub. Date": "Dec 28, 2022",
+    "Src Location": "Pittsfield, MA",
+    "Submitter Loc": "Pittsfield, MAUnited States",
+    "Color": "White",
+    "Size": "20 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22120078"
+  }
+}

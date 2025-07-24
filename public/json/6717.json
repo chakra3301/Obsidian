@@ -1,0 +1,32 @@
+{
+  "Sold as": "Methoxyacetylfentanyl",
+  "Expected to be": "Methoxyacetylfentanyl",
+  "Lab Comments": "11/9/2018 UPDATE: The identification of the fentanyl analog in this sample has been revised. It was originally identified as 'Crotonylfentanyl or Cyclopropylfentanyl' (their spectra are very similar).\n\nChloroethcathinone (CEC) is present - the positional isomers are not differentiated. Sample tested twice.",
+  "Warning": "11/9/2018 UPDATE:  Once the lab re-tested the sample it was able to narrow the identification down to Cyclopropylfentanyl.",
+  "Image": "6717.jpg",
+  "table data left": {
+    "ID": "6717",
+    "Name": "MAF",
+    "Other Names": "Methoxyacetylfentanyl",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "LA002",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Chloroethcathinone\n\n\n: 1 \n\nChloroethcathinone aka CEC; 2-, 3-, or 4-CEC",
+      "Cyclopropyl Fentanyl\n\n\n: 1 \n\nCyclopropyl Fentanyl aka Cyclopropylfentanyl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 25, 2018",
+    "Pub. Date": "Nov 01, 2018",
+    "Src Location": "Online, \nPoland",
+    "Submitter Loc": "Oakland, CAUnited States",
+    "Color": "Off White / Gray",
+    "Size": "185 mg, 10.70 mm x 25.70 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20181000062"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Sold as": "Dope",
+  "Expected to be": "Fent + meto + benzos",
+  "Lab Comments": "Small GC/MS response for fentanyl.",
+  "Warning": "'Super strong fentanyl??'",
+  "Image": "15844.jpg",
+  "table data left": {
+    "ID": "15844",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023C019",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "Benzodiazepine Test Strip": "Positive",
+    "Xylazine Test Strip": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Diphenhydramine\n\n\n: 5 \n\nDiphenhydramine aka Benadryl",
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 04, 2023",
+    "Pub. Date": "Apr 04, 2023",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Off White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23030123"
+  }
+}

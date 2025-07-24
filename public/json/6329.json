@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued an information alert because, besides containing MDMA, this sample contains a drug other than MDMA and could be mistaken for an MDMA-only ecstasy/molly tablet. Break line on reverse.",
+  "Image": "6329.jpg",
+  "table data left": {
+    "ID": "6329",
+    "Name": "Audi",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 145 mg\n\nMDMA aka Ecstasy, E, X",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 19, 2018",
+    "Pub. Date": "Jun 20, 2018",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Speckled / Red / Pink",
+    "Size": "- x 15.40 x 5.1",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201806-4"
+  }
+}

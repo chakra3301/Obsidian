@@ -1,0 +1,33 @@
+{
+  "Sold as": "25I-NBOH HCl",
+  "Expected to be": "25I-NBOH HCl",
+  "Lab Comments": "Not Available",
+  "Warning": "Old Notes \n\n2/14/17: A lab standard for 25I-NBOH has been ordered, this sample will be retested after lab standard is received.\n\nThe lab originally reported: Identification by library match. 25I-NBOH can not be ruled out (analytical report from National Forensic Laboratory of Slovenia suggests its GC/MS result is similar to 2C-I.)",
+  "Image": "5147.jpg",
+  "table data left": {
+    "ID": "5147",
+    "Name": "25I-NBOH",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "00321",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown Yellow Black",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "25I-NBOH\n\n\n: 9",
+      "25C-NBOH\n\n\n: 1",
+      "25C-NBOH\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 13, 2017",
+    "Pub. Date": "Feb 14, 2017",
+    "Src Location": "Online",
+    "Submitter Loc": "----, TXUnited States",
+    "Color": "Off White / White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170200026"
+  }
+}

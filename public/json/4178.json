@@ -1,0 +1,30 @@
+{
+  "Sold as": "Mephedrone",
+  "Expected to be": "Dibutylone & Caffeine",
+  "Lab Comments": "Not Available",
+  "Warning": "April 30, 2016: Submitter of this and other 4-MMC samples have suggested that they are actually 3-MMC (different positional isomer), but we obtained a lab standard for 3-MMC from Cayman and confirmed that 3-MMC and 4-MMC have distinct retention times in the GC. This sample is confirmed to be 4-MMC, not 3-MMC.",
+  "Image": "4178.jpg",
+  "table data left": {
+    "ID": "4178",
+    "Name": "Mephedrone",
+    "Other Names": "ALM05",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "4-Methylmethcathinone\n\n\n: 1 \n\n4-Methylmethcathinone aka Mephedrone, 4-MMC, 4-MMC, Meow, M-Cat, 2-Methylamino-1-p-tolylpropan-1-one"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 26, 2016",
+    "Pub. Date": "Feb 28, 2016",
+    "Src Location": "Online, TN",
+    "Submitter Loc": "Online, TNUnited States",
+    "Color": "White",
+    "Size": "175 mg, 21.40 mm x 7.40 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160200050"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert for it.",
+  "Image": "15437.jpg",
+  "table data left": {
+    "ID": "15437",
+    "Name": "NASA",
+    "Other Names": "2CB; Rakete",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 14.50 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 23, 2023",
+    "Pub. Date": "Feb 06, 2023",
+    "Src Location": "Basel, \nSwitzerland",
+    "Submitter Loc": "Basel, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "204 mg, 11.10 mm x 6.30 mm x 4.1 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIBS",
+    "Lab's ID": "SP:202302-19"
+  }
+}

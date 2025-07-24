@@ -1,0 +1,34 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "2C-B",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "16541.jpg",
+  "table data left": {
+    "ID": "16541",
+    "Name": "2C-B",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "JF84F",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Green",
+    "Liebermann": "Yellow-Brown",
+    "Froehde": "Yellow-Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "2C-B\n\n\n: 100 \n\n2C-B aka Bees",
+      "2C-H\n\n\n: 10 \n\n2C-H aka 2,5-dimethoxyphenethylamine",
+      "2,5-Dimethoxy-4-bromobenzylamine\n\n\n: 3",
+      "2C-C\n\n\n: 1 \n\n2C-C aka 2,5-Dimethoxy-4-chlorophenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 20, 2023",
+    "Pub. Date": "Jun 20, 2023",
+    "Src Location": "Salt Lake City, UT",
+    "Submitter Loc": "Salt Lake City, UTUnited States",
+    "Color": "Gray",
+    "Size": "20 mg, 15.29 mm x 5.50 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060004"
+  }
+}

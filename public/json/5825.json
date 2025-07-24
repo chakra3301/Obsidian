@@ -1,0 +1,31 @@
+{
+  "Sold as": "4-HO-MET fumarate",
+  "Expected to be": "4-HO-MET, synth impurities?",
+  "Lab Comments": "Not Available",
+  "Warning": "Our lab's analytical process can never determine the salt anion. The sender noted the fumarate salt of the chemical, but this is not something we can confirm or reject. Submitter indicated potential synthesis impurities, but none were detected. Not all synthesis impurities might be detected using GC/MS.",
+  "Image": "5825.jpg",
+  "table data left": {
+    "ID": "5825",
+    "Name": "4-HO-MET",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "4H001",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown (yellow, orange)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green Black (yellow edge)",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Grey - Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-HO-MET\n\n\n: 1 \n\n4-HO-MET aka 4-hydroxy-N-methyl-N-ethyltryptamine, or metocin, methylcybin, Colour)"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 26, 2017",
+    "Pub. Date": "Nov 28, 2017",
+    "Src Location": "Online, \nNetherlands",
+    "Submitter Loc": "Toronto, ONCanada",
+    "Color": "Off White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20171100052"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Flex (part of two-pill Flex Dol)",
+  "Expected to be": "Supplement Mixture",
+  "Lab Comments": "Shark cartilage, white willow bark, cat's claw and other ingredients may or may not be detected by GC/MS with current methodology.",
+  "Warning": "No drug other than Aceclofenac was detected. See ID #5456 for related sample and notes about sender's concerns.",
+  "Image": "5457.jpg",
+  "table data left": {
+    "ID": "5457",
+    "Name": "Flex",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "MB368",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Magenta - Reddish Purple",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Red Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Aceclofenac\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 19, 2017",
+    "Pub. Date": "Jun 19, 2017",
+    "Src Location": "Colombia",
+    "Submitter Loc": "Miami, FLUnited States",
+    "Color": "Orange",
+    "Size": "110 mg, 6.70 mm x 6.70 mm x 3.28 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170600097"
+  }
+}

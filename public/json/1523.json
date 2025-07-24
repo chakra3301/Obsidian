@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1523.jpg",
+  "table data left": {
+    "ID": "1523",
+    "Name": "Rhino",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green to Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "MDA\n\n\n: 50",
+      "Caffeine\n\n\n: 5",
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 30, 2005",
+    "Pub. Date": "Oct 01, 2005",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "White",
+    "Size": "184 mg, 6.00 mm x 4.50 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20050900130"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Mephedrone / 4-MMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "8906.jpg",
+  "table data left": {
+    "ID": "8906",
+    "Name": "Mephedron",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-CMC\n\n\n  \n\n3-CMC aka 3-chloromethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 18, 2020",
+    "Pub. Date": "Aug 25, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202008-24"
+  }
+}

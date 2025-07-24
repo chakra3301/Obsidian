@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "8596.jpg",
+  "table data left": {
+    "ID": "8596",
+    "Name": "LSD-Filz",
+    "Other Names": "Bicycle Day; Hofmann",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 99 ug\n\nLSD aka Acid, Doses",
+      "Iso-LSD"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 23, 2020",
+    "Pub. Date": "Jun 23, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Blue / Multicolor",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202006-17"
+  }
+}

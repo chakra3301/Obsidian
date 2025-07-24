@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.",
+  "Image": "9507.jpg",
+  "table data left": {
+    "ID": "9507",
+    "Name": "Oreo",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 15.80 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 07, 2020",
+    "Pub. Date": "Dec 15, 2020",
+    "Src Location": "Basel, \nSwitzerland",
+    "Submitter Loc": "Basel, --Switzerland",
+    "Color": "Orange / Peach",
+    "Size": "181.8 mg, 12.30 mm x 4.00 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIBS",
+    "Lab's ID": "SP:202012-22"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued an 'extreme high dose' warning because it contains more than 200mg of MDMA. \nTablet has a break line on reverse side.",
+  "Image": "8170.jpg",
+  "table data left": {
+    "ID": "8170",
+    "Name": "Punisher",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 245.20 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 25, 2020",
+    "Pub. Date": "Jan 31, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue",
+    "Size": "487.4 mg, 10.30 mm x 10.30 mm x 5.1 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:202001-13"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "Cannabis Oil",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "THC: 3.4 %\nDelta-8-THC not quantified.",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a cannabinoid other than the ones typically naturally occurring in Cannabis.\n\nOriginal alert published by SaferParty (Switzerland) in July 2024.",
+  "Image": "20223.jpg",
+  "table data left": {
+    "ID": "20223",
+    "Name": "Adulterated Cannabis Oil",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "delta-8-THC",
+      "THC\n\n\n  \n\nTHC aka delta-9-THC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 04, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Orange / Brown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202407-33"
+  }
+}

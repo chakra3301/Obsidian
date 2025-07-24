@@ -1,0 +1,31 @@
+{
+  "Sold as": "Imidazenil",
+  "Expected to be": "Not sure",
+  "Lab Comments": "Although no certified reference standard for Imidazenil is currently available, other benzodiazepine-like drugs are easily detectable. Therefore we do not believe this sample contains Imidazenil.",
+  "Warning": "'Doses as high as 40mg produce no noticeable effects'.",
+  "Image": "16057.jpg",
+  "table data left": {
+    "ID": "16057",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "IMIFB",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Liebermann": "Orange / Yellow",
+    "Froehde": "Fizzing",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Phenibut\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 08, 2023",
+    "Pub. Date": "May 08, 2023",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "Las Vegas, NVUnited States",
+    "Color": "White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23040082"
+  }
+}

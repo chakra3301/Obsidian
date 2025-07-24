@@ -1,0 +1,27 @@
+{
+  "Sold as": "THC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "No naturally occurring cannabinoids detected.",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a drug other than the one it was represented as.",
+  "Image": "17278.jpg",
+  "table data left": {
+    "ID": "17278",
+    "Name": "Liquid",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Hexahydrocannabinol\n\n\n  \n\nHexahydrocannabinol aka HHC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 10, 2023",
+    "Pub. Date": "Oct 05, 2023",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Brown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202309-63"
+  }
+}

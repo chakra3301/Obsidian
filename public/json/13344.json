@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a drug other than MDMA in addition to MDMA.",
+  "Image": "13344.jpg",
+  "table data left": {
+    "ID": "13344",
+    "Name": "White Crystalline Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CMC\n\n\n  \n\n4-CMC aka 4-chloromethcathinone",
+      "MDMA\n\n\n  \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 28, 2022",
+    "Pub. Date": "Jul 05, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202207-5"
+  }
+}

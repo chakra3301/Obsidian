@@ -1,0 +1,27 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as. No break line.",
+  "Image": "8461.jpg",
+  "table data left": {
+    "ID": "8461",
+    "Name": "Kein Logo",
+    "Other Names": "White Tablet",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-E\n\n\n: 7.50 mg\n\n2C-E aka 2,5-Dimethoxy-4-ethylphenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 13, 2020",
+    "Pub. Date": "May 18, 2020",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "White",
+    "Size": "93.3 mg, 6.70 mm x 3.60 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202005-13"
+  }
+}
