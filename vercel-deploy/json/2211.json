@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Lab was not able to identify this initially, but we believe the unidentified is Benocyclidine. ID 2309 also contained the same substance.",
+  "Image": "2211.jpg",
+  "table data left": {
+    "ID": "2211",
+    "Name": "Red Dove",
+    "Other Names": "Bird",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Benocyclidine\n\n\n: 3.00 \n\nBenocyclidine aka benzothiophenylcyclohexylpiperidine BTCP",
+      "5-MeO-DiPT\n\n\n: 1.50 \n\n5-MeO-DiPT aka Foxy Methoxy",
+      "Caffeine\n\n\n: 1.00"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 14, 2011",
+    "Pub. Date": "Jul 14, 2011",
+    "Src Location": "West Hollywood, CA",
+    "Submitter Loc": "West Hollywood, CAUnited States",
+    "Color": "Red / Pink",
+    "Size": "282 mg, 8.10 mm x 5.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "201107000047"
+  }
+}

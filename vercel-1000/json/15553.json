@@ -1,0 +1,33 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Low GC/MS responses for heroin and fentanyl\n\nUnidentified Substance #1: 2 parts [tentatively identified]\n\nUnidentified Substance #2: 4 parts\n\nUnidentified Substance #3: 3 parts [tentatively identified]",
+  "Warning": "Feb 22 2023: All three unidentified substances resemble ones previously detected in  DrugsData samples.\n\nUnidentified-1 in this sample resembles Unidentified-1 in sample #12239, tentatively identified as 2-tert-Butyl-4,6-dimethylphenol (CAS# 1879-09-0, syn: Oxymetazoline impurity).\n\nUnidentified-2 in this sample is similar to the spectrum for Unidentified-2 in sample #12239.\n\nUnidentified-3 in this samples resembles the Unidentified-3 in sample #12239, which is similar to the spectrum for 1,4,7,14,17,20-hexaoxacyclohexacosane-8,13,21,26-tetraone (CAS# 314254-68-7, syn: Adipate Diethylene glycol cyclic dimer).\n\n2-tert-Butyl-4,6-dimethylphenol would be considered a synthesis byproduct. If present at anything above tiny amounts, it would likely burn the mouth if tasted or burn at the injection site if injected.\n\n1,4,7,14,17,20-hexaoxacyclohexacosane-8,13,21,26-tetraone doesn't appear to be psychoactive.\n\nWe're not able to confirm these proposed identifications at this time. (thanks to Y. for the identifications)",
+  "Image": "15553.jpg",
+  "table data left": {
+    "ID": "15553",
+    "Name": "White/Brown Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023C015",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Unidentified\n\n\n: 20",
+      "Unidentified\n\n\n: 15",
+      "Unidentified\n\n\n: 10",
+      "Heroin\n\n\n: 5 \n\nHeroin aka Diacetylmorphine",
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 22, 2023",
+    "Pub. Date": "Feb 22, 2023",
+    "Src Location": "Lincoln, IL",
+    "Submitter Loc": "Lincoln, ILUnited States",
+    "Color": "White / Brown",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010186"
+  }
+}

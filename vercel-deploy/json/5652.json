@@ -1,0 +1,27 @@
+{
+  "Sold as": "4F-MPH",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SafterParty issued a warning because this crystalline powder sample represented as 4F-MPH is actually a drug other than 4F-MPH.",
+  "Image": "5652.jpg",
+  "table data left": {
+    "ID": "5652",
+    "Name": "4-Fluoromethylphenidate",
+    "Other Names": "4-FMPH, 4F-MPH",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "bk-DMBDB\n\n\n  \n\nbk-DMBDB aka Dibutylone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 18, 2017",
+    "Pub. Date": "Aug 25, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Off White / Blue",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201708-34"
+  }
+}

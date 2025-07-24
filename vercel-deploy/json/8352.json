@@ -1,0 +1,33 @@
+{
+  "Sold as": "Heroin/Dope",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Limited sample, interior of bag rinsed with solvent and analyzed.",
+  "Warning": "This sample weighs less than the minimum standard we accept for analysis. It was pre-approved by exception. (Samples normally should be 20-200 mg)",
+  "Image": "8352.jpg",
+  "table data left": {
+    "ID": "8352",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "CRZ20190011",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Diphenhydramine\n\n\n: 3 \n\nDiphenhydramine aka Benadryl",
+      "Quinine\n\n\n: 2",
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 09, 2020",
+    "Pub. Date": "Mar 09, 2020",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "2020-02-0081"
+  }
+}

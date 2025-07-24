@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "MDA Basecamp issued an information alert about this tablet because it contains more than 120mg of MDMA.",
+  "Image": "6162.jpg",
+  "table data left": {
+    "ID": "6162",
+    "Name": "FC Barcelona",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 144 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 01, 2018",
+    "Pub. Date": "Apr 20, 2018",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Purple",
+    "Size": "362.8 mg",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201804-09"
+  }
+}

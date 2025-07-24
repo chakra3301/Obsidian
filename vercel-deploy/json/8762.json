@@ -1,0 +1,31 @@
+{
+  "Sold as": "Crack",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Aug 5 2021: The Procaine in this sample was originally listed as Procainamide due to an error in a existing spectral library. With reference standards of both, we were able to verify that the original identification was wrong. This error has been corrected above.",
+  "Image": "8762.jpg",
+  "table data left": {
+    "ID": "8762",
+    "Name": "Crack",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020B048",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Cocaine\n\n\n: 3 \n\nCocaine aka Crack, Coca",
+      "Phenacetin\n\n\n: 3 \n\nPhenacetin aka N-(4-Ethoxyphenyl)acetamide",
+      "Procaine\n\n\n: 1 \n\nProcaine aka Novocaine",
+      "Tetramisole / Levamisole\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 21, 2020",
+    "Pub. Date": "Jul 21, 2020",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Lynn, MAUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20070046"
+  }
+}

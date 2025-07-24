@@ -1,0 +1,31 @@
+{
+  "Sold as": "Fetty",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "'Gets gooey/gunky when cooked up'.",
+  "Image": "16618.jpg",
+  "table data left": {
+    "ID": "16618",
+    "Name": "Fetty",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2945A",
+    "Xylazine Test Strip": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 10",
+      "Phenethyl 4-ANPP\n\n\n: 2",
+      "4-ANPP\n\n\n: 1 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 27, 2023",
+    "Pub. Date": "Jun 27, 2023",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060076"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "Methamphetamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "This sample came in a non-standard format that required pre-approval before being tested.",
+  "Image": "8637.jpg",
+  "table data left": {
+    "ID": "8637",
+    "Name": "Methamphetamine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020B032",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 26, 2020",
+    "Pub. Date": "Jun 26, 2020",
+    "Src Location": "Quincy, MA",
+    "Submitter Loc": "Quincy, MAUnited States",
+    "Color": "Tan / Brown",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20060068"
+  }
+}

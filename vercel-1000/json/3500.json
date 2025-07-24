@@ -1,0 +1,32 @@
+{
+  "Sold as": "Adderall",
+  "Expected to be": "Adderall",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as Adderall (generic) 30mg, shipped from Manilla, Philippines to California.",
+  "Image": "3500.jpg",
+  "table data left": {
+    "ID": "3500",
+    "Name": "Adderall 30",
+    "Other Names": "TR0001",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Caffeine\n\n\n: 4",
+      "Phentermine\n\n\n: 2 \n\nPhentermine aka Adipex-P, Obenix, Oby-Trim",
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 03, 2015",
+    "Pub. Date": "Mar 03, 2015",
+    "Src Location": "Online, CA",
+    "Submitter Loc": "Online, CAUnited States",
+    "Color": "Yellow",
+    "Size": "413 mg, 10.40 mm x 4.10 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150200188"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "Psilocybin Extract",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Acetaminophen: 16.1 % \nCaffeine: 14.3 %\nMorphine: 3.6 %\nCodeine: 0.8 %",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains drugs other than the one it was represented as.\n\nOriginal alert published by SaferParty (Switzerland) in July 2024.",
+  "Image": "20243.jpg",
+  "table data left": {
+    "ID": "20243",
+    "Name": "Brown Substance",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Acetaminophen",
+      "Caffeine",
+      "Codeine\n\n\n  \n\nCodeine aka Tylenol 3 and Panadeine",
+      "Morphine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 10, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Brown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202407-53"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "CheckIt! issued a 'high dose' caution because this tablet contains more than 120mg of MDMA.",
+  "Image": "4844.jpg",
+  "table data left": {
+    "ID": "4844",
+    "Name": "Golden Monkey",
+    "Other Names": "See No Evil",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 193 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 12, 2016",
+    "Pub. Date": "Oct 12, 2016",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Tan",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201610-29"
+  }
+}

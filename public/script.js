@@ -143,28 +143,29 @@ class ImageGallery {
     createGalleryItem(image) {
         const item = document.createElement('div');
         item.className = 'gallery-item';
-        
+        item.addEventListener('click', () => this.openModal(image));
+
         const metadata = image.metadata;
         const name = metadata['table data left']?.Name || 'Unknown';
         const color = metadata['table data right']?.Color || 'Unknown';
-        
+        const location = metadata['table data right']?.Src || 'Unknown';
+        const testDate = metadata['table data right']?.['Test Date'] || 'Unknown';
+
         item.innerHTML = `
-            <div class="image-container">
-                <img src="${image.imagePath}" alt="${name}" loading="lazy">
-                <div class="image-overlay">
-                    <div class="image-info">
-                        <h3>${name}</h3>
-                        <p>Color: ${color}</p>
-                        <p>ID: ${image.id}</p>
-                    </div>
+            <img src="${image.imagePath}" alt="${name}" loading="lazy">
+            <div class="item-info">
+                <h3>${name}</h3>
+                <p class="image-number">#${image.id}</p>
+                <p><strong>Color:</strong> ${color}</p>
+                <p><strong>Location:</strong> ${location}</p>
+                <p><strong>Test Date:</strong> ${testDate}</p>
+                <div class="tags">
+                    <span class="tag">${name}</span>
+                    <span class="tag">${color.split(' ')[0]}</span>
                 </div>
             </div>
         `;
-        
-        item.addEventListener('click', () => {
-            this.openModal(image);
-        });
-        
+
         return item;
     }
 

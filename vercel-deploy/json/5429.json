@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Pink tablet of indeterminate logo (maybe a Tasmanian Devil in the style of a later SaferParty-tested sample?) with very worn face, scored on reverse. checkit! reported the contents of this sample as mg/g since they considered it to be a partial tablet: 306 mg/g of MDMA and 20 mg/g of Caffeine.",
+  "Image": "5429.jpg",
+  "table data left": {
+    "ID": "5429",
+    "Name": "Ecstasy",
+    "Other Names": "Tasmanian Devil",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine",
+      "MDMA\n\n\n  \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 08, 2017",
+    "Pub. Date": "Jun 13, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201706-001"
+  }
+}

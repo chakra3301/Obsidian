@@ -1,0 +1,34 @@
+{
+  "Sold as": "Oxycodone",
+  "Expected to be": "Stimulant plus narcotic",
+  "Lab Comments": "Oxycodone big GC/MS response.",
+  "Warning": "Not Available",
+  "Image": "15662.jpg",
+  "table data left": {
+    "ID": "15662",
+    "Name": "Oxycodone",
+    "Other Names": "OP + 30",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "DE391",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "Light Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Oxycodone\n\n\n: 1 \n\nOxycodone aka Oxycontin",
+      "Butylated hydroxytoluene\n\n\n: trace \n\nButylated hydroxytoluene aka BHT, butylhydroxytoluene",
+      "CBD\n\n\n: trace \n\nCBD aka Cannabidiol",
+      "THC\n\n\n: trace \n\nTHC aka delta-9-THC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 10, 2023",
+    "Pub. Date": "Mar 10, 2023",
+    "Src Location": "Quincy, IL",
+    "Submitter Loc": "Barry, ILUnited States",
+    "Color": "Brown",
+    "Size": "58 mg, 7.19 mm x 4.41 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23020103"
+  }
+}

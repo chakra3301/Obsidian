@@ -1,0 +1,36 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "''I was weirded out by the black spots''",
+  "Image": "14676.jpg",
+  "table data left": {
+    "ID": "14676",
+    "Name": "White Residue",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B1145",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 180",
+      "Phenethyl 4-ANPP\n\n\n: 80",
+      "4-ANPP\n\n\n: 20 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Caffeine\n\n\n: 20",
+      "Ethyl-4-ANPP\n\n\n: 10 \n\nEthyl-4-ANPP aka Ethyl despropionyl Fentanyl",
+      "Lidocaine\n\n\n: 10",
+      "Tramadol\n\n\n: 5 \n\nTramadol aka Ultram",
+      "Valerylfentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 03, 2022",
+    "Pub. Date": "Nov 03, 2022",
+    "Src Location": "MA",
+    "Submitter Loc": "----, MAUnited States",
+    "Color": "White / Off White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100148"
+  }
+}

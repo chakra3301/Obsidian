@@ -1,0 +1,38 @@
+{
+  "Sold as": "Tar Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Froehde reagent produced a dark violet turning to light brown surrounded in light blue.",
+  "Warning": "'Feels good, clean'.",
+  "Image": "14146.jpg",
+  "table data left": {
+    "ID": "14146",
+    "Name": "Tar Heroin",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Bandit",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green to Purple",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple - Brown",
+    "Froehde": "Magenta - Reddish Purple",
+    "Liebermann": "Brown",
+    "Morris": "Light Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_11": [
+      "Heroin\n\n\n: 14 \n\nHeroin aka Diacetylmorphine",
+      "Noscapine\n\n\n: 4",
+      "6-Acetylcodeine\n\n\n: 2 \n\n6-Acetylcodeine aka 6-Monoacetylcodeine",
+      "6-Acetylmorphine\n\n\n: 2 \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM",
+      "Meconin\n\n\n: 1 \n\nMeconin aka Noscapine metabolite"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 13, 2022",
+    "Pub. Date": "Sep 13, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "Brown",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22080194"
+  }
+}

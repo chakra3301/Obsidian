@@ -1,0 +1,31 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Unknown benzodiazepine",
+  "Lab Comments": "Not Available",
+  "Warning": "'Marked anxiolytic effect, mild CNS depression, accelerated sleep onset'.",
+  "Image": "15985.jpg",
+  "table data left": {
+    "ID": "15985",
+    "Name": "Farmapram",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "BZD02",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Alprazolam\n\n\n: 1 \n\nAlprazolam aka Xanax"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 19, 2023",
+    "Pub. Date": "Apr 19, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "San Diego, CAUnited States",
+    "Color": "White",
+    "Size": "255 mg, 15.74 mm x 4.64 mm x 3.37 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23040010"
+  }
+}

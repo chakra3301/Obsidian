@@ -1,0 +1,27 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it, and, it contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.",
+  "Image": "15498.jpg",
+  "table data left": {
+    "ID": "15498",
+    "Name": "Jigsaw",
+    "Other Names": "Saw Mask",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 16.60 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 14, 2023",
+    "Pub. Date": "Feb 21, 2023",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Gray",
+    "Size": "303.3 mg, 9.10 mm x 11.20 mm x 4.7 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202302-36"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it, and because it contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.",
+  "Image": "13989.jpg",
+  "table data left": {
+    "ID": "13989",
+    "Name": "Rolex",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 17 mg\n\n2C-B aka Bees",
+      "MDMA\n\n\n: 1 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 13, 2022",
+    "Pub. Date": "Sep 02, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "226.1 mg, 8.10 mm x 8.10 mm x 3.3 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:202209-32"
+  }
+}

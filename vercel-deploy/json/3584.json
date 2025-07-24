@@ -1,0 +1,30 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as MDMA, with name Green Android, expected to be MDMA. Purchased online.",
+  "Image": "3584.jpg",
+  "table data left": {
+    "ID": "3584",
+    "Name": "Green Android",
+    "Other Names": "BFT23",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Blue",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue to Dark Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 29, 2015",
+    "Pub. Date": "Apr 29, 2015",
+    "Src Location": "St. Louis, MO",
+    "Submitter Loc": "St. Louis, MOUnited States",
+    "Color": "Green",
+    "Size": "197 mg, 8.30 mm x 4.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150400111"
+  }
+}

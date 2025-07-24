@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The Montgomery Regional Laboratory of the Alabama Department of Forensic Sciences recently received two cylindrical tablets with pink exteriors and yellow interiors, suspected Ecstasy (see Photo 2). The exhibits were seized in Tallassee, Alabama (east-northeast of Montgomery) by the Tallassee Police Department (details sensitive). The tablets (total net mass 0.45 grams) were approximately 7.1 millimeters in diameter, approximately 7.5 millimeters thick, and were unusually crude in their construction. Analysis by GC/MS (and comparisons with standards), however, indicated not MDMA but rather a 2 : 1 : 3 mixture of 1-(3-trifluoromethylphenyl) piperazine (TFMPP), 1-(3-chlorophenyl)piperazine (mCPP), and caffeine, plus trace phentermine (not quantitated). This was the first such submission to the laboratory.",
+  "Image": "1744.jpg",
+  "table data left": {
+    "ID": "1744",
+    "Name": "Cylinder",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 3",
+      "TFMPP\n\n\n: 2",
+      "mCPP\n\n\n: 1 \n\nmCPP aka 1-(m-chlorophenyl)piperazine; m-Chlorophenylpiperazine, m-CPP; 1-(3-chlorophenyl)piperazine",
+      "Phentermine\n\n\n: 1 trace \n\nPhentermine aka Adipex-P, Obenix, Oby-Trim"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2008",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Tallassee, AL",
+    "Submitter Loc": "Tallassee, ALUnited States",
+    "Color": "Red / Pink",
+    "Size": "225 mg, 7.10 mm x 7.50 mm",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "080800_01"
+  }
+}

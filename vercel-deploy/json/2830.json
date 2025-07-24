@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Knockoff pharmaceutical tablets with '30' on one side and 'AD' on the other, apparently a knockoff Adderall tablet. \n\nTablet did not contain Adderall's ingredients, which are just amphetamine salts.",
+  "Image": "2830.jpg",
+  "table data left": {
+    "ID": "2830",
+    "Name": "Adderall",
+    "Other Names": "AD 30",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Caffeine\n\n\n: 2",
+      "Phentermine\n\n\n: 2 \n\nPhentermine aka Adipex-P, Obenix, Oby-Trim",
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 06, 2013",
+    "Pub. Date": "Aug 06, 2013",
+    "Src Location": "Phillipines",
+    "Submitter Loc": "----, --Phillipines",
+    "Color": "Red / Pink / Off White",
+    "Size": "375 mg, 10.20 mm x 3.80 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130700145"
+  }
+}

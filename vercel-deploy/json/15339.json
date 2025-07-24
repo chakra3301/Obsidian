@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued 'high dose' warning because it contains more than 150 ug of LSD.",
+  "Image": "15339.jpg",
+  "table data left": {
+    "ID": "15339",
+    "Name": "LSD",
+    "Other Names": "Blotter; Filz",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 224.60 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 13, 2023",
+    "Pub. Date": "Jan 27, 2023",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "9.00 x 8.80",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202301-7"
+  }
+}

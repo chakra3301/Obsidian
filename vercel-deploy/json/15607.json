@@ -1,0 +1,31 @@
+{
+  "Sold as": "5-MeO-DMT",
+  "Expected to be": "Fentanyl",
+  "Lab Comments": "Not Available",
+  "Warning": "While the submitter reported that this substance was sold as 5-MeO-DMT, the sample name they filled out on the submission form was ''DMT''. These substances have different effects and dosages. Using the term ''DMT'' as shorthand to refer to 5-Methoxy-DMT can be confusing. See 5-MeO-DMT is Not ''DMT'':\nDifferentiation is Wise.",
+  "Image": "15607.jpg",
+  "table data left": {
+    "ID": "15607",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "UC18PT",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Dark Green with Brown",
+    "Liebermann": "Brown",
+    "Froehde": "Green to Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "5-MeO-DMT\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 06, 2023",
+    "Pub. Date": "Mar 06, 2023",
+    "Src Location": "Union City, CA",
+    "Submitter Loc": "Patterson, CAUnited States",
+    "Color": "White / Off White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23020040"
+  }
+}

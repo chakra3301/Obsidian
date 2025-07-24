@@ -1,0 +1,27 @@
+{
+  "Sold as": "Bromo-Dragonfly",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SafterParty issued a warning because the blotter contains a drug other than the one it was sold as. it contains DOB, and no other drugs were detected in it.",
+  "Image": "5366.jpg",
+  "table data left": {
+    "ID": "5366",
+    "Name": "Bromo-Dragonfly",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "DOB"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 05, 2017",
+    "Pub. Date": "May 05, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "6.00 x 5.00",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201705-5"
+  }
+}

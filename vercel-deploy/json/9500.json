@@ -1,0 +1,28 @@
+{
+  "Sold as": "Mephedrone / 4-MMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an alert because it contains a drug other than the one it was represented as.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "9500",
+    "Name": "Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-Methylmethcathinone\n\n\n  \n\n3-Methylmethcathinone aka 3-MMC",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 11, 2020",
+    "Pub. Date": "Dec 15, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202012-5"
+  }
+}

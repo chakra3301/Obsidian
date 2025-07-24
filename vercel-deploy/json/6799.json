@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.",
+  "Image": "6799.jpg",
+  "table data left": {
+    "ID": "6799",
+    "Name": "Fliegenpilz",
+    "Other Names": "Mushroom",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 11 mg\n\n2C-B aka Bees",
+      "2C-H\n\n\n: 0 mg\n\n2C-H aka 2,5-dimethoxyphenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 09, 2018",
+    "Pub. Date": "Nov 19, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Brown",
+    "Size": "124.2 mg, 7.30 mm x - mm x 2.9 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201811-9"
+  }
+}

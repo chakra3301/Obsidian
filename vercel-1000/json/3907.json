@@ -1,0 +1,35 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "RC",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "3907.jpg",
+  "table data left": {
+    "ID": "3907",
+    "Name": "Green Grenade",
+    "Other Names": "KB420",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Orange",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Gray / Grey",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "TFMPP\n\n\n: 16",
+      "Caffeine\n\n\n: 5",
+      "Methamphetamine\n\n\n: 4 \n\nMethamphetamine aka Meth, Ice, Crank",
+      "Methylsulfonylmethane\n\n\n: 2 \n\nMethylsulfonylmethane aka MSM, dimethylsulfone, DMSO2, leftover solvent, cutting agent",
+      "Lidocaine\n\n\n: 1",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 26, 2015",
+    "Pub. Date": "Oct 26, 2015",
+    "Src Location": "Lynchburg, VA",
+    "Submitter Loc": "Lynchburg, VAUnited States",
+    "Color": "Green",
+    "Size": "223 mg, 7.10 mm x 9.50 mm x 4.34 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20151000094"
+  }
+}

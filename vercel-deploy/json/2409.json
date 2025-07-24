@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "2409.jpg",
+  "table data left": {
+    "ID": "2409",
+    "Name": "Mellow Yellow",
+    "Other Names": "Molly",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Lidocaine\n\n\n: 2.00",
+      "5-MeO-DiPT\n\n\n: 1.50 \n\n5-MeO-DiPT aka Foxy Methoxy",
+      "Unidentified\n\n\n: 1.00"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2012",
+    "Pub. Date": "Feb 02, 2012",
+    "Src Location": "Toronto, ON, \nCanada",
+    "Submitter Loc": "Toronto, ONCanada",
+    "Color": "Yellow",
+    "Size": "227 mg, 16.60 mm x 6.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120100112"
+  }
+}

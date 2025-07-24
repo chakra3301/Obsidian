@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Values approximate: not formally quantitated.",
+  "Warning": "Microgram: The Huntington Beach Police Department Crime Laboratory (California) recently received 12 round blue tablets with a '7' logo, suspected 'Ecstasy' (see Photo 2). The exhibits were seized in Huntington Beach pursuant to a traffic stop for suspected impaired driving (marijuana was also seized). The tablets were 8 millimeters in diameter by 4.5 millimeters thick, and weighed 280 milligrams each. Analysis by color testing, FTIR/ATR, and GC/MS indicated ketamine, procaine, and MDMA in an approximate 53:37:10 ratio (not formally quantitated). This was the first known submission of Ecstasy tablets containing this particular combination to the laboratory.",
+  "Image": "1624.jpg",
+  "table data left": {
+    "ID": "1624",
+    "Name": "7",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Ketamine\n\n\n: 53 \n\nKetamine aka Ketalar, Ketaset",
+      "Procaine\n\n\n: 37 \n\nProcaine aka Novocaine",
+      "MDMA\n\n\n: 10 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 01, 2007",
+    "Pub. Date": "Jun 25, 2008",
+    "Src Location": "Huntington Beach, CA",
+    "Submitter Loc": "Huntington Beach, CAUnited States",
+    "Color": "Blue",
+    "Size": "280 mg, 8.00 mm x 4.50 mm",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "20070501"
+  }
+}

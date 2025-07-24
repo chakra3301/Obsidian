@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued a 'high dose' caution for this tablet. PP logo on one side, skull on reverse, tablet is haxagonal with no break marks.",
+  "Image": "5533.jpg",
+  "table data left": {
+    "ID": "5533",
+    "Name": "Philipp Plein",
+    "Other Names": "Skull",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 225 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 06, 2017",
+    "Pub. Date": "Jul 07, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Tan",
+    "Size": "12.80 x 4.50",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201707-47"
+  }
+}

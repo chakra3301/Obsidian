@@ -1,0 +1,36 @@
+{
+  "Sold as": "Fentanyl",
+  "Expected to be": "Fentanyl or analogue",
+  "Lab Comments": "Acetaminophen ratio is at least 200. No MDMA present.",
+  "Warning": "''Urine test shows MDMA which I have not taken''",
+  "Image": "14664.jpg",
+  "table data left": {
+    "ID": "14664",
+    "Name": "M 30",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "IL024",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Purple - Brown",
+    "Froehde": "Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 200",
+      "Metamizole OR 4-Methylaminoantipyrine\n\n\n: 18 \n\nMetamizole OR 4-Methylaminoantipyrine aka Noramidopyrine; Dipyrone; Novalgin",
+      "Fentanyl\n\n\n: 17",
+      "4-ANPP\n\n\n: 3 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Acetylfentanyl\n\n\n: 1 \n\nAcetylfentanyl aka acetyl fentanyl",
+      "Ethyl-4-ANPP\n\n\n: 1 \n\nEthyl-4-ANPP aka Ethyl despropionyl Fentanyl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 03, 2022",
+    "Pub. Date": "Nov 03, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Blue",
+    "Size": "111 mg, 6.55 mm x 3.20 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100136"
+  }
+}

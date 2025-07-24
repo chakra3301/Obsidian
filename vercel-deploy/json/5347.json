@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "White powder sample, submitted from Guam, USA. Submitter note indicates sample 'smells putrid' and was an 'unknown/unlabeled chemical' that was 'sent with 2F-DCK sample'.",
+  "Image": "5347.jpg",
+  "table data left": {
+    "ID": "5347",
+    "Name": "Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "UNKO1",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "AMB-FUBINACA\n\n\n: 1 \n\nAMB-FUBINACA aka FUB-AMB; MMB-FUBINACA"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 27, 2017",
+    "Pub. Date": "Apr 28, 2017",
+    "Src Location": "Unknown, \nChina",
+    "Submitter Loc": "----, GuamUnited States",
+    "Color": "White / Off White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170400085"
+  }
+}

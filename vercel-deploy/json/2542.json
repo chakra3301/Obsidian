@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Sticky residue.",
+  "Warning": "Not Available",
+  "Image": "2542.jpg",
+  "table data left": {
+    "ID": "2542",
+    "Name": "MOLLY T76",
+    "Other Names": "Capsule",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green to Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "MDMA\n\n\n: 7 \n\nMDMA aka Ecstasy, E, X",
+      "Methylsulfonylmethane\n\n\n: 1 \n\nMethylsulfonylmethane aka MSM, dimethylsulfone, DMSO2, leftover solvent, cutting agent"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 06, 2012",
+    "Pub. Date": "Jul 06, 2012",
+    "Src Location": "Long Island, NY",
+    "Submitter Loc": "Long Island, NYUnited States",
+    "Color": "Off White",
+    "Size": "62 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "201207000079"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Heroin",
+  "Lab Comments": "Not Available",
+  "Warning": "'Feels weird, causing skin problems'.",
+  "Image": "16636.jpg",
+  "table data left": {
+    "ID": "16636",
+    "Name": "Tan Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2215",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Orange",
+    "Liebermann": "Light Brown",
+    "Froehde": "No Reaction",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "Fentanyl\n\n\n: 16",
+      "4-ANPP\n\n\n: 12 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Heroin\n\n\n: 1 \n\nHeroin aka Diacetylmorphine",
+      "Lidocaine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 30, 2023",
+    "Pub. Date": "Jun 30, 2023",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "Tan",
+    "Size": "100 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060087"
+  }
+}

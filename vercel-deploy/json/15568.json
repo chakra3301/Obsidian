@@ -1,0 +1,27 @@
+{
+  "Sold as": "Cannabis",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Cannabis + MDMB-4en-PINACA",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a cannabinoid other than the ones naturally occurring in Cannabis.\n\nAnalyzed by checkit! (Vienna, Austria) in early February 2023.",
+  "Image": "15568.jpg",
+  "table data left": {
+    "ID": "15568",
+    "Name": "Adulterated Cannabis",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMB-4en-PINACA\n\n\n  \n\nMDMB-4en-PINACA aka 5-CL-ADB-A; 5CI-ADB-A"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2023",
+    "Pub. Date": "Feb 28, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Green",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202302-16"
+  }
+}

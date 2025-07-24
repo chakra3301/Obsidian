@@ -1,0 +1,28 @@
+{
+  "Sold as": "Heroin/Fentanyl",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Limited sample mass.",
+  "Warning": "White powder in baggie.\n\nBTNX Fentanyl Test Strip (prior to sending in sample): Negative",
+  "Image": "9319.jpg",
+  "table data left": {
+    "ID": "9319",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020B177",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "None Detected\n\n\n: 1 \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 28, 2020",
+    "Pub. Date": "Oct 28, 2020",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Lynn, MAUnited States",
+    "Color": "White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20100093"
+  }
+}

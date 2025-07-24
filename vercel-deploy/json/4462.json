@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Two tablets analyzed matching this imprint/color; MDMA contents of 209 mg and 207 mg.",
+  "Image": "4462.jpg",
+  "table data left": {
+    "ID": "4462",
+    "Name": "Defqon. 1",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 209 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 16, 2016",
+    "Pub. Date": "Jun 17, 2016",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "12.80 x 5.50",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201606-10"
+  }
+}

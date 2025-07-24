@@ -1,0 +1,28 @@
+{
+  "Sold as": "6-APB",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "15336",
+    "Name": "6-APB",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "6-APB\n\n\n  \n\n6-APB aka Benzo Fury; 6-(2-aminopropyl)benzofuran; 1-(1-benzofuran-6-yl)propan-2-amine",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 18, 2023",
+    "Pub. Date": "Jan 27, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202301-7"
+  }
+}

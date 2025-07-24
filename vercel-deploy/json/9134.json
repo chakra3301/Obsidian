@@ -1,0 +1,36 @@
+{
+  "Sold as": "Unknown",
+  "Expected to be": "LSD/Acid",
+  "Lab Comments": "Not Available",
+  "Warning": "Cross-contamination Risk: Samples 9131 through 9140 were submitted together with this LSD/acid sample and contained some of the same drugs detected with the LSD. It's possible that some components detected here are a result of cross-contamination of samples prior to arriving at the lab.\n\nLSD is much more potent than the other substances detected; the other substances are not likely to be active at the relative ratios detected.",
+  "Image": "9134.jpg",
+  "table data left": {
+    "ID": "9134",
+    "Name": "Blotter",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Pink1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "Ehrlich": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "MDP2P\n\n\n: 11 \n\nMDP2P aka 3,4-Methylenedioxyphenylpropan-2-one; piperonyl methyl ketone",
+      "LSD\n\n\n: 10 \n\nLSD aka Acid, Doses",
+      "Ketamine\n\n\n: 5 \n\nKetamine aka Ketalar, Ketaset",
+      "PCP\n\n\n: 2",
+      "Cocaine\n\n\n: 1 \n\nCocaine aka Crack, Coca"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 24, 2020",
+    "Pub. Date": "Sep 24, 2020",
+    "Src Location": "Online",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "Multicolor",
+    "Size": "30 mg, 16.20 mm x 8.00 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20090059"
+  }
+}

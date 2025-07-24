@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "2052.jpg",
+  "table data left": {
+    "ID": "2052",
+    "Name": "White Tablet",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Purple (slow)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Codeine\n\n\n: 1 \n\nCodeine aka Tylenol 3 and Panadeine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 15, 2010",
+    "Pub. Date": "Dec 29, 2010",
+    "Src Location": "Phillipines",
+    "Submitter Loc": "----, --Phillipines",
+    "Color": "White / Off White",
+    "Size": "170 mg, 8.00 mm x 3.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20101100140"
+  }
+}

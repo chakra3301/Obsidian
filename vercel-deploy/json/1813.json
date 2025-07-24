@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The DEA Southwest Laboratory (Vista, California) is seeing a new trend in the shape and design of illicit tablets in seizures throughout the southwest region of the U.S. (see Photos 2-15). The laboratory is receiving Ecstasy mimic and Ecstasy exhibits with different designs, colors, and shapes than the more typical round tablets. The Ecstasy mimic designs include: Barack Obama, Homer and Bart Simpson, Snoopy, Ninja Turtles, and Transformer Decepticon and Autobot designs. The contents of the tablets vary, but generally include a mixture of BZP, TFMPP, and caffeine. Other components in some tablets are dextromethorphan, methamphetamine, and dimethylsulfone. Ecstasy designs include: a mushroom (resembling one from the Super Mario Brothers video game) and Garfield. The mushroom and Garfield Ecstasy tablets contain 3,4methylenedioxymethamphetamine (MDMA), methamphetamine, and caffeine",
+  "Image": "1813.jpg",
+  "table data left": {
+    "ID": "1813",
+    "Name": "Autobot",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "BZP\n\n\n  \n\nBZP aka Benzoyl Peroxide",
+      "Caffeine",
+      "TFMPP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 01, 2009",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Vista, CA",
+    "Submitter Loc": "Vista, CAUnited States",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "090600_11"
+  }
+}

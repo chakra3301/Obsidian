@@ -1,0 +1,28 @@
+{
+  "Sold as": "Synthetic Cannabinoids",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Per the testing organization's alert: 'In Innsbruck, the synthetic cannabinoids 5F-MDMB-PICA and 5F-CUMYL-PINACA were analyzed in four samples that were dispensed as e-liquids with unspecified synthetic cannabinoids.'\n\nAnalyzed by Drogenarbeit Z6's MDA Basecamp (Innsbruck, Austria) in July 2020.",
+  "Image": "8855.jpg",
+  "table data left": {
+    "ID": "8855",
+    "Name": "E-liquids",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "5F-CUMYL-PINACA\n\n\n  \n\n5F-CUMYL-PINACA aka 5-fluoro CUMYL-PINACA",
+      "5F-MDMB-PICA\n\n\n  \n\n5F-MDMB-PICA aka MDMB-2201; 5F-MDMB-2201"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 15, 2020",
+    "Pub. Date": "Aug 14, 2020",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Multicolor",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:202008-001"
+  }
+}

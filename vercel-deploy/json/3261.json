@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as 3,4-CTMP (3,4-Dichloromethylphenidate). Expected to be cut with a sedative or an erythro isomer instead of a threo.\n\nErowid Note: The lab found a Fluoromethcathinone, but the lab's technique cannot different between 2-Fluoro, 3-Fluoro, or 4-Fluoro-methcathinone.",
+  "Image": "3261.jpg",
+  "table data left": {
+    "ID": "3261",
+    "Name": "3,4,CTMP",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Very Slight Change",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "4-Fluoromethcathinone\n\n\n: 1 \n\n4-Fluoromethcathinone aka p-Fluoropmethcathinone, Flephedrone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 24, 2014",
+    "Pub. Date": "Aug 24, 2014",
+    "Src Location": "PA",
+    "Submitter Loc": "----, PAUnited States",
+    "Color": "White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140800116"
+  }
+}

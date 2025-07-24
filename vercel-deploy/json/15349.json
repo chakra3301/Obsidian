@@ -1,0 +1,32 @@
+{
+  "Sold as": "Adderall",
+  "Expected to be": "Amphetamine",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15349.jpg",
+  "table data left": {
+    "ID": "15349",
+    "Name": "E 404",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "HAFjax",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange",
+    "Liebermann": "Light Brown",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Methamphetamine\n\n\n: 7 \n\nMethamphetamine aka Meth, Ice, Crank",
+      "Methylsulfonylmethane\n\n\n: 1 \n\nMethylsulfonylmethane aka MSM, dimethylsulfone, DMSO2, leftover solvent, cutting agent"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 27, 2023",
+    "Pub. Date": "Jan 27, 2023",
+    "Src Location": "",
+    "Submitter Loc": "Jacksonville, FLUnited States",
+    "Color": "Orange",
+    "Size": "10.03 x 4.05",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010040"
+  }
+}

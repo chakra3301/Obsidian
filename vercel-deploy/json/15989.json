@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Appears to be kratom or a kratom extract based on the presence of Mitragynine and trace natural plant-sourced compounds that were detected.",
+  "Warning": "Not Available",
+  "Image": "15989.jpg",
+  "table data left": {
+    "ID": "15989",
+    "Name": "Brown Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "M1E4W5",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Brown",
+    "Liebermann": "Green",
+    "Froehde": "Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Mitragynine\n\n\n  \n\nMitragynine aka Kratom Extract"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 19, 2023",
+    "Pub. Date": "Apr 19, 2023",
+    "Src Location": "Miami, FL",
+    "Submitter Loc": "Miami, FLUnited States",
+    "Color": "Brown / Yellow",
+    "Size": "1000 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23040014"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Mushroom Chocolate",
+  "Expected to be": "Mushrooms Plus",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sample sold as mushrooms, expected to be mushrooms.\n\nEcstasyData: Lab found chemicals consistent with chocolate but not psilocybin mushroom or THC components detected.\n\nIf the submitter would contact us with additional details, we'd love to learn more about this.",
+  "Image": "3653.jpg",
+  "table data left": {
+    "ID": "3653",
+    "Name": "Mushroom Chocolate",
+    "Other Names": "River ATL03",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Very Slight Change",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Very Slight Change",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Very Slight Change",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Theophylline\n\n\n: 3 \n\nTheophylline aka 1,3-dimethylxanthine",
+      "Caffeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 16, 2015",
+    "Pub. Date": "Jun 16, 2015",
+    "Src Location": "Atlanta, GA",
+    "Submitter Loc": "Atlanta, GAUnited States",
+    "Color": "Brown",
+    "Size": "4430 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150600031"
+  }
+}

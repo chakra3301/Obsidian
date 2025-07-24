@@ -1,0 +1,28 @@
+{
+  "Sold as": "3-MMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains drugs other than the one it was represented as.",
+  "Image": "8856.jpg",
+  "table data left": {
+    "ID": "8856",
+    "Name": "Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CEC\n\n\n  \n\n4-CEC aka 4-Chloroethcathinone",
+      "4-CMC\n\n\n  \n\n4-CMC aka 4-chloromethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 07, 2020",
+    "Pub. Date": "Aug 14, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Off White / Yellow",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202008-13"
+  }
+}

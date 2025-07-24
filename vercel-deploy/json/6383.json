@@ -1,0 +1,28 @@
+{
+  "Sold as": "Norco",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "6383.jpg",
+  "table data left": {
+    "ID": "6383",
+    "Name": "Vitamin Norco",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Lo540",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Not Tested"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 06, 2018",
+    "Pub. Date": "Jul 11, 2018",
+    "Src Location": "Online, \nIndia",
+    "Submitter Loc": "Concord, CAUnited States",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180600116"
+  }
+}

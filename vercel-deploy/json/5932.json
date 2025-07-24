@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Analyzed by Energy Control in Madrid, Spain on Jan 22, 2018. Tablet is scored on one side.\n\nEnergy Control issued an information alert because this tablet contains a high dose of 4-FA, and could be mistaken for an ecstasy/molly tablet. They report 'a lot of pills' like this are being sold as MDMA in Madrid. \n\nTheir alert for this sample includes:\n\n'We recommend not consuming these pills whole. Before deciding to consume this substance it is advisable to inform yourself about its effects and risks. [...] This substance can be dangerous at this high dose.'",
+  "Image": "5932.jpg",
+  "table data left": {
+    "ID": "5932",
+    "Name": "Orange Tesla",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "4-FA\n\n\n: 190 mg\n\n4-FA aka 4-Fluoroamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 22, 2018",
+    "Pub. Date": "Jan 23, 2018",
+    "Src Location": "Madrid, \nSpain",
+    "Submitter Loc": "Madrid, --Spain",
+    "Color": "Orange",
+    "Size": "-",
+    "Data Source": "Energy Control",
+    "Tested by": "Energy Control",
+    "Lab's ID": "594-2018-01-22-17-00-53"
+  }
+}

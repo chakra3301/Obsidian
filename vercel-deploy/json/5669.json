@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Fentanyl, Oxycodone or Heroin",
+  "Lab Comments": "Not Available",
+  "Warning": "Round blue tablet bearing 'M', break line and '30' markings similar to pharmaceutical oxycodone tablets. Submitted from San Diego, CA, USA.",
+  "Image": "5669.jpg",
+  "table data left": {
+    "ID": "5669",
+    "Name": "Counterfeit Oxycodone",
+    "Other Names": "Blue Vitamin, M30",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Very Slight Change (reagent turned clear)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Acetaminophen\n\n\n: 50",
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 04, 2017",
+    "Pub. Date": "Sep 05, 2017",
+    "Src Location": "Mexico",
+    "Submitter Loc": "San Diego, CAUnited States",
+    "Color": "Blue",
+    "Size": "103 mg, 6.50 mm x - mm x 3.3 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170900011"
+  }
+}

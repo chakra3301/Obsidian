@@ -1,0 +1,27 @@
+{
+  "Sold as": "Mescaline",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this powder contains a drug other than the one it was represented as.",
+  "Image": "6574.jpg",
+  "table data left": {
+    "ID": "6574",
+    "Name": "Mescaline",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "5-MeO-DALT\n\n\n: 1 \n\n5-MeO-DALT aka 5-Methoxy-DALT, N,N-diallyl-5-methoxytryptamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 07, 2018",
+    "Pub. Date": "Sep 07, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201809-4"
+  }
+}

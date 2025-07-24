@@ -1,0 +1,31 @@
+{
+  "Sold as": "Percocet 10/625 mg",
+  "Expected to be": "Suspected contaminants",
+  "Lab Comments": "Not Available",
+  "Warning": "mailed from Illinois, USA, sourced in India.\n\nLab tech identified Aceclofenac by online search library match to an analytical profile of Aceclofenac in Microgram 2014, Volume 11: http://www.dea.gov/pr/microgram-journals/2014/mj11-1_29-41.pdf\n\nConfirming part values with lab, whether Aceclofenac alone or Aceclofenac and degradation product are present.",
+  "Image": "4421.jpg",
+  "table data left": {
+    "ID": "4421",
+    "Name": "Percocet",
+    "Other Names": "S0X15",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Red / Purple",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple-Blue-Black",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Acetaminophen\n\n\n: 4",
+      "Aceclofenac\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 24, 2016",
+    "Pub. Date": "May 25, 2016",
+    "Src Location": "Online, \nIndia",
+    "Submitter Loc": "----, OnlineIndia",
+    "Color": "Orange",
+    "Size": "734 mg, 17.90 mm x 8.20 mm x 5.39 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160500053"
+  }
+}

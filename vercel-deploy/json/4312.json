@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Imprint resembles that of the March 2016 'Maya-Kopf' (Mayan Head) tablets, ID# 4192 and ID# 4199.",
+  "Image": "4312.jpg",
+  "table data left": {
+    "ID": "4312",
+    "Name": "Versace",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 138.80 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 08, 2016",
+    "Pub. Date": "Apr 10, 2016",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Purple",
+    "Size": "300.8 mg, 10.30 mm x 12.30 mm x 4.3 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201604-003"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15199.jpg",
+  "table data left": {
+    "ID": "15199",
+    "Name": "White Powder",
+    "Other Names": "China White",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0733",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Pink-Orange",
+    "Liebermann": "Orange / Red",
+    "Froehde": "No Reaction",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "Xylazine\n\n\n: 160 \n\nXylazine aka Rompun",
+      "4-Fluorofentanyl\n\n\n: 30 \n\n4-Fluorofentanyl aka Para-fluorofentanyl",
+      "Procaine\n\n\n: 30 \n\nProcaine aka Novocaine",
+      "Despropionyl-4-fluorofentanyl\n\n\n: 10 \n\nDespropionyl-4-fluorofentanyl aka Despropionyl para-fluorofentanyl; para-Fluoro 4-ANPP",
+      "Fentanyl\n\n\n: 4",
+      "Quinine\n\n\n: 4",
+      "Caffeine\n\n\n: 1",
+      "Lidocaine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 28, 2022",
+    "Pub. Date": "Dec 28, 2022",
+    "Src Location": "North Adams, MA",
+    "Submitter Loc": "North Adams, MAUnited States",
+    "Color": "White",
+    "Size": "20 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22120073"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "BZP and 1-(3,4-methylenedioxyphenyl)-2-propanol were not confirmed.",
+  "Warning": "The Cayman Islands Forensic Science Laboratory (Grand Cayman) recently received a polydrug submission that included two mottled orange tablets, which were marked with a raised Adidas logo on one side and unmarked on the reverse. The exhibit was seized by Royal Cayman Islands Police personnel in Grand Cayman. The tablets were 8.25 millimeters in diameter and 4.39 millimeters thick. Analysis of the orange tablets (approximately 244 milligrams each) by color test, GC/MS, and FTIR/ATR indicated MDMA, caffeine, procaine, N-benzylpiperazine (BZP, not confirmed) and 1-(3,4- methylenedioxyphenyl)-2-propanol (not confirmed); not quantitated but present in an approximate 28:1:69:1:1 ratio based on the TIC. This is the first submission of this mixture of drugs to the laboratory. The submission also included a folded piece of paper that contained yellow and green powder in two distinct layers. The two powders both contained BZP, 1-(3-(trifluoromethyl)phenyl)piperazine (TFMPP), 1,4-dibenzylpiperazine (not confirmed) and caffeine. The laboratory reported one unrelated follow-up submission of the same type tablet pictured above.",
+  "Image": "1780.jpg",
+  "table data left": {
+    "ID": "1780",
+    "Name": "Adidas",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Procaine\n\n\n: 6 \n\nProcaine aka Novocaine",
+      "MDMA\n\n\n: 2 \n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 1",
+      "BZP\n\n\n  \n\nBZP aka Benzoyl Peroxide",
+      "MDP2P\n\n\n  \n\nMDP2P aka 3,4-Methylenedioxyphenylpropan-2-one; piperonyl methyl ketone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 01, 2009",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Grand Cayman, \nCayman Islands",
+    "Submitter Loc": "----, Grand CaymanCayman Islands",
+    "Color": "Orange",
+    "Size": "244 mg, 8.20 mm x 4.40 mm",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "090400_05"
+  }
+}

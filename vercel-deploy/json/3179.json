@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "A visitor commented that a vendor on  a Tor-only marketplace is selling this identical tablet as a methamphetamine tablet, not as ecstasy, so it may be that there are a number of these floating around, some being resold as ecstasy or possibly people getting confused. Obviously anything that looks like an ecstasy tablet without other clear marking will probably be resold as ecstasy in the retail and festival markets.",
+  "Image": "3179.jpg",
+  "table data left": {
+    "ID": "3179",
+    "Name": "Blue Snowflake",
+    "Other Names": "BEBOP",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 10, 2014",
+    "Pub. Date": "Jun 10, 2014",
+    "Src Location": "Portland, OR",
+    "Submitter Loc": "Portland, ORUnited States",
+    "Color": "Blue",
+    "Size": "430 mg, 20.00 mm x 8.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140500112"
+  }
+}

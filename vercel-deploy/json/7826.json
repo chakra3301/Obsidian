@@ -1,0 +1,35 @@
+{
+  "Sold as": "Psilocybin",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Analyzed multiple times. No psilocybin detected.",
+  "Warning": "See images of spectra, left, that correspond to the four unidentified compounds detected in this sample, referred to as Unidentified 1, 2, 3 and 4. Unidentified 1 (8), Linoleic acid (6), Unidentified 2 (2), Unidentified 3 (1), Unidentified 4 (6).\n\nThe main reason to use DrugsData to test an herbal product is if a specific chemical (like psilocybin or psilocin) is expected to be in the sample, or if it is suspected of being adulterated. Other minor components of plant material may or may not be detectable or identified by current GC/MS methods utilized by the lab we work with.",
+  "Image": "7826.jpg",
+  "table data left": {
+    "ID": "7826",
+    "Name": "Brown Powder",
+    "Other Names": "Psilicyben",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PS919",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Unidentified\n\n\n: 8",
+      "Linoleic acid\n\n\n: 6 \n\nLinoleic acid aka cis, cis-9,12-Octadecadienoic acid",
+      "Unidentified\n\n\n: 6",
+      "Unidentified\n\n\n: 2",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 03, 2019",
+    "Pub. Date": "Oct 03, 2019",
+    "Src Location": "Troy, MI",
+    "Submitter Loc": "Troy, MIUnited States",
+    "Color": "Brown / Green",
+    "Size": "600 mg, 23.30 mm x 8.10 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20190900080"
+  }
+}

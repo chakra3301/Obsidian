@@ -1,0 +1,31 @@
+{
+  "Sold as": "Mescaline extract",
+  "Expected to be": "Mescaline citrate and/or sulfate",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter note: 'Amateur extraction, unsure of final results'.",
+  "Image": "14956.jpg",
+  "table data left": {
+    "ID": "14956",
+    "Name": "Mescaline",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "20805",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange",
+    "Liebermann": "Yellow-Brown",
+    "Froehde": "Yellow-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Mescaline\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 05, 2022",
+    "Pub. Date": "Dec 05, 2022",
+    "Src Location": "Bellingham, WA",
+    "Submitter Loc": "Bellingham, WAUnited States",
+    "Color": "Orange / Tan",
+    "Size": "100 mg, 19.74 mm x 7.92 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110097"
+  }
+}

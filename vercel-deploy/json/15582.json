@@ -1,0 +1,32 @@
+{
+  "Sold as": "Roxicodone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Mar 4 2023: We've changed the Unidentified to Tentatively Identified with the help of volunteers (thanks AFLF, K.au, and Y.). We currently suspect this to be ethyleneoxynitazene and have ordered the standard from Cayman. Please email us after March 17 if we haven't updated this further.\n\nFeb 28 2023: The unidentified substance is not in any of the libraries available to the DrugsData lab, it appears to be some kind of research chemical opioid.",
+  "Image": "15582.jpg",
+  "table data left": {
+    "ID": "15582",
+    "Name": "M 30",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "R53D8",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Tentative Identification - See Note\n\n\n: 50",
+      "Desalkylgidazepam\n\n\n: 1 \n\nDesalkylgidazepam aka Bromonordiazepam"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 28, 2023",
+    "Pub. Date": "Feb 28, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "Hartford, CTUnited States",
+    "Color": "Blue",
+    "Size": "110 mg, 6.13 mm x 3.21 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23020012"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it.",
+  "Image": "8814.jpg",
+  "table data left": {
+    "ID": "8814",
+    "Name": "Ganesha Filz",
+    "Other Names": "Flowers; Triangle Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 162 ug\n\nLSD aka Acid, Doses",
+      "Iso-LSD\n\n\n: 7 ug"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 04, 2020",
+    "Pub. Date": "Aug 10, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "7.80 x 7.80",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202008-13"
+  }
+}

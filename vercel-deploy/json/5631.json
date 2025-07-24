@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SafterParty issued a warning because this blotter sample contains a drug other than  LSD.",
+  "Image": "5631.jpg",
+  "table data left": {
+    "ID": "5631",
+    "Name": "Alice Im Wunderland",
+    "Other Names": "LSD Blotter, Alice in Wonderland",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "DOC\n\n\n: 1.66 mg\n\nDOC aka 2,5-dimethoxy-4-chloroamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 12, 2017",
+    "Pub. Date": "Aug 24, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor / White",
+    "Size": "7.50 x 7.20",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201708-19"
+  }
+}

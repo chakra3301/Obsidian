@@ -1,0 +1,45 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14372.jpg",
+  "table data left": {
+    "ID": "14372",
+    "Name": "Tan Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0453",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red with Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow-Gray",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "Froehde": "Magenta - Reddish Purple",
+    "Liebermann": "Yellow-Brown",
+    "Morris": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_12": [
+      "Fentanyl\n\n\n: 170",
+      "Heroin\n\n\n: 120 \n\nHeroin aka Diacetylmorphine",
+      "Procaine\n\n\n: 90 \n\nProcaine aka Novocaine",
+      "Quinine\n\n\n: 40",
+      "Caffeine\n\n\n: 30",
+      "Xylazine\n\n\n: 20 \n\nXylazine aka Rompun",
+      "4-ANPP\n\n\n: 10 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "6-Acetylmorphine\n\n\n: 10 \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM",
+      "6-Acetylcodeine\n\n\n: 5 \n\n6-Acetylcodeine aka 6-Monoacetylcodeine",
+      "Phenethyl 4-ANPP\n\n\n: 5",
+      "Ethyl-4-ANPP\n\n\n: 1 \n\nEthyl-4-ANPP aka Ethyl despropionyl Fentanyl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 03, 2022",
+    "Pub. Date": "Oct 03, 2022",
+    "Src Location": "Pittsfield, MA",
+    "Submitter Loc": "Pittsfield, MAUnited States",
+    "Color": "Tan",
+    "Size": "20 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22090110"
+  }
+}

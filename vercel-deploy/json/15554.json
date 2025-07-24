@@ -1,0 +1,32 @@
+{
+  "Sold as": "Molly",
+  "Expected to be": "Molly",
+  "Lab Comments": "Not Available",
+  "Warning": "'Did not feel the same effects as MDA or MDMA'.",
+  "Image": "15554.jpg",
+  "table data left": {
+    "ID": "15554",
+    "Name": "Molly",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "94403",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Liebermann": "Red Brown",
+    "Froehde": "Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 3 \n\nMDMA aka Ecstasy, E, X",
+      "bk-EBDB\n\n\n: 1 \n\nbk-EBDB aka Eutylone; β-keto-Ethylbenzodioxolylbutanamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 22, 2023",
+    "Pub. Date": "Feb 22, 2023",
+    "Src Location": "Sierra Foothills, CA",
+    "Submitter Loc": "Sierra Foothills, CAUnited States",
+    "Color": "Off White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010187"
+  }
+}

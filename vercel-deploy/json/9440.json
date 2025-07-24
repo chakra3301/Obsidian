@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it. No break line.",
+  "Image": "9440.jpg",
+  "table data left": {
+    "ID": "9440",
+    "Name": "Nike Air",
+    "Other Names": "Sneaker",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 190.20 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2020",
+    "Pub. Date": "Dec 03, 2020",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Yellow",
+    "Size": "332.6 mg, 7.90 mm x 4.40 mm x 6.1 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202012-5"
+  }
+}

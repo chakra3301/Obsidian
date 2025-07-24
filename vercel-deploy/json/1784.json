@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The DEA South Central Laboratory (Dallas, Texas) recently received 37,954 tablets, suspected Ecstasy. The tablets were seized by Texas Department of Public Safety personnel incident to a routine traffic stop in Amarillo. The exhibit was comprised of four different types of tablets/imprints: blue tablets with an 'm&m's' imprint, yellow tablets with an alligator imprint, yellow tablets with a 'Thundercat' imprint, and purple tablets with a bomb imprint. Analysis of the tablets indicated each tablet type contained 86.1 - 95.3 milligrams/tablet of 3,4-methylenedioxymethamphetamine hydrochloride (MDMA), ketamine (<5%), and caffeine (not quantitated). MDMA tablet submissions to the South Central Laboratory in recent years have primarily contained low-level amounts of MDMA with mixtures of methamphetamine and/or other controlled substances.",
+  "Image": "1784.jpg",
+  "table data left": {
+    "ID": "1784",
+    "Name": "Bomb",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 90 mg\n\nMDMA aka Ecstasy, E, X",
+      "Caffeine",
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 01, 2009",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Amarillo, TX",
+    "Submitter Loc": "Amarillo, TXUnited States",
+    "Color": "Purple",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "090400_09"
+  }
+}

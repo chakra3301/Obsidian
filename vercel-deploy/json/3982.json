@@ -1,0 +1,38 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The tablet size, color, shape, and imprint indicates this is a knockoff of a 30mg oxycodone tablet.",
+  "Image": "3982.jpg",
+  "table data left": {
+    "ID": "3982",
+    "Name": "Blue Lady",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Purple",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Acetaminophen\n\n\n: 50",
+      "Heroin\n\n\n: 3 \n\nHeroin aka Diacetylmorphine",
+      "Fentanyl\n\n\n: 1",
+      "Acetylcodeine\n\n\n: trace",
+      "Caffeine\n\n\n: trace",
+      "Cocaine\n\n\n: trace \n\nCocaine aka Crack, Coca",
+      "Ibuprofen\n\n\n: trace \n\nIbuprofen aka Advil; 2-[4-(2-methylpropyl)phenyl]propanoic acid",
+      "Lidocaine\n\n\n: trace",
+      "Noscapine\n\n\n: trace"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2015",
+    "Pub. Date": "Nov 25, 2015",
+    "Src Location": "Providence, RI",
+    "Submitter Loc": "Providence, RIUnited States",
+    "Color": "Blue",
+    "Size": "95 mg, 6.10 mm x 2.90 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20151100007"
+  }
+}

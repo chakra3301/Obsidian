@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Powder contains 82.7% 4-CMC and 1.2% MDMA",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "13359.jpg",
+  "table data left": {
+    "ID": "13359",
+    "Name": "Crystalline Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CMC\n\n\n: 1 \n\n4-CMC aka 4-chloromethcathinone",
+      "MDMA\n\n\n: trace \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 22, 2022",
+    "Pub. Date": "Jul 05, 2022",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Clear / Off White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202207-13"
+  }
+}

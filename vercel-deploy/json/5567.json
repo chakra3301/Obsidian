@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued an information alert because this LSD sample (not pictured, form not specified) contains a drug other than LSD.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "5567",
+    "Name": "LSD",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 1 ug\n\nLSD aka Acid, Doses",
+      "ALD-52\n\n\n  \n\nALD-52 aka 1-Acetyl-N,N-diethyllysergamide"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 27, 2017",
+    "Pub. Date": "Jul 27, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201707-50"
+  }
+}

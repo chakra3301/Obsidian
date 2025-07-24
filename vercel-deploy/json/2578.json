@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Tablet information released by Streetwork with warning about high-dose MDMA.",
+  "Image": "2578.jpg",
+  "table data left": {
+    "ID": "2578",
+    "Name": "Maple Leaf",
+    "Other Names": "Ahorn Blatt",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 149.60 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2012",
+    "Pub. Date": "Aug 15, 2012",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Brown",
+    "Size": "285.2 mg, 8.20 mm x 4.40 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": ""
+  }
+}

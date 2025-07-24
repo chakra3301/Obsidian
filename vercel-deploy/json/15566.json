@@ -1,0 +1,28 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Contains 921 mg/g Ketamine and 13 mg/g Caffeine",
+  "Warning": "The European drug checking group that analyzed this sample issue an information alert because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in early February 2023.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "15566",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine",
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2023",
+    "Pub. Date": "Feb 28, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202302-14"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "2C-T-2",
+  "Expected to be": "2C-T-2, MDMA, or ?",
+  "Lab Comments": "Not 2C-T-2",
+  "Warning": "Submitter note: ''Sold as 2C-T-2, but I think the vendor may have accidentally sent me the wrong order''.",
+  "Image": "16668.jpg",
+  "table data left": {
+    "ID": "16668",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "KPSVH",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Orange",
+    "Liebermann": "Purple",
+    "Froehde": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "2C-T\n\n\n: 1 \n\n2C-T aka 4-methylthio-2,5-DMPE; 2,5-Dimethoxy-4-methylthiophenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 01, 2023",
+    "Pub. Date": "Jul 01, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "Brooklyn, NYUnited States",
+    "Color": "White",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060119"
+  }
+}

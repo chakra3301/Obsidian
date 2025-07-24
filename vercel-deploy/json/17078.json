@@ -1,0 +1,32 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "2C-B",
+  "Lab Comments": "Tested 3 times, most of tablet used up in analysis. Gave a very small GC/MS\nresponse for MDMA, typical MDMA tablets produce a big GC/MS response.",
+  "Warning": "Not Available",
+  "Image": "17078.jpg",
+  "table data left": {
+    "ID": "17078",
+    "Name": "British Pound",
+    "Other Names": "Queen; �1",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "GSC10",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Very Slight Change (purple)",
+    "Liebermann": "No Reaction",
+    "Froehde": "Light Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 2 \n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 22, 2023",
+    "Pub. Date": "Aug 22, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "Pittsburgh, PAUnited States",
+    "Color": "Purple",
+    "Size": "378 mg, 9.05 mm x 4.69 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080009"
+  }
+}

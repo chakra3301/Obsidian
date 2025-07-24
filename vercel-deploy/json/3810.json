@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty.ch/RaveItSafe.ch/SaferClubbing issued a warning about this tablet because it contains an unusually high amount of MDMA.",
+  "Image": "3810.jpg",
+  "table data left": {
+    "ID": "3810",
+    "Name": "Handgranate",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 181.70 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2015",
+    "Pub. Date": "Sep 08, 2015",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Orange",
+    "Size": "376.1 mg, 10.20 mm x 7.80 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201509-02"
+  }
+}

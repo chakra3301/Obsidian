@@ -1,0 +1,30 @@
+{
+  "Sold as": "Modalert",
+  "Expected to be": "Modafinil",
+  "Lab Comments": "Modafinil and Armodafinil are chiral compounds. Cannot differentiate with GCMS. No Armodafinil standard.",
+  "Warning": "Submitted from Mumbai, India. Submitter did not provide a unique 5-digit code.",
+  "Image": "5417.jpg",
+  "table data left": {
+    "ID": "5417",
+    "Name": "Modafinil",
+    "Other Names": "Modalert",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Yellow (Yellow Brown Orange)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Orange / Yellow (Yellow/Orange)",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Orange to Brown (Orange/Brown)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Modafinil\n\n\n: 1 \n\nModafinil aka Provigil, Modalert, Alertec"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 09, 2017",
+    "Pub. Date": "Jun 13, 2017",
+    "Src Location": "Mumbai, \nIndia",
+    "Submitter Loc": "Mumbai, --India",
+    "Color": "White",
+    "Size": "316 mg, 10.10 mm x 10.10 mm x 3.4 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170600013"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this red-orange tablet contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet. Tablet scored on reverse side.",
+  "Image": "5558.jpg",
+  "table data left": {
+    "ID": "5558",
+    "Name": "Kein Logo",
+    "Other Names": "Unmarked",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 12.90 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 18, 2017",
+    "Pub. Date": "Jul 21, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Orange / Red / Pink",
+    "Size": "152.6 mg, 8.00 mm x 2.30 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201707-9"
+  }
+}

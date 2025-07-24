@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Note that ecstasydata is now, as of December 2012, marking Mecke results that are consistent with MDMA as 'Turquoise'. Attached to this result is a photo of DDL's typical Mecke reagent test reactions to MDMA, which is a very dark blue-green that goes to dark enough to look blackish, with blue-green edges.\n\nThe previous EcstasyData/DDL standard was to record this same effect as 'green to purple', however it's clear that is not the best description of the typical response of Mecke reagent to MDMA.",
+  "Image": "2707.jpg",
+  "table data left": {
+    "ID": "2707",
+    "Name": "Molly",
+    "Other Names": "Capsule",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Turquoise",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 31, 2012",
+    "Pub. Date": "Jan 03, 2013",
+    "Src Location": "Oceanside, CA",
+    "Submitter Loc": "Oceanside, CAUnited States",
+    "Color": "White / Off White",
+    "Size": "263 mg, 27.10 mm x 9.40 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20121200159"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14549.jpg",
+  "table data left": {
+    "ID": "14549",
+    "Name": "White Rock",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0974",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange",
+    "Liebermann": "Orange / Yellow",
+    "Froehde": "No Reaction",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "Cocaine\n\n\n: 320 \n\nCocaine aka Crack, Coca",
+      "Benzoylecgonine\n\n\n: 60",
+      "Methylecgonidine\n\n\n: 20 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME",
+      "Benzoic acid\n\n\n: 10",
+      "Tropacocaine\n\n\n: 1 \n\nTropacocaine aka tropacaine, benzoylpseudotropine, pseudotropine benzoate"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 25, 2022",
+    "Pub. Date": "Oct 25, 2022",
+    "Src Location": "Fall River, MA",
+    "Submitter Loc": "Fall River, MAUnited States",
+    "Color": "White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100035"
+  }
+}

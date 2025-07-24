@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "One synthesis byproduct detected, not quantified.",
+  "Warning": "The European drug checking group that analyzed this bi-layer tablet issued an 'extreme high dose' warning because it contains more than 200mg of MDMA. \nTablet has a break line on reverse side, with little encircled 'NL'.",
+  "Image": "7528.jpg",
+  "table data left": {
+    "ID": "7528",
+    "Name": "TechnoGym",
+    "Other Names": "(bi-layer tablet)",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 273.50 mg\n\nMDMA aka Ecstasy, E, X",
+      "Synthesis Byproduct(s)\n\n\n  \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 10, 2019",
+    "Pub. Date": "Jul 12, 2019",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Yellow / White",
+    "Size": "497.3 mg, 8.30 mm x 13.50 mm x 5.4 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201907-17"
+  }
+}

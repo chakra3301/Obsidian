@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Subject to a SaferParty warning because the single blotter tab contained 195micrograms of LSD.",
+  "Image": "4027.jpg",
+  "table data left": {
+    "ID": "4027",
+    "Name": "LSD Blotter",
+    "Other Names": "White and Black",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 195 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 11, 2015",
+    "Pub. Date": "Dec 11, 2015",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "White / Black",
+    "Size": "7.20 x 7.30",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201512-5"
+  }
+}

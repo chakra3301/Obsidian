@@ -1,0 +1,35 @@
+{
+  "Sold as": "Tusi",
+  "Expected to be": "MDMA + Ketamine",
+  "Lab Comments": "Not Available",
+  "Warning": "'Euphoric, slightly trippy'.",
+  "Image": "16660.jpg",
+  "table data left": {
+    "ID": "16660",
+    "Name": "Pink Tusi",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "12143",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple - Brown",
+    "Liebermann": "Yellow-Brown",
+    "Froehde": "Blue Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Ketamine\n\n\n: 28 \n\nKetamine aka Ketalar, Ketaset",
+      "Caffeine\n\n\n: 16",
+      "MDMA\n\n\n: 12 \n\nMDMA aka Ecstasy, E, X",
+      "Methylsulfonylmethane\n\n\n: 2 \n\nMethylsulfonylmethane aka MSM, dimethylsulfone, DMSO2, leftover solvent, cutting agent",
+      "Ketamine Precursor A\n\n\n: 1 \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 30, 2023",
+    "Pub. Date": "Jun 30, 2023",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Red / Pink",
+    "Size": "500 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060111"
+  }
+}

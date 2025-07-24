@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Please note that the lab cannot yet verify whether the submitted tablet contained only modafinil or modafinil and Benzophenone. We are working (April 2014) to resolve this question. It is possible (or even likely) the tablet is pure modafinil. Until we have known pure modafinil to test (already ordered from certified supplier), we can't be sure of the result.\n\nThe lab notes: Modafinil degrades in the GC column and mass spectra match is base on degradation product of modafinil in the MS.  Benzophenone and other minor trace organic compounds could be resultant of modafinil degradation products in the GC/MS.",
+  "Image": "3111.jpg",
+  "table data left": {
+    "ID": "3111",
+    "Name": "Modvigil",
+    "Other Names": "YNYNY",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange to Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Orange to Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Orange to Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Modafinil\n\n\n: 1 \n\nModafinil aka Provigil, Modalert, Alertec"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 23, 2014",
+    "Pub. Date": "Mar 23, 2014",
+    "Src Location": "Online, \nIndia",
+    "Submitter Loc": "Online, --India",
+    "Color": "Off White",
+    "Size": "361 mg, 10.00 mm x 4.80 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140300047"
+  }
+}

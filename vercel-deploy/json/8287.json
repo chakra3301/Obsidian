@@ -1,0 +1,27 @@
+{
+  "Sold as": "Xanax / Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Feb 25 2020: The Swiss drug checking initiative that originated the alert for this sample sent out a follow-up today, with additional detail about the reported substance mass. Consequently, DrugsData has updated the mass above to 2.1 mg Etizolam. The Etizolam was originally unquantified. \n\nSaferParty/raveitsafe's *updated* alert is now showing (left), reflecting the 2.1 mg.\n\n[From SaferParty/raveitsafe: 'Following consultation with the laboratory regarding the incorrectly declared Xanax tablet, there has been an adjustment to the warning from last Friday (February 21, 2020).']",
+  "Image": "8287.jpg",
+  "table data left": {
+    "ID": "8287",
+    "Name": "Fake Xanax",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Etizolam\n\n\n: 2.10 mg\n\nEtizolam aka Etilaam, Etizest, Etizola, Sedekopan, Pasaden or Depas"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 19, 2020",
+    "Pub. Date": "Feb 21, 2020",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "White",
+    "Size": "345.2 mg, 15.20 mm x 5.10 mm x 3.5 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "201SP:202002-9"
+  }
+}

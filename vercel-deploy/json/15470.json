@@ -1,0 +1,28 @@
+{
+  "Sold as": "Mephedrone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "15470.jpg",
+  "table data left": {
+    "ID": "15470",
+    "Name": "Crystalline Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-CMC\n\n\n  \n\n3-CMC aka 3-chloromethcathinone",
+      "iso-3-CMC\n\n\n  \n\niso-3-CMC aka iso-3-chloromethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 07, 2023",
+    "Pub. Date": "Feb 13, 2023",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Clear / White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202302-33"
+  }
+}

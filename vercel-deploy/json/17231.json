@@ -1,0 +1,29 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a drug other than the one it was represented as.",
+  "Image": "17231.jpg",
+  "table data left": {
+    "ID": "17231",
+    "Name": "Reichsadler",
+    "Other Names": "Imperial Eagle",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 8 mg\n\n2C-B aka Bees",
+      "2C-H\n\n\n: 0 mg\n\n2C-H aka 2,5-dimethoxyphenethylamine",
+      "2-Br-4,5-DMPEA\n\n\n  \n\n2-Br-4,5-DMPEA aka 2-Bromo-4,5-Dimethoxyphenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 02, 2023",
+    "Pub. Date": "Sep 21, 2023",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Gray",
+    "Size": "186.7 mg, 12.10 mm x 7.00 mm x 3.6 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202309-16"
+  }
+}

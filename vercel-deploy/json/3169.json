@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "We've now included structures for the two compounds. The UR-144f (XLR11) and the high temperature degradation product. The submitted sample was very likely pure UR-144F (XLR11).",
+  "Image": "3169.jpg",
+  "table data left": {
+    "ID": "3169",
+    "Name": "White Powder",
+    "Other Names": "SP39T",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown Yellow Black",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "XLR-11\n\n\n: 2.50 \n\nXLR-11 aka cannabinoid; TMCP-2201; MN-001F; 5F-UR144; UR-144F; XLR11; (1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone",
+      "Thermoliz UR-144F\n\n\n: 1.00 \n\nThermoliz UR-144F aka UR-144F thermal isomer; cannabinoid"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 20, 2014",
+    "Pub. Date": "May 20, 2014",
+    "Src Location": "Online, CO",
+    "Submitter Loc": "Online, COUnited States",
+    "Color": "Off White / White",
+    "Size": "400 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140500074"
+  }
+}

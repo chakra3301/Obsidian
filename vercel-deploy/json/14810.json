@@ -1,0 +1,43 @@
+{
+  "Sold as": "Dope",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14810.jpg",
+  "table data left": {
+    "ID": "14810",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022C059",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "Benzodiazepine Test Strip": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Niacinamide\n\n\n: 67 \n\nNiacinamide aka Nicotinamide; Niacin",
+      "Flunitazene\n\n\n: 57",
+      "Quinine\n\n\n: 43",
+      "THC\n\n\n: 30 \n\nTHC aka delta-9-THC",
+      "Metonitazene\n\n\n: 27",
+      "Flualprazolam\n\n\n: 23",
+      "Fentanyl\n\n\n: 13",
+      "CBD\n\n\n: 7 \n\nCBD aka Cannabidiol",
+      "Diphenhydramine\n\n\n: 7 \n\nDiphenhydramine aka Benadryl",
+      "Cocaine\n\n\n: 3 \n\nCocaine aka Crack, Coca",
+      "4-ANPP\n\n\n: 2 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Caffeine\n\n\n: 2",
+      "Phenethyl 4-ANPP\n\n\n: 2",
+      "Lidocaine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2022",
+    "Pub. Date": "Nov 25, 2022",
+    "Src Location": "Peoria, IL",
+    "Submitter Loc": "Peoria, ILUnited States",
+    "Color": "Gray / Purple",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100206"
+  }
+}

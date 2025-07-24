@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. Tablet has a break line on reverse side.",
+  "Image": "6414.jpg",
+  "table data left": {
+    "ID": "6414",
+    "Name": "Pharao",
+    "Other Names": "Pharaoh",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 143.30 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 17, 2018",
+    "Pub. Date": "Jul 21, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Tan / Brown",
+    "Size": "510.2 mg, 12.10 mm x 12.90 mm x 3.8 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201807-17"
+  }
+}

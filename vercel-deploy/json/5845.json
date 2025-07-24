@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Tested three times. Metformin indicated by mass spectra degradation peaks. A standard was analyzed by GCMS with BSTFA derivitization, two peaks were produced.  The sample was analyzed the same way, but only one of two peaks were detected in the sample: NOT both as would be expected.\n\nThis could be explained by some component in the tablet interfering with our procedure using BSTFA derivitization consumption. We think metformin might be present, but cannot positively confirm it in this case.",
+  "Warning": "(Dec 27 2017) Re-analysis with certified metformin standard complete. Sample appears to be similar to metformin but its GC and MS spectra do not precisely match the certified standard using our methodology. It's possible that they don't match because we are matching a pure lab standard against the contents of a tablet. \n\n(Dec 12 2017) Re-analysis of this tablet is in progress and should be completed this week. Please check back.\n\n(Dec 4 2017) Check back after Dec 12 for an update to this sample, it will be re-analyzed by the lab to confirm the initial identification of Metformin, after they receive a certified standard for Metformin.",
+  "Image": "5845.jpg",
+  "table data left": {
+    "ID": "5845",
+    "Name": "Unknown",
+    "Other Names": "850; Pharmaceutical",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "5151B",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Fizzing",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Fizzing with Slight Color Change (gray)",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Very Slight Change (yellow-green)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Metformin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 01, 2017",
+    "Pub. Date": "Dec 04, 2017",
+    "Src Location": "Online",
+    "Submitter Loc": "San Diego, CAUnited States",
+    "Color": "White",
+    "Size": "999 mg, 13.60 mm x 7.10 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20171100110"
+  }
+}

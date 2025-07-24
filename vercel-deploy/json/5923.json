@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this tablet contains amphetamine rather than MDMA and could be mistaken for an ecstasy/molly tablet.",
+  "Image": "5923.jpg",
+  "table data left": {
+    "ID": "5923",
+    "Name": "Kein Logo",
+    "Other Names": "Blank; No Logo",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Amphetamine\n\n\n: 16.60 mg\n\nAmphetamine aka dextro- and/or levo-amphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 12, 2018",
+    "Pub. Date": "Jan 12, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White / Red / Pink",
+    "Size": "121.6 mg, 8.10 mm x 2.00 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201801-5"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit of blotter issued a 'high dose' caution for it.",
+  "Image": "16991.jpg",
+  "table data left": {
+    "ID": "16991",
+    "Name": "LSD-Filz",
+    "Other Names": "Ganesha; Blotter; Om",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 155 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 26, 2023",
+    "Pub. Date": "Aug 23, 2023",
+    "Src Location": "Geneva, \nSwitzerland",
+    "Submitter Loc": "Geneva, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202308-68"
+  }
+}

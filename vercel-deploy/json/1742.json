@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The Pasadena Texas Regional Crime Laboratory recently received 1,002 round yellow tablets with a raised logo of a star with rounded-off points, suspected Ecstasy. The exhibits were seized in Pasadena (east-southeast of Houston) by the Pasadena Police (details sensitive). The tablets (total net mass 305.0 grams) were 8.1 millimeters in diameter, 5.6 millimeters thick, and were unusually solid in their construction. Analysis by ferricyanide (slow blue) and GC/MS, however, indicated not MDMA but rather a mixture of 1-benzylpiperazine (BZP), 1-[3-(trifluoromethyl)phenyl]piperazine (TFMPP), 1,4-dibenzylpiperazine, and caffeine (not quantitated but in an approximate 2 : 3.5 : 1 : 20 ratio). The piperazines were not confirmed due to lack of analytical standards. This was the first substantial submission of piperazines, and also the first submission of this logo design, to the laboratory.",
+  "Image": "1742.jpg",
+  "table data left": {
+    "ID": "1742",
+    "Name": "Star",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "TFMPP\n\n\n: 3",
+      "BZP\n\n\n: 2 \n\nBZP aka Benzoyl Peroxide",
+      "Caffeine\n\n\n: 2",
+      "Dibenzylpiperazine\n\n\n: 1 \n\nDibenzylpiperazine aka 1,4-dibenzylpiperazine, DBZP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 01, 2008",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Pasadena, TX",
+    "Submitter Loc": "Pasadena, TXUnited States",
+    "Color": "Yellow",
+    "Size": "8.10 x 5.60",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "080600_01"
+  }
+}

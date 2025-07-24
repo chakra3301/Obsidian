@@ -1,0 +1,32 @@
+{
+  "Sold as": "Heroin  #4",
+  "Expected to be": "Unsure if there was an error in the synthesis or if possibly cut with a tranquilizer or even perhaps a stimulant",
+  "Lab Comments": "Not Available",
+  "Warning": "PLEASE SEND LESS MATERIAL!\n\nThis entry was put on hold to highlight that we really need folks to send in LESS material.\n\nIt is very important that people submitting samples to this testing program send in between 20 and 400mg of material. See how to send in a sample for testing.\n\nKeep in mind that just enough to *half* fill a capsule is more than enough for several analyses. If sending the sample in a baggie, it should be left under-filled so it's easy to seal.\n\nPacked baggies can spill and, because of the tight regulations, all of the spillage has to be collected. Yes, it's absurd, but it's the world we live in.\n\nThe lab tech has to handle every little bit of material that shows up in the mail following specific protocols for storage and disposal. Spills takes time and money away from work that should go to better things.\n\nNever pack a baggie totally full. Starting in early 2016, we will reject samples that are overfull or charge extra for their handling, because it is a huge hassle for our team to deal with. \n\nBe kind, send less!",
+  "Image": "4108.jpg",
+  "table data left": {
+    "ID": "4108",
+    "Name": "Chiva/China",
+    "Other Names": "911357",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green to Blue",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple - Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Heroin\n\n\n: 18 \n\nHeroin aka Diacetylmorphine",
+      "Quinine\n\n\n: 1",
+      "Acetylcodeine\n\n\n: trace"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 30, 2016",
+    "Pub. Date": "Jan 30, 2016",
+    "Src Location": "Phoenix, AZ",
+    "Submitter Loc": "Phoenix, AZUnited States",
+    "Color": "Gray",
+    "Size": "800 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160100057"
+  }
+}

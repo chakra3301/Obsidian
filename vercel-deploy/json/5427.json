@@ -1,0 +1,31 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "5-MAPB",
+  "Lab Comments": "Not Available",
+  "Warning": "Capsule of white crystalline powder submitted from Pittsburgh, PA, USA.",
+  "Image": "5427.jpg",
+  "table data left": {
+    "ID": "5427",
+    "Name": "Molly",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "A1B2C",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Magenta - Reddish Purple (Brown)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue-Purple",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple, Gray, Brown in Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDA\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 09, 2017",
+    "Pub. Date": "Jun 13, 2017",
+    "Src Location": "Baltimore, MD",
+    "Submitter Loc": "Pittsburg, PAUnited States",
+    "Color": "White",
+    "Size": "144 mg, 8.20 mm x 23.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170600035"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Our strong suspicion is that this sample is from a RoboTablets brand over-the-counter DXM tablet and not from a fake 'pressed pill' MDMA tablet. The shape, color and marking described by the submitter match those described on an FDA factsheet about this brand.",
+  "Image": "15471.jpg",
+  "table data left": {
+    "ID": "15471",
+    "Name": "R 30",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023C009",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Gray / Grey",
+    "Liebermann": "Light Brown",
+    "Froehde": "Blue Green",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "Benzodiazepine Test Strip": "Negative",
+    "Xylazine Test Strip": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_11": [
+      "DXM\n\n\n: 1 \n\nDXM aka Robitussin, Drixoral"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 13, 2023",
+    "Pub. Date": "Feb 13, 2023",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "White",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010109"
+  }
+}

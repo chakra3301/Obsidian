@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1662.jpg",
+  "table data left": {
+    "ID": "1662",
+    "Name": "Dollar Sign",
+    "Other Names": "$",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Cocaine\n\n\n  \n\nCocaine aka Crack, Coca",
+      "Ephedrine/Pseudoephedrine\n\n\n  \n\nEphedrine/Pseudoephedrine aka Sudafed, Bronkaid"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 19, 2004",
+    "Pub. Date": "Jun 25, 2008",
+    "Src Location": "Orange County, FL",
+    "Submitter Loc": "Orange County, FLUnited States",
+    "Color": "Red / Pink / Off White",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "20040801"
+  }
+}

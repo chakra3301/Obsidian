@@ -1,0 +1,28 @@
+{
+  "Sold as": "Mephedrone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued an information alert because this sample contains a drug other than 4-Methylmethcathinone.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "5748",
+    "Name": "Mephedrone",
+    "Other Names": "4-Methylmethcathinone",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CEC\n\n\n  \n\n4-CEC aka 4-Chloroethcathinone",
+      "4-CMC\n\n\n  \n\n4-CMC aka 4-chloromethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 01, 2017",
+    "Pub. Date": "Oct 21, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201710-4"
+  }
+}

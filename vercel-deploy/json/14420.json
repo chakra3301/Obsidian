@@ -1,0 +1,31 @@
+{
+  "Sold as": "Crack",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "''Better than the last shit [I] had''",
+  "Image": "14420.jpg",
+  "table data left": {
+    "ID": "14420",
+    "Name": "Crack",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0850A",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Cocaine\n\n\n: 50 \n\nCocaine aka Crack, Coca",
+      "Methylecgonidine\n\n\n: 3 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME",
+      "Tropacocaine\n\n\n: 1 \n\nTropacocaine aka tropacaine, benzoylpseudotropine, pseudotropine benzoate"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 11, 2022",
+    "Pub. Date": "Oct 11, 2022",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22090157"
+  }
+}

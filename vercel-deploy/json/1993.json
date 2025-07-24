@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1993.jpg",
+  "table data left": {
+    "ID": "1993",
+    "Name": "No Name",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-FA\n\n\n: 116.30 mg\n\n4-FA aka 4-Fluoroamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 01, 2009",
+    "Pub. Date": "Aug 31, 2010",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue",
+    "Size": "261.6 mg, 7.00 mm x 6.00 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": "112009_noname_5"
+  }
+}

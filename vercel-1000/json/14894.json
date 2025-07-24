@@ -1,0 +1,31 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Ketamine, 2C-B, MDMA, cocaine",
+  "Lab Comments": "2C-B detected at trace level. Sample tested multiple times, entire sample analyzed, interior wall of capsule rinsed and analyzed as well.",
+  "Warning": "DrugsData reports the presence of inactive substances in cases where little to no active substance is present, as is relevant in the case of this sample.",
+  "Image": "14894.jpg",
+  "table data left": {
+    "ID": "14894",
+    "Name": "TUCIB",
+    "Other Names": "Tusi; Pink Powder",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "B8775",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Green",
+    "Liebermann": "Light Yellow",
+    "Froehde": "Light Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "2C-B\n\n\n: 1 \n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 01, 2022",
+    "Pub. Date": "Dec 01, 2022",
+    "Src Location": "Sacramento, CA",
+    "Submitter Loc": "Sacramento, CAUnited States",
+    "Color": "Red / Pink",
+    "Size": "20 mg, 22.73 mm x 8.73 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110063"
+  }
+}

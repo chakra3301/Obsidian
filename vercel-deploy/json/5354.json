@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. Tablet is scored on reverse.",
+  "Image": "5354.jpg",
+  "table data left": {
+    "ID": "5354",
+    "Name": "No Name",
+    "Other Names": "Grey Tablet",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 172.40 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 25, 2017",
+    "Pub. Date": "Apr 28, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Gray / Off White",
+    "Size": "318.6 mg, 8.60 mm x 4.40 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201704-9"
+  }
+}

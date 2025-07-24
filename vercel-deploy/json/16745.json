@@ -1,0 +1,32 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "16745.jpg",
+  "table data left": {
+    "ID": "16745",
+    "Name": "Mortal Kombat",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "92103",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Liebermann": "Red Brown",
+    "Froehde": "Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDA\n\n\n: 5",
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 28, 2023",
+    "Pub. Date": "Jul 28, 2023",
+    "Src Location": "San Diego, CA",
+    "Submitter Loc": "San Diego, CAUnited States",
+    "Color": "White / Speckled",
+    "Size": "523 mg, 11.31 mm x 6.39 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23070010"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Belbien / Zolpidem",
+  "Expected to be": "Benzos, fentanyl?",
+  "Lab Comments": "Not Available",
+  "Warning": "A reminder that DrugsData is not allowed to provide quantitative results for samples it analyzes, because our lab is constrained by rules set by the US DEA. The inert components typical of tablets (sugars and starches) can not be reported.",
+  "Image": "15902.jpg",
+  "table data left": {
+    "ID": "15902",
+    "Name": "ZIM 10",
+    "Other Names": "Belbien",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "SSF23",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Zolpidem\n\n\n: 1 \n\nZolpidem aka Ambien"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 11, 2023",
+    "Pub. Date": "Apr 11, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "White",
+    "Size": "124 mg, 9.30 mm x 5.77 mm x 2.96 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23030180"
+  }
+}

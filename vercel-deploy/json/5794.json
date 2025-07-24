@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty and raveitsafe issued an 'extreme high dose' warning because this tablet contains more than 200mg of MDMA.\n\nTablets have break line.",
+  "Image": "5794.jpg",
+  "table data left": {
+    "ID": "5794",
+    "Name": "Blue Rolls Royce",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 201.60 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 04, 2017",
+    "Pub. Date": "Nov 10, 2017",
+    "Src Location": "Basel, \nSwitzerland",
+    "Submitter Loc": "Basel, --Switzerland",
+    "Color": "Blue",
+    "Size": "466.4 mg, 7.10 mm x 13.20 mm x 4.3 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201711-10"
+  }
+}

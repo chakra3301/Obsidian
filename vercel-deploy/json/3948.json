@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty.ch issued a mixed drug warning for this tablet because it contains a high dose of caffeine and more than one psychoactive chemical. They warn against risks of combining MDMA with high dose caffeine.",
+  "Image": "3948.jpg",
+  "table data left": {
+    "ID": "3948",
+    "Name": "Mitsubishi",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 205 mg",
+      "MDMA\n\n\n: 9 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 07, 2015",
+    "Pub. Date": "Nov 09, 2015",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "White",
+    "Size": "222.1 mg, 8.00 mm x 3.60 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201511-10"
+  }
+}

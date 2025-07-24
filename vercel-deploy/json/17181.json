@@ -1,0 +1,32 @@
+{
+  "Sold as": "Crack / Cocaine",
+  "Expected to be": "Crack",
+  "Lab Comments": "Not Available",
+  "Warning": "'Itchy arms'",
+  "Image": "17181.jpg",
+  "table data left": {
+    "ID": "17181",
+    "Name": "Cocaine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2206",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Cocaine\n\n\n: 110 \n\nCocaine aka Crack, Coca",
+      "Phenacetin\n\n\n: 40 \n\nPhenacetin aka N-(4-Ethoxyphenyl)acetamide",
+      "Methylecgonidine\n\n\n: 10 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME",
+      "Tropacocaine\n\n\n: 1 \n\nTropacocaine aka tropacaine, benzoylpseudotropine, pseudotropine benzoate"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 11, 2023",
+    "Pub. Date": "Sep 11, 2023",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Lynn, MAUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080123"
+  }
+}

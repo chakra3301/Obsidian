@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Capsule was not tested because prior arrangements were not made. WE DO NOT TEST CAPSULES WITHOUT PRIOR ARRANGEMENT.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "1494",
+    "Name": "capsule",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Not Tested"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 01, 2005",
+    "Pub. Date": "Jul 03, 2005",
+    "Src Location": "Providence, RI",
+    "Submitter Loc": "Providence, RIUnited States",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20050600299"
+  }
+}

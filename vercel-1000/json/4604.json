@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "4604.jpg",
+  "table data left": {
+    "ID": "4604",
+    "Name": "LSD",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "25B-NBOMe\n\n\n: 1007 ug\n\n25B-NBOMe aka 2CB-NBOMe",
+      "25C-NBOMe\n\n\n: 494 ug\n\n25C-NBOMe aka 2C-C-NBOMe; 2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 25, 2016",
+    "Pub. Date": "Jul 26, 2016",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Green / Black",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201607-44"
+  }
+}

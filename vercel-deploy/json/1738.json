@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The Wisconsin State Crime Laboratory - Milwaukee recently received 100 blue, round tablets with a raised diamond logo, suspected Ecstasy. The exhibit was acquired by the Division of Criminal Investigation Narcotics Bureau in an undercover buy operation in Milwaukee. Analysis of the tablets (total net mass 28.9 grams) using color tests (Marquis (+), Mecke (+), PDMAB (strong yellow), and Scott's (-)), GC, and GC/MS confirmed MDMA, methamphetamine, N-benzylpiperazine (BZP), N-(3-trifluoromethylphenyl) piperazine (TFMPP), caffeine, and procaine (ratio based on the TIC: 67 : 11 : 24 : 10 : 33 : 100). This was the first submission of this logo and this drug combination in Ecstasy tablets to the laboratory. [Editor's Notes: The color, dimensions, and drug combination in these tablets appear to be similar to a tablet reported in the January 2008 issue of Microgram Bulletin (page 1); however, that tablet (seized in Concord, California) had an iron cross logo.]",
+  "Image": "1738.jpg",
+  "table data left": {
+    "ID": "1738",
+    "Name": "Diamond",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 6 \n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 3",
+      "BZP\n\n\n: 2 \n\nBZP aka Benzoyl Peroxide",
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank",
+      "Procaine\n\n\n: 1 \n\nProcaine aka Novocaine",
+      "TFMPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2008",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Milwaukee, WI",
+    "Submitter Loc": "Milwaukee, WIUnited States",
+    "Color": "Blue",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "080200_01"
+  }
+}

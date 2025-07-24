@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit issued a 'high dose' caution for it.",
+  "Image": "15069.jpg",
+  "table data left": {
+    "ID": "15069",
+    "Name": "Auge / Blume",
+    "Other Names": "Blotter; Eye; Flower",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 220 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 07, 2022",
+    "Pub. Date": "Dec 16, 2022",
+    "Src Location": "Lucerne, \nSwitzerland",
+    "Submitter Loc": "Lucerne, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "10.00 x 10.00",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DILU",
+    "Lab's ID": "SP:202212-25"
+  }
+}

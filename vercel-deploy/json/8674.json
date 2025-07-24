@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet. No break line, same logo on both sides.",
+  "Image": "8674.jpg",
+  "table data left": {
+    "ID": "8674",
+    "Name": "Batman",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 9.70 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 01, 2020",
+    "Pub. Date": "Jul 10, 2020",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Yellow",
+    "Size": "177.6 mg, 9.90 mm x 5.60 mm x 3.8 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202007-8"
+  }
+}

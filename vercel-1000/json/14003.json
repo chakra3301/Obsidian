@@ -1,0 +1,31 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Fentanyl",
+  "Lab Comments": "Residue from both baggies analyzed together.",
+  "Warning": "Sample associated with adverse health event.",
+  "Image": "14003.jpg",
+  "table data left": {
+    "ID": "14003",
+    "Name": "Off-White Residue",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022C050",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Diphenhydramine\n\n\n: 40 \n\nDiphenhydramine aka Benadryl",
+      "Fentanyl\n\n\n: 20",
+      "4-ANPP\n\n\n: 1 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 02, 2022",
+    "Pub. Date": "Sep 02, 2022",
+    "Src Location": "Lasalle, IL",
+    "Submitter Loc": "Lasalle, ILUnited States",
+    "Color": "Off White / Gray",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22080008"
+  }
+}

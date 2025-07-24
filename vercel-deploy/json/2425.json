@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Here is a sample of 4-meo-pcp. It was obtained from a danish vendor rcstxxxxx.com. The vendor is now closed. it was obtained Oct 2010 and has been dry and cool.",
+  "Image": "2425.jpg",
+  "table data left": {
+    "ID": "2425",
+    "Name": "4-MeO-PCP",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "4-MeO-PCP\n\n\n: 1 \n\n4-MeO-PCP aka 4-Methoxy-PCP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 02, 2012",
+    "Pub. Date": "Feb 02, 2012",
+    "Src Location": "",
+    "Submitter Loc": "----, --United States",
+    "Color": "Off White / White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120100170"
+  }
+}

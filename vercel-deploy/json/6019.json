@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy/MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. Tablet is gold-colored has a break line on reverse side.",
+  "Image": "6019.jpg",
+  "table data left": {
+    "ID": "6019",
+    "Name": "Handgranate",
+    "Other Names": "Hand Granade",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 126.40 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 20, 2018",
+    "Pub. Date": "Feb 23, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Brown / Yellow",
+    "Size": "307.6 mg, 9.40 mm x 6.90 mm x 5.1 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201802-21"
+  }
+}

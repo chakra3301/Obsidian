@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in July 2023.",
+  "Image": "17330.jpg",
+  "table data left": {
+    "ID": "17330",
+    "Name": "Volkswagen",
+    "Other Names": "VW",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Unidentified",
+      "MDMA\n\n\n: trace \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 31, 2023",
+    "Pub. Date": "Oct 05, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Blue",
+    "Size": "482 mg, 11.20 mm x 11.20 mm x 4.9 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202309-48"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Hydromorphone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15880.jpg",
+  "table data left": {
+    "ID": "15880",
+    "Name": "Hydromorphone",
+    "Other Names": "OC DD",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "SNORT",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Magenta - Reddish Purple",
+    "Liebermann": "Light Yellow",
+    "Froehde": "Purple Gray",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Hydromorphone\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 05, 2023",
+    "Pub. Date": "Apr 05, 2023",
+    "Src Location": "Altoona, PA",
+    "Submitter Loc": "Altoona, PAUnited States",
+    "Color": "White",
+    "Size": "150 mg, 7.33 mm x 7.36 mm x 3.56 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23030158"
+  }
+}

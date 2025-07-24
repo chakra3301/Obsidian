@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "At least three synthesis impurities present, a pprox. 15.3 mg per tablet.",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution because it contains more than 120mg of MDMA. Tablet has a break line on reverse side.",
+  "Image": "8314.jpg",
+  "table data left": {
+    "ID": "8314",
+    "Name": "Skype",
+    "Other Names": "(bi-layer tablet)",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 144.30 mg\n\nMDMA aka Ecstasy, E, X",
+      "Synthesis Byproduct(s)\n\n\n  \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 23, 2020",
+    "Pub. Date": "Feb 28, 2020",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Blue / White",
+    "Size": "497.3 mg, 12.20 mm x 8.80 mm x 6.2 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "201SP:202002-16"
+  }
+}

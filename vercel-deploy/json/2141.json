@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Identified by MS spectral library match. No certified standard available. Drugs identified with MS data without GC retention data can be misidentified.",
+  "Warning": "Not Available",
+  "Image": "2141.jpg",
+  "table data left": {
+    "ID": "2141",
+    "Name": "Yellow Ninja Turtle",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "2,5-Dimethoxyamphetamine\n\n\n: 2 \n\n2,5-Dimethoxyamphetamine aka 2,5-DMA, PIHKAL #54",
+      "Caffeine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 22, 2011",
+    "Pub. Date": "Apr 22, 2011",
+    "Src Location": "Seattle, WA",
+    "Submitter Loc": "Seattle, WAUnited States",
+    "Color": "Yellow",
+    "Size": "293 mg, 9.80 mm x 9.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20110400042"
+  }
+}

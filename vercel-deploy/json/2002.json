@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "2002.jpg",
+  "table data left": {
+    "ID": "2002",
+    "Name": "Lofton",
+    "Other Names": "",
+    "TLC:The TLC Lab Test": "",
+    "list_4": [
+      "Buflomedil\n\n\n  \n\nBuflomedil aka Loftyl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2010",
+    "Pub. Date": "Sep 29, 2010",
+    "Src Location": "Madrid, \nSpain",
+    "Submitter Loc": "Madrid, --Spain",
+    "Color": "White",
+    "Size": "9.50 x 3.20",
+    "Data Source": "Energy Control",
+    "Tested by": "Energy Control",
+    "Lab's ID": "010210_lofton"
+  }
+}

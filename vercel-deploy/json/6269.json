@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "ALERT: This sample was found by The Loop to contain greater than 300mg of MDMA.",
+  "Warning": "This sample, published courtesy of The Loop's testing program, was analyzed by The Loop at the Love Saves the Day festival in Bristol, UK. [Alert tweet]\n\nFourier-transform infrared (ATR-FTIR) spectroscopy is The Loop's primary analysis method.",
+  "Image": "6269.jpg",
+  "table data left": {
+    "ID": "6269",
+    "Name": "Blue Punisher",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 26, 2018",
+    "Pub. Date": "May 29, 2018",
+    "Src Location": "Bristol, \nUnited Kingdom",
+    "Submitter Loc": "Bristol, --United Kingdom",
+    "Color": "Blue",
+    "Size": "-",
+    "Data Source": "The Loop",
+    "Tested by": "The Loop",
+    "Lab's ID": "LSTD2018-F0069"
+  }
+}

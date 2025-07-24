@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Available",
+  "Lab Comments": "The lab did not quantify the amount of DOC on this blotter.",
+  "Warning": "Not Available",
+  "Image": "3923.jpg",
+  "table data left": {
+    "ID": "3923",
+    "Name": "Unbekannter Filz",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "DOC\n\n\n  \n\nDOC aka 2,5-dimethoxy-4-chloroamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 26, 2015",
+    "Pub. Date": "Oct 26, 2015",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Yellow / Red / Pink",
+    "Size": "15.5 mg, 8.50 mm x - mm x 7 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201510-08"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "25I-NBOMe",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "8599.jpg",
+  "table data left": {
+    "ID": "8599",
+    "Name": "Filz",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Unidentified",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 23, 2020",
+    "Pub. Date": "Jun 23, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Green / Multicolor",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202006-20"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a drug other than MDMA.\n\nAnalyzed by checkit! (Vienna, Austria) in June 2022.",
+  "Image": "13458.jpg",
+  "table data left": {
+    "ID": "13458",
+    "Name": "Love",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 259 mg\n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 44 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 30, 2022",
+    "Pub. Date": "Jul 07, 2022",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "626 mg, 10.30 mm x 10.30 mm x 6.8 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202207-5"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "A reminder that DrugsData is not allowed to provide quantitative results (milligrams or micrograms aka dosage data) for samples it analyzes, because our lab is constrained by rules set by the US DEA. Inert cuts (diluents like sugars and starches) can not be reported even if they might be present.\n\nDrugsData provides ratios, as indicated by the numerals next to MDMA and Niacinamide above.",
+  "Image": "14547.jpg",
+  "table data left": {
+    "ID": "14547",
+    "Name": "Orange Tesla",
+    "Other Names": "CP",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "TEEKA",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Liebermann": "Red Brown",
+    "Froehde": "Blue Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 5 \n\nMDMA aka Ecstasy, E, X",
+      "Niacinamide\n\n\n: 1 \n\nNiacinamide aka Nicotinamide; Niacin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 25, 2022",
+    "Pub. Date": "Oct 25, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Poughkeepsie, NYUnited States",
+    "Color": "Orange / Glitter",
+    "Size": "473 mg, 11.48 mm x 10.46 mm x 5.38 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100033"
+  }
+}

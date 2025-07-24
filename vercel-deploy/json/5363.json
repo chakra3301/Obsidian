@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because this tablet contains more than 120mg of MDMA and contains a drug other than MDMA.",
+  "Image": "5363.jpg",
+  "table data left": {
+    "ID": "5363",
+    "Name": "Frau",
+    "Other Names": "Lady",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 137.90 mg\n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 79.20 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 05, 2017",
+    "Pub. Date": "May 05, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Gray",
+    "Size": "415.1 mg, 8.70 mm x 6.00 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201705-2"
+  }
+}

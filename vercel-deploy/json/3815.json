@@ -1,0 +1,30 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty.ch/RaveItSafe.ch/SaferClubbing issued a warning about this tablet because it contains a mix of drugs including MDMA.",
+  "Image": "3815.jpg",
+  "table data left": {
+    "ID": "3815",
+    "Name": "Smiley",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 87 mg\n\nMDMA aka Ecstasy, E, X",
+      "Amphetamine\n\n\n: 2 mg\n\nAmphetamine aka dextro- and/or levo-amphetamine",
+      "2C-B\n\n\n: 2 mg\n\n2C-B aka Bees",
+      "Caffeine\n\n\n: 1 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2015",
+    "Pub. Date": "Sep 08, 2015",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "325 mg, 8.10 mm x 5.30 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201509-09"
+  }
+}

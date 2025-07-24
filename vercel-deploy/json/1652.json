@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1652.jpg",
+  "table data left": {
+    "ID": "1652",
+    "Name": "Thumbs Up",
+    "Other Names": "Hitchhiker",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 10",
+      "MDMA\n\n\n: 9 \n\nMDMA aka Ecstasy, E, X",
+      "Ketamine\n\n\n: 1 \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 01, 2006",
+    "Pub. Date": "Jun 25, 2008",
+    "Src Location": "Oakland, CA",
+    "Submitter Loc": "Oakland, CAUnited States",
+    "Color": "Blue",
+    "Size": "310 mg, 9.00 mm x 4.00 mm",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "20060301"
+  }
+}

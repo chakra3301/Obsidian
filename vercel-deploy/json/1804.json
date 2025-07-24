@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The North Carolina State Bureau of Investigation, Western Regional Laboratory (Asheville, North Carolina) received five tablets shaped like the heads of Ninja Turtles, Snoopy, and Barack Obama, suspected Ecstasy (see Photo 1). Analysis of the tablets by GC/MS revealed that the tablets contained BZP, TFMPP, and caffeine (the predominant compound). Clandestine tablet preparations containing BZP are common submissions; however, these were the first tablets of their kind to be submitted to the laboratory. Most tablets submitted are round and vary in imprint/stamps. These tablets were quite detailed.",
+  "Image": "1804.jpg",
+  "table data left": {
+    "ID": "1804",
+    "Name": "Snoopy",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "BZP\n\n\n  \n\nBZP aka Benzoyl Peroxide",
+      "Caffeine",
+      "TFMPP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 01, 2009",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Asheville, NC",
+    "Submitter Loc": "Asheville, NCUnited States",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "090600_02"
+  }
+}

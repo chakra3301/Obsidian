@@ -1,0 +1,28 @@
+{
+  "Sold as": "3-MMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in May 2020.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "8482",
+    "Name": "Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-Methylmethcathinone\n\n\n  \n\n3-Methylmethcathinone aka 3-MMC",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 26, 2020",
+    "Pub. Date": "May 28, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202005-10"
+  }
+}

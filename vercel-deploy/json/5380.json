@@ -1,0 +1,36 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Pink 'One Way Arrow' tablet submitted from San Diego, California, USA.",
+  "Image": "5380.jpg",
+  "table data left": {
+    "ID": "5380",
+    "Name": "One Way",
+    "Other Names": "Arrow",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "92130M",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple - Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue-Purple (green)",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue-Purple (green)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 18 \n\nMDMA aka Ecstasy, E, X",
+      "MDA\n\n\n: 2",
+      "MDA 2-aldoxime analog\n\n\n: 2 \n\nMDA 2-aldoxime analog aka Synthesis Byproduct",
+      "MDP2P\n\n\n: 2 \n\nMDP2P aka 3,4-Methylenedioxyphenylpropan-2-one; piperonyl methyl ketone",
+      "Phenacetin\n\n\n: 2 \n\nPhenacetin aka N-(4-Ethoxyphenyl)acetamide",
+      "3,4-methylenedioxy-N-methylbenzylamine\n\n\n: 1 \n\n3,4-methylenedioxy-N-methylbenzylamine aka MDB; N-Methyl-3,4-(methylenedioxy)benzylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 18, 2017",
+    "Pub. Date": "May 18, 2017",
+    "Src Location": "San Diego, CA",
+    "Submitter Loc": "San Diego, CAUnited States",
+    "Color": "Red / Pink",
+    "Size": "513 mg, 12.20 mm x 6.20 mm x 6.32 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170500072"
+  }
+}

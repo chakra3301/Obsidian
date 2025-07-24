@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Note from submitter: This is an incense called 'wraith' sold by an online vendor called 'dallaswins'. Vendor claims it is all natural, but is suspected to contain aminoindane type synthetic cannabinoids and tropane alkaloids, and possibly pyrrolidinopropiophenone derivatives.",
+  "Image": "2302.jpg",
+  "table data left": {
+    "ID": "2302",
+    "Name": "Wraith",
+    "Other Names": "Red Incense",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "JWH-250\n\n\n: 1 \n\nJWH-250 aka 1-pentyl-2-(2-methoxyphenylacetyl)indole, cannabinoid"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 27, 2011",
+    "Pub. Date": "Oct 27, 2011",
+    "Src Location": "Salem, OR",
+    "Submitter Loc": "Salem, ORUnited States",
+    "Color": "Red / Pink",
+    "Size": "2750 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20111000063"
+  }
+}

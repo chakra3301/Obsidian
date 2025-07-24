@@ -1,0 +1,29 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "3965.jpg",
+  "table data left": {
+    "ID": "3965",
+    "Name": "Filz",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "25B-NBOMe\n\n\n: 810 ug\n\n25B-NBOMe aka 2CB-NBOMe",
+      "25C-NBOMe\n\n\n: 480 ug\n\n25C-NBOMe aka 2C-C-NBOMe; 2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 09, 2015",
+    "Pub. Date": "Nov 09, 2015",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Black / Green",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201511-17"
+  }
+}

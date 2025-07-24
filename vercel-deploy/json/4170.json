@@ -1,0 +1,30 @@
+{
+  "Sold as": "Dianabol",
+  "Expected to be": "Dianabol",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "4170.jpg",
+  "table data left": {
+    "ID": "4170",
+    "Name": "Meditech Dianabol",
+    "Other Names": "MAS5",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange to Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple - Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Methandrostenolone\n\n\n: 1 \n\nMethandrostenolone aka Methandienone, Averbol, Dianabol, Danabol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 16, 2016",
+    "Pub. Date": "Feb 16, 2016",
+    "Src Location": "Chester, PA",
+    "Submitter Loc": "Chester, PAUnited States",
+    "Color": "Yellow",
+    "Size": "133 mg, 6.20 mm x 3.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160200010"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains drugs other than the one it was represented as.",
+  "Image": "8015.jpg",
+  "table data left": {
+    "ID": "8015",
+    "Name": "Xanax",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine",
+      "Etizolam\n\n\n  \n\nEtizolam aka Etilaam, Etizest, Etizola, Sedekopan, Pasaden or Depas"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 22, 2019",
+    "Pub. Date": "Dec 02, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "274.4 mg, 15.10 mm x 3.00 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201912-001"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains drugs other than MDMA and could be mistaken for an ecstasy/molly tablet.\n\nAnalyzed by checkit! (Vienna, Austria) in the first two weeks of February 2023.",
+  "Image": "15503.jpg",
+  "table data left": {
+    "ID": "15503",
+    "Name": "Fortnite",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 133 mg",
+      "AMT\n\n\n: 2 mg\n\nAMT aka IT-290; Alphamethyltryptamine",
+      "bk-EBDB\n\n\n  \n\nbk-EBDB aka Eutylone; β-keto-Ethylbenzodioxolylbutanamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 10, 2023",
+    "Pub. Date": "Feb 21, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "590 mg, 14.20 mm x 5.10 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202302-4"
+  }
+}

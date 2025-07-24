@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Specified / NPS",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Analyzed by MDA Basecamp (Innsbruck, Austria) in Dec 2020.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "9552",
+    "Name": "Pulver",
+    "Other Names": "Powder",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-Fluorophenmetrazine\n\n\n  \n\n3-Fluorophenmetrazine aka 3-FPM, 3F-Phenmetrazine",
+      "3-MeO-PCP\n\n\n  \n\n3-MeO-PCP aka 3-Methoxy-PCP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 21, 2020",
+    "Pub. Date": "Dec 22, 2020",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:202012-2"
+  }
+}

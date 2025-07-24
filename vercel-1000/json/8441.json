@@ -1,0 +1,31 @@
+{
+  "Sold as": "Diclazepam",
+  "Expected to be": "Diclazepam",
+  "Lab Comments": "Identified as 4'-Chlorodiazepam by library match. Diclazepam (2'-Chlorodiazepam) ruled out.",
+  "Warning": "Jan 04 2022: Reference standard became available after the 12-month storage period lapsed for the sample. It won't be re-analyzed.\n\nMay 14 2020: Sample was re-analyzed and compared to the standard for the more common 2'-Chlorodiazepam (Diclazepam), which has a very similar mass spectrum, different ion ratio and slightly different retention time. Result: Diclazepam has been ruled out.\n\nMay 10 2020: This sample will be re-analyzed once a reference standard has been ordered and the lab receives it. Check back here for an update.",
+  "Image": "8441.jpg",
+  "table data left": {
+    "ID": "8441",
+    "Name": "Off-White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "DCLAS",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-Chlorodiazepam\n\n\n: 1 \n\n4-Chlorodiazepam aka Ro5-4864"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 12, 2020",
+    "Pub. Date": "May 12, 2020",
+    "Src Location": "Online",
+    "Submitter Loc": "----, CAUnited States",
+    "Color": "Off White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20040056"
+  }
+}

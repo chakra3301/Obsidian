@@ -1,0 +1,28 @@
+{
+  "Sold as": "HHC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in June 2023.",
+  "Image": "17305.jpg",
+  "table data left": {
+    "ID": "17305",
+    "Name": "HHC",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Hexahydrocannabinol\n\n\n  \n\nHexahydrocannabinol aka HHC",
+      "MDMB-4en-PINACA\n\n\n  \n\nMDMB-4en-PINACA aka 5-CL-ADB-A; 5CI-ADB-A"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 25, 2023",
+    "Pub. Date": "Oct 05, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Green / Brown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202309-23"
+  }
+}

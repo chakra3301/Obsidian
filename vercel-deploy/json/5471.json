@@ -1,0 +1,29 @@
+{
+  "Sold as": "1P-LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this blotter contains drugs other than 1P-LSD.",
+  "Image": "5471.jpg",
+  "table data left": {
+    "ID": "5471",
+    "Name": "Panda",
+    "Other Names": "1P-LSD Botter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "25I-NBOH\n\n\n: 716 ug",
+      "25H-NBOH\n\n\n: 59 ug",
+      "25C-NBOH\n\n\n: 55 ug"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 31, 2017",
+    "Pub. Date": "Jun 30, 2017",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Multicolor / White",
+    "Size": "7.00 x 6.90",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201706-16"
+  }
+}

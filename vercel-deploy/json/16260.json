@@ -1,0 +1,35 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Sample associated with an adverse health event.",
+  "Image": "16260.jpg",
+  "table data left": {
+    "ID": "16260",
+    "Name": "Tan Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2499",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Lidocaine\n\n\n: 105",
+      "Xylazine\n\n\n: 65 \n\nXylazine aka Rompun",
+      "Fentanyl\n\n\n: 55",
+      "Phenethyl 4-ANPP\n\n\n: 5",
+      "4-Fluorofentanyl\n\n\n: 3 \n\n4-Fluorofentanyl aka Para-fluorofentanyl",
+      "N-Propionylnorfentanyl\n\n\n: 3 \n\nN-Propionylnorfentanyl aka N-[1-(1-oxopropyl)-4-piperidinyl]-N-phenyl-propanamide",
+      "Despropionyl-4-fluorofentanyl\n\n\n: 1 \n\nDespropionyl-4-fluorofentanyl aka Despropionyl para-fluorofentanyl; para-Fluoro 4-ANPP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 26, 2023",
+    "Pub. Date": "May 26, 2023",
+    "Src Location": "Beverly, MA",
+    "Submitter Loc": "Beverly, MAUnited States",
+    "Color": "Tan",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050046"
+  }
+}

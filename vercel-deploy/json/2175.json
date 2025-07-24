@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Note with submission: Powder was obtained from internet vendor, sold as 4-fluoroamphetamine in a heat-sealed, static-proof bag.",
+  "Image": "2175.jpg",
+  "table data left": {
+    "ID": "2175",
+    "Name": "Powder",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "4-FA\n\n\n: 1 \n\n4-FA aka 4-Fluoroamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 16, 2011",
+    "Pub. Date": "Jun 16, 2011",
+    "Src Location": "San Mateo, CA",
+    "Submitter Loc": "San Mateo, CAUnited States",
+    "Color": "White / Off White",
+    "Size": "418 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20110600021"
+  }
+}

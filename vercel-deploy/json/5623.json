@@ -1,0 +1,32 @@
+{
+  "Sold as": "6-APB",
+  "Expected to be": "6-APB",
+  "Lab Comments": "Sample consists of two parts 2-APB or 6-APB, and, one part 4-APB or 7-APB (Spectra ratio closer to 4-APB than 7-APB). Spectrum and retention times for 2-APB and 6-APB are very close, cannot differentiate. 5-APB ruled out.",
+  "Warning": "Tan powder submitted from Dryden, NY, USA. Submitter asks 'if it can be determined if this is the succinate salt of 6-APB.' Please see lab comments.",
+  "Image": "5623.jpg",
+  "table data left": {
+    "ID": "5623",
+    "Name": "6-APB",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "BPA66",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue-Gray",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple Gray",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "6-APB\n\n\n: 2 \n\n6-APB aka Benzo Fury; 6-(2-aminopropyl)benzofuran; 1-(1-benzofuran-6-yl)propan-2-amine",
+      "4-APB\n\n\n: 1 \n\n4-APB aka 4-(2-Aminopropyl)Benzofuran"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 13, 2017",
+    "Pub. Date": "Aug 14, 2017",
+    "Src Location": "Online, \nEurope",
+    "Submitter Loc": "Dryden, NYUnited States",
+    "Color": "Tan",
+    "Size": "228 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170800024"
+  }
+}

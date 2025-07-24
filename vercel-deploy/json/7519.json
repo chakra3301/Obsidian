@@ -1,0 +1,33 @@
+{
+  "Sold as": "Psilocybin",
+  "Expected to be": "4-AcO-DMT",
+  "Lab Comments": "All color tests leaking brown, doesn't look like it's from the reactions.",
+  "Warning": "Our lab does not speculate whether there is any evidence of natural product extracts in this sample. \n\n4-AcO-DMT is a chemical produced in a lab and not currently known to be naturally occurring in any fungus.",
+  "Image": "7519.jpg",
+  "table data left": {
+    "ID": "7519",
+    "Name": "Liquid Psilocybin",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PSCA7",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Inconclusive",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Inconclusive",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Inconclusive",
+    "Ehrlich": "Inconclusive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "4-Acetoxy-DMT\n\n\n: 6 \n\n4-Acetoxy-DMT aka 4-AcO-DMT, O-Acetylpsilocin; Psilacetin, 4-acetoxy-N,N-dimethyltryptamine",
+      "Psilocin\n\n\n: 1 \n\nPsilocin aka 4-HO-DMT, 4-OH-DMT, psilocine, psilocyn, or psilotsin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 12, 2019",
+    "Pub. Date": "Jul 12, 2019",
+    "Src Location": "Online",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "Brown",
+    "Size": "50 mg, 10.80 mm x 17.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20190600099"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "5-MeO-DALT was initially unidentified",
+  "Warning": "Not Available",
+  "Image": "2485.jpg",
+  "table data left": {
+    "ID": "2485",
+    "Name": "Oranges",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "bk-MBDB\n\n\n: 2 \n\nbk-MBDB aka Butylone, 2-methylamino-1-(3,4-methylenedioxyphenyl)butan-1-one",
+      "MDPV\n\n\n: 2 \n\nMDPV aka 3,4-methylenedioxypyrovalerone",
+      "Methylone\n\n\n: 2 \n\nMethylone aka Explosion; bk-MDMA, Ease, M1",
+      "5-MeO-DALT\n\n\n: 1 \n\n5-MeO-DALT aka 5-Methoxy-DALT, N,N-diallyl-5-methoxytryptamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 13, 2012",
+    "Pub. Date": "May 13, 2012",
+    "Src Location": "Miami, FL",
+    "Submitter Loc": "Miami, FLUnited States",
+    "Color": "Orange",
+    "Size": "388 mg, 9.40 mm x 6.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120500006"
+  }
+}

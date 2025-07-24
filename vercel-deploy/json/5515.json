@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Two orange tablets bearing this imprint were analyzed by checkit!, having variable amounts of MDMA, at 103 mg and 134 mg respectively.",
+  "Image": "5515.jpg",
+  "table data left": {
+    "ID": "5515",
+    "Name": "Warner Brothers",
+    "Other Names": "WB",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 103 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 06, 2017",
+    "Pub. Date": "Jul 07, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Orange",
+    "Size": "9.80 x 5.50",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201707-29"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "Prescription Opioid",
+  "Expected to be": "Fentanyl",
+  "Lab Comments": "Sample tested multiple times, interior of container rinsed for analysis.",
+  "Warning": "Sample associated with an adverse health event.",
+  "Image": "13919.jpg",
+  "table data left": {
+    "ID": "13919",
+    "Name": "Blue Residue",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0698",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "None Detected\n\n\n  \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2022",
+    "Pub. Date": "Sep 01, 2022",
+    "Src Location": "Lawrence, MA",
+    "Submitter Loc": "Lawrence, MAUnited States",
+    "Color": "Blue",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22080073"
+  }
+}

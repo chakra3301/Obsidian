@@ -1,0 +1,29 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains synthesis impurities and it contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.\n\nOriginal alert published by SaferParty (Switzerland) in July 2024.",
+  "Image": "20252.jpg",
+  "table data left": {
+    "ID": "20252",
+    "Name": "2 / CB",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 22 mg\n\n2C-B aka Bees",
+      "Synthesis Byproduct(s)\n\n\n: 1 mg\n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis",
+      "MDMA\n\n\n: 1 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 10, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "81.4 mg, 6.10 mm x 6.10 mm x 2.7 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202407-62"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Hydrafinil",
+  "Expected to be": "Hydrafinil",
+  "Lab Comments": "Not Available",
+  "Warning": "Jun 20 2023: Certified reference standard run, fluorenol confirmed.\n\nMay 22 2023: Fluorenol (Hydrafinil) identified by library match.",
+  "Image": "16193.jpg",
+  "table data left": {
+    "ID": "16193",
+    "Name": "Hydrafinil",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Hydrafinil",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Blue",
+    "Froehde": "Light Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Fluorenol\n\n\n: 1 \n\nFluorenol aka Hydrafinil; 9-Hydroxyfluorene"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 23, 2023",
+    "Pub. Date": "May 23, 2023",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "Cologne, NRWGermany",
+    "Color": "Off White / Yellow",
+    "Size": "1000 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23040205"
+  }
+}

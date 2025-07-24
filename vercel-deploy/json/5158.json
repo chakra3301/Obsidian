@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an 'extreme high dose' warning because this tablet contains more than 200mg of MDMA. Tablet scored on reverse side.",
+  "Image": "5158.jpg",
+  "table data left": {
+    "ID": "5158",
+    "Name": "Rolex",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 214.50 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 14, 2017",
+    "Pub. Date": "Feb 17, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "372.1 mg, 10.10 mm x 4.80 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201702-7"
+  }
+}

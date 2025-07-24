@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as ecstasy, expected to be, as always, methylone.",
+  "Image": "3346.jpg",
+  "table data left": {
+    "ID": "3346",
+    "Name": "Ecstasy Capsule",
+    "Other Names": "Bunk1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Brown-Green",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown-Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Ethylone\n\n\n: 1 \n\nEthylone aka MDEC, bk-MDEA, 3,4-methylenedioxy-N-ethylcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 03, 2014",
+    "Pub. Date": "Nov 03, 2014",
+    "Src Location": "Indianapolis, IN",
+    "Submitter Loc": "Indianapolis, INUnited States",
+    "Color": "Off White / White",
+    "Size": "253 mg, 21.90 mm x 7.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20141100004"
+  }
+}

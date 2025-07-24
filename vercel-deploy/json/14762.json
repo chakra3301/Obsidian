@@ -1,0 +1,32 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Ketamine with MSG or some filler",
+  "Lab Comments": "Not Available",
+  "Warning": "A reminder that DrugsData is not allowed to provide quantitative results for samples it analyzes, because our lab is constrained by rules set by the US DEA. Inert cuts (diluents like sugars and starches) can not be reported even if they might be present.",
+  "Image": "14762.jpg",
+  "table data left": {
+    "ID": "14762",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "JWK03",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Ketamine\n\n\n: 11 \n\nKetamine aka Ketalar, Ketaset",
+      "Ketamine Precursor A\n\n\n: 1 \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2022",
+    "Pub. Date": "Nov 25, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Durham, NCUnited States",
+    "Color": "White",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100231"
+  }
+}

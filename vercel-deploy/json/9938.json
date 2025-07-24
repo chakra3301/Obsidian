@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "9938",
+    "Name": "Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2-Fluorodeschloroketamine\n\n\n  \n\n2-Fluorodeschloroketamine aka 2-fluoro Deschloroketamine; 2-FDCK; 2-FL-2-OXO-PCM; Fluoroketamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 15, 2021",
+    "Pub. Date": "Mar 09, 2021",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202103-9"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDME",
+  "Lab Comments": "Not Available",
+  "Warning": "Sample sent from San Francisco, CA, USA. Sender indicates it was sold as 'MDMA - 220 mg'. The DEA does not allow our program to provide quantitative results.",
+  "Image": "4655.jpg",
+  "table data left": {
+    "ID": "4655",
+    "Name": "Green Tesla",
+    "Other Names": "EDCLV",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Blue",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Dark Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 16, 2016",
+    "Pub. Date": "Aug 19, 2016",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Green",
+    "Size": "413 mg, 10.80 mm x 11.70 mm x 4.5 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160700131"
+  }
+}

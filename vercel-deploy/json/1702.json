@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "From Submitter: Purchased Jan 10, 2009.  Sold as 'About as pure as you can get without knowing the cook.'  Thought to be excellent quality.'",
+  "Image": "1702.jpg",
+  "table data left": {
+    "ID": "1702",
+    "Name": "capsule",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green to Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 15, 2009",
+    "Pub. Date": "Feb 26, 2009",
+    "Src Location": "Longmont, CO",
+    "Submitter Loc": "Longmont, COUnited States",
+    "Color": "White / Off White",
+    "Size": "233 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20090100198"
+  }
+}

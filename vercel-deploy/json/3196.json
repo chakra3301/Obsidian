@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as Fluoxetine 20mg 'Prozac'. Expected: Contaminants suspected.",
+  "Image": "3196.jpg",
+  "table data left": {
+    "ID": "3196",
+    "Name": "Fluoxetine Capsule",
+    "Other Names": "X90X3",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Red",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Dark Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Fluoxetine\n\n\n: 1 \n\nFluoxetine aka Prozac"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 27, 2014",
+    "Pub. Date": "Jun 27, 2014",
+    "Src Location": "San Jose, CA",
+    "Submitter Loc": "San Jose, CAUnited States",
+    "Color": "White / Green",
+    "Size": "278 mg, 16.60 mm x 5.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140600091"
+  }
+}

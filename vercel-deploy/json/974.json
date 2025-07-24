@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Methamphetamine detected with GC/MS, but no reaction with field tests.",
+  "Warning": "Not Available",
+  "Image": "974.jpg",
+  "table data left": {
+    "ID": "974",
+    "Name": "Eclipse",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 24, 2002",
+    "Pub. Date": "Aug 24, 2002",
+    "Src Location": "Redding, CA",
+    "Submitter Loc": "Redding, CAUnited States",
+    "Color": "Brown",
+    "Size": "100 mg, 7.00 mm x 3.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20020800026"
+  }
+}

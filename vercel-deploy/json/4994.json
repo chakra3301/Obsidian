@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued an information alert because the tablet contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.",
+  "Image": "4994.jpg",
+  "table data left": {
+    "ID": "4994",
+    "Name": "Herz",
+    "Other Names": "Heart",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 01, 2016",
+    "Pub. Date": "Dec 22, 2016",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Blue / Purple",
+    "Size": "7.00 x - x 3.2",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201612-2"
+  }
+}

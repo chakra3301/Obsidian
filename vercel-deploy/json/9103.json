@@ -1,0 +1,29 @@
+{
+  "Sold as": "Isopropylphenidate",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains drugs other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in Sep 2020.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "9103",
+    "Name": "Pulver",
+    "Other Names": "Powder",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Ethylphenidate",
+      "Isopropylphenidate\n\n\n  \n\nIsopropylphenidate aka IPH; IPPD",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 16, 2020",
+    "Pub. Date": "Sep 17, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202009-11"
+  }
+}

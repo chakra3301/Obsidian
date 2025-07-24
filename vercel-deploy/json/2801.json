@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Mecke had almost no reaction at all. Mecke was a very slight orange tinged reaction and the Mandelin was a reddish brown. None of the reactions were very strong.",
+  "Image": "2801.jpg",
+  "table data left": {
+    "ID": "2801",
+    "Name": "Methoxetamine",
+    "Other Names": "EP328",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Orange / Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Red Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Methoxetamine\n\n\n: 1 \n\nMethoxetamine aka NAME 2-(3-methoxyphenyl)-2-(ethylamino)cyclohexanone; 3-MeO-2-Oxo-PCE"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 20, 2013",
+    "Pub. Date": "Jun 22, 2013",
+    "Src Location": "Minneapolis, MN",
+    "Submitter Loc": "Minneapolis, MNUnited States",
+    "Color": "White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130600043"
+  }
+}

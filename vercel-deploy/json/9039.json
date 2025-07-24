@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued an 'extreme high dose' warning for this tablet.\nTablet has a break line on reverse side.",
+  "Image": "9039.jpg",
+  "table data left": {
+    "ID": "9039",
+    "Name": "Tekashi 69",
+    "Other Names": "Takeshi 69",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 237.40 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 28, 2020",
+    "Pub. Date": "Sep 09, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "546.4 mg, 11.90 mm x 10.80 mm x 5.6 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202009-10"
+  }
+}

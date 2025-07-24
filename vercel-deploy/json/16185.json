@@ -1,0 +1,32 @@
+{
+  "Sold as": "Hydrocodone / Acetaminophen, 10/325mg",
+  "Expected to be": "Substitutes?",
+  "Lab Comments": "Acetaminophen ratio is at least 30.",
+  "Warning": "Not Available",
+  "Image": "16185.jpg",
+  "table data left": {
+    "ID": "16185",
+    "Name": "n358 / 10",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "DUCHY",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Brown",
+    "Froehde": "Light Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 30",
+      "Hydrocodone\n\n\n: 1 \n\nHydrocodone aka Vicodin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 23, 2023",
+    "Pub. Date": "May 23, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "Oakland, CAUnited States",
+    "Color": "White",
+    "Size": "544 mg, 14.39 mm x 8.34 mm x 6.53 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23040197"
+  }
+}

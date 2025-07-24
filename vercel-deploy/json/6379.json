@@ -1,0 +1,27 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "White diamond-shaped tablet, same markings on both sides. \n\nAnalyzed by MDA Basecamp, a drug checking group based in Innsbruck, Austria. MDA Basecamp issued a warning because this tablet contains a drug other than the one it was represented as. Break line on reverse side.",
+  "Image": "6379.jpg",
+  "table data left": {
+    "ID": "6379",
+    "Name": "2C-B",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B-Fly\n\n\n: 1 \n\n2C-B-Fly aka 2C-Bromo-Fly"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 22, 2018",
+    "Pub. Date": "Jun 29, 2018",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "White",
+    "Size": "234.5 mg",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201806-06"
+  }
+}

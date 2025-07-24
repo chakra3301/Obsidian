@@ -1,0 +1,31 @@
+{
+  "Sold as": "15 mg Oxycodone",
+  "Expected to be": "Oxycodone, possibly fent, heroin, methamphetamine",
+  "Lab Comments": "Not Available",
+  "Warning": "''I have Rx in US, but availability at local pharmacies has been very low. I am a chronic pain patient from bad car wreck. Bought these while on vacation in Cabo [San Lucas] from pharmacy who said it was real - so I don't go through withdrawal when U.S. suppliers are down.\n\nI tried the one then half at different times, and it doesn't 'feel' like the real thing.''",
+  "Image": "17137.jpg",
+  "table data left": {
+    "ID": "17137",
+    "Name": "M 15",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ANTSY",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Purple (slow)",
+    "Liebermann": "Light Brown",
+    "Froehde": "Very Slight Change",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Oxycodone\n\n\n: 1 \n\nOxycodone aka Oxycontin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 24, 2023",
+    "Pub. Date": "Aug 24, 2023",
+    "Src Location": "Cabo San Lucas, \nMexico",
+    "Submitter Loc": "Houston, TXUnited States",
+    "Color": "Green",
+    "Size": "125 mg, 6.41 mm x 3.81 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080073"
+  }
+}

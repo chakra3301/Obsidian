@@ -1,0 +1,30 @@
+{
+  "Sold as": "Molly",
+  "Expected to be": "Research Chemical",
+  "Lab Comments": "Not Available",
+  "Warning": "Erowid Note: There are two GC/MS images but the second is an artifact resulting from the analytical method. Initially unidentified, our experts were able to confirm that this sample is alpha-PHP (and the second graph is a GC/MS artifact resulting from testing at our lab).",
+  "Image": "3439.jpg",
+  "table data left": {
+    "ID": "3439",
+    "Name": "Happy Molly Crystals",
+    "Other Names": "9BK051",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "alpha-PHP\n\n\n: 1 \n\nalpha-PHP aka α-PHP; alpha-Pyrrolidinohexiophenone; 2-Pyrrolidinohexanophenone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 20, 2015",
+    "Pub. Date": "Jan 20, 2015",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "White / Clear",
+    "Size": "209 mg, 23.90 mm x 8.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150100078"
+  }
+}

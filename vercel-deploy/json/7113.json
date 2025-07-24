@@ -1,0 +1,27 @@
+{
+  "Sold as": "Amphetamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "7113.jpg",
+  "table data left": {
+    "ID": "7113",
+    "Name": "Amphetamine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "5-MeO-MiPT\n\n\n: 1 \n\n5-MeO-MiPT aka 5-Methoxy-N,N-Methylisopropyltryptamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 06, 2019",
+    "Pub. Date": "Mar 08, 2019",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Red / Pink / Tan",
+    "Size": "-",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201903-12"
+  }
+}

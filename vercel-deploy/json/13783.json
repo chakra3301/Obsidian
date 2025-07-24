@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Tested twice, baggie rinsed for analysis. No fentanyl detected.",
+  "Warning": "Not Available",
+  "Image": "13783.jpg",
+  "table data left": {
+    "ID": "13783",
+    "Name": "Cocaine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0714",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Cocaine\n\n\n: 100 \n\nCocaine aka Crack, Coca",
+      "Methylecgonidine\n\n\n: 1 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 16, 2022",
+    "Pub. Date": "Aug 16, 2022",
+    "Src Location": "Holyoke, MA",
+    "Submitter Loc": "Holyoke, MAUnited States",
+    "Color": "White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22070199"
+  }
+}

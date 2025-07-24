@@ -1,0 +1,28 @@
+{
+  "Sold as": "1,4-Butanediol",
+  "Expected to be": "1,4-Butanediol or GHB",
+  "Lab Comments": "No GHB detected.",
+  "Warning": "IMPORTANT: DrugsData does not accept liquids as a rule. (This is clearly stated in several places on the submission form.) This sample was accepted *with prior approval* and a liquid sample will never be analyzed without prior approval.",
+  "Image": "9269.jpg",
+  "table data left": {
+    "ID": "9269",
+    "Name": "1,4-Butanediol",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "DS2009914",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "1,4-Butanediol\n\n\n: 1 \n\n1,4-Butanediol aka 1,4-B"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 22, 2020",
+    "Pub. Date": "Oct 22, 2020",
+    "Src Location": "Lakewood, CO",
+    "Submitter Loc": "Lakewood, COUnited States",
+    "Color": "Clear",
+    "Size": "40.20 x 12.20",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20100031"
+  }
+}

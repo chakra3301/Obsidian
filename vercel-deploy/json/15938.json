@@ -1,0 +1,37 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Fentanyl",
+  "Lab Comments": "Not Available",
+  "Warning": "Sample associated with an adverse health event.",
+  "Image": "15938.jpg",
+  "table data left": {
+    "ID": "15938",
+    "Name": "Fentanyl",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2752",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Green",
+    "Liebermann": "Light Brown",
+    "Froehde": "No Reaction",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "Fentanyl\n\n\n: 55",
+      "4-ANPP\n\n\n: 15 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Ethyl-4-ANPP\n\n\n: 5 \n\nEthyl-4-ANPP aka Ethyl despropionyl Fentanyl",
+      "N-Boc Norfentanyl\n\n\n: 3",
+      "Quinine\n\n\n: 3",
+      "Acetylfentanyl\n\n\n: 1 \n\nAcetylfentanyl aka acetyl fentanyl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 13, 2023",
+    "Pub. Date": "Apr 13, 2023",
+    "Src Location": "New Bedford, MA",
+    "Submitter Loc": "New Bedford, MAUnited States",
+    "Color": "White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23030222"
+  }
+}

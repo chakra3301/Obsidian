@@ -1,0 +1,28 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains drugs other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in May 2023.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "16628",
+    "Name": "Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2-Fluorodeschloroketamine\n\n\n  \n\n2-Fluorodeschloroketamine aka 2-fluoro Deschloroketamine; 2-FDCK; 2-FL-2-OXO-PCM; Fluoroketamine",
+      "Deschloroketamine\n\n\n  \n\nDeschloroketamine aka 2-Oxo-PCM"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 15, 2023",
+    "Pub. Date": "Jun 30, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202306-74"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "Sold as": "Dope",
+  "Expected to be": "Tranq",
+  "Lab Comments": "Not Available",
+  "Warning": "'Was good, but quit cold turkey and led to hospitalization'.",
+  "Image": "16817.jpg",
+  "table data left": {
+    "ID": "16817",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023C039",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red Brown",
+    "Liebermann": "Yellow-Brown",
+    "Froehde": "Yellow-Brown",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "Benzodiazepine Test Strip": "Positive",
+    "Xylazine Test Strip": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_11": [
+      "Fentanyl\n\n\n: 28",
+      "Diphenhydramine\n\n\n: 26 \n\nDiphenhydramine aka Benadryl",
+      "Niacinamide\n\n\n: 8 \n\nNiacinamide aka Nicotinamide; Niacin",
+      "Phenethyl 4-ANPP\n\n\n: 6",
+      "4-ANPP\n\n\n: 4 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "5-Hydroxymethylfurfural\n\n\n: 4 \n\n5-Hydroxymethylfurfural aka HMF",
+      "Bromazolam\n\n\n: 4",
+      "Protonitazene\n\n\n: 4",
+      "Metonitazene\n\n\n: 2",
+      "Ethyl-4-ANPP\n\n\n: 1 \n\nEthyl-4-ANPP aka Ethyl despropionyl Fentanyl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2023",
+    "Pub. Date": "Aug 01, 2023",
+    "Src Location": "Wauconda, IL",
+    "Submitter Loc": "Wauconda, ILUnited States",
+    "Color": "Brown / Gray",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23070082"
+  }
+}

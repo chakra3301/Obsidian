@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery with Metadata</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🖼️</text></svg>">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <div class="header-left">
+                    <h1>Marketplace</h1>
+                    <nav class="page-nav">
+                        <a href="home.html" class="nav-link">Home</a>
+                        <a href="index.html" class="nav-link active">Marketplace</a>
+                    </nav>
+                </div>
+                <div class="controls">
+                                                <input type="text" id="searchInput" placeholder="Search">
+                    <select id="filterSelect">
+                        <option value="">All Images</option>
+                        <option value="MDMA">MDMA</option>
+                        <option value="Euro">Euro</option>
+                        <option value="White">White</option>
+                        <option value="Black">Black</option>
+                    </select>
+                    <div class="image-count" id="imageCount"></div>
+                    <button id="loadMoreBtn" style="display: none;">Load More</button>
+                </div>
+            </div>
+        </header>
+
+        <div class="gallery" id="gallery">
+            <!-- Images will be loaded here dynamically -->
+        </div>
+
+        <div class="modal" id="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <div class="modal-body">
+                    <div class="image-container">
+                        <img id="modalImage" src="" alt="">
+                    </div>
+                    <div class="metadata-container">
+                        <h3>Metadata</h3>
+                        <div id="metadataContent"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Loading images...</p>
+            <div class="progress-info" id="progressInfo"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 

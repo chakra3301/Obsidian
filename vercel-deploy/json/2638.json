@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The streetwork result indicated trace amounts of Methiopropamine and Methylphenidate.",
+  "Image": "2638.jpg",
+  "table data left": {
+    "ID": "2638",
+    "Name": "MDAI",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 44.10",
+      "TFMPP\n\n\n: 5.90",
+      "Methiopropamine\n\n\n: --- \n\nMethiopropamine aka MPA, N-methyl-1-(thiophen-2-yl)propan-2-amine",
+      "Methylphenidate\n\n\n: --- \n\nMethylphenidate aka Ritalin, Concerta"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 01, 2012",
+    "Pub. Date": "Oct 22, 2012",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Off White",
+    "Size": "-",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": ""
+  }
+}

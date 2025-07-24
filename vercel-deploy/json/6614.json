@@ -1,0 +1,27 @@
+{
+  "Sold as": "Smoking Blend",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "[Adapted from a Drogenarbeit Z6 notice] This is one of two herbal mixture samples that were analyzed in September 2018 in Innsbruck, Austria by Drogenarbeit Z6's drug checking program, after a report of a hospitalization following consumption of an herbal smoking blend that involved the person's experiencing unconsciousness, seizures and respiratory arrest.",
+  "Image": "6614.jpg",
+  "table data left": {
+    "ID": "6614",
+    "Name": "Angry Birds Space",
+    "Other Names": "Smoking Blend Product",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "5-fluoro-ADB \n\n\n  \n\n5-fluoro-ADB  aka cannabinoid; 5-F-ADB; 5FADB"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 28, 2018",
+    "Pub. Date": "Sep 28, 2018",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Green",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201809-003"
+  }
+}

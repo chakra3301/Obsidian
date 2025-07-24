@@ -1,0 +1,31 @@
+{
+  "Sold as": "Oxycodone",
+  "Expected to be": "Oxycodone",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "16692.jpg",
+  "table data left": {
+    "ID": "16692",
+    "Name": "M 05 52",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PDX20",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Purple",
+    "Liebermann": "Purple - Brown",
+    "Froehde": "Light Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Oxycodone\n\n\n: 1 \n\nOxycodone aka Oxycontin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 03, 2023",
+    "Pub. Date": "Jul 03, 2023",
+    "Src Location": "Portland, OR",
+    "Submitter Loc": "Portland, ORUnited States",
+    "Color": "White",
+    "Size": "123 mg, 6.42 mm x 3.68 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060143"
+  }
+}

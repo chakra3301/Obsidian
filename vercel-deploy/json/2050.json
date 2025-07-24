@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Also tested by NMR",
+  "Warning": "Dimethocaine and dimethylcathinone are different drugs: dimethocaine is a local anesthetic and dimethylcathinone is a stimulant.",
+  "Image": "2050.jpg",
+  "table data left": {
+    "ID": "2050",
+    "Name": "Dimethocaine",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Dimethylcathinone\n\n\n  \n\nDimethylcathinone aka Metamfepramone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2010",
+    "Pub. Date": "Dec 27, 2010",
+    "Src Location": "Spain",
+    "Submitter Loc": "----, --Spain",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "Energy Control",
+    "Tested by": "Energy Control",
+    "Lab's ID": "EC1071"
+  }
+}

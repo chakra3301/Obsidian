@@ -1,0 +1,34 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Alprazolam",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "13837.jpg",
+  "table data left": {
+    "ID": "13837",
+    "Name": "Farmapram",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "FJ768",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Yellow (yellow)",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "Froehde": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Morris": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_11": [
+      "Alprazolam\n\n\n: 1 \n\nAlprazolam aka Xanax"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 23, 2022",
+    "Pub. Date": "Aug 23, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Philadelphia, PAUnited States",
+    "Color": "White",
+    "Size": "257 mg, 15.63 mm x 4.61 mm x 3.22 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22070243"
+  }
+}

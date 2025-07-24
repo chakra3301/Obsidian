@@ -1,0 +1,30 @@
+{
+  "Sold as": "Zolpidem",
+  "Expected to be": "Zolpidem",
+  "Lab Comments": "Not Available",
+  "Warning": "Purchased online from India.",
+  "Image": "4779.jpg",
+  "table data left": {
+    "ID": "4779",
+    "Name": "Zolpidem Tablet",
+    "Other Names": "GEP89",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Grey",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Grey",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Gray / Grey",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Zolpidem\n\n\n: 1 \n\nZolpidem aka Ambien"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 29, 2016",
+    "Pub. Date": "Sep 29, 2016",
+    "Src Location": "Spokane, WA",
+    "Submitter Loc": "Spokane, WAUnited States",
+    "Color": "Off White",
+    "Size": "228 mg, 13.10 mm x 4.70 mm x 3.02 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160900057"
+  }
+}

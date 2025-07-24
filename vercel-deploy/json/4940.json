@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an 'extreme high dose' warning because this tablet contains more than 200mg of MDMA. Tested by mobile HPLC unit. Tablet is oval shaped and pink.",
+  "Image": "4940.jpg",
+  "table data left": {
+    "ID": "4940",
+    "Name": "Dove",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 236.30 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 12, 2016",
+    "Pub. Date": "Nov 18, 2016",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "529.4 mg, 12.20 mm x 8.10 mm x 6.8 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201611-20"
+  }
+}

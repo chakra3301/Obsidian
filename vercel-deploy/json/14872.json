@@ -1,0 +1,35 @@
+{
+  "Sold as": "Fent Powder",
+  "Expected to be": "Fentanyl/benzos",
+  "Lab Comments": "Sample tested twice.",
+  "Warning": "'Tried a tiny bump and had no effect. Friend took a line and passed out for 4 hours, I think all the fent in my area is getting cut with benzos and other bullshit'.",
+  "Image": "14872.jpg",
+  "table data left": {
+    "ID": "14872",
+    "Name": "Fent Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "14523",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown",
+    "Liebermann": "Yellow-Brown",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Fentanyl\n\n\n: 60",
+      "4-ANPP\n\n\n: 40 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Cocaine\n\n\n: 10 \n\nCocaine aka Crack, Coca",
+      "Acetylfentanyl\n\n\n: 2 \n\nAcetylfentanyl aka acetyl fentanyl",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 01, 2022",
+    "Pub. Date": "Dec 01, 2022",
+    "Src Location": "San Jose, CA",
+    "Submitter Loc": "San Jose, CAUnited States",
+    "Color": "Tan / Beige",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110041"
+  }
+}

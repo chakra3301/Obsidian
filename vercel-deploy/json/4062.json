@@ -1,0 +1,31 @@
+{
+  "Sold as": "Metformin",
+  "Expected to be": "Metformin",
+  "Lab Comments": "The lab is searching for a new standard against which to compare. The scientific literature does not provide an easy GC/MS analysis to compare against.",
+  "Warning": "Jan 20, 2016. The lab has tested a pharmaceutical metformin tablet and has stated that at this point they can not positively identify it using their standard techniques.",
+  "Image": "4062.jpg",
+  "table data left": {
+    "ID": "4062",
+    "Name": "Metformin",
+    "Other Names": "24343",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Gray / Grey",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Gray / Grey",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Gray / Grey",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Unidentified\n\n\n: 2.50",
+      "Unidentified\n\n\n: 1.00"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 27, 2015",
+    "Pub. Date": "Dec 27, 2015",
+    "Src Location": "Austin, TX",
+    "Submitter Loc": "Austin, TXUnited States",
+    "Color": "White",
+    "Size": "1333 mg, 21.60 mm x 9.60 mm x 6.73 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20151200079"
+  }
+}

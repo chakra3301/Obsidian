@@ -1,0 +1,31 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "2C-B",
+  "Lab Comments": "Not Available",
+  "Warning": "''It has been reagent tested and tried. The high was a little more speedy than \n2C-B I've had in the past and lasted about 2x the expected time. All of the  standard reagents one would use on 2C-B were good, but Folin turned pink possible indicating PMMA. The reagent testing sub-reddit said Folin is not meant for 2C-B so that result should be ignored. But, the feeling from it and the Folin still have me curious.''",
+  "Image": "14763.jpg",
+  "table data left": {
+    "ID": "14763",
+    "Name": "2C-B",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "TOM77",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Green",
+    "Liebermann": "Yellow-Brown",
+    "Froehde": "Yellow-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "2C-B\n\n\n: 1 \n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2022",
+    "Pub. Date": "Nov 25, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Portland, ORUnited States",
+    "Color": "Tan",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100232"
+  }
+}

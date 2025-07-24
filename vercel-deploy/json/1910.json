@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Alleged to be manufactured in Karachi, Pakistan. Purchased via internet in April 2010, sold as pentazocine. Suspected to be low purity, or possibly some other substance.",
+  "Image": "1910.jpg",
+  "table data left": {
+    "ID": "1910",
+    "Name": "Pentazocine",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Pentazocine\n\n\n: 1 \n\nPentazocine aka Fortral, Talwin, Talacen"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 30, 2010",
+    "Pub. Date": "Jun 03, 2010",
+    "Src Location": "Charlotte, NC",
+    "Submitter Loc": "Charlotte, NCUnited States",
+    "Color": "White / Off White",
+    "Size": "103 mg, 6.50 mm x 2.40 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20100500058"
+  }
+}

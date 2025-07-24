@@ -1,0 +1,28 @@
+{
+  "Sold as": "N-Ethylhexedrone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nSaferParty's alert indicates material was sourced online ('Darknet').",
+  "Image": "8469.jpg",
+  "table data left": {
+    "ID": "8469",
+    "Name": "Crystalline Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CEC\n\n\n  \n\n4-CEC aka 4-Chloroethcathinone",
+      "N-Ethylhexedrone\n\n\n  \n\nN-Ethylhexedrone aka Hexen; Hex-en"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 12, 2020",
+    "Pub. Date": "May 21, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White / Clear",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202005-20"
+  }
+}

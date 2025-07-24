@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Market</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@300;400;500;600;700&family=Chakra+Petch:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="home-styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🖼️</text></svg>">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/GLTFLoader.js"></script>
+</head>
+<body>
+    <!-- Background -->
+    <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #0a0a0a; z-index: -1;"></div>
+    
+    <!-- 3D Scene Container -->
+    <div id="scene-container" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 0;"></div>
+
+    <!-- Navigation Header -->
+    <nav class="main-header">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h1 style="font-family: 'Chakra Petch', monospace; font-weight: 600; letter-spacing: 2px; text-transform: uppercase;">Black Market</h1>
+            </div>
+            <div class="nav-links">
+                <a href="home.html" class="nav-link active">Home</a>
+                <a href="index.html" class="nav-link">Marketplace</a>
+            </div>
+        </div>
+    </nav>
+
+    <script>
+        // Three.js Scene Setup
+        let scene, camera, renderer, model;
+        let mouseX = 0, mouseY = 0;
+        let skybox, pmremGenerator;
+        
+        function init() {
+            // Scene
+            scene = new THREE.Scene();
+            
+            // Camera
+            camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+            camera.position.z = 5;
+            
+            // Renderer
+            renderer = new THREE.WebGLRenderer({ alpha: true, antialias: true });
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            renderer.setClearColor(0x0a0a0a, 0);
+            document.getElementById('scene-container').appendChild(renderer.domElement);
+            
+            // Lighting
+            const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
+            scene.add(ambientLight);
+            
+            const directionalLight = new THREE.DirectionalLight(0xffffff, 1);
+            directionalLight.position.set(5, 5, 5);
+            scene.add(directionalLight);
+            
+            // Create skybox from HDRI
+            pmremGenerator = new THREE.PMREMGenerator(renderer);
+            pmremGenerator.compileEquirectangularShader();
+            
+            const textureLoader = new THREE.TextureLoader();
+            textureLoader.load('assets/hdri.jpeg', function(texture) {
+                texture.mapping = THREE.EquirectangularReflectionMapping;
+                
+                // Create skybox
+                const envMap = pmremGenerator.fromEquirectangular(texture).texture;
+                scene.environment = envMap;
+                scene.background = texture;
+                
+                // Create a large sphere for the skybox
+                const skyGeometry = new THREE.SphereGeometry(500, 60, 40);
+                const skyMaterial = new THREE.MeshBasicMaterial({
+                    map: texture,
+                    side: THREE.BackSide
+                });
+                skybox = new THREE.Mesh(skyGeometry, skyMaterial);
+                scene.add(skybox);
+            });
+            
+            // Load 3D Model
+            const gltfLoader = new THREE.GLTFLoader();
+            gltfLoader.load('assets/models/33.glb', function(gltf) {
+                console.log('GLB loaded successfully');
+                model = gltf.scene;
+                console.log('Model children:', model.children.length);
+                // Center the model
+                const box = new THREE.Box3().setFromObject(model);
+                const center = box.getCenter(new THREE.Vector3());
+                // Move the model to center it at origin
+                model.position.set(-center.x, -center.y, -center.z);
+                // Scale the model to a larger size
+                const size = box.getSize(new THREE.Vector3());
+                const maxDim = Math.max(size.x, size.y, size.z);
+                const scale = 4 / maxDim;
+                model.scale.setScalar(scale);
+                scene.add(model);
+                console.log('Model added to scene');
+                // Debug: Log model dimensions and position
+                const finalBox = new THREE.Box3().setFromObject(model);
+                const finalSize = finalBox.getSize(new THREE.Vector3());
+                const finalCenter = finalBox.getCenter(new THREE.Vector3());
+                console.log('Final model size:', finalSize);
+                console.log('Final model center:', finalCenter);
+                console.log('Final model position:', model.position);
+                console.log('Final model scale:', model.scale);
+                console.log('Camera position:', camera.position);
+            }, function(progress) {
+                if (progress.total) {
+                    console.log('Loading GLB:', (progress.loaded / progress.total * 100) + '%');
+                }
+            }, function(error) {
+                console.error('Error loading GLB:', error);
+            });
+            
+            // Mouse tracking
+            document.addEventListener('mousemove', onMouseMove);
+            
+            // Handle window resize
+            window.addEventListener('resize', onWindowResize);
+            
+            animate();
+        }
+        
+        function onMouseMove(event) {
+            mouseX = (event.clientX / window.innerWidth) * 2 - 1;
+            mouseY = (event.clientY / window.innerHeight) * 2 - 1;
+        }
+        
+        function animate() {
+            requestAnimationFrame(animate);
+            
+            // Rotate the skybox
+            if (skybox) {
+                skybox.rotation.y += 0.001;
+            }
+            
+            if (model) {
+                // Make the model look at the cursor
+                const targetX = mouseX * 2;
+                const targetY = mouseY * 2;
+                
+                // Smooth rotation towards cursor
+                model.rotation.y += (targetX - model.rotation.y) * 0.05;
+                model.rotation.x += (targetY - model.rotation.x) * 0.05;
+                
+                // Limit the rotation to 45 degrees (0.785 radians)
+                model.rotation.x = Math.max(-0.2, Math.min(0.785, model.rotation.x));
+                model.rotation.y = Math.max(-0.785, Math.min(0.785, model.rotation.y));
+            }
+            
+            renderer.render(scene, camera);
+        }
+        
+        function onWindowResize() {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        }
+        
+        // Initialize the 3D scene
+        init();
+    </script>
+</body>
+</html> 

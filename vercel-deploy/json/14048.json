@@ -1,0 +1,38 @@
+{
+  "Sold as": "Unknown",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14048.jpg",
+  "table data left": {
+    "ID": "14048",
+    "Name": "Off-White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Mc011",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Dark Red",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Grey",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Green to Blue",
+    "Froehde": "Gray / Grey",
+    "Liebermann": "Magenta - Reddish Purple",
+    "Morris": "Very Slight Change",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_11": [
+      "2-methyl AP-237\n\n\n: 4",
+      "4-Fluoromethylphenidate\n\n\n: 2 \n\n4-Fluoromethylphenidate aka 4F-MPH; (�)-threo-4-Fluoromethylphenidate (hydrochloride)",
+      "O-Desmethyltramadol\n\n\n: 2 \n\nO-Desmethyltramadol aka O-DMT",
+      "Bromazolam\n\n\n: 1",
+      "Alprazolam\n\n\n: trace \n\nAlprazolam aka Xanax"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 07, 2022",
+    "Pub. Date": "Sep 07, 2022",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "New York, NYUnited States",
+    "Color": "Off White / White",
+    "Size": "500 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22080105"
+  }
+}

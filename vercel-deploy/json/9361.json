@@ -1,0 +1,29 @@
+{
+  "Sold as": "4F-MPH",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution because it contains drugs other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in Nov 2020.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "9361",
+    "Name": "4-F-MPH",
+    "Other Names": "4F-MPH",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-Fluoromethylphenidate\n\n\n  \n\n4-Fluoromethylphenidate aka 4F-MPH; (�)-threo-4-Fluoromethylphenidate (hydrochloride)",
+      "Unidentified",
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 01, 2020",
+    "Pub. Date": "Nov 13, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202011-2"
+  }
+}

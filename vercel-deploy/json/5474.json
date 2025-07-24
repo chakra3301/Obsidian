@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this powder contains a drug other than ketamine; 3-MeO-PCP is active at much lower doses than ketamine.",
+  "Image": "5474.jpg",
+  "table data left": {
+    "ID": "5474",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-MeO-PCP\n\n\n: 1 \n\n3-MeO-PCP aka 3-Methoxy-PCP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 23, 2017",
+    "Pub. Date": "Jun 30, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201706-19"
+  }
+}

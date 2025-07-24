@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The DEA Mid-Atlantic Laboratory (Largo, Maryland) recently received 18.5 speckled tan tablets, suspected Ecstasy. The exhibits were seized in Washington, D.C. by agents from the DEA Washington Division Office, pursuant to a search warrant (no further details). The tablets had no logo, but were beveled. Analysis of the tablets (total net mass 5.1 grams) by color testing (cobalt thiocyanate and Marquis), GC, and GC/MS, however, indicated not MDMA but rather a mixture of heroin (approximately 2 percent), cocaine (approximately 1 percent), and caffeine (not quantitated). This is the first known submission of these type tablets to the Mid-Atlantic Laboratory.",
+  "Image": "1735.jpg",
+  "table data left": {
+    "ID": "1735",
+    "Name": "Circle",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Caffeine",
+      "Cocaine\n\n\n  \n\nCocaine aka Crack, Coca",
+      "Heroin\n\n\n  \n\nHeroin aka Diacetylmorphine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2007",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Washington, DC",
+    "Submitter Loc": "Washington, DCUnited States",
+    "Color": "Brown / Off White",
+    "Size": "276 mg",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "070900_02"
+  }
+}

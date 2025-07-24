@@ -1,0 +1,32 @@
+{
+  "Sold as": "1V-LSD",
+  "Expected to be": "1V-LSD",
+  "Lab Comments": "Not Available",
+  "Warning": "Nov 22 2022: 1V-LSD confirmed by comparison to reference standard.\n\nOct 25 2022: 1V-LSD identified by library match. Spectrum provided, lower left. A certified reference standard is available for 1V-LSD.",
+  "Image": "14570.jpg",
+  "table data left": {
+    "ID": "14570",
+    "Name": "1V-LSD",
+    "Other Names": "Blotter",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "1V420",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "Ehrlich": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "1V-LSD\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 25, 2022",
+    "Pub. Date": "Oct 25, 2022",
+    "Src Location": "Online, \nNetherlands",
+    "Submitter Loc": "Tucson, AZUnited States",
+    "Color": "Multicolor / Purple",
+    "Size": "25 mg, 9.25 mm x 9.15 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100056"
+  }
+}

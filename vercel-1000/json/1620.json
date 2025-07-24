@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Analyses were conducted by GC/FID, GC/MS, and HPLC.",
+  "Warning": "Microgram: The DEA South Central Laboratory (Dallas, Texas) recently received a submission containing 5008 tablets of four different types, suspected Ecstasy (see Photos 4 - 7; note that the scale varies between the photos, and also that the colors are not true). The tablets were seized in Houston by agents from the FBI Houston Field Division (no further details). [...] 1003 light blue tablets with a duck [sic] logo (total net mass 262 grams).[...] MDMA (92.4 milligrams/tablet), ketamine (not quantitated), and caffeine (not quantitated).[...] Analyses were conducted by GC/FID, GC/MS, and HPLC.",
+  "Image": "1620.jpg",
+  "table data left": {
+    "ID": "1620",
+    "Name": "Swan",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 92.40 mg\n\nMDMA aka Ecstasy, E, X",
+      "Caffeine",
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2007",
+    "Pub. Date": "Apr 09, 2008",
+    "Src Location": "Houston, TX",
+    "Submitter Loc": "Houston, TXUnited States",
+    "Color": "Blue",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "20070804"
+  }
+}

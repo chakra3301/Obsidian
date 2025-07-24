@@ -1,0 +1,35 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Cocaine mixed with RCs",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as cocaine online. \n\nEcstasyData: This appears to be low quality, impure cocaine.",
+  "Image": "3734.jpg",
+  "table data left": {
+    "ID": "3734",
+    "Name": "Cocaine",
+    "Other Names": "EMS48",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple Gray",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Cocaine\n\n\n: 4 \n\nCocaine aka Crack, Coca",
+      "Tetramisole / Levamisole\n\n\n: 4",
+      "Phenacetin\n\n\n: 2 \n\nPhenacetin aka N-(4-Ethoxyphenyl)acetamide",
+      "Lidocaine\n\n\n: 1",
+      "Tropacocaine\n\n\n: 1 \n\nTropacocaine aka tropacaine, benzoylpseudotropine, pseudotropine benzoate",
+      "Caffeine\n\n\n: trace"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 05, 2015",
+    "Pub. Date": "Aug 05, 2015",
+    "Src Location": "Online, \nEurope",
+    "Submitter Loc": "Online, --Europe",
+    "Color": "White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150700148"
+  }
+}

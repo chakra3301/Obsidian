@@ -1,0 +1,38 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Heroin",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14139.jpg",
+  "table data left": {
+    "ID": "14139",
+    "Name": "Brown Chunk",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0563",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 30",
+      "Niacinamide\n\n\n: 18 \n\nNiacinamide aka Nicotinamide; Niacin",
+      "4-Fluorofentanyl\n\n\n: 10 \n\n4-Fluorofentanyl aka Para-fluorofentanyl",
+      "4-ANPP\n\n\n: 6 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Heroin\n\n\n: 4 \n\nHeroin aka Diacetylmorphine",
+      "Despropionyl-4-fluorofentanyl\n\n\n: 2 \n\nDespropionyl-4-fluorofentanyl aka Despropionyl para-fluorofentanyl; para-Fluoro 4-ANPP",
+      "Phenethyl 4-ANPP\n\n\n: 2",
+      "4F-Phenethyl-4-ANPP\n\n\n: 1 \n\n4F-Phenethyl-4-ANPP aka Phenethyl-4F-4-ANPP; Phenethyl-4-Fluoro-4-ANPP; para-fluoro Phenethyl 4-ANPP",
+      "6-Acetylmorphine\n\n\n: 1 \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM",
+      "Lidocaine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 12, 2022",
+    "Pub. Date": "Sep 12, 2022",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Lynn, MAUnited States",
+    "Color": "Brown / Tan",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22080189"
+  }
+}

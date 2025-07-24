@@ -1,0 +1,30 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Unknown",
+  "Lab Comments": "Not Available",
+  "Warning": "I was wondering if you had any thoughts on why the ketamine I submitted (ID: 3353) only showed a slight change in color with the mandelin test.  My results using the mandelin reagent were similar, and that is why I submitted the sample for further testing.  However, this particular batch of ketamine seems to be more potent than others that show a better reaction with the mandelin reagent.  Any ideas?",
+  "Image": "3353.jpg",
+  "table data left": {
+    "ID": "3353",
+    "Name": "Ketamine Capsule",
+    "Other Names": "11209",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Very Slight Change",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Ketamine\n\n\n: 1 \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 30, 2014",
+    "Pub. Date": "Nov 30, 2014",
+    "Src Location": "Brooklyn, NY",
+    "Submitter Loc": "Brooklyn, NYUnited States",
+    "Color": "White",
+    "Size": "144 mg, 19.80 mm x 6.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20141100088"
+  }
+}

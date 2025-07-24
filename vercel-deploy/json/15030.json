@@ -1,0 +1,42 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15030.jpg",
+  "table data left": {
+    "ID": "15030",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0729",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown",
+    "Liebermann": "Orange to Brown",
+    "Froehde": "Light Purple",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "Caffeine\n\n\n: 50",
+      "Fentanyl\n\n\n: 30",
+      "Xylazine\n\n\n: 15 \n\nXylazine aka Rompun",
+      "Acetaminophen\n\n\n: 10",
+      "Heroin\n\n\n: 10 \n\nHeroin aka Diacetylmorphine",
+      "Ibuprofen\n\n\n: 10 \n\nIbuprofen aka Advil; 2-[4-(2-methylpropyl)phenyl]propanoic acid",
+      "4-ANPP\n\n\n: 5 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "6-Acetylmorphine\n\n\n: 5 \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM",
+      "Lidocaine\n\n\n: 5",
+      "Procaine\n\n\n: 5 \n\nProcaine aka Novocaine",
+      "Phenacetin\n\n\n: 1 \n\nPhenacetin aka N-(4-Ethoxyphenyl)acetamide"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 16, 2022",
+    "Pub. Date": "Dec 16, 2022",
+    "Src Location": "Pittsfield, MA",
+    "Submitter Loc": "Pittsfield, MAUnited States",
+    "Color": "White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110159"
+  }
+}

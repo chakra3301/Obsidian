@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it. BBreak line on back.",
+  "Image": "9565.jpg",
+  "table data left": {
+    "ID": "9565",
+    "Name": "Punisher",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 191.60 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 22, 2020",
+    "Pub. Date": "Dec 28, 2020",
+    "Src Location": "Lucerne, \nSwitzerland",
+    "Submitter Loc": "Lucerne, --Switzerland",
+    "Color": "Blue",
+    "Size": "344.6 mg, 12.20 mm x 9.00 mm x 4.5 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DILU",
+    "Lab's ID": "SP:202012-36"
+  }
+}

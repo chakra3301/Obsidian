@@ -1,0 +1,28 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains drugs other than the one it was represented as.",
+  "Image": "16364.jpg",
+  "table data left": {
+    "ID": "16364",
+    "Name": "Pink Powder",
+    "Other Names": "Tusi",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset",
+      "MDMA\n\n\n  \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 14, 2023",
+    "Pub. Date": "Jun 15, 2023",
+    "Src Location": "Geneva, \nSwitzerland",
+    "Submitter Loc": "Geneva, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202306-36"
+  }
+}

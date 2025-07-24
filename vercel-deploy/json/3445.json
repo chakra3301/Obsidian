@@ -1,0 +1,31 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Unknown",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as Ecstasy with name 'Purple X'. Unknown what to expect it to be.\n\nEcstasyData: This looks like it might be a commercially produced tablet, though we do not recognize the logo.",
+  "Image": "3445.jpg",
+  "table data left": {
+    "ID": "3445",
+    "Name": "Purple X",
+    "Other Names": "Unknown BEX14",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Very Slight Change",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Acetaminophen\n\n\n: 10",
+      "Oxycodone\n\n\n: 1 \n\nOxycodone aka Oxycontin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 09, 2015",
+    "Pub. Date": "Feb 09, 2015",
+    "Src Location": "San Francisco, CA",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "Purple",
+    "Size": "415 mg, 15.50 mm x 7.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150100131"
+  }
+}

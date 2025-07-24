@@ -1,0 +1,31 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Ketamine",
+  "Lab Comments": "Not Available",
+  "Warning": "'Everyone had a different experience'.",
+  "Image": "15278.jpg",
+  "table data left": {
+    "ID": "15278",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022C066",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "Benzodiazepine Test Strip": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Ketamine\n\n\n: 13 \n\nKetamine aka Ketalar, Ketaset",
+      "Ketamine Precursor A\n\n\n: 1 \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 04, 2023",
+    "Pub. Date": "Jan 04, 2023",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Off White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22120157"
+  }
+}

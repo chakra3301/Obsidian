@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Mecke was Yellow to Orange.",
+  "Image": "2626.jpg",
+  "table data left": {
+    "ID": "2626",
+    "Name": "Capsule 6830",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Methylone\n\n\n: 1 \n\nMethylone aka Explosion; bk-MDMA, Ease, M1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 01, 2012",
+    "Pub. Date": "Oct 01, 2012",
+    "Src Location": "Santa Rosa, CA",
+    "Submitter Loc": "Santa Rosa, CAUnited States",
+    "Color": "White / Off White",
+    "Size": "15.60 x 6.30",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120900122"
+  }
+}

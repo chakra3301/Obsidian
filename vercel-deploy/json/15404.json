@@ -1,0 +1,31 @@
+{
+  "Sold as": "Clonazolam",
+  "Expected to be": "Analogue",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15404.jpg",
+  "table data left": {
+    "ID": "15404",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "clam5",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Pink",
+    "Liebermann": "Red",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Lidocaine\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2023",
+    "Pub. Date": "Feb 01, 2023",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "----, FLUnited States",
+    "Color": "White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010074"
+  }
+}

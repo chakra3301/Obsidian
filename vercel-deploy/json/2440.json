@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "2440.jpg",
+  "table data left": {
+    "ID": "2440",
+    "Name": "Dicod301",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Black / Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Codeine\n\n\n: 3 \n\nCodeine aka Tylenol 3 and Panadeine",
+      "Cyclizine\n\n\n: 2 \n\nCyclizine aka Marezine",
+      "Diphenhydramine\n\n\n: 1 \n\nDiphenhydramine aka Benadryl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 27, 2012",
+    "Pub. Date": "Feb 27, 2012",
+    "Src Location": "Cape Town, \nSouth Africa",
+    "Submitter Loc": "Cape Town, --South Africa",
+    "Color": "Green / Yellow",
+    "Size": "516 mg, 21.90 mm x 7.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120200120"
+  }
+}

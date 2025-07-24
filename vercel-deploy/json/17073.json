@@ -1,0 +1,31 @@
+{
+  "Sold as": "Mescaline, synthetic",
+  "Expected to be": "Mescaline",
+  "Lab Comments": "Not Available",
+  "Warning": "Our lab's analytical process doesn't determine the salt anion.\n\nSee 'Can you test for purity?' on the DrugsData FAQ for questions about purity testing.",
+  "Image": "17073.jpg",
+  "table data left": {
+    "ID": "17073",
+    "Name": "Mescaline",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "94700",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red",
+    "Liebermann": "Yellow-Brown",
+    "Froehde": "Yellow-Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Mescaline\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 18, 2023",
+    "Pub. Date": "Aug 18, 2023",
+    "Src Location": "Oakland, CA",
+    "Submitter Loc": "Oakland, CAUnited States",
+    "Color": "Yellow",
+    "Size": "200 mg, 20.95 mm x 7.27 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080004"
+  }
+}

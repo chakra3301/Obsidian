@@ -1,0 +1,29 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Heroin not quantified\n330 mg/g Acetaminophen (Paracetamol)\n115 mg/g Caffeine",
+  "Warning": "Analyzed by Drogenarbeit Z6 / MDA Basecamp (Innsbruck, Austria) in Jan 2021.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "9752",
+    "Name": "Heroin",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Acetaminophen",
+      "Caffeine",
+      "Heroin\n\n\n  \n\nHeroin aka Diacetylmorphine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 29, 2021",
+    "Pub. Date": "Jan 29, 2021",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:202101-2"
+  }
+}

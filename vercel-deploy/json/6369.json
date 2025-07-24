@@ -1,0 +1,31 @@
+{
+  "Sold as": "3F-a-PVP",
+  "Expected to be": "3F-a-PVP",
+  "Lab Comments": "Not Available",
+  "Warning": "We are working on whether we can differentiate between 4-F-alpha-PVP and 3-F-alpha-PVP. It might not be possible. This sample is Fluoro-alpha-PVP, but the position on the benzene ring of the fluorine atom may not be knowable using GC/MS.",
+  "Image": "6369.jpg",
+  "table data left": {
+    "ID": "6369",
+    "Name": "3F-a-PVP",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PGS02",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "3- or 4-fluoro-alpha-PVP\n\n\n: 1 \n\n3- or 4-fluoro-alpha-PVP aka 3- or 4-fluoro-α-PVP, 3- or 4-α-Pyrrolidinopentiophenone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 22, 2018",
+    "Pub. Date": "Jun 25, 2018",
+    "Src Location": "Vienna, VA",
+    "Submitter Loc": "Vienna, VAUnited States",
+    "Color": "Tan / Brown",
+    "Size": "-",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180600104"
+  }
+}

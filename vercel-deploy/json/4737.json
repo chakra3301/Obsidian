@@ -1,0 +1,30 @@
+{
+  "Sold as": "2-Bromo-4'-methylpropiophenone (precursor)",
+  "Expected to be": "2-Bromo-4'-methylpropiophenone",
+  "Lab Comments": "Not Available",
+  "Warning": "Sample sent from Cambodia. 2-Bromo-4'-methylpropiophenone is a precursor for cathinone derivatives.",
+  "Image": "4737.jpg",
+  "table data left": {
+    "ID": "4737",
+    "Name": "2-Bromo-4-methylpropiophenone",
+    "Other Names": "2b4mp",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "2-Bromo-4'-methylpropiophenone\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 07, 2016",
+    "Pub. Date": "Sep 07, 2016",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "----, OnlineChina",
+    "Color": "White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160800154"
+  }
+}

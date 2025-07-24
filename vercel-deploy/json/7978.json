@@ -1,0 +1,29 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "94.4% Diphenidine, 3.1% Pentedrone, and 1.7% 4-Methylaminoantipyrine.",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains drugs other than the one it was represented as.",
+  "Image": "7978.jpg",
+  "table data left": {
+    "ID": "7978",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Diphenidine\n\n\n: 94 \n\nDiphenidine aka 1,2-DEP, DPD, DND",
+      "Pentedrone\n\n\n: 3 \n\nPentedrone aka 2-(methylamino)-1-phenylpentan-1-one, α-methylamino-valerophenone",
+      "4-Methylaminoantipyrine\n\n\n: 2 \n\n4-Methylaminoantipyrine aka MAA, Metamizole Impurity C"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 05, 2019",
+    "Pub. Date": "Nov 19, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:201911-19"
+  }
+}

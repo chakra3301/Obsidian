@@ -1,0 +1,28 @@
+{
+  "Sold as": "Mephedrone (4-MMC)",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "942 mg/g Amphetamine + 17 mg/g Caffeine",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in late August/early September 2022.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "14191",
+    "Name": "Pulver",
+    "Other Names": "Powder",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Amphetamine\n\n\n  \n\nAmphetamine aka dextro- and/or levo-amphetamine",
+      "Caffeine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2022",
+    "Pub. Date": "Sep 21, 2022",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202209-35"
+  }
+}

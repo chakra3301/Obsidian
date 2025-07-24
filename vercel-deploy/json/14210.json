@@ -1,0 +1,36 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "''Fucked up, high, sleepy''",
+  "Image": "14210.jpg",
+  "table data left": {
+    "ID": "14210",
+    "Name": "Tan Residue",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0908",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Cocaine\n\n\n: 18 \n\nCocaine aka Crack, Coca",
+      "Fentanyl\n\n\n: 7",
+      "Xylazine\n\n\n: 5 \n\nXylazine aka Rompun",
+      "Benzoylecgonine\n\n\n: 2",
+      "Caffeine\n\n\n: 2",
+      "Phenethyl 4-ANPP\n\n\n: 2",
+      "4-ANPP\n\n\n: 1 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Methylecgonidine\n\n\n: 1 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 21, 2022",
+    "Pub. Date": "Sep 21, 2022",
+    "Src Location": "Lawrence, MA",
+    "Submitter Loc": "Lawrence, MAUnited States",
+    "Color": "Tan",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22080239"
+  }
+}

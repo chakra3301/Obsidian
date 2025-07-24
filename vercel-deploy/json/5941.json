@@ -1,0 +1,31 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Crumbled partial tablet, sold as 'MDMA - 270 mg Gold Bowser' (per submitter's note), submitted from Chicago, Illinois. \n\nThe claim of MDMA content for this sample can not be confirmed -- EcstasyData doesn't provide quantitative results for samples it analyzes (inactive diluents/cuts can not be reported even if they might be present). Our lab is constrained by rules set by the US DEA.",
+  "Image": "5941.jpg",
+  "table data left": {
+    "ID": "5941",
+    "Name": "Gold Bowser",
+    "Other Names": "Golden Bowser",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "BOWSR",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple - Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Blue-Purple",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue-Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 31, 2018",
+    "Pub. Date": "Feb 01, 2018",
+    "Src Location": "Online",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Brown",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180100076"
+  }
+}

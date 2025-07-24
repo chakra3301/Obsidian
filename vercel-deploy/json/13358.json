@@ -1,0 +1,33 @@
+{
+  "Sold as": "Psilocybe cubensis mushroom extract",
+  "Expected to be": "Psilocybe cubensis mushroom extract",
+  "Lab Comments": "Not Available",
+  "Warning": "July 6 2022: The substance identification for this sample has been changed from psilocin (4-HO-DMT) to psilocybin. \n\nThe lab's initial procedure caused the phosphoryl group on the psilocybin to break off prior to reaching the Mass Spectrometer.  We are developing our methods for analyzing mushrooms and psilocybin-containing products. \n\nAfter additional work, the lab was able to use a published method to confirm that the original substance in the sample was psilocybin, with only tiny amounts or no psilocin present.\n\nOur current method does not allow us to say with certainty that traces of psilocin are not analytical artifacts. It is possible some psilocin was present in the sample prior to analysis.\n\nErgosterol is a substance that is present in the cell membranes of fungi.",
+  "Image": "13358.jpg",
+  "table data left": {
+    "ID": "13358",
+    "Name": "Psilocybe extract",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PsyL0",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "Ehrlich": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "Psilocybin\n\n\n: 1",
+      "Ergosterol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 05, 2022",
+    "Pub. Date": "Jul 05, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Aurora, COUnited States",
+    "Color": "Brown",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22060044"
+  }
+}

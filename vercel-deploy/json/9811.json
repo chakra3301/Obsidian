@@ -1,0 +1,36 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "previously designated as unidentified (in Feb 2021) and since identified:\n\n9811-Unidentified-#1:  1 part\n\n9811-Unidentified-#2: 15 parts",
+  "Image": "9811.jpg",
+  "table data left": {
+    "ID": "9811",
+    "Name": "Heroin/Fen",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020B282",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "4F-Phenethyl-4-ANPP\n\n\n: 300 \n\n4F-Phenethyl-4-ANPP aka Phenethyl-4F-4-ANPP; Phenethyl-4-Fluoro-4-ANPP; para-fluoro Phenethyl 4-ANPP",
+      "4-Fluorofentanyl\n\n\n: 120 \n\n4-Fluorofentanyl aka Para-fluorofentanyl",
+      "Caffeine\n\n\n: 80",
+      "Heroin\n\n\n: 60 \n\nHeroin aka Diacetylmorphine",
+      "Fentanyl\n\n\n: 40",
+      "4-Fluoro-N-(2-phenylethyl)aniline\n\n\n: 20 \n\n4-Fluoro-N-(2-phenylethyl)aniline aka Benzeneethanamine, N-(4-fluorophenyl)",
+      "Phenethyl 4-ANPP\n\n\n: 20",
+      "4-ANPP\n\n\n: 1 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Despropionyl-4-fluorofentanyl\n\n\n: 1 \n\nDespropionyl-4-fluorofentanyl aka Despropionyl para-fluorofentanyl; para-Fluoro 4-ANPP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 18, 2021",
+    "Pub. Date": "Feb 18, 2021",
+    "Src Location": "Pittsfield, MA",
+    "Submitter Loc": "Pittsfield, MAUnited States",
+    "Color": "Brown / Tan",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "21020003"
+  }
+}

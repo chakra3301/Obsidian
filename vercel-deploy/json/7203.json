@@ -1,0 +1,27 @@
+{
+  "Sold as": "Valium / Diazepam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nBlue tablet, no markings.",
+  "Image": "7203.jpg",
+  "table data left": {
+    "ID": "7203",
+    "Name": "Valium",
+    "Other Names": "Diazepam",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Etizolam\n\n\n  \n\nEtizolam aka Etilaam, Etizest, Etizola, Sedekopan, Pasaden or Depas"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 22, 2019",
+    "Pub. Date": "Mar 22, 2019",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Blue",
+    "Size": "71.4 mg",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201903-5"
+  }
+}

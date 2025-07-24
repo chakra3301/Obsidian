@@ -1,0 +1,37 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Xylazine",
+  "Lab Comments": "Not Available",
+  "Warning": "'long withdrawl (24H), Burns, Narcan not as effective'.",
+  "Image": "15027.jpg",
+  "table data left": {
+    "ID": "15027",
+    "Name": "Gray Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0730",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 50",
+      "Xylazine\n\n\n: 40 \n\nXylazine aka Rompun",
+      "Quinine\n\n\n: 30",
+      "4-ANPP\n\n\n: 20 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Caffeine\n\n\n: 20",
+      "Procaine\n\n\n: 10 \n\nProcaine aka Novocaine",
+      "Ethyl-4-ANPP\n\n\n: 2 \n\nEthyl-4-ANPP aka Ethyl despropionyl Fentanyl",
+      "Heroin\n\n\n: 2 \n\nHeroin aka Diacetylmorphine",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 16, 2022",
+    "Pub. Date": "Dec 16, 2022",
+    "Src Location": "North Adams, MA",
+    "Submitter Loc": "North Adams, MAUnited States",
+    "Color": "Gray",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110156"
+  }
+}

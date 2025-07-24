@@ -1,0 +1,31 @@
+{
+  "Sold as": "MDA",
+  "Expected to be": "MDA",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14587.jpg",
+  "table data left": {
+    "ID": "14587",
+    "Name": "MDA",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "7m6zQ",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Liebermann": "Red Brown",
+    "Froehde": "Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDA\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 27, 2022",
+    "Pub. Date": "Oct 27, 2022",
+    "Src Location": "Broomfield, CO",
+    "Submitter Loc": "Broomfield, COUnited States",
+    "Color": "White",
+    "Size": "100 mg, 11.22 mm x 4.73 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100084"
+  }
+}

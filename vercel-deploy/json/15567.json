@@ -1,0 +1,27 @@
+{
+  "Sold as": "4-MMC / Mephedrone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issue an information alert because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in early February 2023.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "15567",
+    "Name": "Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Dimethylpentylone\n\n\n  \n\nDimethylpentylone aka N,N-Dimethylpentylone; Dipentylone; MDDMVP; bk-DMBDP; βk-DMBDP; 1-(1,3-benzodioxol-5-yl)-2-(dimethylamino)-1-pentanone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2023",
+    "Pub. Date": "Feb 28, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202302-15"
+  }
+}

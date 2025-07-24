@@ -1,0 +1,36 @@
+{
+  "Sold as": "Crack",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Confusingly, the sample was submitted with the name 'fentanyl' also specifying it was sold as 'crack'. The sample is a broken glass tube pipe.",
+  "Image": "15600.jpg",
+  "table data left": {
+    "ID": "15600",
+    "Name": "Crack Pipe",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2906",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Cocaine\n\n\n: 60 \n\nCocaine aka Crack, Coca",
+      "Methylecgonidine\n\n\n: 20 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME",
+      "Benzoic acid\n\n\n: 15",
+      "Hydroxyzine\n\n\n: 15 \n\nHydroxyzine aka Atarax, Vistaril",
+      "Benzoylecgonine\n\n\n: 5",
+      "Caffeine\n\n\n: 5",
+      "Methyl benzoate\n\n\n: 1",
+      "Tropacocaine\n\n\n: 1 \n\nTropacocaine aka tropacaine, benzoylpseudotropine, pseudotropine benzoate"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 06, 2023",
+    "Pub. Date": "Mar 06, 2023",
+    "Src Location": "Lawrence, MA",
+    "Submitter Loc": "Lawrence, MAUnited States",
+    "Color": "Black",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23020033"
+  }
+}

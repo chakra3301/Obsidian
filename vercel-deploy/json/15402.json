@@ -1,0 +1,31 @@
+{
+  "Sold as": "6-APB",
+  "Expected to be": "6-APB",
+  "Lab Comments": "Not Available",
+  "Warning": "Feb 14 2023: 4-APB and 7-APB are now ruled out in this sample. \n\nFeb 1 2023: This sample's data is being reviewed and the lab is doing one final analysis for isomer differentiation. Check back later for updated result (isomer may be specified).",
+  "Image": "15402.jpg",
+  "table data left": {
+    "ID": "15402",
+    "Name": "6-APB",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ZEN2311",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Purple",
+    "Liebermann": "Green to Purple",
+    "Froehde": "Blue-Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "2-, 5- or 6-APB\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2023",
+    "Pub. Date": "Feb 01, 2023",
+    "Src Location": "Online, \nNetherlands",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Tan",
+    "Size": "50 mg, 24.83 mm x 8.19 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010072"
+  }
+}

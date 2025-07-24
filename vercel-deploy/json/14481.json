@@ -1,0 +1,29 @@
+{
+  "Sold as": "Cannabis",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Contains 7.83% CBD",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains cannabinoids other than the ones naturally occurring in Cannabis.",
+  "Image": "14481.jpg",
+  "table data left": {
+    "ID": "14481",
+    "Name": "Adulterated Cannabis",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "5F-MDMB-PICA\n\n\n  \n\n5F-MDMB-PICA aka MDMB-2201; 5F-MDMB-2201",
+      "CBD\n\n\n  \n\nCBD aka Cannabidiol",
+      "MDMB-4en-PINACA\n\n\n  \n\nMDMB-4en-PINACA aka 5-CL-ADB-A; 5CI-ADB-A"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 14, 2022",
+    "Pub. Date": "Oct 19, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202210-18"
+  }
+}

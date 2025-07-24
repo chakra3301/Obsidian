@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because the tablet contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.",
+  "Image": "5406.jpg",
+  "table data left": {
+    "ID": "5406",
+    "Name": "Paul Frank",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 25.50 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 24, 2017",
+    "Pub. Date": "Jun 07, 2017",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Yellow",
+    "Size": "254.5 mg, 10.10 mm x 10.10 mm x 3.5 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201706-4"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA, maybe some MDA",
+  "Lab Comments": "Not Available",
+  "Warning": "Jun 20 2023: Certified reference standard for Isosafrole was run. The unidentified trace peak (very trace) is *not* Isosafrole.  Isosofrole ruled out.\n\nMay 22 2023: Trace amount of Isosafrole identified by library match.",
+  "Image": "16202.jpg",
+  "table data left": {
+    "ID": "16202",
+    "Name": "Clear Crystal",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Thera",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Liebermann": "Red Brown",
+    "Froehde": "Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDA\n\n\n: 100",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 23, 2023",
+    "Pub. Date": "May 23, 2023",
+    "Src Location": "Salt Lake City, UT",
+    "Submitter Loc": "Salt Lake City, UTUnited States",
+    "Color": "Clear",
+    "Size": "200 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23040214"
+  }
+}

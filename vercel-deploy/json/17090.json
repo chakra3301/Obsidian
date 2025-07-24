@@ -1,0 +1,31 @@
+{
+  "Sold as": "4-HO-MiPT",
+  "Expected to be": "4-HO-MiPT",
+  "Lab Comments": "Not Available",
+  "Warning": "When submitting samples to DrugsData, please use a separate submission form for each sample.",
+  "Image": "17090.jpg",
+  "table data left": {
+    "ID": "17090",
+    "Name": "Tan Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "DIDCM",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red Brown",
+    "Liebermann": "Brown Yellow Black",
+    "Froehde": "Blue Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-HO-MPT\n\n\n: 1 \n\n4-HO-MPT aka 4-hydroxy-N,N-methyl-propyltryptamine; 4-hydroxy MPT; Meprocin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 22, 2023",
+    "Pub. Date": "Aug 22, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "Brooklyn, NYUnited States",
+    "Color": "Tan / Off White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080024"
+  }
+}

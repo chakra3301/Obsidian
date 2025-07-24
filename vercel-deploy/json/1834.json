@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Analyzed in May, June and July 2009.",
+  "Image": "1834.jpg",
+  "table data left": {
+    "ID": "1834",
+    "Name": "girl",
+    "Other Names": "Virgin, Kappa, Jungfrau, Split, Scored",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "mCPP\n\n\n: 45.20 mg\n\nmCPP aka 1-(m-chlorophenyl)piperazine; m-Chlorophenylpiperazine, m-CPP; 1-(3-chlorophenyl)piperazine",
+      "Domperidone \n\n\n: 10.70 mg\n\nDomperidone  aka (Motilium, Motillium, Motinorm and Costi)"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 01, 2009",
+    "Pub. Date": "Oct 27, 2009",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Orange / Speckled",
+    "Size": "323.8 mg, 9.10 mm x 3.90 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": "sw0909_001"
+  }
+}

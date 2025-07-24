@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "The lab is not able to differentiate between 5-APB and 6-APB. This result could be either substance.",
+  "Warning": "Not Available",
+  "Image": "2699.jpg",
+  "table data left": {
+    "ID": "2699",
+    "Name": "Capsule",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "6-APB\n\n\n: 1 \n\n6-APB aka Benzo Fury; 6-(2-aminopropyl)benzofuran; 1-(1-benzofuran-6-yl)propan-2-amine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 17, 2012",
+    "Pub. Date": "Dec 17, 2012",
+    "Src Location": "Tampa, FL",
+    "Submitter Loc": "Tampa, FLUnited States",
+    "Color": "Unknown",
+    "Size": "233 mg, 26.00 mm x 8.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20121200043"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Purchased online.",
+  "Image": "2775.jpg",
+  "table data left": {
+    "ID": "2775",
+    "Name": "Orange Tablet",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange to Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Tramadol\n\n\n: 1 \n\nTramadol aka Ultram"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 23, 2013",
+    "Pub. Date": "Apr 23, 2013",
+    "Src Location": "CA",
+    "Submitter Loc": "----, CAUnited States",
+    "Color": "Orange",
+    "Size": "192 mg, 8.10 mm x 4.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130400099"
+  }
+}

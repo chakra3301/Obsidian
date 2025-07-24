@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "FTIR lactose, phenacetin\nHPMS",
+  "Image": "9118.jpg",
+  "table data left": {
+    "ID": "9118",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020B147",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Cocaine\n\n\n: 23 \n\nCocaine aka Crack, Coca",
+      "Phenacetin\n\n\n: 21 \n\nPhenacetin aka N-(4-Ethoxyphenyl)acetamide",
+      "Fentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 09, 2020",
+    "Pub. Date": "Oct 09, 2020",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Lynn, MAUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20090042"
+  }
+}

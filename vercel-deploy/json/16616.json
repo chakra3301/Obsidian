@@ -1,0 +1,31 @@
+{
+  "Sold as": "Dope",
+  "Expected to be": "Fentanyl, other opioid",
+  "Lab Comments": "Sample analyzed twice. Material is insoluble in solvent and water, possible inorganic compound. pH= ~7-8",
+  "Warning": "Not Available",
+  "Image": "16616.jpg",
+  "table data left": {
+    "ID": "16616",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "J1MI3",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Fizzing",
+    "Liebermann": "Fizzing",
+    "Froehde": "Fizzing",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "None Detected\n\n\n: 1 \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 27, 2023",
+    "Pub. Date": "Jun 27, 2023",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060074"
+  }
+}

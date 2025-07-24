@@ -1,0 +1,31 @@
+{
+  "Sold as": "4-FA Phospate",
+  "Expected to be": "4-Fluoroamphetamine",
+  "Lab Comments": "Analyzed multiple times, table salt and sugars ruled out, pH of sample is neutral.",
+  "Warning": "Not Available",
+  "Image": "8359.jpg",
+  "table data left": {
+    "ID": "8359",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "KORG4",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Very Slight Change (red)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "None Detected\n\n\n: 1 \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 09, 2020",
+    "Pub. Date": "Mar 09, 2020",
+    "Src Location": "Online",
+    "Submitter Loc": "----, --United States",
+    "Color": "White",
+    "Size": "124 mg, 7.60 mm x 21.30 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "2020-02-0096"
+  }
+}

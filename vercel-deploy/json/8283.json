@@ -1,0 +1,31 @@
+{
+  "Sold as": "Endocodil IR 40mg",
+  "Expected to be": "Oxycodone or non-fentanyl RC opioid",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "8283.jpg",
+  "table data left": {
+    "ID": "8283",
+    "Name": "Endocodil IR",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "moxy4",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green with Orange",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Orange",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Oxycodone\n\n\n: 1 \n\nOxycodone aka Oxycontin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 21, 2020",
+    "Pub. Date": "Feb 21, 2020",
+    "Src Location": "",
+    "Submitter Loc": "Nashville, TNUnited States",
+    "Color": "Orange",
+    "Size": "210 mg, 8.20 mm x 8.20 mm x 4.46 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "2020-02-0033"
+  }
+}

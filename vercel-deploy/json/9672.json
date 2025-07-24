@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "big GC/MS response for fentanyl",
+  "Warning": "Not Available",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "9672",
+    "Name": "Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020B325",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Fentanyl\n\n\n: 10",
+      "4-ANPP\n\n\n: 5 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 21, 2021",
+    "Pub. Date": "Jan 21, 2021",
+    "Src Location": "Lawrence, MA",
+    "Submitter Loc": "Lawrence, MAUnited States",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "21010049"
+  }
+}

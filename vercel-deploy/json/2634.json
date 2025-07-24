@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Contents not fully weighed, because it was stuck on the inside of baggie. Around 400mg.",
+  "Image": "2634.jpg",
+  "table data left": {
+    "ID": "2634",
+    "Name": "Unknown",
+    "Other Names": "DRGS7",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "UR-144\n\n\n: 1 \n\nUR-144 aka 1-Pentylindol-3-yl)-(2,2,3,3-tetramethylcyclopropyl)methanone; TMCP-018; KM-X1; UR-144; MN-001; YX-17; cannabinoid"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 15, 2012",
+    "Pub. Date": "Oct 15, 2012",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Off White / White",
+    "Size": "400 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20121000065"
+  }
+}

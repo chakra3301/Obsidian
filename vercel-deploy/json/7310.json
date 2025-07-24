@@ -1,0 +1,27 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty, the European drug checking group that analyzed this sample, issued an alert because it contains a drug other than the one it was represented as.\n\nThe alert includes the following: '2-BR-4,5-DMPEA is unlikely to be psychoactive (or in high doses, from ~400 mg), but it can not be ruled out that toxic side effects could manifest even at significantly lower doses. More information about risks, side effects and long-term consequences are unknown.'",
+  "Image": "7310.jpg",
+  "table data left": {
+    "ID": "7310",
+    "Name": "Mickey Mouse",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2-Br-4,5-DMPEA\n\n\n  \n\n2-Br-4,5-DMPEA aka 2-Bromo-4,5-Dimethoxyphenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 23, 2019",
+    "Pub. Date": "Apr 29, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Purple",
+    "Size": "99.9 mg, 6.10 mm x 6.10 mm x 3.6 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201904-20"
+  }
+}

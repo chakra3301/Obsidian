@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "2584.jpg",
+  "table data left": {
+    "ID": "2584",
+    "Name": "Garfield",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "5-MeO-DiPT\n\n\n: 4 \n\n5-MeO-DiPT aka Foxy Methoxy",
+      "MDPV\n\n\n: 4 \n\nMDPV aka 3,4-methylenedioxypyrovalerone",
+      "TFMPP\n\n\n: 2",
+      "BZP\n\n\n: 1 \n\nBZP aka Benzoyl Peroxide"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 20, 2012",
+    "Pub. Date": "Aug 20, 2012",
+    "Src Location": "Des Moines, IA",
+    "Submitter Loc": "Des Moines, IAUnited States",
+    "Color": "Unknown",
+    "Size": "4.2 mg, 9.30 mm x 8.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120800066"
+  }
+}

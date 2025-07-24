@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a high dose caution for it, stipulating that 1.3 milligrams MDMA per kilogram of body weight in women and 1.5 milligrams of MDMA per kilogram of body weight in men should not be exceeded.\n\nOriginal alert published by SaferParty (Switzerland) in July 2024.",
+  "Image": "20231.jpg",
+  "table data left": {
+    "ID": "20231",
+    "Name": "Super Mario",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 169.20 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 02, 2024",
+    "Pub. Date": "Aug 24, 2024",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Gray",
+    "Size": "525 mg, 12.00 mm x 10.80 mm x 6.1 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202407-41"
+  }
+}

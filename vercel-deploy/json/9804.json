@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "9804.jpg",
+  "table data left": {
+    "ID": "9804",
+    "Name": "Filz",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "1cP-LSD"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 01, 2021",
+    "Pub. Date": "Feb 17, 2021",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Black / Multicolor",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:202102-2"
+  }
+}

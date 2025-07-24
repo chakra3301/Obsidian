@@ -1,0 +1,28 @@
+{
+  "Sold as": "Dope",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Small sample size; solvent rinse of baggie prior to analysis. Only DPH detected.",
+  "Warning": "Not Available",
+  "Image": "9046.jpg",
+  "table data left": {
+    "ID": "9046",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020C053",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Diphenhydramine\n\n\n: 1 \n\nDiphenhydramine aka Benadryl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 10, 2020",
+    "Pub. Date": "Sep 10, 2020",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Suburban, ILUnited States",
+    "Color": "Gray / Brown",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20080156"
+  }
+}

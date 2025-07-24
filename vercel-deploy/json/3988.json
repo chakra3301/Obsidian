@@ -1,0 +1,35 @@
+{
+  "Sold as": "MMB-CHMINACA (MDMB-CHMICA)",
+  "Expected to be": "MDMB-CHMICA",
+  "Lab Comments": "Not Available",
+  "Warning": "Lab notes: We do not currently have a fingerprint spectrum for  MMB-CHMINACA so we can't verify that is present or not. This sample produced quite a few unknown peaks. One of the unknown compounds produced two GC peaks. One of the GC/MS charts is for isocyanatocyclohexane.\n\nThis sample also contains the compound isocyanatocyclohexane, which may be toxic. Since this is from 'China', not sure if this compound is in the sample, or if it's a possible analytical degradation product from 'MMB-CHMINACA'.",
+  "Image": "3988.jpg",
+  "table data left": {
+    "ID": "3988",
+    "Name": "MMB-CHMINACA",
+    "Other Names": "MDMB-CHMICA",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "B2630",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown-Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Green to Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Unidentified\n\n\n: 20",
+      "Unidentified\n\n\n: 4",
+      "Unidentified\n\n\n: 2",
+      "Isocyanatocyclohexane\n\n\n: 1",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2015",
+    "Pub. Date": "Nov 25, 2015",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "White",
+    "Size": "259 mg, 25.20 mm x 9.40 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20151100049"
+  }
+}

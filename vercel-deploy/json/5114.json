@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued a 'high dose' caution because this tablet contains more than 120mg of MDMA. Imprint of bird is same on reverse.",
+  "Image": "5114.jpg",
+  "table data left": {
+    "ID": "5114",
+    "Name": "V�gel",
+    "Other Names": "Bird",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 135 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 07, 2017",
+    "Pub. Date": "Feb 14, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "10.00 x - x 4.8",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201702-20"
+  }
+}

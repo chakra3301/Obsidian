@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a caution  because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in June 2023.",
+  "Image": "17306.jpg",
+  "table data left": {
+    "ID": "17306",
+    "Name": "Rolex",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-FEA\n\n\n  \n\n3-FEA aka 3-Fluoroethamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 25, 2023",
+    "Pub. Date": "Oct 05, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Blue",
+    "Size": "751 mg, 12.30 mm x 12.30 mm x 5.5 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202309-24"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Mifepristone",
+  "Expected to be": "Mifepristone",
+  "Lab Comments": "No psychoactives detected. Pharmaceuticals that aren't psychoactive fall outside the scope of DrugsData's testing protocols and mission.",
+  "Warning": "Not Available",
+  "Image": "16807.jpg",
+  "table data left": {
+    "ID": "16807",
+    "Name": "Yellow Tablet",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "MIFE1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Magenta - Reddish Purple",
+    "Liebermann": "Brown",
+    "Froehde": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2023",
+    "Pub. Date": "Aug 01, 2023",
+    "Src Location": "Online, \nIndia",
+    "Submitter Loc": "----, --United States",
+    "Color": "Yellow",
+    "Size": "10.31 x 5.00",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23070072"
+  }
+}

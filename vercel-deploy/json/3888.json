@@ -1,0 +1,30 @@
+{
+  "Sold as": "Molly",
+  "Expected to be": "Molly",
+  "Lab Comments": "Not Available",
+  "Warning": "If the submitter sees this note, please contact us, we'd like to verify that this sample was sold as 'molly' as was written on the paperwork with the sample.",
+  "Image": "3888.jpg",
+  "table data left": {
+    "ID": "3888",
+    "Name": "Molly",
+    "Other Names": "CAR12",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Etizolam\n\n\n: 1 \n\nEtizolam aka Etilaam, Etizest, Etizola, Sedekopan, Pasaden or Depas"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 14, 2015",
+    "Pub. Date": "Oct 14, 2015",
+    "Src Location": "Santa Rosa, CA",
+    "Submitter Loc": "Santa Rosa, CAUnited States",
+    "Color": "Off White",
+    "Size": "160 mg, 21.10 mm x 7.50 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20151000024"
+  }
+}

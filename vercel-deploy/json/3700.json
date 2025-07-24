@@ -1,0 +1,31 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Ecstasy",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as Ecstasy with name Autobot, expected to be Ecstasy.",
+  "Image": "3700.jpg",
+  "table data left": {
+    "ID": "3700",
+    "Name": "Transformer Autobot",
+    "Other Names": "APA81",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange to Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Very Slight Change",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Caffeine\n\n\n: 17",
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 20, 2015",
+    "Pub. Date": "Jul 20, 2015",
+    "Src Location": "Atlanta, GA",
+    "Submitter Loc": "Atlanta, GAUnited States",
+    "Color": "Green",
+    "Size": "218 mg, 9.40 mm x 8.30 mm x 3.1 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150700046"
+  }
+}

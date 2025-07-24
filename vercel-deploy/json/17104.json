@@ -1,0 +1,31 @@
+{
+  "Sold as": "Lyrica",
+  "Expected to be": "Lyrica",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "17104.jpg",
+  "table data left": {
+    "ID": "17104",
+    "Name": "Red / White Capsule",
+    "Other Names": "Pfizer / PGN 300",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "N3H6V",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Pregabalin\n\n\n: 1 \n\nPregabalin aka Lyrica"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 23, 2023",
+    "Pub. Date": "Aug 23, 2023",
+    "Src Location": "Online, \nCanada",
+    "Submitter Loc": "El Paso, TXUnited States",
+    "Color": "White",
+    "Size": "400 mg, 21.09 mm x 7.40 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080040"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Coloration can be caused by a number of different impurities, which have different color intensities. The color cannot, therefore, be used to reliably tell anything about purity. \n\n100% pure MDMA hydrochloride is a white powder or translucent crystal, but impurities are often deliberately left in because it's easy for a street dealer to find a white powder to substitute another white powder with. In contrast, one of the most common impurities is brown with a distinctive odor.\n\nBecause of rules set by the US DEA, EcstasyData is not allowed to provide quantitative results for samples it analyzes, which includes reporting on inactive  impurities, cuts, or fillers even if they might be present.",
+  "Image": "6586.jpg",
+  "table data left": {
+    "ID": "6586",
+    "Name": "Molly",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "91518",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple - Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Purple-Blue-Black",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple - Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 07, 2018",
+    "Pub. Date": "Sep 08, 2018",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Brown",
+    "Size": "172 mg, 7.40 mm x 20.90 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20180800171"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Sold as": "Clonazepam",
+  "Expected to be": "Clonazepam",
+  "Lab Comments": "trace amount of alprazolam detected",
+  "Warning": "Not Available",
+  "Image": "16302.jpg",
+  "table data left": {
+    "ID": "16302",
+    "Name": "Off-White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "KPN23",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Bromazolam\n\n\n: 100",
+      "Alprazolam\n\n\n: 1 \n\nAlprazolam aka Xanax"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 30, 2023",
+    "Pub. Date": "May 30, 2023",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "Philadelphia, PAUnited States",
+    "Color": "Off White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050090"
+  }
+}

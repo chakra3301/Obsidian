@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1852.jpg",
+  "table data left": {
+    "ID": "1852",
+    "Name": "Mitsubishi",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "mCPP\n\n\n: 48 mg\n\nmCPP aka 1-(m-chlorophenyl)piperazine; m-Chlorophenylpiperazine, m-CPP; 1-(3-chlorophenyl)piperazine",
+      "Amphetamine\n\n\n: 8 mg\n\nAmphetamine aka dextro- and/or levo-amphetamine",
+      "Domperidone \n\n\n: 1 mg\n\nDomperidone  aka (Motilium, Motillium, Motinorm and Costi)"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 01, 2009",
+    "Pub. Date": "Dec 01, 2009",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "322.7 mg, 9.40 mm x 4.30 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": "sw0909_016"
+  }
+}

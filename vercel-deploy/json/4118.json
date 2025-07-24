@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "This tablet was published as an extreme high dose ecstasy tablet because it contains over 200mg of MDMA.",
+  "Image": "4118.jpg",
+  "table data left": {
+    "ID": "4118",
+    "Name": "The North Face",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 204.90 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 29, 2016",
+    "Pub. Date": "Jan 29, 2016",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "394.5 mg, 12.20 mm x 6.10 mm x 5.4 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201601-5"
+  }
+}

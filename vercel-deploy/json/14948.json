@@ -1,0 +1,39 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Big GC/MS response",
+  "Warning": "Not Available",
+  "Image": "14948.jpg",
+  "table data left": {
+    "ID": "14948",
+    "Name": "Brown Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B1143",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Acetaminophen\n\n\n: 60",
+      "4-Fluorofentanyl\n\n\n: 30 \n\n4-Fluorofentanyl aka Para-fluorofentanyl",
+      "Fentanyl\n\n\n: 25",
+      "Lidocaine\n\n\n: 25",
+      "4-ANPP\n\n\n: 10 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Despropionyl-4-fluorofentanyl\n\n\n: 10 \n\nDespropionyl-4-fluorofentanyl aka Despropionyl para-fluorofentanyl; para-Fluoro 4-ANPP",
+      "Phenethyl 4-ANPP\n\n\n: 10",
+      "Xylazine\n\n\n: 10 \n\nXylazine aka Rompun",
+      "4F-Phenethyl-4-ANPP\n\n\n: 5 \n\n4F-Phenethyl-4-ANPP aka Phenethyl-4F-4-ANPP; Phenethyl-4-Fluoro-4-ANPP; para-fluoro Phenethyl 4-ANPP",
+      "Caffeine\n\n\n: 3",
+      "Ethyl-4-ANPP\n\n\n: 1 \n\nEthyl-4-ANPP aka Ethyl despropionyl Fentanyl"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 05, 2022",
+    "Pub. Date": "Dec 05, 2022",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "Brown",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110089"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Sold as": "Dope",
+  "Expected to be": "Dope",
+  "Lab Comments": "Not Available",
+  "Warning": "''Good, feels great, the high lasts, good shelf life''",
+  "Image": "14805.jpg",
+  "table data left": {
+    "ID": "14805",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022C058",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "Benzodiazepine Test Strip": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Diphenhydramine\n\n\n: 56 \n\nDiphenhydramine aka Benadryl",
+      "Fentanyl\n\n\n: 24",
+      "6-Acetylmorphine\n\n\n: 6 \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM",
+      "4-ANPP\n\n\n: 4 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Cocaine\n\n\n: 4 \n\nCocaine aka Crack, Coca",
+      "Heroin\n\n\n: 4 \n\nHeroin aka Diacetylmorphine",
+      "4-Fluorofentanyl\n\n\n: 2 \n\n4-Fluorofentanyl aka Para-fluorofentanyl",
+      "Quinine\n\n\n: 2",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2022",
+    "Pub. Date": "Nov 25, 2022",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "Tan / Multicolor",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100201"
+  }
+}

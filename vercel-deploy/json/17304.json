@@ -1,0 +1,28 @@
+{
+  "Sold as": "Cannabis",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued an information alert because it contains a cannabinoid other than the ones naturally occurring in Cannabis.\n\nAnalyzed by checkit! (Vienna, Austria) in June 2023.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "17304",
+    "Name": "Adulterated Cannabis",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMB-4en-PINACA\n\n\n  \n\nMDMB-4en-PINACA aka 5-CL-ADB-A; 5CI-ADB-A",
+      "Natural Cannabinoids\n\n\n  \n\nNatural Cannabinoids aka THC; CBD; CBGA; other cannabinoids"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 25, 2023",
+    "Pub. Date": "Oct 05, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Green / Brown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202309-22"
+  }
+}

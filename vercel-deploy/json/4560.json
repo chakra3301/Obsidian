@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "4560.jpg",
+  "table data left": {
+    "ID": "4560",
+    "Name": "Mandala",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 73.9 mg",
+      "MDMA\n\n\n: 67.1 mg\n\nMDMA aka Ecstasy, E, X",
+      "Amphetamine\n\n\n: 5.9 mg\n\nAmphetamine aka dextro- and/or levo-amphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 25, 2016",
+    "Pub. Date": "Jul 26, 2016",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Blue",
+    "Size": "460.6 mg, 10.10 mm x 5.10 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201607-17"
+  }
+}

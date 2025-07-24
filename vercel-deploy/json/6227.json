@@ -1,0 +1,28 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued an information alert because this tablet contains a drug other than the one it was sold as (though 4 mg caffeine is not a significant dose of caffeine).",
+  "Image": "6227.jpg",
+  "table data left": {
+    "ID": "6227",
+    "Name": "Mickey Mouse",
+    "Other Names": "2C-B",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 10 mg\n\n2C-B aka Bees",
+      "Caffeine\n\n\n: 4 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 15, 2018",
+    "Pub. Date": "May 15, 2018",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "6.10 x 6.10 x 3.1",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201805-16"
+  }
+}

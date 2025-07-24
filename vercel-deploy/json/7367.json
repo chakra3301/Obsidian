@@ -1,0 +1,27 @@
+{
+  "Sold as": "3-CMC",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Analyzed by checkit! (Vienna, Austria) between May 1 and May 16, 2019.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "7367",
+    "Name": "3-CMC",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-CMC\n\n\n  \n\n3-CMC aka 3-chloromethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 16, 2019",
+    "Pub. Date": "May 21, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201905-13"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a caution for it, stipulating that 1.3 milligrams MDMA per kilogram of body weight in women and 1.5 milligrams of MDMA per kilogram of body weight in men should not be exceeded. \n\nAnalyzed by checkit! (Vienna, Austria) in Dec 2020.",
+  "Image": "9558.jpg",
+  "table data left": {
+    "ID": "9558",
+    "Name": "Beastmode",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 136 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 21, 2020",
+    "Pub. Date": "Dec 22, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Purple",
+    "Size": "10.30 x 4.20",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202012-7"
+  }
+}

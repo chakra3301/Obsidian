@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an 'extreme high dose' warning because this hit of blotter contains more than 150 micrograms of LSD. (The average dose of LSD in samples tested in 2015 by SaferParty was 72.2 ug.)",
+  "Image": "5255.jpg",
+  "table data left": {
+    "ID": "5255",
+    "Name": "Om",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 394 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 11, 2017",
+    "Pub. Date": "Mar 28, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White / Blue",
+    "Size": "8.50 x 8.10",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201703-22"
+  }
+}

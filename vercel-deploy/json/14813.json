@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Big GC/MS responses.",
+  "Warning": "Not Available",
+  "Image": "14813.jpg",
+  "table data left": {
+    "ID": "14813",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B1364",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Fentanyl\n\n\n: 60",
+      "4-ANPP\n\n\n: 20 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Phenethyl 4-ANPP\n\n\n: 20",
+      "4-ANBocP\n\n\n: 1 \n\n4-ANBocP aka 4-Anilino-1-Boc-piperidine; N-Boc-4-AP; 1-Boc-4-(Phenylamino)piperidine; tert-Butyl 4-(phenylamino)piperidine-1-carboxylate"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 29, 2022",
+    "Pub. Date": "Nov 29, 2022",
+    "Src Location": "New Bedford, MA",
+    "Submitter Loc": "New Bedford, MAUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100209"
+  }
+}

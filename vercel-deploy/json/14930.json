@@ -1,0 +1,27 @@
+{
+  "Sold as": "THC-Liquid",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "14930.jpg",
+  "table data left": {
+    "ID": "14930",
+    "Name": "E-Liquid",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "ADB-BINACA\n\n\n  \n\nADB-BINACA aka  N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-benzyl-1H-indazole-3-carboxamide"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 24, 2022",
+    "Pub. Date": "Dec 05, 2022",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Brown",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202212-17"
+  }
+}

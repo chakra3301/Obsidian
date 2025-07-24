@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Matches are library lookup matches only. DDL does not have an internal standard for any of these substances.",
+  "Warning": "Submitter: Sold as 4-Methoxy-PCP. This is probably the dirtiest Research Chemical we've every seen, in 15 years of watching analyses of gray market and black market chemicals. Holy Cow.",
+  "Image": "2339.jpg",
+  "table data left": {
+    "ID": "2339",
+    "Name": "4-Methoxy-PCP",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "1-Piperidinocyclohexanecarbonitrile\n\n\n: 18 \n\n1-Piperidinocyclohexanecarbonitrile aka PCC",
+      "1-Cyclohexylpiperidine\n\n\n: 14 \n\n1-Cyclohexylpiperidine aka 1-Piperidino-1-Cyclohexane",
+      "4-MeO-PCP\n\n\n: 1 \n\n4-MeO-PCP aka 4-Methoxy-PCP",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 27, 2011",
+    "Pub. Date": "Nov 27, 2011",
+    "Src Location": "Baltimore, MD",
+    "Submitter Loc": "Baltimore, MDUnited States",
+    "Color": "White / Off White",
+    "Size": "9 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20111100094"
+  }
+}

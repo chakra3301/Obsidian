@@ -1,0 +1,27 @@
+{
+  "Sold as": "N-Ethylpentedrone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "6759.jpg",
+  "table data left": {
+    "ID": "6759",
+    "Name": "N-Ethylpentedrone",
+    "Other Names": "NEP",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Chloroethcathinone\n\n\n: 1 \n\nChloroethcathinone aka CEC; 2-, 3-, or 4-CEC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 09, 2018",
+    "Pub. Date": "Nov 10, 2018",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201811-7"
+  }
+}

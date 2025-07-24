@@ -1,0 +1,30 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Substance sold as alprazolam. Very little info submitted with sample.",
+  "Image": "3722.jpg",
+  "table data left": {
+    "ID": "3722",
+    "Name": "Black Bag 2",
+    "Other Names": "Sold as Alprazolam",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Magenta - Reddish Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow-Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "XLR-11\n\n\n: 1 \n\nXLR-11 aka cannabinoid; TMCP-2201; MN-001F; 5F-UR144; UR-144F; XLR11; (1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 26, 2015",
+    "Pub. Date": "Jul 26, 2015",
+    "Src Location": "Vancouver, BC, \nCanada",
+    "Submitter Loc": "Vancouver, BCCanada",
+    "Color": "Black",
+    "Size": "800 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150700100"
+  }
+}

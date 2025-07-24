@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "This sample has what appears to be two very similar chemicals in it. The lab tentatively identified the substances as either 4-AcO-MIPT and 5-MEO-MIPT. The lab was unable to positively identify the two chemicals, but one of our experts determined that they are, in fact, 4-HO-MIPT and 5-Methoxy-MIPT.",
+  "Image": "3002.jpg",
+  "table data left": {
+    "ID": "3002",
+    "Name": "Brown Mushroom",
+    "Other Names": "42926",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "5-MeO-MiPT\n\n\n: 3 \n\n5-MeO-MiPT aka 5-Methoxy-N,N-Methylisopropyltryptamine",
+      "4-HO-MIPT\n\n\n: 1 \n\n4-HO-MIPT aka 4-hydroxy-N,N-methyl-isopropyltryptamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 27, 2013",
+    "Pub. Date": "Nov 27, 2013",
+    "Src Location": "Portland, OR",
+    "Submitter Loc": "Portland, ORUnited States",
+    "Color": "Brown",
+    "Size": "168 mg, 7.00 mm x 3.50 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20131100097"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit of blotter issued a 'high dose' caution because it contains more than 150 mcg of LSD.",
+  "Image": "6606.jpg",
+  "table data left": {
+    "ID": "6606",
+    "Name": "LSD",
+    "Other Names": "Blotter; Filze",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 190.80 ug\n\nLSD aka Acid, Doses",
+      "Iso-LSD\n\n\n: 105.00 ug"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 18, 2018",
+    "Pub. Date": "Sep 21, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue / Tan",
+    "Size": "7.30 x 6.80",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201809-13"
+  }
+}

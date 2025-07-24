@@ -1,0 +1,27 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15171.jpg",
+  "table data left": {
+    "ID": "15171",
+    "Name": "Super Mario",
+    "Other Names": "Pilz; Mushroom",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 10.50 \n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 21, 2022",
+    "Pub. Date": "Dec 28, 2022",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "180.1 mg, 8.20 mm x 8.20 mm x 4 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202212-49"
+  }
+}

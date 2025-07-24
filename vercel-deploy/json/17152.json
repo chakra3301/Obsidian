@@ -1,0 +1,32 @@
+{
+  "Sold as": "Muscimol",
+  "Expected to be": "Unknown Substance",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "17152.jpg",
+  "table data left": {
+    "ID": "17152",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "MUSCI",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Fizzing with Slight Color Change",
+    "Froehde": "Fizzing with Slight Color Change",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Unidentified\n\n\n: 2",
+      "Pregabalin\n\n\n: 1 \n\nPregabalin aka Lyrica"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 31, 2023",
+    "Pub. Date": "Aug 31, 2023",
+    "Src Location": "Las Vegas, NV",
+    "Submitter Loc": "Philadelphia, PAUnited States",
+    "Color": "White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080088"
+  }
+}

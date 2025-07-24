@@ -1,0 +1,36 @@
+{
+  "Sold as": "Unknown",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Regarding Metamizole / 4-Methylaminoantipyrine:\nOur current GC/MS protocol can not distinguish between metamizole and 4-methylaminoantipyrine. 4-Methylaminoantipyrine is a metabolite of metamizole. Their mass spectra are indistinguishable because metamizole undergoes thermal decomposition to 4-methylaminoantipyrine and aminopyrine during GC-MS analysis. The chemical identified in this sample could be either Metamizole or 4-Methylaminoantipyrine, or a combination of the two.",
+  "Warning": "Cross-contamination Risk: Samples 9131 through 9140 were submitted together, it's possible that a chemical detected in this sample was a result of cross-contamination of samples prior to arriving at the lab.",
+  "Image": "9136.jpg",
+  "table data left": {
+    "ID": "9136",
+    "Name": "M30",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Dice1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Purple",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Grey - Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 50",
+      "Fentanyl\n\n\n: 10",
+      "Metamizole OR 4-Methylaminoantipyrine\n\n\n: 6 \n\nMetamizole OR 4-Methylaminoantipyrine aka Noramidopyrine; Dipyrone; Novalgin",
+      "4-ANPP\n\n\n: 1 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Aminophenazone\n\n\n: trace \n\nAminophenazone aka Aminopyrine, amidopyrine, Pyramidon",
+      "Ketamine\n\n\n: trace \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 24, 2020",
+    "Pub. Date": "Sep 24, 2020",
+    "Src Location": "Online",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "Blue / Green",
+    "Size": "111 mg, 6.90 mm x 3.40 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20090061"
+  }
+}

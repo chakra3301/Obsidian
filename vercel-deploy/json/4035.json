@@ -1,0 +1,31 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Alprazolam",
+  "Lab Comments": "Not Available",
+  "Warning": "Very concerningly a very similar or identical tablet press, with the same bar shape, lines, and 'GG 249' marking was submitted during the same two week period to the lab with completely different contents. This tablet contains only alprazolam, the other 4047 contains only AB-FUBINACA.",
+  "Image": "4035.jpg",
+  "table data left": {
+    "ID": "4035",
+    "Name": "GG 249 White Bar",
+    "Other Names": "GG249",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "QbXyN",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Fizzing with Slight Color Change",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Fizzing with Slight Color Change",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Fizzing",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Alprazolam\n\n\n: 1 \n\nAlprazolam aka Xanax"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 14, 2015",
+    "Pub. Date": "Dec 14, 2015",
+    "Src Location": "Houston, TX",
+    "Submitter Loc": "Houston, TXUnited States",
+    "Color": "White",
+    "Size": "640 mg, 16.00 mm x 4.90 mm x 4.83 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20151100137"
+  }
+}

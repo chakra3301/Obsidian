@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Library Match Only for the 1-(3-4-methyleendioxy)phenylpropane-2-ol. Probably leftover precursor from synthesis of the MDMA.",
+  "Warning": "Not Available",
+  "Image": "2824.jpg",
+  "table data left": {
+    "ID": "2824",
+    "Name": "Moon Rocks",
+    "Other Names": "M5000",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Turquoise",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue to Dark Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "MDMA\n\n\n: 7 \n\nMDMA aka Ecstasy, E, X",
+      "MDP2P\n\n\n: 1 \n\nMDP2P aka 3,4-Methylenedioxyphenylpropan-2-one; piperonyl methyl ketone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 22, 2013",
+    "Pub. Date": "Jul 22, 2013",
+    "Src Location": "Las Vegas, NV",
+    "Submitter Loc": "Las Vegas, NVUnited States",
+    "Color": "Brown / Off White",
+    "Size": "166 mg, 19.00 mm x 6.60 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130700055"
+  }
+}

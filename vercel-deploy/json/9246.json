@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit of LSD blotter issued a 'high dose' caution because it contains more than 150 ug of LSD.",
+  "Image": "9246.jpg",
+  "table data left": {
+    "ID": "9246",
+    "Name": "Azteken Figur",
+    "Other Names": "Aztec; Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 162.70 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 09, 2020",
+    "Pub. Date": "Oct 19, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "7.10 x 6.80",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202010-16"
+  }
+}

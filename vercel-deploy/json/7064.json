@@ -1,0 +1,33 @@
+{
+  "Sold as": "Oxycodone 325-10mg",
+  "Expected to be": "Oxycodone 325-10mg",
+  "Lab Comments": "Ratio of Acetaminophen is >20 parts relative to 5 parts Oxycodone and 1 part Hydrocodone. Sample tested twice.",
+  "Warning": "Not Available",
+  "Image": "7064.jpg",
+  "table data left": {
+    "ID": "7064",
+    "Name": "U17 Oxycodone",
+    "Other Names": "Oxycodone-Acetaminophen 10-325",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "RPG08",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Grey (to clear)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 20",
+      "Oxycodone\n\n\n: 5 \n\nOxycodone aka Oxycontin",
+      "Hydrocodone\n\n\n: 1 \n\nHydrocodone aka Vicodin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 16, 2019",
+    "Pub. Date": "Feb 17, 2019",
+    "Src Location": "Orange, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20190200008"
+  }
+}

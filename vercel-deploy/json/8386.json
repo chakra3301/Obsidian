@@ -1,0 +1,33 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Ketamine",
+  "Lab Comments": "Sep 29 2020: Ketamine Precursor A -- chemical name 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol -- was initially identified by library match, and has been confirmed with reference standard.",
+  "Warning": "Name of substance given as 'L-Ketamine'.\n\nRegarding isomers -- The lab's techniques cannot distinguish stereoisomers composition of any substance we analyze.",
+  "Image": "8386.jpg",
+  "table data left": {
+    "ID": "8386",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "1BF42",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Very Slight Change (purple)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Fizzing",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Orange",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Ketamine\n\n\n: 4 \n\nKetamine aka Ketalar, Ketaset",
+      "Methylsulfonylmethane\n\n\n: 1 \n\nMethylsulfonylmethane aka MSM, dimethylsulfone, DMSO2, leftover solvent, cutting agent",
+      "Ketamine Precursor A\n\n\n: trace \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 22, 2020",
+    "Pub. Date": "Mar 22, 2020",
+    "Src Location": "New York, NY",
+    "Submitter Loc": "New York, NYUnited States",
+    "Color": "White",
+    "Size": "102 mg, 5.80 mm x 15.70 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20030021"
+  }
+}

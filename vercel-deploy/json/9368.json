@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\n[Can anyone identify this blotter art design?]",
+  "Image": "9368.jpg",
+  "table data left": {
+    "ID": "9368",
+    "Name": "Filz",
+    "Other Names": "Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "DOC\n\n\n: 1.90 mg\n\nDOC aka 2,5-dimethoxy-4-chloroamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 11, 2020",
+    "Pub. Date": "Nov 13, 2020",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "7.10 x 6.70",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:202011-13"
+  }
+}

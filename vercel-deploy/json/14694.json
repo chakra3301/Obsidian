@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "quantities given are for the partial tablet",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) in October 2022.",
+  "Image": "14694.jpg",
+  "table data left": {
+    "ID": "14694",
+    "Name": "La Casa de Papel",
+    "Other Names": "Dali Mask; Money Heist",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 51 mg\n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 11 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 01, 2022",
+    "Pub. Date": "Nov 22, 2022",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink / Off White",
+    "Size": "356 mg, 11.00 mm x 4.20 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202211-24"
+  }
+}

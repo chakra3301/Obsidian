@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "In March 2023, checkit! (Vienna, Austria) analyzed nine Pharaoh tablets that contained 5-MeO-MiPT. They ranged in total-tablet weight from 545mg to 576mg.",
+  "Image": "16370.jpg",
+  "table data left": {
+    "ID": "16370",
+    "Name": "Pharaoh",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "5-MeO-MiPT\n\n\n  \n\n5-MeO-MiPT aka 5-Methoxy-N,N-Methylisopropyltryptamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 01, 2023",
+    "Pub. Date": "Jun 15, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Yellow",
+    "Size": "576 mg, 11.50 mm x - mm x 5.5 mm",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202306-001"
+  }
+}

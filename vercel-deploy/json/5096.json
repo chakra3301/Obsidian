@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issued an information alert because this tablet contains a drug other than MDMA. Two sides of tablet bear different imprints (flower and turtle).",
+  "Image": "5096.jpg",
+  "table data left": {
+    "ID": "5096",
+    "Name": "Blume/Schildkr�te",
+    "Other Names": "Flower/Turtle",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-Chloromethamphetamine\n\n\n: 1 \n\n4-Chloromethamphetamine aka 4-CMA"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 07, 2017",
+    "Pub. Date": "Feb 14, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Yellow",
+    "Size": "8.60 x 4.50",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201702-2"
+  }
+}

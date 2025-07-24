@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "The DEA South Central Laboratory (Dallas, Texas) recently received a submission containing 5008 tablets of four different types, suspected Ecstasy (see Photos 4 - 7; note that the scale varies between the photos, and also that the colors are not true). The tablets were seized in Houston by agents from the FBI Houston Field Division (no further details). The subexhibits included: A) 1011 blue tablets with a flower logo (total net mass 250 grams); B) 1989 green tablets with the same flower logo (total net mass 500 grams); C) 1005 orange tablets with an apple logo (total net mass 247 grams); and D) 1003 light blue tablets with a duck logo (total net mass 262 grams). Analyses were conducted by GC/FID, GC/MS, and HPLC, and indicated: A) Blue tablets/flower logo: MDMA (94.1 milligrams/tablet), ketamine (not quantitated), methamphetamine (<5 percent), caffeine (not quantitated), procaine (not quantitated), and dimethyl sulfone (not quantitated). B) Green tablets/flower logo: MDMA (72.8 milligrams/tablet), ketamine (not quantitated), methamphetamine (<5 percent), procaine (not quantitated), and caffeine (not quantitated). C) Orange tablets/apple logo: MDMA (87.4 milligrams/tablet), ketamine (not quantitated), methamphetamine (<5 percent), caffeine (not quantitated), and dimethyl sulfone (not quantitated). D) Light blue tablets/duck logo: MDMA (92.4 milligrams/tablet), ketamine (not quantitated), and caffeine (not quantitated). Once unusual, these multicomponent type Ecstasy tablets have recently become very common in the region served by the South Central Laboratory.",
+  "Image": "1730.jpg",
+  "table data left": {
+    "ID": "1730",
+    "Name": "Flower",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 72.80 mg\n\nMDMA aka Ecstasy, E, X",
+      "Caffeine",
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset",
+      "Methamphetamine\n\n\n  \n\nMethamphetamine aka Meth, Ice, Crank",
+      "Procaine\n\n\n  \n\nProcaine aka Novocaine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2007",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "Houston, TX",
+    "Submitter Loc": "Houston, TXUnited States",
+    "Color": "Blue",
+    "Size": "-",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "070800_01"
+  }
+}

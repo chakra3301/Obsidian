@@ -1,0 +1,32 @@
+{
+  "Sold as": "CBD Vape Juice",
+  "Expected to be": "Synthetic cannabinoids or other research chemicals",
+  "Lab Comments": "Not Available",
+  "Warning": "Jan 4 2022: Looking at the GC/MS graph, the substance that was originally unidentified in this sample is very likely glycerin, a common component of vape juice. (thanks, K.!) \n\nDec 27 2022: The unidentified substance appears to be a low molecular weight compound, possibly a volatile compound.",
+  "Image": "15197.jpg",
+  "table data left": {
+    "ID": "15197",
+    "Name": "Vape Juice",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "M4C1L5",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMB-4en-PINACA\n\n\n: 1 \n\nMDMB-4en-PINACA aka 5-CL-ADB-A; 5CI-ADB-A",
+      "Tentative Identification - See Note"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 28, 2022",
+    "Pub. Date": "Dec 28, 2022",
+    "Src Location": "Dallas, TX",
+    "Submitter Loc": "Dallas, TXUnited States",
+    "Color": "White",
+    "Size": "30 mg, 15.92 mm x 13.30 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22120071"
+  }
+}

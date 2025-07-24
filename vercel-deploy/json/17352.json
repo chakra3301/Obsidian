@@ -1,0 +1,28 @@
+{
+  "Sold as": "Tucibi / Pink Cocaine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Ketamine 811 mg/g\nAmphetamine 11 mg/g",
+  "Warning": "Shares some similarities with other pink powders tested by DrugsData and other drug checking groups that were sold as ''Tusi'', ''Tucibi'', ''Pink Cocaine'', or 2C-B.",
+  "Image": "17352.jpg",
+  "table data left": {
+    "ID": "17352",
+    "Name": "Pink Powder",
+    "Other Names": "Pink Tusi",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Amphetamine\n\n\n  \n\nAmphetamine aka dextro- and/or levo-amphetamine",
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 31, 2023",
+    "Pub. Date": "Oct 05, 2023",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Red / Pink",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202309-70"
+  }
+}

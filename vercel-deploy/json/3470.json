@@ -1,0 +1,31 @@
+{
+  "Sold as": "Lisinopril",
+  "Expected to be": "Lisinopril",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as lisinopril 40mg. \n\nEcstasyData: The lab did not find lisinopril, but it is unable to rule out that it is present. To say that differently, the tablet could still have contained the expected drug, but because we do not have a matching standard for the drug, it is possible that lisinopril would disintegrate in the testing machinery and not be detectable.\n\nWe will attempt to follow this up.",
+  "Image": "3470.jpg",
+  "table data left": {
+    "ID": "3470",
+    "Name": "Lisinopril 40",
+    "Other Names": "JOHAN",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Stearic Acid\n\n\n: 2",
+      "Palmitic Acid\n\n\n: 1 \n\nPalmitic Acid aka hexadecanoic acid"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 09, 2015",
+    "Pub. Date": "Feb 10, 2015",
+    "Src Location": "Port Orange, FL",
+    "Submitter Loc": "Port Orange, FLUnited States",
+    "Color": "White",
+    "Size": "448 mg, 11.40 mm x 4.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150200060"
+  }
+}

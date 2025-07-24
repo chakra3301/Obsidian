@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit of blotter issued an 'extreme high dose' caution because it contains more than 150mcg of LSD.",
+  "Image": "6903.jpg",
+  "table data left": {
+    "ID": "6903",
+    "Name": "Alice in Wonderland",
+    "Other Names": "LSD-Filze; LSD Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 308 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 19, 2018",
+    "Pub. Date": "Dec 24, 2018",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Multicolor / White",
+    "Size": "9.10 x 9.10",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201812-26"
+  }
+}

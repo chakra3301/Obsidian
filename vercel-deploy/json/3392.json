@@ -1,0 +1,31 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: I was quite taken by surprise to see the results.  Let me first say that I'm 49 years old and have been doing E since it was legal in the mid-80's.  I would think that I'm somewhat qualified to know the real thing vs. something different. \n\nMy guess was that the tablet was going to contain something like MDA: 2 and caffeine: 1.  So seeing MDMA:1 and caffeine: trace really threw me.  I had no feelings of love on these and very, very minimal feelings of empathy.  I felt more fucked up than anything pleasant.  This feeling was shared by the three others I did these with.  All in all, I took three tablets during the course of the evening.  Two up front and one more an hour and a half later (based on Shulgin's recommended dosing).  They took an unusual amount of time to kick in (roughly 45 minutes to an hour).  I was also slightly unsteady in my gate off just the original two.  I did have massive eye wiggles, but other than that, not the usual wonderful feelings associated with MDMA.  There was also no afterglow the following day.  Just extreme tiredness and withdrawn and a longer recovery than normal.  Again, another reason I assumed MDA.",
+  "Image": "3392.jpg",
+  "table data left": {
+    "ID": "3392",
+    "Name": "Green Adidas",
+    "Other Names": "BUNK1",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Turquoise",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue to Dark Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: trace"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 15, 2014",
+    "Pub. Date": "Dec 15, 2014",
+    "Src Location": "Indianapolis, IN",
+    "Submitter Loc": "Indianapolis, INUnited States",
+    "Color": "Green",
+    "Size": "241 mg, 8.30 mm x 4.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20141200063"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this blotter contains drugs other than LSD and could be mistaken for LSD. A little bit of printing (blue, green, yellow) discernible, sample looks fibrous, beat up.\n\nPerson submitting the sample for analysis noted that it tastes bitter, in contrast to LSD.",
+  "Image": "5792.jpg",
+  "table data left": {
+    "ID": "5792",
+    "Name": "LSD Blotter",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "25C-NBOMe\n\n\n: 995 ug\n\n25C-NBOMe aka 2C-C-NBOMe; 2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine",
+      "25B-NBOMe\n\n\n: 523 ug\n\n25B-NBOMe aka 2CB-NBOMe"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 28, 2017",
+    "Pub. Date": "Nov 10, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor / White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "Mobile Unit",
+    "Lab's ID": "SP:201711-8"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "MethoxMETamine",
+  "Expected to be": "MethoxMETamine, Methoxetamine, Methoxphenidine",
+  "Lab Comments": "We purchased a lab standard for methoxMetamine (MXM) and, on March 7, 2016, we have positively confirmed that this sample is a clear match for MXE and not for MXM.",
+  "Warning": "Not Available",
+  "Image": "4175.jpg",
+  "table data left": {
+    "ID": "4175",
+    "Name": "MethoxMETamine",
+    "Other Names": "LLD02",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Methoxetamine\n\n\n: 1 \n\nMethoxetamine aka NAME 2-(3-methoxyphenyl)-2-(ethylamino)cyclohexanone; 3-MeO-2-Oxo-PCE"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 26, 2016",
+    "Pub. Date": "Feb 28, 2016",
+    "Src Location": "Online, NH",
+    "Submitter Loc": "Online, NHUnited States",
+    "Color": "Brown",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160200047"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "4-ACO-DIPT",
+  "Expected to be": "4-ACO-DIPT",
+  "Lab Comments": "Not Available",
+  "Warning": "Sample sent from San Francisco Bay Area, CA, USA.",
+  "Image": "4731.jpg",
+  "table data left": {
+    "ID": "4731",
+    "Name": "4-ACO-DIPT",
+    "Other Names": "77DIPT",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple - Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow-Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Green to Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "4-AcO-DiPT\n\n\n: 1 \n\n4-AcO-DiPT aka 4-Acetoxy-DiPT"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 07, 2016",
+    "Pub. Date": "Sep 07, 2016",
+    "Src Location": "Bay Area, Online",
+    "Submitter Loc": "Bay Area, OnlineUnited States",
+    "Color": "White",
+    "Size": "114 mg, 17.00 mm x 6.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160800134"
+  }
+}

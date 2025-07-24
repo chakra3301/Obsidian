@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "2787.jpg",
+  "table data left": {
+    "ID": "2787",
+    "Name": "Capsule",
+    "Other Names": "G3678",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Red",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Palmitic Acid\n\n\n: 1 \n\nPalmitic Acid aka hexadecanoic acid",
+      "Stearic Acid\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 06, 2013",
+    "Pub. Date": "May 06, 2013",
+    "Src Location": "Gilbert, AZ",
+    "Submitter Loc": "Gilbert, AZUnited States",
+    "Color": "Off White / White",
+    "Size": "143 mg, 23.20 mm x 7.70 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130400165"
+  }
+}

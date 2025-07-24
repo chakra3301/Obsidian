@@ -1,0 +1,32 @@
+{
+  "Sold as": "Mescaline",
+  "Expected to be": "Mescaline",
+  "Lab Comments": "Unidentified substance may be an alkaloid of cactus extract.",
+  "Warning": "Not Available",
+  "Image": "9741.jpg",
+  "table data left": {
+    "ID": "9741",
+    "Name": "Mescaline",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "39654",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Mescaline\n\n\n: 3",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 27, 2021",
+    "Pub. Date": "Jan 27, 2021",
+    "Src Location": "Online",
+    "Submitter Loc": "San Jose, CAUnited States",
+    "Color": "Off White",
+    "Size": "100 mg, 24.70 mm x 8.00 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "21010115"
+  }
+}

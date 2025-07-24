@@ -1,0 +1,33 @@
+{
+  "Sold as": "Acid",
+  "Expected to be": "Acid",
+  "Lab Comments": "LSD with trace THC present, likely from cross-contamination of sample prior to reaching the lab.",
+  "Warning": "Not Available",
+  "Image": "16561.jpg",
+  "table data left": {
+    "ID": "16561",
+    "Name": "Acid",
+    "Other Names": "Appa The Dancing Elephant; Blotter",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ACAP7",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "Ehrlich": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "LSD\n\n\n: 6 \n\nLSD aka Acid, Doses",
+      "THC\n\n\n: 1 \n\nTHC aka delta-9-THC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 21, 2023",
+    "Pub. Date": "Jun 21, 2023",
+    "Src Location": "New York, NY",
+    "Submitter Loc": "New York, NYUnited States",
+    "Color": "Black / Yellow",
+    "Size": "10 mg, 6.91 mm x 6.37 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060024"
+  }
+}

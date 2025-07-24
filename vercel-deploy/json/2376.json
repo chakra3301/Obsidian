@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "2376.jpg",
+  "table data left": {
+    "ID": "2376",
+    "Name": "No Logo",
+    "Other Names": "Kein Logo",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Quetiapine\n\n\n: 1 \n\nQuetiapine aka Seroquel"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 01, 2011",
+    "Pub. Date": "Jan 05, 2012",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White / Red / Pink",
+    "Size": "87.3 mg, 6.10 mm x 3.10 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": ""
+  }
+}

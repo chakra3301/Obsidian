@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty & raveitsafe Switzerland issued an information alert because this tablet contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.\n\nBreak line on reverse side.",
+  "Image": "6295.jpg",
+  "table data left": {
+    "ID": "6295",
+    "Name": "Kleeblatt",
+    "Other Names": "Shamrock; Clover",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 12.8 mg\n\n2C-B aka Bees",
+      "2C-H\n\n\n: 1.0 \n\n2C-H aka 2,5-dimethoxyphenethylamine",
+      "Synthesis Byproduct(s)\n\n\n  \n\nSynthesis Byproduct(s) aka Identified or Unidentified Chemical(s) that appears to be leftover from synthesis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 01, 2018",
+    "Pub. Date": "Jun 08, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Purple",
+    "Size": "130.4 mg, 5.90 mm x 5.90 mm x 4.8 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201806-6"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "3-MeO-PCP",
+  "Expected to be": "3-MeO-PCP",
+  "Lab Comments": "Not Available",
+  "Warning": "Initially identified as 3-MeO-PCP. \n\nOn April 7, 2017, we confirmed this analysis with a lab standard for 3-MeO-PCP.",
+  "Image": "4631.jpg",
+  "table data left": {
+    "ID": "4631",
+    "Name": "3-MeO-PCP",
+    "Other Names": "PGCP6",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Blue",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Yellow-Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "4-MeO-PCP\n\n\n: 1 \n\n4-MeO-PCP aka 4-Methoxy-PCP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 10, 2016",
+    "Pub. Date": "Aug 11, 2016",
+    "Src Location": "Baltimore, MD",
+    "Submitter Loc": "Baltimore, MDUnited States",
+    "Color": "Brown",
+    "Size": "200 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160700085"
+  }
+}

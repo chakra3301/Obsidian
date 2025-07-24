@@ -1,0 +1,32 @@
+{
+  "Sold as": "MDMA or Molly",
+  "Expected to be": "Impure MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Sold as MDMA with name 'Molly' in March 2015. Expected to be 'I think it is cut / not pure?'\n\nEcstasyData: Triphenylphosphine oxide is used in the synthesis of MDMA and appears to be leftover from the synthesis. Toxicity unknown.",
+  "Image": "3535.jpg",
+  "table data left": {
+    "ID": "3535",
+    "Name": "Molly Capsule",
+    "Other Names": "ZZZ99",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Blue",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue to Dark Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "MDMA\n\n\n: 4 \n\nMDMA aka Ecstasy, E, X",
+      "MDA\n\n\n: 3",
+      "Triphenylphosphine oxide\n\n\n: 1 \n\nTriphenylphosphine oxide aka TPPO"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 24, 2015",
+    "Pub. Date": "Mar 24, 2015",
+    "Src Location": "Fremont, CA",
+    "Submitter Loc": "Fremont, CAUnited States",
+    "Color": "Blue / Red / Pink",
+    "Size": "103 mg, 19.80 mm x 6.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20150300110"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "4-Methylmethcathinone, Mephedrone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this white powder contains a drug other than the one as which it was represented.",
+  "Image": "5691.jpg",
+  "table data left": {
+    "ID": "5691",
+    "Name": "Mephedrone",
+    "Other Names": "4-MeMC",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "3-Methylmethcathinone\n\n\n: 1 \n\n3-Methylmethcathinone aka 3-MMC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 08, 2017",
+    "Pub. Date": "Sep 15, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201709-9"
+  }
+}

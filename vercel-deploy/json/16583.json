@@ -1,0 +1,38 @@
+{
+  "Sold as": "Dope",
+  "Expected to be": "Dope",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "16583.jpg",
+  "table data left": {
+    "ID": "16583",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2462",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Yellow",
+    "Liebermann": "Light Brown",
+    "Froehde": "No Reaction",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "Fentanyl\n\n\n: 180",
+      "4-ANPP\n\n\n: 60 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Phenethyl 4-ANPP\n\n\n: 40",
+      "Phenacetin\n\n\n: 20 \n\nPhenacetin aka N-(4-Ethoxyphenyl)acetamide",
+      "Cocaine\n\n\n: 8 \n\nCocaine aka Crack, Coca",
+      "Xylazine\n\n\n: 6 \n\nXylazine aka Rompun",
+      "N-Boc Norfentanyl\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 26, 2023",
+    "Pub. Date": "Jun 26, 2023",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Lynn, MAUnited States",
+    "Color": "Tan / Yellow",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060037"
+  }
+}

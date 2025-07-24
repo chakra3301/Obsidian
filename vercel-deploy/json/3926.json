@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a high dose warning for this tablet because it contains more than 120mg MDMA per dose unit.",
+  "Image": "3926.jpg",
+  "table data left": {
+    "ID": "3926",
+    "Name": "Twitter",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 124.60 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 02, 2015",
+    "Pub. Date": "Nov 05, 2015",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White / Gray",
+    "Size": "390.5 mg, 9.00 mm x 6.00 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201511-01"
+  }
+}

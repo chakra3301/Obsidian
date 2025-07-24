@@ -1,0 +1,27 @@
+{
+  "Sold as": "Amphetamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a warning about this sample, which contains a drug other than amphetamine.",
+  "Image": "6015.jpg",
+  "table data left": {
+    "ID": "6015",
+    "Name": "Amphetamine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-Methylamphetamine\n\n\n: 1 \n\n4-Methylamphetamine aka 4-MeA"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 13, 2018",
+    "Pub. Date": "Feb 16, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201802-17"
+  }
+}

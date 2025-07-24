@@ -1,0 +1,31 @@
+{
+  "Sold as": "Zolpidem",
+  "Expected to be": "Alprazolam",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitted from Charleston, SC, USA. Sender indicates in their note accompanying sample that when submitting to urinalysis, they 'tested positive for benzos' yet they were only taking this drug prior to urinalysis.",
+  "Image": "5552.jpg",
+  "table data left": {
+    "ID": "5552",
+    "Name": "Ambien",
+    "Other Names": "ST10 / GADOR",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PGB88",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Zolpidem\n\n\n: 1 \n\nZolpidem aka Ambien"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 17, 2017",
+    "Pub. Date": "Jul 18, 2017",
+    "Src Location": "Online",
+    "Submitter Loc": "Charleston, SCUnited States",
+    "Color": "Yellow",
+    "Size": "111 mg, 15.20 mm x 9.10 mm x 7.75 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20170700040"
+  }
+}

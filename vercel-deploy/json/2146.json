@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "A brown liquid from a dropper bottle was analyzed via GC/MS and found to contain an active level of LSD along with inactive levels (relative to the LSD) of MDMA and Ketamine. The sample also contained the MDMA synthesis byproduct Methylenedioxypropanol, and an antioxidant. \n\nWe don't really know what's going on with this sample, but either this bottle was used to store MDMA, then later ketamine, and then finally to hold acid, all without washing the bottle out in between substances; or MDMA and ketamine were added to an LSD preparation at intentionally homeopathic levels -- but that seems less likely.\n\nIt's curious, either way.",
+  "Image": "2146.jpg",
+  "table data left": {
+    "ID": "2146",
+    "Name": "Brown Liquid",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "MDMA\n\n\n: 4 \n\nMDMA aka Ecstasy, E, X",
+      "LSD\n\n\n: 2 \n\nLSD aka Acid, Doses",
+      "Ketamine\n\n\n: 1 \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 22, 2011",
+    "Pub. Date": "May 11, 2011",
+    "Src Location": "CA",
+    "Submitter Loc": "----, CAUnited States",
+    "Color": "Brown",
+    "Size": "-",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "EEN",
+    "Lab's ID": "2011-05-11"
+  }
+}

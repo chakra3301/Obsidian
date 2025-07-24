@@ -1,0 +1,30 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "DOx or NBOMe",
+  "Lab Comments": "Not Available",
+  "Warning": "This is another indicator that products sold as LSD / acid should be considered to possibly be an NBOMe compound instead.",
+  "Image": "4087.jpg",
+  "table data left": {
+    "ID": "4087",
+    "Name": "Che",
+    "Other Names": "CB001",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Green",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "25I-NBOMe\n\n\n: 1 \n\n25I-NBOMe aka 2C-I-NBOMe; 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 05, 2016",
+    "Pub. Date": "Jan 05, 2016",
+    "Src Location": "London, \nUnited Kingdom",
+    "Submitter Loc": "London, --United Kingdom",
+    "Color": "Tan",
+    "Size": "35 mg, 12.80 mm x 12.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20151200128"
+  }
+}

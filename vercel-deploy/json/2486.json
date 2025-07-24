@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "The 5,6-Methylenedioxy-1-indanone identification was a library match only, the lab cannot be 100% certain this is correct. That chemical is similar in structure to MDAI, but is not the same chemical.",
+  "Warning": "Not Available",
+  "Image": "2486.jpg",
+  "table data left": {
+    "ID": "2486",
+    "Name": "MDAI",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red (dark/blood red)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Red",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "5,6-Methylenedioxy-1-indanone\n\n\n: 1",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 13, 2012",
+    "Pub. Date": "May 13, 2012",
+    "Src Location": "Hamden, CT",
+    "Submitter Loc": "Hamden, CTUnited States",
+    "Color": "Yellow / Brown",
+    "Size": "81 mg, 13.50 mm x 5.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20120500021"
+  }
+}

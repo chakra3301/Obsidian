@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marketplace - Black Market</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@300;400;500;600;700&family=Chakra+Petch:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🖼️</text></svg>">
+</head>
+<body>
+    <!-- Navigation Header -->
+    <header style="position: fixed; top: 0; left: 0; right: 0; z-index: 1000; background: rgba(0, 0, 0, 0.8); backdrop-filter: blur(10px); border-bottom: 1px solid rgba(255, 255, 255, 0.1);">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h1 style="font-family: 'Chakra Petch', monospace; font-weight: 600; letter-spacing: 2px; text-transform: uppercase;">Black Market</h1>
+            </div>
+            <div class="nav-links">
+                <a href="static-home.html" class="nav-link">Home</a>
+                <a href="static-gallery.html" class="nav-link active">Marketplace</a>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="controls">
+            <input type="text" id="searchInput" placeholder="Search">
+            <select id="filterSelect">
+                <option value="">All Images</option>
+                <option value="923">ID 923+</option>
+            </select>
+        </div>
+        
+        <div class="stats">
+            <span id="imageCount">Loading...</span>
+        </div>
+        
+        <div id="gallery" class="gallery">
+            <!-- Images will be loaded here -->
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-body">
+                <img id="modalImage" src="" alt="">
+                <div id="modalMetadata"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Sample data for demonstration
+        const sampleImages = [
+            {
+                id: "923",
+                image: "images/923.jpg",
+                metadata: {
+                    "table data left": {
+                        "Name": "Sample Item 923",
+                        "Description": "A mysterious artifact from the depths"
+                    },
+                    "table data right": {
+                        "Color": "Dark",
+                        "Src": "Unknown location"
+                    }
+                }
+            },
+            {
+                id: "924", 
+                image: "images/924.jpg",
+                metadata: {
+                    "table data left": {
+                        "Name": "Sample Item 924",
+                        "Description": "Another enigmatic object"
+                    },
+                    "table data right": {
+                        "Color": "Light",
+                        "Src": "Hidden vault"
+                    }
+                }
+            }
+        ];
+
+        let currentImages = sampleImages;
+        let filteredImages = sampleImages;
+
+        // Initialize the gallery
+        function initGallery() {
+            loadImages();
+            setupEventListeners();
+            updateImageCount();
+        }
+
+        function loadImages() {
+            const gallery = document.getElementById('gallery');
+            gallery.innerHTML = '';
+
+            filteredImages.forEach(item => {
+                const card = createImageCard(item);
+                gallery.appendChild(card);
+            });
+        }
+
+        function createImageCard(item) {
+            const card = document.createElement('div');
+            card.className = 'gallery-item';
+            card.innerHTML = `
+                <div class="image-container">
+                    <img src="${item.image}" alt="Item ${item.id}" loading="lazy">
+                    <div class="overlay">
+                        <button class="view-btn">View Details</button>
+                    </div>
+                </div>
+                <div class="item-info">
+                    <h3>Item ${item.id}</h3>
+                    <p>${item.metadata['table data left']?.Name || 'Unknown'}</p>
+                </div>
+            `;
+
+            card.querySelector('.view-btn').addEventListener('click', () => {
+                openModal(item);
+            });
+
+            return card;
+        }
+
+        function setupEventListeners() {
+            // Search functionality
+            document.getElementById('searchInput').addEventListener('input', (e) => {
+                const query = e.target.value.toLowerCase();
+                filterImages(query);
+            });
+
+            // Filter functionality
+            document.getElementById('filterSelect').addEventListener('change', (e) => {
+                const filter = e.target.value;
+                applyFilter(filter);
+            });
+
+            // Modal close
+            document.querySelector('.close').addEventListener('click', closeModal);
+            document.getElementById('modal').addEventListener('click', (e) => {
+                if (e.target.id === 'modal') {
+                    closeModal();
+                }
+            });
+        }
+
+        function filterImages(query) {
+            if (!query) {
+                filteredImages = currentImages;
+            } else {
+                filteredImages = currentImages.filter(item => {
+                    const searchableText = JSON.stringify(item.metadata).toLowerCase();
+                    return searchableText.includes(query);
+                });
+            }
+            loadImages();
+            updateImageCount();
+        }
+
+        function applyFilter(filter) {
+            if (!filter) {
+                currentImages = sampleImages;
+            } else if (filter === '923') {
+                currentImages = sampleImages.filter(item => parseInt(item.id) >= 923);
+            }
+            filteredImages = currentImages;
+            loadImages();
+            updateImageCount();
+        }
+
+        function updateImageCount() {
+            document.getElementById('imageCount').textContent = 
+                `Showing ${filteredImages.length} of ${sampleImages.length} items`;
+        }
+
+        function openModal(item) {
+            const modal = document.getElementById('modal');
+            const modalImage = document.getElementById('modalImage');
+            const modalMetadata = document.getElementById('modalMetadata');
+
+            modalImage.src = item.image;
+            modalImage.alt = `Item ${item.id}`;
+
+            // Display metadata
+            modalMetadata.innerHTML = `
+                <h2>Item ${item.id}</h2>
+                <div class="metadata-grid">
+                    <div class="metadata-section">
+                        <h3>Details</h3>
+                        <p><strong>Name:</strong> ${item.metadata['table data left']?.Name || 'Unknown'}</p>
+                        <p><strong>Description:</strong> ${item.metadata['table data left']?.Description || 'No description'}</p>
+                    </div>
+                    <div class="metadata-section">
+                        <h3>Properties</h3>
+                        <p><strong>Color:</strong> ${item.metadata['table data right']?.Color || 'Unknown'}</p>
+                        <p><strong>Source:</strong> ${item.metadata['table data right']?.Src || 'Unknown'}</p>
+                    </div>
+                </div>
+            `;
+
+            modal.style.display = 'block';
+        }
+
+        function closeModal() {
+            document.getElementById('modal').style.display = 'none';
+        }
+
+        // Initialize when page loads
+        document.addEventListener('DOMContentLoaded', initGallery);
+    </script>
+</body>
+</html> 

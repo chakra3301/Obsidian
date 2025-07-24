@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "This sample, published courtesy of The Loop's testing program, contrasts with a Gray Moncler that was analyzed by EcstasyData in Oct 2017.\n\nFourier-transform infrared (ATR-FTIR) spectroscopy is The Loop's primary analysis method.",
+  "Image": "5741.jpg",
+  "table data left": {
+    "ID": "5741",
+    "Name": "Blue Moncler",
+    "Other Names": "",
+    "FTIR:The FTIR Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n  \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 11, 2017",
+    "Pub. Date": "Oct 21, 2017",
+    "Src Location": "Hampshire, \nUnited Kingdom",
+    "Submitter Loc": "Hampshire, --United Kingdom",
+    "Color": "Blue",
+    "Size": "-",
+    "Data Source": "The Loop",
+    "Tested by": "The Loop",
+    "Lab's ID": "BT2017-F0198"
+  }
+}

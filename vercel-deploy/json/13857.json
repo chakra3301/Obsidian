@@ -1,0 +1,31 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Heroin",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "13857.jpg",
+  "table data left": {
+    "ID": "13857",
+    "Name": "White Powder",
+    "Other Names": "Superman",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2022B0555",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Fentanyl\n\n\n: 16.7",
+      "4-ANPP\n\n\n: 3.3 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Xylazine\n\n\n: 3.3 \n\nXylazine aka Rompun",
+      "Lidocaine\n\n\n: 1.0"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 23, 2022",
+    "Pub. Date": "Aug 23, 2022",
+    "Src Location": "Pittsfield, MA",
+    "Submitter Loc": "Pittsfield, MAUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22070263"
+  }
+}

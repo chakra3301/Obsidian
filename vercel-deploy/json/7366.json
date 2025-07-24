@@ -1,0 +1,27 @@
+{
+  "Sold as": "2-FMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.\n\nAnalyzed by checkit! (Vienna, Austria) between May 1 and May 16, 2019.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "7366",
+    "Name": "2-FMA",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-FMA\n\n\n  \n\n4-FMA aka 4-Fluoromethamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 16, 2019",
+    "Pub. Date": "May 21, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201905-12"
+  }
+}

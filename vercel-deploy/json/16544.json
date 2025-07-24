@@ -1,0 +1,32 @@
+{
+  "Sold as": "5-MeO-DMT",
+  "Expected to be": "5-MeO-DMT",
+  "Lab Comments": "Not Available",
+  "Warning": "See ''Intractable Byproduct'' in 5-MeO-DMT Samples for some information about N-methyl-Pinoline in DrugsData samples.",
+  "Image": "16544.jpg",
+  "table data left": {
+    "ID": "16544",
+    "Name": "5-MeO-DMT",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Tot01",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Brown",
+    "Liebermann": "Brown-Green",
+    "Froehde": "Yellow-Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "5-MeO-DMT\n\n\n: 20",
+      "N-methyl-Pinoline\n\n\n: 1 \n\nN-methyl-Pinoline aka 2-Methyl-6-methoxy-1,2,3,4-tetrahydro-beta-carboline; 6-MeO-2-Me-THβC; N-methyl-5-Methoxytryptoline"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 20, 2023",
+    "Pub. Date": "Jun 20, 2023",
+    "Src Location": "San Francisco, CA",
+    "Submitter Loc": "Portland, ORUnited States",
+    "Color": "Brown",
+    "Size": "50 mg, 14.12 mm x 5.06 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060007"
+  }
+}

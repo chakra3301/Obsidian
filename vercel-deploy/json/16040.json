@@ -1,0 +1,35 @@
+{
+  "Sold as": "Fentanyl",
+  "Expected to be": "Dope",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "16040.jpg",
+  "table data left": {
+    "ID": "16040",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2350A",
+    "Fentanyl Test Strip (FTS)": "Positive",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "4-Fluorofentanyl\n\n\n: 40 \n\n4-Fluorofentanyl aka Para-fluorofentanyl",
+      "Fentanyl\n\n\n: 40",
+      "Xylazine\n\n\n: 30 \n\nXylazine aka Rompun",
+      "4-ANPP\n\n\n: 15 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "4F-Phenethyl-4-ANPP\n\n\n: 5 \n\n4F-Phenethyl-4-ANPP aka Phenethyl-4F-4-ANPP; Phenethyl-4-Fluoro-4-ANPP; para-fluoro Phenethyl 4-ANPP",
+      "Cocaine\n\n\n: 5 \n\nCocaine aka Crack, Coca",
+      "Despropionyl-4-fluorofentanyl\n\n\n: 1 \n\nDespropionyl-4-fluorofentanyl aka Despropionyl para-fluorofentanyl; para-Fluoro 4-ANPP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 08, 2023",
+    "Pub. Date": "May 08, 2023",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "Brown",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23040065"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Magic Mushroom (Psilocybin)",
+  "Expected to be": "Magic mushroom mixed with something, coke or amphetamine?",
+  "Lab Comments": "Not Available",
+  "Warning": "Mar 12 2022: This sample has been re-analyzed multiple ways, using different extractions in different solvents. No psilocybin, psilocin or other psychoactive tryptamine or simple tryptamine has been detected in this sample.\n\nFeb 8 2021: The lab is still working on this sample, check back here for result in a few days.",
+  "Image": "9765.jpg",
+  "table data left": {
+    "ID": "9765",
+    "Name": "Magic Mushroom",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ABC567",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "None Detected\n\n\n  \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 08, 2021",
+    "Pub. Date": "Feb 08, 2021",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Brown / Green",
+    "Size": "300 mg, 21.40 mm x 7.60 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "21010130"
+  }
+}

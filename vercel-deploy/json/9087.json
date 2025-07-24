@@ -1,0 +1,36 @@
+{
+  "Sold as": "Dope",
+  "Expected to be": "Heroin",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "9087.jpg",
+  "table data left": {
+    "ID": "9087",
+    "Name": "Dope",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020C063",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Diphenhydramine\n\n\n: 19 \n\nDiphenhydramine aka Benadryl",
+      "Quinine\n\n\n: 6",
+      "Fentanyl\n\n\n: 5",
+      "Heroin\n\n\n: 1 \n\nHeroin aka Diacetylmorphine",
+      "6-Acetylcodeine\n\n\n: trace \n\n6-Acetylcodeine aka 6-Monoacetylcodeine",
+      "6-Acetylmorphine\n\n\n: trace \n\n6-Acetylmorphine aka 6-MAM, 6-Monoacetylmorphine, 6-AM"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 14, 2020",
+    "Pub. Date": "Sep 14, 2020",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20090008"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an 'extreme high dose' warning because this tablet contains more than 200mg of MDMA. Bi-layer tablet (the front and back are different colors). Triple break lines on reverse side, does not have the typical skull image that appears on the back of many Philipp Plein style tablets.",
+  "Image": "6484.jpg",
+  "table data left": {
+    "ID": "6484",
+    "Name": "Philipp Plein",
+    "Other Names": "(bi-layer tablet)",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 266.50 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 07, 2018",
+    "Pub. Date": "Aug 13, 2018",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Yellow / Green",
+    "Size": "441.6 mg, 12.00 mm x 10.70 mm x 3.9 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201808-10"
+  }
+}

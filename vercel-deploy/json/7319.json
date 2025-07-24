@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "MDA Basecamp of Innsbruck, Austria, the European drug checking group that analyzed this sample, issued a warning because it contains a drug other than the one it was represented as.\n\nSample was analyzed some time in April 2019.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "7319",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Unidentified"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 01, 2019",
+    "Pub. Date": "May 05, 2019",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201905-001"
+  }
+}

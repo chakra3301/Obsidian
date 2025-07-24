@@ -1,0 +1,30 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Cocaine: 64.5%\nMethamphetamine: 11.0%\nAcetaminophen: 7.9%\nCaffeine: 2.2%",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains drugs other than the one it was represented as.",
+  "Image": "17274.jpg",
+  "table data left": {
+    "ID": "17274",
+    "Name": "White Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Acetaminophen",
+      "Caffeine",
+      "Cocaine\n\n\n  \n\nCocaine aka Crack, Coca",
+      "Methamphetamine\n\n\n  \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 04, 2023",
+    "Pub. Date": "Oct 05, 2023",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Off White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202309-59"
+  }
+}

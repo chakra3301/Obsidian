@@ -1,0 +1,36 @@
+{
+  "Sold as": "Fentanyl + Xylazine",
+  "Expected to be": "Fentanyl + or Fentanyl analogues, xylazine, benzos",
+  "Lab Comments": "Acetaminophen ratio is at least 50.",
+  "Warning": "''Heavy sedation ... incredibly strong''",
+  "Image": "16662.jpg",
+  "table data left": {
+    "ID": "16662",
+    "Name": "M 30",
+    "Other Names": "Purple Tie Dye",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PTD01",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Yellow",
+    "Liebermann": "Purple - Brown",
+    "Froehde": "Light Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 50",
+      "Metamizole OR 4-Methylaminoantipyrine\n\n\n: 10 \n\nMetamizole OR 4-Methylaminoantipyrine aka Noramidopyrine; Dipyrone; Novalgin",
+      "Fentanyl\n\n\n: 4",
+      "Methylsulfonylmethane\n\n\n: 4 \n\nMethylsulfonylmethane aka MSM, dimethylsulfone, DMSO2, leftover solvent, cutting agent",
+      "4-ANPP\n\n\n: 1 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Phenethyl 4-ANPP\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 01, 2023",
+    "Pub. Date": "Jul 01, 2023",
+    "Src Location": "Denver, CO",
+    "Submitter Loc": "Denver, COUnited States",
+    "Color": "Multicolor / Purple",
+    "Size": "113 mg, 6.51 mm x - mm x 3.53 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23060113"
+  }
+}

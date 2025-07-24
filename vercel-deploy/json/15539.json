@@ -1,0 +1,31 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Ketamine",
+  "Lab Comments": "pH = ~3-4",
+  "Warning": "If you have Agilent Chemstation software, contact us for the files (the files are useless unless you have a current Chemstation license).",
+  "Image": "15539.jpg",
+  "table data left": {
+    "ID": "15539",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "BRQ75",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Fizzing",
+    "Liebermann": "Fizzing",
+    "Froehde": "Fizzing",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "None Detected\n\n\n: 1 \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 22, 2023",
+    "Pub. Date": "Feb 22, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "Phoenix, AZUnited States",
+    "Color": "White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010172"
+  }
+}

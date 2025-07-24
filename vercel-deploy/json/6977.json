@@ -1,0 +1,27 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this dose unit issued a 'high dose' caution because it contains more than 150 μg of LSD.",
+  "Image": "6977.jpg",
+  "table data left": {
+    "ID": "6977",
+    "Name": "California Sunshine",
+    "Other Names": "LSD-Filze; LSD Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 204.10 ug\n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 29, 2019",
+    "Pub. Date": "Feb 02, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "8.00 x 8.00",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201902-3"
+  }
+}

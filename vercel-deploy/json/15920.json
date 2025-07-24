@@ -1,0 +1,33 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Mostly pure",
+  "Lab Comments": "Not Available",
+  "Warning": "A reminder that DrugsData is not allowed to provide quantitative results for samples it analyzes, because our lab is constrained by rules set by the US DEA. Inert/inactive cuts (diluents like sugars and starches) can not be reported even if they might be present. This means 'purity' can't be confirmed, either.\n\nActive cuts are reported. No active cuts are present in this sample.",
+  "Image": "15920.jpg",
+  "table data left": {
+    "ID": "15920",
+    "Name": "Fine White",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "CK323",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Pink-Orange",
+    "Liebermann": "Orange / Yellow",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Cocaine\n\n\n: 27 \n\nCocaine aka Crack, Coca",
+      "Ketamine\n\n\n: 3 \n\nKetamine aka Ketalar, Ketaset",
+      "Methylecgonidine\n\n\n: 1 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 13, 2023",
+    "Pub. Date": "Apr 13, 2023",
+    "Src Location": "San Diego, CA",
+    "Submitter Loc": "San Diego, CAUnited States",
+    "Color": "White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23030204"
+  }
+}

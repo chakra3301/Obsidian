@@ -1,0 +1,32 @@
+{
+  "Sold as": "MDMA, MDA, Ecstasy",
+  "Expected to be": "MDMA, MDA",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15185.jpg",
+  "table data left": {
+    "ID": "15185",
+    "Name": "MyBrand Skull",
+    "Other Names": "MB",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "Duble",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Liebermann": "Red Brown",
+    "Froehde": "Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "MDMA\n\n\n: 2 \n\nMDMA aka Ecstasy, E, X",
+      "MDA\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 28, 2022",
+    "Pub. Date": "Dec 28, 2022",
+    "Src Location": "Online, UT",
+    "Submitter Loc": "Salt Lake City, UTUnited States",
+    "Color": "White",
+    "Size": "411 mg, 14.10 mm x 10.10 mm x 4.7 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22120059"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "Ketamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as. Testing organization calculated Ketamine content of sample as 821 mg/g with 60 mg/g of Caffeine.\n\nAnalyzed by checkit! (Vienna, Austria) between Aug 1 and Aug 27, 2019.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "7748",
+    "Name": "Ketamine",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine",
+      "Ketamine\n\n\n  \n\nKetamine aka Ketalar, Ketaset"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 28, 2019",
+    "Pub. Date": "Aug 28, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201908-26"
+  }
+}

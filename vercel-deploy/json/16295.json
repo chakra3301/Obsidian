@@ -1,0 +1,32 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "LSD",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "16295.jpg",
+  "table data left": {
+    "ID": "16295",
+    "Name": "Gel Tab",
+    "Other Names": "Gels",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "64AUD",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "Ehrlich": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "LSD\n\n\n: 1 \n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 30, 2023",
+    "Pub. Date": "May 30, 2023",
+    "Src Location": "New York, NY",
+    "Submitter Loc": "New York, NYUnited States",
+    "Color": "Blue / Glitter",
+    "Size": "10 mg, 4.82 mm x 4.99 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050083"
+  }
+}

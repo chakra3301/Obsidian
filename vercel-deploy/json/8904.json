@@ -1,0 +1,27 @@
+{
+  "Sold as": "Xanax / Alprazolam",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "White bar-style tablet, 'XANAX', '2' and break lines.\n\nAnalyzed by MDA Basecamp (Innsbruck, Austria) in Aug 2020.",
+  "Image": "8904.jpg",
+  "table data left": {
+    "ID": "8904",
+    "Name": "Fake Xanax",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Flubromazolam"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 21, 2020",
+    "Pub. Date": "Aug 25, 2020",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:202008-2"
+  }
+}

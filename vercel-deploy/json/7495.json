@@ -1,0 +1,28 @@
+{
+  "Sold as": "Mescaline",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "[the trimipramine detected is presumed to be a contaminant.]",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as.",
+  "Image": "7495.jpg",
+  "table data left": {
+    "ID": "7495",
+    "Name": "Mikro Rot",
+    "Other Names": "Microdot",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 36.52 ug\n\nLSD aka Acid, Doses",
+      "Trimipramine\n\n\n: trace \n\nTrimipramine aka Surmontil"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 07, 2019",
+    "Pub. Date": "Jul 08, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201907-11"
+  }
+}

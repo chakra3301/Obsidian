@@ -1,0 +1,31 @@
+{
+  "Sold as": "Modafinil",
+  "Expected to be": "Modafinil",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14980.jpg",
+  "table data left": {
+    "ID": "14980",
+    "Name": "Modvigil-200",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "FDP07",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Brown",
+    "Liebermann": "Yellow-Brown",
+    "Froehde": "Yellow-Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Modafinil\n\n\n: 1 \n\nModafinil aka Provigil, Modalert, Alertec"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 07, 2022",
+    "Pub. Date": "Dec 07, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Boulder, COUnited States",
+    "Color": "White",
+    "Size": "333 mg, 9.94 mm x 4.46 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110109"
+  }
+}

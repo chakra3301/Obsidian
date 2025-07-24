@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "checkit! issues a 'high dose' alert for this tablet. Two samples analyzed, with 235 mg and 199 mg of MDMA, respectively.",
+  "Image": "5505.jpg",
+  "table data left": {
+    "ID": "5505",
+    "Name": "Sim Card",
+    "Other Names": "Lebara",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 235 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 06, 2017",
+    "Pub. Date": "Jul 07, 2017",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Gray / Tan",
+    "Size": "11.30 x 4.40",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201707-19"
+  }
+}

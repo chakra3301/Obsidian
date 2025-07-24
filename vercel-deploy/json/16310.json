@@ -1,0 +1,32 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Ecstasy",
+  "Lab Comments": "Tested twice, same result.",
+  "Warning": "Not Available",
+  "Image": "16310.jpg",
+  "table data left": {
+    "ID": "16310",
+    "Name": "Blue UPS",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "UPSxB",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Brown",
+    "Liebermann": "Light Yellow",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Caffeine\n\n\n: 1",
+      "Methamphetamine\n\n\n: trace \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 30, 2023",
+    "Pub. Date": "May 30, 2023",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Columbus, OHUnited States",
+    "Color": "Blue / Speckled",
+    "Size": "403 mg, 10.71 mm x 9.07 mm x 4.54 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050105"
+  }
+}

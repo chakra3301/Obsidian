@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "2014.jpg",
+  "table data left": {
+    "ID": "2014",
+    "Name": "Cupid",
+    "Other Names": "Frau mit Herz",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "TFMPP\n\n\n: 45.20 mg",
+      "Caffeine\n\n\n: 44.90 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 08, 2010",
+    "Pub. Date": "Oct 12, 2010",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue / Speckled",
+    "Size": "271.6 mg, 8.70 mm x 4.00 mm",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": "DIZ975"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this tablet contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet.",
+  "Image": "5467.jpg",
+  "table data left": {
+    "ID": "5467",
+    "Name": "Loewenwappen",
+    "Other Names": "Dutch Lion",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 25.50 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 20, 2017",
+    "Pub. Date": "Jun 26, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Green",
+    "Size": "252.4 mg, 8.00 mm x 10.30 mm x 3.4 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201706-12"
+  }
+}

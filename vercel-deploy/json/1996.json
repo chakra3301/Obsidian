@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "1996.jpg",
+  "table data left": {
+    "ID": "1996",
+    "Name": "Magic Flower Powder",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine",
+      "Ethylamphetamine\n\n\n  \n\nEthylamphetamine aka Etilamfetamine",
+      "Other"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 15, 2010",
+    "Pub. Date": "Aug 31, 2010",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Unknown",
+    "Size": "1000 mg",
+    "Data Source": "Streetwork",
+    "Tested by": "DIZ",
+    "Lab's ID": "magic_flower powder_1"
+  }
+}

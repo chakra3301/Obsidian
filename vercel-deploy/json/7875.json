@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued an 'extreme high dose' warning because it contains more than 200mg of MDMA.\nTablet has four intersecting break lines on reverse side.\n\n[The testing organization published their PDF warning for this tablet with a mirror-image version of the tablet photo... On their site, the image isn't flipped.]",
+  "Image": "7875.jpg",
+  "table data left": {
+    "ID": "7875",
+    "Name": "EA Sports",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 221.60 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 11, 2019",
+    "Pub. Date": "Oct 28, 2019",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Blue",
+    "Size": "470.9 mg, 13.10 mm x 12.20 mm x 4.6 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201910-18"
+  }
+}

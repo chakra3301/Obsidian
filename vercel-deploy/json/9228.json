@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Testing lab specified this is LSD tartrate and iso-LSD tartrate.",
+  "Warning": "The European drug checking group that analyzed this dose unit of LSD issued a 'high dose' caution because it contains more than 150 micrograms of LSD.",
+  "Image": "9228.jpg",
+  "table data left": {
+    "ID": "9228",
+    "Name": "Pac-Man Geist",
+    "Other Names": "Pacman Ghost; Blotter",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "LSD\n\n\n: 160.40 ug\n\nLSD aka Acid, Doses",
+      "Iso-LSD\n\n\n: 82.00 ug"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 02, 2020",
+    "Pub. Date": "Oct 09, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Multicolor",
+    "Size": "9.10 x 9.20",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202010-9"
+  }
+}

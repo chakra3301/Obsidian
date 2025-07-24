@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA / Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this tablet issued a 'high dose' caution for it. Tablet has a break line on reverse side.",
+  "Image": "9285.jpg",
+  "table data left": {
+    "ID": "9285",
+    "Name": "Diamant",
+    "Other Names": "Gem; Diamond",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 133.4 mg\n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 11.5"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 16, 2020",
+    "Pub. Date": "Oct 26, 2020",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Teal Blue / Gray",
+    "Size": "318.6 mg, 10.20 mm x 13.40 mm x 3.9 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202010-28"
+  }
+}

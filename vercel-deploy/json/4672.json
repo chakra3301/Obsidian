@@ -1,0 +1,32 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "LSD",
+  "Lab Comments": "Not Available",
+  "Warning": "EcstasyData Note: Niacinamide is a B vitamin and is not dangerous or psychoactive. We aren't sure why vitamin B would be on the blotter, but we'll ask around.",
+  "Image": "4672.jpg",
+  "table data left": {
+    "ID": "4672",
+    "Name": "Liquid2Blotter2",
+    "Other Names": "GRNV01",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "Ehrlich": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "LSD\n\n\n: 1 \n\nLSD aka Acid, Doses",
+      "Niacinamide\n\n\n: 1 \n\nNiacinamide aka Nicotinamide; Niacin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 16, 2016",
+    "Pub. Date": "Aug 19, 2016",
+    "Src Location": "Bay Area, CA",
+    "Submitter Loc": "Bay Area, CAUnited States",
+    "Color": "White",
+    "Size": "16.30 x 10.20",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160800023"
+  }
+}

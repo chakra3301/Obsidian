@@ -1,0 +1,31 @@
+{
+  "Sold as": "30mg Adderall",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "No amphetamine.",
+  "Warning": "Not Available",
+  "Image": "8034.jpg",
+  "table data left": {
+    "ID": "8034",
+    "Name": "Adderall",
+    "Other Names": "b 974 / 3 | 0",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "SC518",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange to Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 04, 2019",
+    "Pub. Date": "Dec 04, 2019",
+    "Src Location": "Online",
+    "Submitter Loc": "Jacksonville, FLUnited States",
+    "Color": "Orange",
+    "Size": "457 mg, 12.10 mm x 9.70 mm x 5.56 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20191100111"
+  }
+}

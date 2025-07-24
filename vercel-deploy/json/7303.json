@@ -1,0 +1,34 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Alprazolam",
+  "Lab Comments": "No Alprazolam detected. The Unidentified in ratio of '1' refers to the ID3 peak, and the trace refers to the ID2 peak.",
+  "Warning": "Not Available",
+  "Image": "7303.jpg",
+  "table data left": {
+    "ID": "7303",
+    "Name": "Sold as Alprazolam",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ALP20",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Brown-Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Green with Orange",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Dibenzyl ketone\n\n\n: 2 \n\nDibenzyl ketone aka 1,3-diphenylacetone",
+      "Unidentified\n\n\n: 1",
+      "Doxepin\n\n\n: trace",
+      "Unidentified\n\n\n: trace"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 24, 2019",
+    "Pub. Date": "Apr 24, 2019",
+    "Src Location": "Orlando, FL",
+    "Submitter Loc": "Orlando, FLUnited States",
+    "Color": "Off White",
+    "Size": "100 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20190400071"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Lab does not have a standard for this substance but it appears to be 2C-T-2.\n\nFirst we've seen 2C-T-2 in a tablet at EcstasyData.",
+  "Image": "3100.jpg",
+  "table data left": {
+    "ID": "3100",
+    "Name": "White Tablet",
+    "Other Names": "Hot-7 Space",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Purple",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "2C-T-2\n\n\n: 1 \n\n2C-T-2 aka 2,5-Dimethoxy-4-ethylthiophenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 14, 2014",
+    "Pub. Date": "Mar 14, 2014",
+    "Src Location": "Trinidad, CA",
+    "Submitter Loc": "Trinidad, CAUnited States",
+    "Color": "White / Off White",
+    "Size": "383 mg, 10.40 mm x 6.00 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140300002"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ephedrine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Tablet has a break line on reverse side.\n\nAnalyzed by checkit! (Vienna, Austria) in October 2020.",
+  "Image": "9242.jpg",
+  "table data left": {
+    "ID": "9242",
+    "Name": "White Tablet",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Caffeine\n\n\n: 273 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 15, 2020",
+    "Pub. Date": "Oct 15, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "White",
+    "Size": "12.10 x 4.50",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202010-10"
+  }
+}

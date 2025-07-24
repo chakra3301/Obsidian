@@ -1,0 +1,27 @@
+{
+  "Sold as": "2-Fluoromethamphetamine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Analyzed by checkit! (Vienna, Austria) in October 2019.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "7949",
+    "Name": "2-FMA",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2-FMA\n\n\n: 1 \n\n2-FMA aka 2-Fluoromethamphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 06, 2019",
+    "Pub. Date": "Nov 06, 2019",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:201911-27"
+  }
+}

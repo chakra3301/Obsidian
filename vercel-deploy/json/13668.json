@@ -1,0 +1,34 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Cocaine, amphetamines, levamisole, other procaines",
+  "Lab Comments": "Not Available",
+  "Warning": "Jul 28 2022: This sample was reagent-tested with Morris, Liebermann, and Froehde reagents at the lab as DrugsData considers updating how it performs colorimetric testing of samples. Photos of these reactions are included on the bottom, left.",
+  "Image": "13668.jpg",
+  "table data left": {
+    "ID": "13668",
+    "Name": "Orlando Cocaine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "A4x9tU",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Pink",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Yellow-Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Cocaine\n\n\n: 90 \n\nCocaine aka Crack, Coca",
+      "Benzoylecgonine\n\n\n: 20",
+      "Methylecgonidine\n\n\n: 10 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME",
+      "Tropacocaine\n\n\n: 1 \n\nTropacocaine aka tropacaine, benzoylpseudotropine, pseudotropine benzoate"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 28, 2022",
+    "Pub. Date": "Jul 28, 2022",
+    "Src Location": "Orlando, FL",
+    "Submitter Loc": "Orlando, FLUnited States",
+    "Color": "White",
+    "Size": "200 mg, 20.60 mm x 7.80 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22070129"
+  }
+}

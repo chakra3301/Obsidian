@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter: Please contact us. It appears to us that this was not expected to contain ecstasy/MDMA, but the submitter's comments were confusing.",
+  "Image": "3332.jpg",
+  "table data left": {
+    "ID": "3332",
+    "Name": "X-Boost Glass Vial",
+    "Other Names": "0033V",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Orange",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Oxandrolone\n\n\n: 1 \n\nOxandrolone aka Oxandrin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 21, 2014",
+    "Pub. Date": "Oct 21, 2014",
+    "Src Location": "Orlando, FL",
+    "Submitter Loc": "Orlando, FLUnited States",
+    "Color": "White",
+    "Size": "500 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20141000072"
+  }
+}

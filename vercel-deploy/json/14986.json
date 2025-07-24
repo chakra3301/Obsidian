@@ -1,0 +1,33 @@
+{
+  "Sold as": "Cocaine",
+  "Expected to be": "Cocaine, benzocaine or lidocaine + other stimulants",
+  "Lab Comments": "Not Available",
+  "Warning": "'Not pure. Definitely a numbing agent added. Also 'speedy' like high.'",
+  "Image": "14986.jpg",
+  "table data left": {
+    "ID": "14986",
+    "Name": "Cocaine",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "ZZZZZ",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Brown",
+    "Liebermann": "Light Yellow",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Cocaine\n\n\n: 80 \n\nCocaine aka Crack, Coca",
+      "Levamisole\n\n\n: 20",
+      "Methylecgonidine\n\n\n: 1 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 07, 2022",
+    "Pub. Date": "Dec 07, 2022",
+    "Src Location": "Madison, WI",
+    "Submitter Loc": "Madison, WIUnited States",
+    "Color": "White",
+    "Size": "10 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110115"
+  }
+}

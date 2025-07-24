@@ -1,0 +1,31 @@
+{
+  "Sold as": "3-MMC",
+  "Expected to be": "3-MMC",
+  "Lab Comments": "June 9 2023: Substance is *-Methylmethcathinone (2-,3-, or 4-MMC). The lab may be able to differentiate the positional isomer but this is not guaranteed.",
+  "Warning": "Not Available",
+  "Image": "16452.jpg",
+  "table data left": {
+    "ID": "16452",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "384JGS",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "Orange",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Methylmethcathinone\n\n\n: 1 \n\nMethylmethcathinone aka Mephedrone, 2,3, or 4-MMC, Meow, M-Cat, 2-Methylamino-1-p-tolylpropan-1-one"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 09, 2023",
+    "Pub. Date": "Jun 09, 2023",
+    "Src Location": "Online",
+    "Submitter Loc": "San Francisco, CAUnited States",
+    "Color": "White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050169"
+  }
+}

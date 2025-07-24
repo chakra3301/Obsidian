@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter says sold as Ecstasy/Molly in Central Florida. Primary substance in sample was not identified by the lab, but AV from the Erowid Expert Network identifies this substance as 'N-Methylindan-2-amine' also known as 2-Aminoindan ME and N-Methyl-2AI. This is an N-methyl 2-aminoindan.",
+  "Image": "3090.jpg",
+  "table data left": {
+    "ID": "3090",
+    "Name": "Molly / Ecstasy Capsule",
+    "Other Names": "OU812",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Orange to Brown",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Dark Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "N-Methylindan-2-amine\n\n\n: 12 \n\nN-Methylindan-2-amine aka 2-Aminoindan ME, N-Methyl-2AI",
+      "Methylone\n\n\n: 4 \n\nMethylone aka Explosion; bk-MDMA, Ease, M1",
+      "Pentedrone\n\n\n: 1 \n\nPentedrone aka 2-(methylamino)-1-phenylpentan-1-one, α-methylamino-valerophenone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 03, 2014",
+    "Pub. Date": "Mar 03, 2014",
+    "Src Location": "FL",
+    "Submitter Loc": "----, FLUnited States",
+    "Color": "Off White",
+    "Size": "300 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140200120"
+  }
+}

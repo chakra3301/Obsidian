@@ -1,0 +1,34 @@
+{
+  "Sold as": "4-Methylpregabalin",
+  "Expected to be": "4-Methylpregabalin or Pregabalin",
+  "Lab Comments": "May 22 2023: The mass spectrum of 4-methyl Pregabalin is not readily discoverable and a certified standard is not available. We are ordering a certified standard of Pregabalin methyl ester to compare to this sample's unknown mass spectrum. It is also unknown if the unidentifed peaks are GC/MS degradations. Sample powder pH = approx. 7 and silver nitrate precipitation reaction.\n\nUnidentified Substance #1: 1 part\n\nUnidentified Substance #2: 6 parts\n\nUnidentified Substance #3: 4 parts\n\nUnidentified Substance #4: 5 parts",
+  "Warning": "''two people took it but only in the 10mg range. The substance did not show any effect at 10mg.''",
+  "Image": "16194.jpg",
+  "table data left": {
+    "ID": "16194",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "4MPrg",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Fizzing",
+    "Liebermann": "Fizzing with Slight Color Change",
+    "Froehde": "Fizzing",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Unidentified\n\n\n: 6",
+      "Unidentified\n\n\n: 5",
+      "Unidentified\n\n\n: 4",
+      "Unidentified\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 23, 2023",
+    "Pub. Date": "May 23, 2023",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "Cologne, NRWGermany",
+    "Color": "White / Clear",
+    "Size": "400 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23040206"
+  }
+}

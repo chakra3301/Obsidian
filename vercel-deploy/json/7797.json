@@ -1,0 +1,33 @@
+{
+  "Sold as": "Percocet 10/325",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Ratio of Acetaminophen >25.",
+  "Warning": "A white round RP 10 325 should contain oxycodone and acetaminophen only.",
+  "Image": "7797.jpg",
+  "table data left": {
+    "ID": "7797",
+    "Name": "RP 10/325",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "0003W",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Grey - Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Acetaminophen\n\n\n: 25",
+      "Oxycodone\n\n\n: 4 \n\nOxycodone aka Oxycontin",
+      "Hydrocodone\n\n\n: 1 \n\nHydrocodone aka Vicodin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 24, 2019",
+    "Pub. Date": "Sep 24, 2019",
+    "Src Location": "Boynton Beach, FL",
+    "Submitter Loc": "Boynton Beach, FLUnited States",
+    "Color": "White",
+    "Size": "382 mg, 9.60 mm x 5.60 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20190900052"
+  }
+}

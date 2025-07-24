@@ -1,0 +1,28 @@
+{
+  "Sold as": "Ecstasy / MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this tablet contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet. No break line.",
+  "Image": "6038.jpg",
+  "table data left": {
+    "ID": "6038",
+    "Name": "Super Mario",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 11.1 mg\n\n2C-B aka Bees",
+      "2C-H\n\n\n: 0.7 mg\n\n2C-H aka 2,5-dimethoxyphenethylamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 28, 2018",
+    "Pub. Date": "Mar 02, 2018",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Gray",
+    "Size": "131.5 mg, 7.70 mm x 8.10 mm x 3.4 mm",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201803-001"
+  }
+}

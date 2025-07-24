@@ -1,0 +1,33 @@
+{
+  "Sold as": "Mescaline",
+  "Expected to be": "Mescaline, plant matter",
+  "Lab Comments": "Sample analyzed three times, same results.",
+  "Warning": "Not Available",
+  "Image": "16034.jpg",
+  "table data left": {
+    "ID": "16034",
+    "Name": "Brown Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "SW203",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Red Brown",
+    "Liebermann": "Yellow-Green",
+    "Froehde": "Purple - Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Mescaline\n\n\n: 12",
+      "Ketamine\n\n\n: 4 \n\nKetamine aka Ketalar, Ketaset",
+      "Cocaine\n\n\n: 1 \n\nCocaine aka Crack, Coca"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 08, 2023",
+    "Pub. Date": "May 08, 2023",
+    "Src Location": "MI",
+    "Submitter Loc": "Bloomington, INUnited States",
+    "Color": "Brown",
+    "Size": "50 mg, 18.53 mm x 6.61 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23040059"
+  }
+}

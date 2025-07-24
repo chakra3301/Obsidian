@@ -1,0 +1,30 @@
+{
+  "Sold as": "4-CMC",
+  "Expected to be": "4-CMC",
+  "Lab Comments": "The lab was not able to determine whether this is 4- or 3-CMC. The lab's current GC/MS techniques cannot differentiate between these positional isomers for this substance.",
+  "Warning": "Not Available",
+  "Image": "3986.jpg",
+  "table data left": {
+    "ID": "3986",
+    "Name": "4-CMC",
+    "Other Names": "ACJf4",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "4-CMC\n\n\n: 1 \n\n4-CMC aka 4-chloromethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2015",
+    "Pub. Date": "Nov 25, 2015",
+    "Src Location": "Amsterdam, \nNetherlands",
+    "Submitter Loc": "Amsterdam, --Netherlands",
+    "Color": "White",
+    "Size": "175 mg, 19.00 mm x 6.10 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20151100042"
+  }
+}

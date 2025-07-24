@@ -1,0 +1,31 @@
+{
+  "Sold as": "Adderall",
+  "Expected to be": "Methamphetamine",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14727.jpg",
+  "table data left": {
+    "ID": "14727",
+    "Name": "Fake Adderall",
+    "Other Names": "b974 + 30",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "313DT",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Yellow",
+    "Liebermann": "Orange",
+    "Froehde": "Light Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Methamphetamine\n\n\n: 1 \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 22, 2022",
+    "Pub. Date": "Nov 22, 2022",
+    "Src Location": "Detroit, MI",
+    "Submitter Loc": "Detroit, MIUnited States",
+    "Color": "Peach",
+    "Size": "420 mg, 12.20 mm x 9.82 mm x 4.69 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22100159"
+  }
+}

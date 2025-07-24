@@ -1,0 +1,28 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "17282.jpg",
+  "table data left": {
+    "ID": "17282",
+    "Name": "TRIP / 2BC",
+    "Other Names": "Rocket",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 4.10 mg\n\n2C-B aka Bees",
+      "Acetaminophen\n\n\n: 0.50 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 08, 2023",
+    "Pub. Date": "Oct 05, 2023",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "61.7 mg, 7.10 mm x 4.00 mm x 2.8 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:202309-67"
+  }
+}

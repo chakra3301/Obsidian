@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "MDMA",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty.ch issued a 'high dose ecstasy' warning because this tablet contains over 120mg of MDMA.",
+  "Image": "3971.jpg",
+  "table data left": {
+    "ID": "3971",
+    "Name": "Orange Dom Perrignon",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 185.40 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 13, 2015",
+    "Pub. Date": "Nov 24, 2015",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Orange",
+    "Size": "348.5 mg, 10.50 mm x 10.10 mm x 4.1 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201511-15"
+  }
+}

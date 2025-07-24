@@ -1,0 +1,31 @@
+{
+  "Sold as": "4-AcO-DMT",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "14856.jpg",
+  "table data left": {
+    "ID": "14856",
+    "Name": "Red Gummy",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "4-Acetoxy-DMT\n\n\n: 2 \n\n4-Acetoxy-DMT aka 4-AcO-DMT, O-Acetylpsilocin; Psilacetin, 4-acetoxy-N,N-dimethyltryptamine",
+      "Psilocin\n\n\n: 1 \n\nPsilocin aka 4-HO-DMT, 4-OH-DMT, psilocine, psilocyn, or psilotsin"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 30, 2022",
+    "Pub. Date": "Nov 30, 2022",
+    "Src Location": "Portland, OR",
+    "Submitter Loc": "Portland, ORUnited States",
+    "Color": "Red / Pink",
+    "Size": "-",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22110022"
+  }
+}

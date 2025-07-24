@@ -1,0 +1,30 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Phthalates, or phthalate esters, are not psychoactive.",
+  "Image": "2725.jpg",
+  "table data left": {
+    "ID": "2725",
+    "Name": "Milk Molly",
+    "Other Names": "61845",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Black / Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Dark Turquoise",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X",
+      "Phthalates\n\n\n: 1 \n\nPhthalates aka phthalate esters"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 21, 2013",
+    "Pub. Date": "Feb 21, 2013",
+    "Src Location": "Calgary, AB, \nCanada",
+    "Submitter Loc": "Calgary, ABCanada",
+    "Color": "Off White",
+    "Size": "73 mg",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20130200043"
+  }
+}

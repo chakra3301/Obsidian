@@ -1,0 +1,28 @@
+{
+  "Sold as": "Suboxone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Tested twice, limited sample (no visible powder)",
+  "Warning": "Not Available",
+  "Image": "8767.jpg",
+  "table data left": {
+    "ID": "8767",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020C023",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "None Detected\n\n\n: 1 \n\nNone Detected aka No Drugs Detected"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 28, 2020",
+    "Pub. Date": "Jul 28, 2020",
+    "Src Location": "Chicago, IL",
+    "Submitter Loc": "Chicago, ILUnited States",
+    "Color": "White",
+    "Size": "1 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20070055"
+  }
+}

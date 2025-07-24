@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty and raveitsafe issued an information alert because the tablet contains a drug other than MDMA and could be mistaken for an ecstasy/molly tablet. Light green Homer Simpson tablet, scored on reverse.",
+  "Image": "5445.jpg",
+  "table data left": {
+    "ID": "5445",
+    "Name": "Homer Simpson",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 8.70 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 07, 2017",
+    "Pub. Date": "Jun 13, 2017",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Green",
+    "Size": "10.30 x 11.30 x 4.4",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201706-7"
+  }
+}

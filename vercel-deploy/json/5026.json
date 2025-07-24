@@ -1,0 +1,27 @@
+{
+  "Sold as": "5-Methylethylone",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this powder contains a drug other than the one it was sold as.",
+  "Image": "5026.jpg",
+  "table data left": {
+    "ID": "5026",
+    "Name": "5-Methylethylone",
+    "Other Names": "5ME",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Pentylone\n\n\n  \n\nPentylone aka bk-MBDP"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 13, 2016",
+    "Pub. Date": "Dec 27, 2016",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201612-12"
+  }
+}

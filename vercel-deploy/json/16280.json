@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "DPT maybe?",
+  "Lab Comments": "Not Available",
+  "Warning": "Submitter note: 'I labeled this with a code (TR7) and I don't remember which tryptamine that corresponds to. Stored in freezer vacuum sealed w/ 1 oxygen absorber packet. Color is white and has not changed.'",
+  "Image": "16280.jpg",
+  "table data left": {
+    "ID": "16280",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "PNTR7",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Yellow-Brown",
+    "Liebermann": "Yellow-Green",
+    "Froehde": "Green Black",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "4-HO-MIPT\n\n\n: 1 \n\n4-HO-MIPT aka 4-hydroxy-N,N-methyl-isopropyltryptamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 30, 2023",
+    "Pub. Date": "May 30, 2023",
+    "Src Location": "Online, \nChina",
+    "Submitter Loc": "Denver, COUnited States",
+    "Color": "White / Off White",
+    "Size": "200 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23050068"
+  }
+}

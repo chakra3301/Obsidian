@@ -1,0 +1,32 @@
+{
+  "Sold as": "Heroin",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "This sample came in a non-standard format that required pre-approval before being tested.",
+  "Image": "8765.jpg",
+  "table data left": {
+    "ID": "8765",
+    "Name": "White Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2020B079",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "Fentanyl\n\n\n: 5",
+      "Lidocaine\n\n\n: 2",
+      "4-ANPP\n\n\n: 1 \n\n4-ANPP aka Despropionyl fentanyl; ANPP; 4-anilino-N-phenethylpiperidine",
+      "Tramadol\n\n\n: 1 \n\nTramadol aka Ultram",
+      "Phenethyl 4-ANPP\n\n\n: trace"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 21, 2020",
+    "Pub. Date": "Jul 21, 2020",
+    "Src Location": "Lynn, MA",
+    "Submitter Loc": "Lynn, MAUnited States",
+    "Color": "White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20070049"
+  }
+}

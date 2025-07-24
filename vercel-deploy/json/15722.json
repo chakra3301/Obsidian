@@ -1,0 +1,33 @@
+{
+  "Sold as": "Coke",
+  "Expected to be": "Coke + something",
+  "Lab Comments": "Not Available",
+  "Warning": "''Was like coke but had a slight mind/psychedelic effect 30 minutes in. Enjoyable.''",
+  "Image": "15722.jpg",
+  "table data left": {
+    "ID": "15722",
+    "Name": "Coke",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "BED13",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Pink-Orange",
+    "Liebermann": "Orange / Yellow",
+    "Froehde": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Cocaine\n\n\n: 170 \n\nCocaine aka Crack, Coca",
+      "Methylecgonidine\n\n\n: 10 \n\nMethylecgonidine aka Anhydroecgonine methyl ester; Methyl Ecgonidine; AEME",
+      "Tropacocaine\n\n\n: 1 \n\nTropacocaine aka tropacaine, benzoylpseudotropine, pseudotropine benzoate"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 24, 2023",
+    "Pub. Date": "Mar 24, 2023",
+    "Src Location": "New York, NY",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "White",
+    "Size": "50 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23020167"
+  }
+}

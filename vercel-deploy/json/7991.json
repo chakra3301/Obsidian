@@ -1,0 +1,32 @@
+{
+  "Sold as": "Alprazolam",
+  "Expected to be": "Etizolam, Alprazolam",
+  "Lab Comments": "Not Available",
+  "Warning": "Jun 17 2022: Sucrose octaacetate matched for the Unidentified. The DrugsData lab does not normally identify and report sugars. This version of sucrose is a bittering agent used in commercial products to reduce accidental ingestion. This is a special case, please do not ask us to identify simple sugars and salts.",
+  "Image": "7991.jpg",
+  "table data left": {
+    "ID": "7991",
+    "Name": "S903",
+    "Other Names": "Green Hulk",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "B1333",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Very Slight Change (yellow-green?)",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Etizolam\n\n\n: 1.50 \n\nEtizolam aka Etilaam, Etizest, Etizola, Sedekopan, Pasaden or Depas",
+      "Sucrose Octaacetate\n\n\n: 1.00 \n\nSucrose Octaacetate aka Bitterant"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Nov 25, 2019",
+    "Pub. Date": "Nov 25, 2019",
+    "Src Location": "Los Angeles, CA",
+    "Submitter Loc": "Denver, COUnited States",
+    "Color": "Green",
+    "Size": "330 mg, 15.80 mm x 4.70 mm x 3.64 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20191100035"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Methoxphenidine",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "The European drug checking group that analyzed this sample issued a warning because it contains a drug other than the one it was represented as. No image accompanies  warning.",
+  "Image": "Not Available",
+  "table data left": {
+    "ID": "7225",
+    "Name": "MXP",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Diphenidine\n\n\n  \n\nDiphenidine aka 1,2-DEP, DPD, DND"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Mar 31, 2019",
+    "Pub. Date": "Apr 04, 2019",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Unknown",
+    "Size": "-",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201904-001"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "Sold as": "Ecstasy",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an 'extreme high dose' warning because two samples of this tablet contained more than 200mg of MDMA (Tablet 1: 230.6 mg MDMA; Tablet 2: 226.7 mg MDMA). Tablet scored on reverse side.",
+  "Image": "5634.jpg",
+  "table data left": {
+    "ID": "5634",
+    "Name": "Rolls Royce",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 230.60 mg\n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 12, 2017",
+    "Pub. Date": "Aug 24, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Red / Pink",
+    "Size": "428.8 mg, 13.10 mm x 7.10 mm x 4.1 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201708-22"
+  }
+}

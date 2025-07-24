@@ -1,0 +1,33 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Spectrum has lots of small, busy, unknown peaks on the chromatogram.",
+  "Warning": "'Fell asleep after using but might have just been tired'.",
+  "Image": "17209.jpg",
+  "table data left": {
+    "ID": "17209",
+    "Name": "Peach Powder",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "AC2023B2611",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "Fentanyl Test Strip (FTS)": "Negative",
+    "Xylazine Test Strip": "Negative",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_10": [
+      "Gabapentin\n\n\n: 1"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 13, 2023",
+    "Pub. Date": "Sep 13, 2023",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "Peach / Off White",
+    "Size": "5 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23080153"
+  }
+}

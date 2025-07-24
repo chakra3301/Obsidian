@@ -1,0 +1,28 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued a 'high dose' caution because this tablet contains more than 120mg of MDMA, and 122.2mg of caffeine.",
+  "Image": "4962.jpg",
+  "table data left": {
+    "ID": "4962",
+    "Name": "Gold",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "MDMA\n\n\n: 166.10 mg\n\nMDMA aka Ecstasy, E, X",
+      "Caffeine\n\n\n: 122.20 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 06, 2016",
+    "Pub. Date": "Dec 09, 2016",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Yellow",
+    "Size": "344 mg, 10.10 mm x 6.10 mm x 4.7 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201612-6"
+  }
+}

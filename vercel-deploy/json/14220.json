@@ -1,0 +1,37 @@
+{
+  "Sold as": "Tusi",
+  "Expected to be": "Tusi",
+  "Lab Comments": "tested 2x",
+  "Warning": "Shares some similarities with other pink powders tested by DrugsData and other drug checking groups that were sold as ''Tusi'' or 2C-B.",
+  "Image": "14220.jpg",
+  "table data left": {
+    "ID": "14220",
+    "Name": "Tusi",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "MDE2C",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Green",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Blue-Purple",
+    "Froehde": "Blue Black",
+    "Liebermann": "Brown",
+    "Morris": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_11": [
+      "Ketamine\n\n\n: 9 \n\nKetamine aka Ketalar, Ketaset",
+      "Caffeine\n\n\n: 2",
+      "Ketamine Precursor A\n\n\n: 2 \n\nKetamine Precursor A aka Ketamine impurity A; 1-[(2-Chlorophenyl)(methylimino)methyl]cyclopentanol",
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 21, 2022",
+    "Pub. Date": "Sep 21, 2022",
+    "Src Location": "Online",
+    "Submitter Loc": "Los Angeles, CAUnited States",
+    "Color": "Red / Pink",
+    "Size": "100 mg",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22080241"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Sold as": "Unbekannt; Unknown",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "MDA Basecamp (Innsbruck, Austria), the European drug checking group that analyzed this sample, issued an information alert for it because of the following (from their notice):\n\n'Because the high fluid loss resulting from simultaneous consumption of amphetamine and caffeine increases the risk of dehydration, blood pressure and body temperature are elevated. Simultaneous consumption means a heavy burden on the cardiovascular system.'",
+  "Image": "6904.jpg",
+  "table data left": {
+    "ID": "6904",
+    "Name": "Stern",
+    "Other Names": "Star",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "Amphetamine\n\n\n: 24 mg\n\nAmphetamine aka dextro- and/or levo-amphetamine",
+      "Caffeine\n\n\n: 13 mg"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 21, 2018",
+    "Pub. Date": "Dec 24, 2018",
+    "Src Location": "Innsbruck, \nAustria",
+    "Submitter Loc": "Innsbruck, --Austria",
+    "Color": "Red / Pink",
+    "Size": "196.8 mg",
+    "Data Source": "Drogenarbeit Z6",
+    "Tested by": "GMI",
+    "Lab's ID": "MB:201812-4"
+  }
+}

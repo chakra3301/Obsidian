@@ -1,0 +1,28 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "The trace Methamphetamine was not confirmed.",
+  "Warning": "The Maryland State Police Forensic Sciences Division Laboratory (Pikesville, Maryland) recently received two separate submissions of green tablets containing glitter with a 'Waving Man' logo, suspected Ecstasy. The first submission consisted of 30 tablets (total net mass 8.1 grams), and were part of a polydrug seizure made by the Howard County Police from a individual in West Columbia. The second submission consisted of 10 tablets (total net mass 2.7 grams), and were part of a polydrug seizure also made by the Howard County Police, pursuant to a search and seizure warrant for suspected illicit drug activity at an apartment also in West Columbia. All of the tablets were well formed and did not crumble during handling. Analysis using a combination of color testing, FTIR/ATR, GC, and/or GC/MS confirmed MDMA, along with a small amount of niacinamide and trace methamphetamine (not confirmed). The MDMA was not quantitated but appeared to be above average based on the chromatograms and TICs. Other than minor variations in the percentages and relative ratios of the MDMA, niacinamide, and methamphetamine, the two sets of tablets were nearly identical in both appearance and chemical makeup. These are the first submissions of Ecstasy tablets containing glitter to the laboratory. No additional seizures of these tablets have been reported since these two submissions.",
+  "Image": "1726.jpg",
+  "table data left": {
+    "ID": "1726",
+    "Name": "waving man",
+    "Other Names": "",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_4": [
+      "Niacinamide\n\n\n: 1 \n\nNiacinamide aka Nicotinamide; Niacin",
+      "Methamphetamine\n\n\n: trace \n\nMethamphetamine aka Meth, Ice, Crank"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jun 01, 2007",
+    "Pub. Date": "Aug 26, 2009",
+    "Src Location": "West Columbia, MD",
+    "Submitter Loc": "West Columbia, MDUnited States",
+    "Color": "Green",
+    "Size": "8.00 x -",
+    "Data Source": "DEA",
+    "Tested by": "DEA",
+    "Lab's ID": "070600_01"
+  }
+}

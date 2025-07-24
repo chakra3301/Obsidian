@@ -1,0 +1,27 @@
+{
+  "Sold as": "MDMA",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issued an information alert because this powder, analyzed as 4-chloroethcathinone, was sold as a different drug (MDMA).",
+  "Image": "5050.jpg",
+  "table data left": {
+    "ID": "5050",
+    "Name": "MDMA",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-CEC\n\n\n: 1 \n\n4-CEC aka 4-Chloroethcathinone"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 06, 2017",
+    "Pub. Date": "Jan 15, 2017",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "White",
+    "Size": "-",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "DIZ",
+    "Lab's ID": "SP:201701-3"
+  }
+}

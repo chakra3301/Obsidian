@@ -1,0 +1,28 @@
+{
+  "Sold as": "LSA",
+  "Expected to be": "LSA",
+  "Lab Comments": "Not Available",
+  "Warning": "On 28th May 2016 a client of the drug-checking service in Pisa submitted a sample for examination, initially thinking it was LSA blotter (white paper with a pink spot in the middle of the blotter).\n\nThe sample was analysed using RAMAN Spectrometry and the result was Inconclusive. The sample was submitted to a colorimetric test by the drug checking group Infoshock. Analysis by UHPLC-MS/MS showed 1000�g 25B-NBOMe.",
+  "Image": "5446.jpg",
+  "table data left": {
+    "ID": "5446",
+    "Name": "LSA",
+    "Other Names": "Blotter",
+    "Ehrlich": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "25B-NBOMe\n\n\n: 1 \n\n25B-NBOMe aka 2CB-NBOMe"
+    ]
+  },
+  "table data right": {
+    "Test Date": "May 28, 2016",
+    "Pub. Date": "Jun 06, 2017",
+    "Src Location": "Pisa, \nItaly",
+    "Submitter Loc": "Pisa, --Italy",
+    "Color": "White / Red / Pink",
+    "Size": "-",
+    "Data Source": "BAONPS",
+    "Tested by": "CAD",
+    "Lab's ID": "BI-2016-A16005"
+  }
+}

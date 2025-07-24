@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "8697.jpg",
+  "table data left": {
+    "ID": "8697",
+    "Name": "1cP-LSD Blotter",
+    "Other Names": "halber Trip",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "1cP-LSD"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jul 07, 2020",
+    "Pub. Date": "Jul 10, 2020",
+    "Src Location": "Vienna, \nAustria",
+    "Submitter Loc": "Vienna, --Austria",
+    "Color": "White / Black",
+    "Size": "-",
+    "Data Source": "CheckIt!",
+    "Tested by": "CheckIt! Lab",
+    "Lab's ID": "CH:202007-11"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "Sold as": "Amphetamine Sulfate",
+  "Expected to be": "4-FA or  other euphoric substance",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "4176.jpg",
+  "table data left": {
+    "ID": "4176",
+    "Name": "Amphetamine",
+    "Other Names": "DR2CB",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange to Brown",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Light Green",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Caffeine\n\n\n: 5",
+      "Amphetamine\n\n\n: 1 \n\nAmphetamine aka dextro- and/or levo-amphetamine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 26, 2016",
+    "Pub. Date": "Feb 28, 2016",
+    "Src Location": "London, \nUnited Kingdom",
+    "Submitter Loc": "London, --United Kingdom",
+    "Color": "Red / Pink / White",
+    "Size": "154 mg, 22.10 mm x 7.30 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20160200048"
+  }
+}

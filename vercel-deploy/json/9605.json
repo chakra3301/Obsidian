@@ -1,0 +1,31 @@
+{
+  "Sold as": "Modafinil",
+  "Expected to be": "Modafinil",
+  "Lab Comments": "Not Available",
+  "Warning": "DrugsData is not allowed to provide quantitative results (e.g. milligram amounts) for samples it analyzes, because our lab is constrained by rules set by the US DEA. The tablet mass of 325 mg includes the mass of binders/fillers normally present in tablets.",
+  "Image": "9605.jpg",
+  "table data left": {
+    "ID": "9605",
+    "Name": "Modalert 200",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "07125",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Orange / Yellow (brown)",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Red with Yellow",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "Red Brown",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_8": [
+      "Modafinil\n\n\n: 1 \n\nModafinil aka Provigil, Modalert, Alertec"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 30, 2020",
+    "Pub. Date": "Dec 30, 2020",
+    "Src Location": "Online, \nIndia",
+    "Submitter Loc": "Austin, TXUnited States",
+    "Color": "White",
+    "Size": "325 mg, 10.10 mm x 3.40 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "20120120"
+  }
+}

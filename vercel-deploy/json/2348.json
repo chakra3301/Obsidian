@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Results consistent with the tablet label: E20. Sold as Tadalafil.",
+  "Image": "2348.jpg",
+  "table data left": {
+    "ID": "2348",
+    "Name": "Tadalafil",
+    "Other Names": "E20, Generic Cialis",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "Tadalafil\n\n\n: 1 \n\nTadalafil aka Cialis"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Dec 08, 2011",
+    "Pub. Date": "Dec 08, 2011",
+    "Src Location": "Columbus, OH",
+    "Submitter Loc": "Columbus, OHUnited States",
+    "Color": "White / Off White",
+    "Size": "348 mg, 12.40 mm x 37.70 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20111100137"
+  }
+}

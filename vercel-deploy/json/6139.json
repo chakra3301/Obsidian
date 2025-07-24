@@ -1,0 +1,27 @@
+{
+  "Sold as": "2C-B",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "raveitsafe/SaferParty issued an information alert because this powder is a drug other than 2C-B.",
+  "Image": "6139.jpg",
+  "table data left": {
+    "ID": "6139",
+    "Name": "2C-B",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "4-Acetoxy-MET\n\n\n  \n\n4-Acetoxy-MET aka 4-AcO-MET"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Apr 11, 2018",
+    "Pub. Date": "Apr 17, 2018",
+    "Src Location": "Bern, \nSwitzerland",
+    "Submitter Loc": "Bern, --Switzerland",
+    "Color": "Off White",
+    "Size": "-",
+    "Data Source": "rave it safe",
+    "Tested by": "DIB / DIB+",
+    "Lab's ID": "SP:201804-9"
+  }
+}

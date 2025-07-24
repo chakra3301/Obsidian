@@ -1,0 +1,32 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Although the lab was not immediately able to identify one of the substances in the tablet/caplet, this appears to be a probable nutritional supplement product of some kind because of the inclusion of stearic and palmitic acids. We will attempt to ID the substance.\n\nThe unidentified compound appears to be Triethyl citrate. See http://webbook.nist.gov/cgi/cbook.cgi?ID=C77930&Mask=200.",
+  "Image": "3234.jpg",
+  "table data left": {
+    "ID": "3234",
+    "Name": "Peach Caplet",
+    "Other Names": "SW12Z",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "No Reaction",
+    "Mandelin:The Mandelin Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mandelin is primarily used for the detection of ketamine and PMA. It is a mixture of ammonium metavanadate and concentrated sulfuric acid.": "No Reaction",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_7": [
+      "Stearic Acid\n\n\n: 8",
+      "Palmitic Acid\n\n\n: 5 \n\nPalmitic Acid aka hexadecanoic acid",
+      "Triethyl citrate\n\n\n: 1 \n\nTriethyl citrate aka Food Additive Ester of citric acid"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Aug 01, 2014",
+    "Pub. Date": "Aug 01, 2014",
+    "Src Location": "Milford, DE",
+    "Submitter Loc": "Milford, DEUnited States",
+    "Color": "Peach / Speckled",
+    "Size": "440 mg, 12.50 mm x 6.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20140700088"
+  }
+}

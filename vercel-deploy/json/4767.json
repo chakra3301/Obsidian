@@ -1,0 +1,27 @@
+{
+  "Sold as": "Not Specified",
+  "Expected to be": "Not Specified",
+  "Lab Comments": "Not Available",
+  "Warning": "SaferParty issues an informational caution because the tablet contains 2C-B instead of MDMA.",
+  "Image": "4767.jpg",
+  "table data left": {
+    "ID": "4767",
+    "Name": "Paul Frank Yellow",
+    "Other Names": "",
+    "HPLC:The HPLC Lab Test": "",
+    "list_4": [
+      "2C-B\n\n\n: 16 mg\n\n2C-B aka Bees"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Sep 17, 2016",
+    "Pub. Date": "Sep 28, 2016",
+    "Src Location": "Zurich, \nSwitzerland",
+    "Submitter Loc": "Zurich, --Switzerland",
+    "Color": "Yellow / Speckled",
+    "Size": "269.7 mg, 10.20 mm x 10.10 mm x 3.4 mm",
+    "Data Source": "SaferParty.ch",
+    "Tested by": "SaferParty.ch",
+    "Lab's ID": "SP:201609-8"
+  }
+}

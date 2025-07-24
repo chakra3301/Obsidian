@@ -1,0 +1,29 @@
+{
+  "Sold as": "Cannabis",
+  "Expected to be": "Laced with unknown chemicals",
+  "Lab Comments": "No synthetic cannabinoids detected. Δ-9-THC and CBD detected as major compounds, other natural cannabis compounds present.",
+  "Warning": "This sample was pre-approved. DrugsData has specific requirements for cannabis submissions and accepts cannabis by prior approval only. Please inquire at info (at) drugsdata (dot) org if you have a question about whether your cannabis sample is eligible for testing.",
+  "Image": "15528.jpg",
+  "table data left": {
+    "ID": "15528",
+    "Name": "OG Cannabis",
+    "Other Names": "",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "LOVE8V",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_5": [
+      "CBD\n\n\n: 1 \n\nCBD aka Cannabidiol",
+      "THC\n\n\n: 1 \n\nTHC aka delta-9-THC"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Feb 21, 2023",
+    "Pub. Date": "Feb 21, 2023",
+    "Src Location": "Charlotte, NC",
+    "Submitter Loc": "Charlotte, NCUnited States",
+    "Color": "Green / Brown",
+    "Size": "-",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "23010158"
+  }
+}

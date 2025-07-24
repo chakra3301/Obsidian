@@ -1,0 +1,32 @@
+{
+  "Sold as": "LSD",
+  "Expected to be": "LSD",
+  "Lab Comments": "Not Available",
+  "Warning": "Not Available",
+  "Image": "15298.jpg",
+  "table data left": {
+    "ID": "15298",
+    "Name": "LSD",
+    "Other Names": "Blotter",
+    "UniqueCode:Unique Lookup Code is an alphanumeric string created by the submitter and included with the sample so anonymously submitted samples can be positively identified as the submitter's sample.": "JFLS3",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "No Reaction",
+    "Liebermann": "No Reaction",
+    "Froehde": "No Reaction",
+    "Ehrlich": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_9": [
+      "LSD\n\n\n: 1 \n\nLSD aka Acid, Doses"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Jan 09, 2023",
+    "Pub. Date": "Jan 09, 2023",
+    "Src Location": "Online, Online",
+    "Submitter Loc": "Las Vegas, NVUnited States",
+    "Color": "Multicolor",
+    "Size": "20 mg, 6.30 mm x 6.25 mm",
+    "Data Source": "DrugsData",
+    "Tested by": "DDL",
+    "Lab's ID": "22120178"
+  }
+}

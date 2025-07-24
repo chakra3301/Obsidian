@@ -1,0 +1,29 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Sold as ecstasy, suspected to be MDMA+Meth, possibly BZP, mCPP,  TFMPP, etc. Pill has no name, just 'green pill'.",
+  "Image": "2632.jpg",
+  "table data left": {
+    "ID": "2632",
+    "Name": "Green Pill",
+    "Other Names": "2C156",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Purple",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Purple",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "5-APB\n\n\n: 1 \n\n5-APB aka 5-(2-aminopropyl)benzofuran; 1-benzofuran-5-ylpropan-2-amine"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 15, 2012",
+    "Pub. Date": "Oct 15, 2012",
+    "Src Location": "Boston, MA",
+    "Submitter Loc": "Boston, MAUnited States",
+    "Color": "Green",
+    "Size": "373 mg, 8.30 mm x 5.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20121000036"
+  }
+}

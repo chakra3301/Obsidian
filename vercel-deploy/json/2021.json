@@ -1,0 +1,31 @@
+{
+  "Sold as": "Not Available",
+  "Expected to be": "Not Available",
+  "Lab Comments": "Not Available",
+  "Warning": "Note with sample: Sold as ecstasy, suspected contents MDMA, BZP, TFMPP.",
+  "Image": "2021.jpg",
+  "table data left": {
+    "ID": "2021",
+    "Name": "Purple Starfish",
+    "Other Names": "",
+    "Marquis:The Marquis Test is a reagent field test conducted by placing a drop of reagent liquid onto a small sample of the material being tested. The chemicals in the reagent react differently with different chemicals, turning a variety of colors based on the what is in the material being tested.": "Light Blue",
+    "Mecke:As with the Marquis Test, The Mecke Test is a reagent field test conducted by placing a drop of liquid reagent onto a sample of the material in question. Mecke reagent is primarily used for the identification of heroin and other opiates.": "Light Blue",
+    "GC/MS:The GC/MS Lab Test": "",
+    "list_6": [
+      "TFMPP\n\n\n: 30",
+      "BZP\n\n\n: 10 \n\nBZP aka Benzoyl Peroxide",
+      "MDMA\n\n\n: 1 \n\nMDMA aka Ecstasy, E, X"
+    ]
+  },
+  "table data right": {
+    "Test Date": "Oct 29, 2010",
+    "Pub. Date": "Oct 29, 2010",
+    "Src Location": "Manchester, NH",
+    "Submitter Loc": "Manchester, NHUnited States",
+    "Color": "Purple / Blue",
+    "Size": "365 mg, 10.50 mm x 6.20 mm",
+    "Data Source": "DrugsData  (EcstasyData)",
+    "Tested by": "DDL",
+    "Lab's ID": "20101000083"
+  }
+}
